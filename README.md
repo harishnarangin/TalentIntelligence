@@ -79,3 +79,10 @@ git push -u origin main
 
 - The app currently does not depend on `pandas` at runtime, but it is included in `requirements.txt`.
 - The Streamlit app uses a lightweight rule-based knowledge graph reasoning approach over your CSV datasets.
+
+## Local runtime vs GitHub source
+
+- When you run the app locally with `streamlit run app.py`, it executes on your computer and loads CSV files from the local repository folder (for example `input/`).
+- The GitHub repository stores the code and dataset in source control, but it does not execute anything on your machine unless you clone it and run `app.py` locally.
+- If you deploy this repo to Streamlit Cloud or another hosting service, the app will run in the cloud from the repository contents instead of your local drive.
+- The current app code uses `TalentIntelligenceAgent.py` as the reasoning backend and is executed from the same repo folder when running locally.
