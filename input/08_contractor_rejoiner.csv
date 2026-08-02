@@ -1,0 +1,501 @@
+worker_id,full_name,worker_type,contractor_type,department,job_title,location,agency_vendor,engagement_start,engagement_end,contract_duration_months,hourly_rate,total_cost,project_name,previous_employee,rejoiner_reason,previous_tenure_years,converted_to_perm,compliance_cleared,manager_id,country
+CW00001,Ethan Perez,Contractor,Temp Agency,Marketing,Project Manager,Dallas,ProConsult,2025-07-17,2026-07-31,18,63.02,9852,Project Alpha,No,Restructure,2.3,Pending,Yes,MGR0013,Brazil
+CW00002,Carlos Sharma,Contractor,SOW Worker,Marketing,Specialist,Denver,None,2023-11-01,2025-09-24,23,197.26,393557,CX Revamp,No,Business Need,4.1,Pending,No,MGR0025,India
+CW00003,Chloe Hernandez,Rejoiner,Temp Agency,Sales,Specialist,Boston,FlexWork,2023-03-28,2024-02-09,12,165.96,273713,Project Alpha,Yes,Restructure,6.4,No,Yes,MGR0047,Brazil
+CW00004,Sofia Turner,Contractor,Contractor,Sales,Project Manager,Austin,GlobalTalent,2020-07-15,2021-12-03,2,55.58,225325,Cloud Migration,Yes,Restructure,9.9,Yes,No,MGR0032,India
+CW00005,Mei Martinez,Contractor,Consultant,Legal,Consultant,Austin,None,2023-05-19,2024-03-13,7,126.57,471869,Digital Transformation,Yes,Project-Based,4.3,Pending,No,MGR0046,USA
+CW00006,Nina Roberts,Rejoiner,Temp Agency,Legal,Analyst,Boston,DirectSource,2019-06-07,2020-03-19,8,88.06,434009,CX Revamp,Yes,Project-Based,9.2,Pending,Yes,MGR0044,Germany
+CW00007,Chris Okafor,Rejoiner,Consultant,Legal,Specialist,Boston,None,2024-12-08,2026-07-31,18,35.93,455853,Cloud Migration,No,Boomerang Employee,1.7,No,Yes,MGR0045,India
+CW00008,Aarav Martinez,Contractor,SOW Worker,Finance,Engineer,Austin,TechStaff Inc,2020-03-13,2020-06-07,11,103.64,374619,Project Alpha,Yes,Seasonal,1.0,No,No,MGR0018,UK
+CW00009,Carlos Roberts,Contractor,Freelancer,Sales,Specialist,Chicago,None,2020-04-29,2021-11-09,21,77.24,343319,Cloud Migration,No,Business Need,6.6,Yes,No,MGR0035,India
+CW00010,Emma Jackson,Rejoiner,Consultant,HR,Consultant,Remote,None,2020-02-29,2020-10-14,19,59.05,94301,Project Alpha,Yes,Boomerang Employee,1.6,No,Yes,MGR0048,USA
+CW00011,Liam Mitchell,Contractor,Consultant,Sales,Project Manager,Atlanta,DirectSource,2024-01-27,2025-01-20,10,139.74,255822,Project Alpha,Yes,Business Need,5.9,No,No,MGR0022,Canada
+CW00012,Marcus Clark,Contractor,Temp Agency,IT,Analyst,Seattle,GlobalTalent,2021-11-02,2022-07-21,4,144.38,297022,Project Beta,Yes,Seasonal,4.4,No,Yes,MGR0029,UK
+CW00013,Wei Garcia,Rejoiner,Contractor,HR,Consultant,San Francisco,DirectSource,2021-10-15,2022-05-01,23,107.81,105283,Project Beta,No,Project-Based,8.1,Yes,Yes,MGR0008,UK
+CW00014,Isabella Patel,Contractor,Freelancer,IT,Specialist,Seattle,DirectSource,2023-01-14,2024-06-09,18,138.5,421018,CX Revamp,No,Project-Based,2.0,Yes,Yes,MGR0012,Brazil
+CW00015,David Costa,Rejoiner,Freelancer,Engineering,Project Manager,Austin,ProConsult,2023-06-30,2024-05-08,1,119.44,126362,Digital Transformation,No,Business Need,1.5,Yes,No,MGR0035,Australia
+CW00016,James Green,Rejoiner,Consultant,Legal,Engineer,Denver,None,2024-04-18,2024-11-22,15,76.39,77667,Digital Transformation,No,Boomerang Employee,5.8,Yes,No,MGR0002,India
+CW00017,Soren Hall,Contractor,Freelancer,Operations,Specialist,New York,None,2025-07-06,2026-07-31,22,105.8,429015,Digital Transformation,No,Seasonal,9.0,Yes,No,MGR0036,India
+CW00018,Rohan Smith,Contractor,Freelancer,Product,Specialist,San Francisco,TechStaff Inc,2025-02-12,2026-01-26,8,74.76,272947,Project Beta,Yes,Project-Based,0.3,Pending,No,MGR0044,Australia
+CW00019,Ethan Mitchell,Rejoiner,SOW Worker,Customer Success,Specialist,San Francisco,FlexWork,2022-02-25,2023-01-03,20,31.3,357024,Digital Transformation,No,Boomerang Employee,6.1,Pending,Yes,MGR0029,USA
+CW00020,Leila Clark,Rejoiner,Consultant,Marketing,Analyst,Atlanta,None,2024-06-23,2024-07-26,19,49.51,264055,ERP Implementation,No,Restructure,4.1,Pending,No,MGR0039,Brazil
+CW00021,Amara Turner,Rejoiner,Freelancer,Customer Success,Project Manager,Remote,None,2023-06-04,2024-05-08,20,54.08,358239,Digital Transformation,No,Project-Based,5.4,No,Yes,MGR0047,UK
+CW00022,Soren Green,Contractor,SOW Worker,Finance,Engineer,Denver,DirectSource,2019-04-29,2021-03-27,2,51.88,199581,ERP Implementation,No,Project-Based,8.8,Yes,No,MGR0005,Canada
+CW00023,Fatima Scott,Rejoiner,Freelancer,Engineering,Analyst,Atlanta,DirectSource,2020-04-25,2021-06-07,12,186.29,278267,ERP Implementation,Yes,Project-Based,10.0,No,Yes,MGR0011,UK
+CW00024,James Hernandez,Contractor,Temp Agency,HR,Consultant,Remote,FlexWork,2019-10-08,2020-07-12,7,40.07,483769,ERP Implementation,Yes,Seasonal,9.5,Yes,No,MGR0012,Brazil
+CW00025,David Nakamura,Rejoiner,SOW Worker,Customer Success,Analyst,Remote,FlexWork,2024-05-15,2024-06-26,6,148.65,410216,Project Alpha,Yes,Project-Based,5.6,Yes,No,MGR0004,UK
+CW00026,Soren Roberts,Contractor,Consultant,Engineering,Analyst,Austin,None,2024-01-02,2024-11-14,5,102.55,415564,ERP Implementation,Yes,Seasonal,2.5,Yes,No,MGR0005,Germany
+CW00027,Elena Clark,Contractor,SOW Worker,IT,Engineer,Atlanta,TechStaff Inc,2022-02-15,2024-01-28,6,47.46,120673,ERP Implementation,No,Boomerang Employee,5.4,Yes,Yes,MGR0029,India
+CW00028,Priya Ahmed,Contractor,Temp Agency,Sales,Consultant,San Francisco,DirectSource,2020-05-13,2020-06-19,23,160.92,150704,Data Platform,No,Boomerang Employee,4.7,Yes,Yes,MGR0032,USA
+CW00029,Chris Nguyen,Contractor,Contractor,Engineering,Consultant,Dallas,TechStaff Inc,2019-04-30,2021-01-16,20,168.14,386399,Project Beta,No,Boomerang Employee,4.3,No,No,MGR0036,USA
+CW00030,Fatima Young,Rejoiner,Contractor,HR,Project Manager,Dallas,None,2022-03-12,2023-04-23,8,103.88,474350,ERP Implementation,Yes,Seasonal,3.9,Yes,No,MGR0031,India
+CW00031,Isabella White,Contractor,Contractor,Finance,Analyst,Dallas,None,2024-10-19,2024-12-20,21,170.48,367928,ERP Implementation,No,Business Need,5.1,Yes,Yes,MGR0015,Australia
+CW00032,James Patel,Contractor,Consultant,Product,Consultant,Atlanta,TechStaff Inc,2020-02-28,2022-02-03,11,79.25,356592,Data Platform,No,Seasonal,4.6,No,Yes,MGR0006,UK
+CW00033,Rohan Ferreira,Rejoiner,SOW Worker,IT,Specialist,Denver,TechStaff Inc,2021-11-04,2023-06-15,11,111.43,158090,Project Beta,No,Seasonal,9.4,No,Yes,MGR0011,Brazil
+CW00034,Olivia Sharma,Contractor,Temp Agency,Data Science,Analyst,Dallas,ProConsult,2024-08-14,2025-05-16,17,41.43,98561,Digital Transformation,Yes,Restructure,6.9,Yes,Yes,MGR0007,UK
+CW00035,Aarav Garcia,Rejoiner,SOW Worker,Customer Success,Engineer,Remote,ProConsult,2020-03-12,2022-03-04,3,147.59,446086,ERP Implementation,No,Seasonal,3.2,Yes,Yes,MGR0043,UK
+CW00036,Liam Thomas,Contractor,Contractor,Operations,Consultant,New York,GlobalTalent,2024-11-16,2026-07-31,21,103.68,268705,CX Revamp,Yes,Business Need,0.7,Pending,Yes,MGR0005,Germany
+CW00037,Rohan Garcia,Rejoiner,Freelancer,IT,Engineer,Austin,TechStaff Inc,2024-02-03,2025-06-09,8,163.82,350204,CX Revamp,No,Seasonal,9.8,Yes,Yes,MGR0044,Australia
+CW00038,Nadia Nakamura,Rejoiner,Freelancer,Sales,Engineer,San Francisco,DirectSource,2020-06-03,2022-01-09,19,76.66,339287,CX Revamp,No,Seasonal,8.8,Pending,Yes,MGR0046,Canada
+CW00039,Ingrid Harris,Contractor,Contractor,Data Science,Engineer,San Francisco,ProConsult,2019-09-26,2020-12-12,24,35.1,59743,Project Beta,No,Seasonal,4.0,Pending,No,MGR0023,Canada
+CW00040,Liam Chen,Contractor,Freelancer,Marketing,Analyst,Denver,DirectSource,2023-06-30,2023-11-30,1,188.1,377998,Cloud Migration,No,Business Need,1.9,No,Yes,MGR0044,Australia
+CW00041,Noah Sharma,Rejoiner,Contractor,Design,Analyst,New York,None,2022-03-20,2022-08-25,24,193.16,168542,Cloud Migration,No,Business Need,2.8,Pending,Yes,MGR0043,Germany
+CW00042,Liam Smith,Contractor,Consultant,IT,Engineer,Atlanta,GlobalTalent,2019-07-25,2021-03-24,20,122.53,297392,Cloud Migration,No,Boomerang Employee,1.7,Yes,Yes,MGR0004,Germany
+CW00043,Tariq Andersen,Rejoiner,Contractor,IT,Engineer,New York,FlexWork,2019-12-26,2021-08-29,22,76.24,95915,ERP Implementation,No,Boomerang Employee,6.7,No,No,MGR0025,India
+CW00044,Nina Nguyen,Rejoiner,SOW Worker,Sales,Consultant,Austin,ProConsult,2022-04-12,2023-03-17,13,145.86,449140,ERP Implementation,Yes,Boomerang Employee,0.5,Yes,No,MGR0042,India
+CW00045,Wei Taylor,Rejoiner,Temp Agency,Legal,Specialist,San Francisco,None,2019-09-28,2020-08-15,13,181.83,322740,Digital Transformation,No,Business Need,2.6,Yes,No,MGR0027,Australia
+CW00046,Lucas Müller,Contractor,Temp Agency,Marketing,Analyst,Chicago,GlobalTalent,2019-09-10,2019-10-14,1,131.73,316682,ERP Implementation,Yes,Restructure,4.0,Yes,No,MGR0032,UK
+CW00047,Noah Nakamura,Contractor,Temp Agency,Customer Success,Analyst,San Francisco,DirectSource,2022-03-31,2023-03-11,13,169.64,367533,CX Revamp,Yes,Restructure,5.0,Pending,Yes,MGR0001,USA
+CW00048,Yuki Brown,Contractor,Temp Agency,Product,Analyst,San Francisco,FlexWork,2019-07-27,2020-06-13,17,117.7,405956,Cloud Migration,Yes,Boomerang Employee,6.5,Yes,Yes,MGR0002,Brazil
+CW00049,Omar Ali,Rejoiner,Consultant,IT,Specialist,Boston,None,2021-01-12,2021-11-26,1,59.54,249876,Data Platform,No,Project-Based,6.8,No,Yes,MGR0032,UK
+CW00050,Raj Young,Contractor,Contractor,HR,Consultant,Denver,DirectSource,2019-10-30,2021-05-12,9,45.13,403380,ERP Implementation,No,Project-Based,9.1,Pending,Yes,MGR0007,Australia
+CW00051,Mei Baker,Contractor,Contractor,Design,Project Manager,Boston,FlexWork,2024-06-24,2026-05-02,3,177.21,298070,ERP Implementation,Yes,Business Need,5.9,Pending,No,MGR0013,UK
+CW00052,Layla Walker,Contractor,Consultant,Finance,Consultant,Chicago,DirectSource,2021-09-05,2022-02-01,11,142.49,317007,Project Beta,No,Seasonal,3.5,No,No,MGR0028,UK
+CW00053,Tyler Hernandez,Contractor,SOW Worker,Design,Engineer,San Francisco,None,2022-07-29,2024-06-04,7,185.84,405287,Data Platform,No,Restructure,9.8,Yes,Yes,MGR0001,UK
+CW00054,Lucas Taylor,Contractor,Contractor,Sales,Project Manager,San Francisco,None,2020-04-19,2021-07-15,10,166.6,234254,Project Beta,Yes,Boomerang Employee,0.6,Yes,Yes,MGR0042,Brazil
+CW00055,Tariq Williams,Contractor,Temp Agency,Engineering,Specialist,Remote,GlobalTalent,2021-07-01,2023-03-23,11,194.39,78547,CX Revamp,No,Restructure,0.1,Yes,Yes,MGR0034,Germany
+CW00056,Maria Carter,Contractor,Temp Agency,Sales,Engineer,Austin,ProConsult,2019-06-23,2020-02-03,3,166.3,83252,ERP Implementation,Yes,Project-Based,4.6,Pending,Yes,MGR0050,Canada
+CW00057,Aarav Ivanov,Contractor,Temp Agency,Operations,Analyst,Chicago,GlobalTalent,2019-02-22,2020-03-30,22,181.02,436901,Digital Transformation,Yes,Business Need,2.2,No,No,MGR0033,UK
+CW00058,Sara Johnson,Contractor,Freelancer,HR,Specialist,New York,ProConsult,2023-02-01,2023-06-15,4,169.46,133501,Cloud Migration,No,Business Need,5.6,Yes,Yes,MGR0019,Australia
+CW00059,Emma Brown,Rejoiner,SOW Worker,Finance,Project Manager,Atlanta,DirectSource,2022-08-28,2023-07-02,10,181.73,121186,Cloud Migration,No,Business Need,0.4,Yes,No,MGR0050,Germany
+CW00060,Ethan White,Contractor,Temp Agency,Product,Project Manager,San Francisco,ProConsult,2022-02-13,2023-09-01,17,42.29,378253,CX Revamp,Yes,Project-Based,7.8,Yes,No,MGR0032,Australia
+CW00061,Leila Brown,Contractor,Consultant,Legal,Project Manager,Seattle,FlexWork,2020-02-18,2020-07-09,13,137.25,59375,Project Alpha,Yes,Business Need,4.5,Pending,No,MGR0005,Germany
+CW00062,Jasmine Nelson,Contractor,Temp Agency,Engineering,Consultant,Chicago,DirectSource,2020-12-30,2022-09-26,14,129.08,336220,Cloud Migration,Yes,Seasonal,4.4,Yes,No,MGR0014,USA
+CW00063,Sara Okafor,Contractor,Contractor,HR,Consultant,Austin,FlexWork,2024-05-13,2024-06-20,6,184.56,148493,Data Platform,No,Restructure,3.8,Yes,No,MGR0032,India
+CW00064,Jasmine Turner,Rejoiner,Consultant,HR,Engineer,San Francisco,FlexWork,2022-06-29,2024-01-21,6,78.99,409443,Project Alpha,No,Project-Based,2.5,Yes,No,MGR0003,Germany
+CW00065,Diego Turner,Rejoiner,Consultant,HR,Consultant,New York,GlobalTalent,2021-06-25,2022-03-17,7,101.76,471339,ERP Implementation,No,Project-Based,0.9,Yes,No,MGR0010,India
+CW00066,Diego Martinez,Rejoiner,Contractor,Product,Project Manager,Denver,DirectSource,2019-01-21,2020-10-22,3,37.34,363323,Project Alpha,No,Boomerang Employee,6.0,Yes,No,MGR0009,Germany
+CW00067,Nadia Roberts,Contractor,SOW Worker,HR,Project Manager,Denver,FlexWork,2025-06-13,2026-07-31,8,131.68,98031,ERP Implementation,Yes,Boomerang Employee,6.4,Yes,Yes,MGR0011,Canada
+CW00068,Sofia Ali,Contractor,Contractor,Product,Consultant,Chicago,TechStaff Inc,2024-08-26,2024-12-22,16,42.39,456157,ERP Implementation,Yes,Business Need,4.1,Yes,No,MGR0047,Brazil
+CW00069,Mei King,Contractor,Temp Agency,IT,Specialist,Seattle,TechStaff Inc,2022-05-23,2023-08-29,10,155.96,96956,Cloud Migration,Yes,Business Need,3.4,No,Yes,MGR0008,Germany
+CW00070,Wei Ahmed,Contractor,Consultant,Sales,Project Manager,San Francisco,None,2022-03-21,2022-10-20,19,129.7,347994,Cloud Migration,No,Restructure,6.1,Yes,Yes,MGR0044,USA
+CW00071,Amir King,Contractor,SOW Worker,HR,Project Manager,Boston,FlexWork,2023-09-24,2025-08-02,5,68.16,446371,ERP Implementation,Yes,Boomerang Employee,9.7,Pending,No,MGR0035,UK
+CW00072,Emma Ferreira,Rejoiner,Consultant,Data Science,Specialist,Seattle,DirectSource,2019-07-26,2020-08-23,13,43.65,208709,Cloud Migration,Yes,Seasonal,1.8,No,Yes,MGR0019,UK
+CW00073,Elena Ferreira,Contractor,Contractor,IT,Project Manager,Austin,TechStaff Inc,2025-01-17,2025-05-12,22,193.17,57371,Cloud Migration,No,Restructure,7.2,Pending,Yes,MGR0009,Brazil
+CW00074,Kevin Singh,Contractor,Freelancer,HR,Engineer,Seattle,DirectSource,2023-07-16,2024-06-06,1,89.54,400817,Data Platform,Yes,Project-Based,5.0,Yes,Yes,MGR0048,Canada
+CW00075,Maria Jackson,Rejoiner,Temp Agency,Marketing,Engineer,Atlanta,DirectSource,2023-03-14,2024-05-01,4,193.09,367267,Project Beta,No,Seasonal,5.2,No,Yes,MGR0045,Brazil
+CW00076,Arjun Martinez,Rejoiner,Contractor,Sales,Analyst,Denver,DirectSource,2025-04-09,2026-07-15,13,189.3,488563,ERP Implementation,Yes,Restructure,3.1,Pending,No,MGR0046,USA
+CW00077,Hassan Turner,Contractor,Freelancer,Engineering,Consultant,New York,None,2023-11-05,2025-08-23,6,150.47,261786,Cloud Migration,Yes,Restructure,3.9,No,Yes,MGR0050,UK
+CW00078,Chris Müller,Contractor,Contractor,Finance,Specialist,New York,GlobalTalent,2022-12-15,2023-05-19,23,126.99,368264,Project Alpha,No,Project-Based,7.2,No,No,MGR0013,India
+CW00079,Hannah Robinson,Contractor,Freelancer,Legal,Specialist,New York,DirectSource,2022-08-31,2023-07-08,23,83.27,149001,Project Beta,No,Boomerang Employee,9.1,Yes,Yes,MGR0021,Canada
+CW00080,Tariq Young,Contractor,Contractor,Engineering,Consultant,Atlanta,None,2025-06-16,2026-05-08,18,168.58,458284,Project Beta,Yes,Restructure,8.9,No,No,MGR0045,Brazil
+CW00081,Maria Patel,Rejoiner,Temp Agency,Customer Success,Analyst,Chicago,ProConsult,2024-04-17,2026-02-18,9,66.98,46686,Data Platform,Yes,Boomerang Employee,4.2,Yes,No,MGR0003,Canada
+CW00082,Raj Harris,Rejoiner,SOW Worker,Legal,Project Manager,San Francisco,None,2022-09-07,2023-04-08,2,47.77,461341,Digital Transformation,Yes,Project-Based,1.6,Pending,Yes,MGR0025,Brazil
+CW00083,Carlos Scott,Rejoiner,Consultant,Operations,Consultant,Boston,DirectSource,2023-07-31,2024-11-23,5,116.32,105969,Cloud Migration,Yes,Boomerang Employee,4.4,No,No,MGR0037,India
+CW00084,Ingrid Wright,Contractor,Freelancer,Finance,Analyst,Chicago,GlobalTalent,2024-01-06,2024-06-03,15,129.71,153164,CX Revamp,No,Boomerang Employee,2.4,Pending,Yes,MGR0044,Canada
+CW00085,Raj Wright,Contractor,Freelancer,Engineering,Specialist,Chicago,TechStaff Inc,2021-04-19,2022-04-01,9,155.62,79019,Project Alpha,No,Seasonal,3.0,Yes,No,MGR0012,UK
+CW00086,Chris Nelson,Rejoiner,Consultant,Design,Engineer,San Francisco,FlexWork,2023-07-11,2023-08-30,7,186.59,6549,Data Platform,Yes,Seasonal,2.2,No,No,MGR0007,USA
+CW00087,Arjun Martinez,Rejoiner,Freelancer,Finance,Project Manager,Atlanta,None,2021-05-10,2022-06-24,2,50.33,164938,Data Platform,Yes,Business Need,7.5,Pending,Yes,MGR0045,Brazil
+CW00088,Amir Adams,Contractor,Contractor,Finance,Engineer,Atlanta,GlobalTalent,2025-05-11,2026-06-16,15,75.82,10751,CX Revamp,Yes,Boomerang Employee,1.6,Yes,Yes,MGR0043,USA
+CW00089,Andre Chen,Contractor,Temp Agency,Design,Project Manager,Dallas,TechStaff Inc,2019-04-17,2021-02-13,5,123.65,367150,ERP Implementation,Yes,Business Need,0.4,No,No,MGR0002,Germany
+CW00090,Nina Adams,Contractor,Temp Agency,Product,Consultant,Remote,None,2022-12-16,2023-10-13,13,61.65,42964,Project Beta,Yes,Boomerang Employee,1.0,Pending,Yes,MGR0035,USA
+CW00091,Aisha Jackson,Contractor,Contractor,Product,Engineer,New York,TechStaff Inc,2025-04-22,2025-11-01,15,41.87,128439,Digital Transformation,No,Boomerang Employee,7.3,Yes,No,MGR0019,India
+CW00092,Chloe Taylor,Contractor,Contractor,Finance,Analyst,New York,GlobalTalent,2023-11-10,2025-01-23,17,33.1,135019,ERP Implementation,Yes,Seasonal,7.6,Pending,No,MGR0003,USA
+CW00093,Elena Martinez,Contractor,Consultant,Design,Project Manager,Boston,TechStaff Inc,2025-04-14,2026-07-31,18,149.86,298575,Project Alpha,Yes,Project-Based,9.7,Yes,Yes,MGR0012,Brazil
+CW00094,Wei Young,Contractor,Temp Agency,Customer Success,Engineer,Denver,ProConsult,2020-09-11,2021-02-17,12,119.0,230133,Project Beta,No,Project-Based,6.6,Pending,No,MGR0013,Germany
+CW00095,Ingrid Roberts,Rejoiner,SOW Worker,Design,Analyst,Boston,FlexWork,2024-09-19,2025-09-21,4,40.59,443323,Project Alpha,Yes,Restructure,0.0,Pending,Yes,MGR0021,Canada
+CW00096,Marcus Turner,Contractor,Contractor,Operations,Engineer,Seattle,TechStaff Inc,2024-04-11,2025-12-21,8,150.1,128288,ERP Implementation,No,Boomerang Employee,5.0,No,No,MGR0006,Canada
+CW00097,Kevin Smith,Rejoiner,Temp Agency,Design,Specialist,Atlanta,GlobalTalent,2019-12-02,2021-04-20,15,32.43,145692,Project Alpha,Yes,Project-Based,9.7,Yes,No,MGR0033,Brazil
+CW00098,Layla Chen,Contractor,Freelancer,Product,Engineer,Boston,FlexWork,2024-01-22,2025-12-28,8,113.42,10026,Project Alpha,Yes,Project-Based,1.2,Yes,Yes,MGR0035,Brazil
+CW00099,Mia Scott,Rejoiner,Consultant,Legal,Engineer,Chicago,FlexWork,2019-09-14,2020-10-07,24,161.43,360189,Data Platform,No,Seasonal,4.6,Yes,Yes,MGR0042,Canada
+CW00100,Zara Costa,Contractor,Freelancer,Data Science,Engineer,Dallas,DirectSource,2020-10-25,2022-02-05,14,155.66,216160,Digital Transformation,No,Project-Based,9.3,Yes,No,MGR0044,UK
+CW00101,Zara King,Contractor,Freelancer,Engineering,Specialist,Remote,None,2024-03-01,2024-10-13,13,86.5,405731,ERP Implementation,No,Project-Based,0.4,No,Yes,MGR0044,USA
+CW00102,Ingrid Ali,Contractor,SOW Worker,Engineering,Specialist,Atlanta,DirectSource,2023-06-10,2023-11-05,1,76.75,298388,ERP Implementation,No,Project-Based,8.1,Pending,No,MGR0013,Australia
+CW00103,Emma Roberts,Rejoiner,Consultant,Customer Success,Engineer,Chicago,TechStaff Inc,2020-09-04,2022-04-05,18,143.34,476606,CX Revamp,Yes,Project-Based,3.7,Pending,No,MGR0006,UK
+CW00104,Emma Adams,Contractor,Consultant,Design,Specialist,Seattle,FlexWork,2020-12-04,2022-02-14,13,39.88,368296,Digital Transformation,No,Project-Based,2.5,Yes,No,MGR0047,Australia
+CW00105,Sara Wilson,Rejoiner,SOW Worker,Design,Analyst,Boston,None,2021-07-14,2022-05-25,4,91.19,265251,Project Alpha,No,Project-Based,7.8,Yes,No,MGR0023,India
+CW00106,Amara Turner,Rejoiner,Consultant,HR,Consultant,Denver,FlexWork,2019-06-09,2020-07-20,15,161.67,82071,Cloud Migration,Yes,Project-Based,7.6,Yes,No,MGR0023,Germany
+CW00107,Soren Jackson,Contractor,Freelancer,Legal,Analyst,Dallas,TechStaff Inc,2022-09-24,2022-10-28,18,84.78,433694,ERP Implementation,Yes,Business Need,3.1,Pending,Yes,MGR0018,USA
+CW00108,David Wilson,Rejoiner,Freelancer,Finance,Engineer,Austin,DirectSource,2023-06-06,2023-07-11,16,99.23,298772,Project Beta,No,Project-Based,7.4,Pending,No,MGR0030,Brazil
+CW00109,Soren King,Rejoiner,Freelancer,Design,Project Manager,Boston,TechStaff Inc,2022-01-07,2023-03-21,15,143.85,421543,Project Alpha,No,Project-Based,9.6,No,No,MGR0042,UK
+CW00110,Rohan King,Rejoiner,Temp Agency,Design,Analyst,New York,FlexWork,2020-09-09,2021-01-02,12,142.57,428261,Digital Transformation,Yes,Boomerang Employee,9.6,No,No,MGR0007,Australia
+CW00111,Hannah Turner,Contractor,Contractor,Data Science,Specialist,Remote,TechStaff Inc,2020-12-18,2021-02-05,17,193.92,435780,Data Platform,Yes,Project-Based,1.1,Pending,No,MGR0025,Australia
+CW00112,Sophia Nguyen,Rejoiner,SOW Worker,Legal,Engineer,Remote,ProConsult,2023-03-11,2023-10-03,22,65.27,6679,CX Revamp,No,Boomerang Employee,9.0,No,Yes,MGR0015,India
+CW00113,Aarav Lewis,Rejoiner,Consultant,Operations,Consultant,Denver,FlexWork,2024-07-17,2025-01-22,6,69.62,289075,Data Platform,No,Business Need,9.4,Pending,Yes,MGR0022,USA
+CW00114,Aisha Smith,Contractor,Consultant,IT,Consultant,Remote,None,2024-05-03,2025-09-18,11,51.78,118438,ERP Implementation,No,Seasonal,5.8,No,Yes,MGR0006,UK
+CW00115,Mia Thomas,Contractor,SOW Worker,Product,Consultant,Atlanta,None,2019-12-22,2020-11-03,2,135.06,208453,CX Revamp,Yes,Boomerang Employee,3.0,Yes,Yes,MGR0006,Germany
+CW00116,Sofia Garcia,Contractor,Freelancer,Legal,Engineer,Chicago,FlexWork,2023-11-28,2024-11-05,2,99.58,436300,Project Beta,No,Boomerang Employee,4.2,No,No,MGR0020,Canada
+CW00117,Jasmine Wilson,Rejoiner,SOW Worker,Engineering,Engineer,San Francisco,TechStaff Inc,2019-06-17,2019-08-30,23,85.95,64035,Project Alpha,Yes,Seasonal,7.2,No,Yes,MGR0013,Germany
+CW00118,Jasmine Thomas,Contractor,Temp Agency,HR,Project Manager,Chicago,None,2023-07-21,2025-07-02,12,124.04,230415,Digital Transformation,No,Restructure,7.1,Yes,No,MGR0035,Australia
+CW00119,Ingrid Taylor,Contractor,Freelancer,Legal,Engineer,Boston,None,2022-09-03,2023-05-21,1,146.99,236595,Data Platform,No,Boomerang Employee,5.6,Yes,Yes,MGR0002,Australia
+CW00120,Arjun Carter,Rejoiner,Consultant,IT,Consultant,Denver,ProConsult,2023-12-05,2024-03-23,24,45.83,261308,ERP Implementation,Yes,Boomerang Employee,5.7,Pending,No,MGR0014,USA
+CW00121,Sofia White,Contractor,Freelancer,IT,Engineer,Remote,DirectSource,2024-08-23,2025-02-14,17,50.0,78849,Data Platform,Yes,Seasonal,7.4,Pending,Yes,MGR0043,India
+CW00122,Jasmine Martinez,Rejoiner,Contractor,IT,Consultant,Denver,TechStaff Inc,2021-04-21,2021-05-25,16,124.16,178445,Project Alpha,Yes,Project-Based,7.2,Pending,No,MGR0024,USA
+CW00123,Aisha Patel,Contractor,Freelancer,Engineering,Specialist,Dallas,GlobalTalent,2022-01-15,2022-06-13,6,97.12,93497,Project Beta,Yes,Restructure,9.1,No,No,MGR0043,India
+CW00124,Zara Ahmed,Contractor,Contractor,Design,Specialist,Dallas,FlexWork,2025-07-10,2026-07-31,2,123.39,270734,CX Revamp,Yes,Boomerang Employee,8.4,Yes,Yes,MGR0023,India
+CW00125,Isabella Lewis,Contractor,Freelancer,Sales,Engineer,Boston,FlexWork,2020-10-03,2021-05-20,15,73.06,494217,Cloud Migration,Yes,Seasonal,4.2,Pending,No,MGR0047,USA
+CW00126,Marcus Lee,Rejoiner,Consultant,Product,Analyst,San Francisco,FlexWork,2024-08-04,2024-11-16,16,73.54,132832,Digital Transformation,Yes,Seasonal,0.1,Yes,No,MGR0033,USA
+CW00127,Sophia Costa,Contractor,Temp Agency,Product,Analyst,Denver,GlobalTalent,2021-05-23,2022-12-16,8,76.61,264848,Digital Transformation,No,Restructure,0.2,Yes,Yes,MGR0018,Brazil
+CW00128,Yuki Martinez,Rejoiner,Contractor,Customer Success,Project Manager,Denver,TechStaff Inc,2023-11-06,2024-02-23,13,34.29,497254,Project Beta,Yes,Boomerang Employee,5.1,Pending,No,MGR0003,Germany
+CW00129,Fatima Turner,Contractor,Temp Agency,Design,Project Manager,San Francisco,None,2022-10-16,2023-03-13,21,161.86,329747,Project Alpha,Yes,Business Need,7.2,Pending,No,MGR0050,USA
+CW00130,Diego Kim,Contractor,SOW Worker,Design,Specialist,Denver,TechStaff Inc,2019-09-02,2021-04-11,4,124.52,91776,Data Platform,Yes,Business Need,0.2,Yes,Yes,MGR0037,India
+CW00131,Chris Nelson,Contractor,Contractor,Data Science,Engineer,Boston,FlexWork,2025-04-04,2026-03-19,4,61.14,37853,Digital Transformation,No,Seasonal,0.0,Yes,Yes,MGR0001,USA
+CW00132,Hannah Harris,Contractor,Temp Agency,Sales,Engineer,San Francisco,None,2021-01-19,2021-03-31,8,179.82,205970,Project Beta,Yes,Restructure,5.4,Pending,Yes,MGR0033,Canada
+CW00133,James Perez,Contractor,SOW Worker,Finance,Consultant,Dallas,DirectSource,2021-04-21,2022-05-04,14,130.53,149073,Digital Transformation,Yes,Seasonal,5.0,No,No,MGR0043,USA
+CW00134,Diego Ivanov,Contractor,Temp Agency,Marketing,Project Manager,Chicago,TechStaff Inc,2024-12-26,2026-07-31,23,116.57,229224,CX Revamp,Yes,Business Need,1.9,Pending,No,MGR0044,USA
+CW00135,Fatima Müller,Rejoiner,Contractor,Legal,Specialist,New York,GlobalTalent,2020-03-19,2020-11-29,8,193.94,241425,CX Revamp,Yes,Project-Based,6.7,Pending,No,MGR0006,Brazil
+CW00136,Raj Roberts,Rejoiner,Consultant,Data Science,Analyst,Austin,GlobalTalent,2022-10-17,2023-09-14,3,86.28,255287,Digital Transformation,Yes,Business Need,2.6,Pending,No,MGR0008,Brazil
+CW00137,Soren Perez,Contractor,Contractor,Product,Specialist,San Francisco,GlobalTalent,2023-08-13,2024-04-02,6,50.08,235349,Digital Transformation,Yes,Restructure,7.6,Yes,No,MGR0019,Germany
+CW00138,Ananya Mitchell,Contractor,SOW Worker,Marketing,Engineer,Atlanta,FlexWork,2024-08-06,2026-06-26,2,139.06,441372,ERP Implementation,No,Project-Based,6.2,Yes,No,MGR0013,Brazil
+CW00139,Chloe Nelson,Contractor,Consultant,Engineering,Project Manager,San Francisco,FlexWork,2024-07-05,2025-10-27,16,143.06,425548,ERP Implementation,Yes,Business Need,7.1,Yes,No,MGR0018,Germany
+CW00140,Sofia Walker,Contractor,SOW Worker,Product,Engineer,Remote,FlexWork,2020-10-31,2022-07-11,4,67.97,207553,Project Alpha,No,Boomerang Employee,6.1,No,Yes,MGR0014,USA
+CW00141,Tyler Green,Rejoiner,SOW Worker,Product,Engineer,Chicago,TechStaff Inc,2023-06-04,2024-08-06,16,177.01,339774,Data Platform,No,Seasonal,9.5,Yes,Yes,MGR0016,Australia
+CW00142,Wei Ahmed,Contractor,Temp Agency,IT,Analyst,Dallas,GlobalTalent,2025-06-11,2026-07-31,18,153.69,379160,Digital Transformation,Yes,Seasonal,2.8,Yes,No,MGR0043,UK
+CW00143,Mia Nguyen,Rejoiner,Consultant,Finance,Analyst,Denver,TechStaff Inc,2023-02-20,2024-04-21,13,159.09,268244,Cloud Migration,Yes,Boomerang Employee,5.7,Yes,No,MGR0045,UK
+CW00144,Chris Chen,Rejoiner,Temp Agency,Sales,Engineer,Austin,None,2022-07-29,2024-07-17,14,108.73,478549,Project Beta,Yes,Project-Based,2.9,Yes,No,MGR0035,India
+CW00145,Hannah Baker,Contractor,SOW Worker,Operations,Consultant,Remote,ProConsult,2023-12-22,2024-07-01,16,165.12,259550,Project Alpha,Yes,Boomerang Employee,0.3,Yes,Yes,MGR0015,India
+CW00146,Aarav Ivanov,Contractor,SOW Worker,HR,Engineer,Denver,TechStaff Inc,2020-04-02,2021-12-24,3,165.59,446096,Digital Transformation,Yes,Business Need,4.3,Pending,Yes,MGR0046,Canada
+CW00147,Arjun Scott,Contractor,Consultant,Operations,Consultant,New York,TechStaff Inc,2021-06-09,2021-09-24,18,162.81,442565,Digital Transformation,Yes,Restructure,4.5,No,No,MGR0044,India
+CW00148,Wei Taylor,Contractor,Contractor,Product,Specialist,Denver,TechStaff Inc,2024-08-15,2024-12-23,8,58.56,222967,CX Revamp,No,Boomerang Employee,1.1,Pending,No,MGR0039,USA
+CW00149,James Andersen,Rejoiner,SOW Worker,IT,Engineer,Austin,GlobalTalent,2023-09-19,2024-12-12,16,33.4,499912,Project Beta,No,Business Need,9.6,Pending,Yes,MGR0022,USA
+CW00150,Aisha Turner,Contractor,Freelancer,IT,Analyst,Atlanta,None,2023-02-16,2023-08-13,17,184.71,189510,Digital Transformation,Yes,Project-Based,3.9,Pending,Yes,MGR0047,Brazil
+CW00151,Aisha Taylor,Contractor,Consultant,Design,Project Manager,Remote,FlexWork,2023-07-25,2023-12-18,7,68.88,243693,Project Beta,No,Boomerang Employee,2.0,No,Yes,MGR0037,Brazil
+CW00152,Fatima Perez,Contractor,Consultant,HR,Engineer,Seattle,DirectSource,2019-09-12,2020-07-07,21,104.25,37370,Cloud Migration,Yes,Boomerang Employee,0.0,Yes,No,MGR0015,Germany
+CW00153,Rohan Scott,Contractor,SOW Worker,IT,Engineer,Seattle,GlobalTalent,2023-09-05,2025-07-26,17,145.93,371071,CX Revamp,Yes,Restructure,3.7,Pending,No,MGR0004,Germany
+CW00154,Sofia Young,Rejoiner,Freelancer,Marketing,Analyst,Denver,DirectSource,2020-03-06,2020-08-23,21,153.84,206286,Digital Transformation,Yes,Restructure,1.0,Yes,Yes,MGR0024,Australia
+CW00155,Tyler Mitchell,Rejoiner,Contractor,Finance,Specialist,Austin,FlexWork,2023-03-27,2024-09-17,18,151.54,34267,Digital Transformation,No,Boomerang Employee,1.5,Yes,No,MGR0050,Canada
+CW00156,Hannah Nakamura,Contractor,Temp Agency,Design,Analyst,Chicago,GlobalTalent,2025-04-19,2025-07-25,15,148.51,432899,Data Platform,Yes,Boomerang Employee,8.7,No,Yes,MGR0028,UK
+CW00157,Rohan Ferreira,Rejoiner,Consultant,HR,Project Manager,Remote,TechStaff Inc,2023-01-27,2024-04-07,1,65.97,248348,CX Revamp,Yes,Business Need,0.1,No,Yes,MGR0006,Australia
+CW00158,Jasmine Ali,Rejoiner,Consultant,Product,Specialist,Atlanta,None,2024-01-08,2024-04-30,6,82.53,325161,ERP Implementation,Yes,Business Need,7.1,Pending,No,MGR0021,UK
+CW00159,Omar Adams,Rejoiner,Contractor,Finance,Analyst,Dallas,TechStaff Inc,2022-06-09,2022-08-23,22,143.98,262991,ERP Implementation,No,Project-Based,7.9,Pending,No,MGR0045,USA
+CW00160,Hassan Carter,Contractor,SOW Worker,Customer Success,Engineer,Austin,TechStaff Inc,2025-06-27,2026-07-31,18,183.18,16089,Data Platform,Yes,Seasonal,2.2,Pending,Yes,MGR0016,India
+CW00161,Kevin Müller,Rejoiner,Contractor,HR,Engineer,Atlanta,DirectSource,2025-04-05,2025-06-14,7,148.42,126513,Project Beta,Yes,Project-Based,6.8,Yes,Yes,MGR0020,Germany
+CW00162,James Johnson,Contractor,Freelancer,Data Science,Consultant,Dallas,None,2019-10-10,2020-04-17,7,199.99,356796,CX Revamp,No,Business Need,3.9,Pending,Yes,MGR0029,Canada
+CW00163,Sara Wright,Rejoiner,SOW Worker,Marketing,Analyst,Seattle,TechStaff Inc,2020-08-16,2021-03-18,16,34.05,92922,ERP Implementation,Yes,Restructure,6.8,Pending,No,MGR0042,Brazil
+CW00164,Ryan Jackson,Rejoiner,Freelancer,IT,Analyst,Austin,FlexWork,2020-07-04,2021-09-13,15,173.4,65251,ERP Implementation,No,Restructure,3.3,Yes,No,MGR0045,Brazil
+CW00165,Diego Kim,Rejoiner,Consultant,Customer Success,Specialist,Seattle,ProConsult,2024-11-08,2025-11-28,3,116.39,495697,Project Alpha,No,Boomerang Employee,6.9,Yes,Yes,MGR0011,Brazil
+CW00166,Fatima Adams,Contractor,Contractor,Data Science,Specialist,San Francisco,TechStaff Inc,2025-02-24,2026-06-28,7,39.62,169272,Digital Transformation,No,Project-Based,8.8,Yes,Yes,MGR0038,Germany
+CW00167,Yuki Patel,Rejoiner,SOW Worker,Finance,Engineer,San Francisco,None,2019-12-18,2020-08-01,20,107.58,163407,Project Beta,No,Project-Based,5.1,Pending,Yes,MGR0009,Brazil
+CW00168,Mia Mitchell,Contractor,SOW Worker,HR,Consultant,Chicago,GlobalTalent,2023-12-13,2024-07-10,16,145.32,451131,ERP Implementation,Yes,Boomerang Employee,1.3,Yes,Yes,MGR0043,Germany
+CW00169,Jake Carter,Rejoiner,Consultant,Operations,Consultant,Seattle,DirectSource,2024-03-08,2024-07-23,15,169.93,91561,Project Beta,Yes,Boomerang Employee,3.7,Yes,No,MGR0023,Germany
+CW00170,Wei Costa,Rejoiner,Freelancer,Design,Specialist,Seattle,TechStaff Inc,2023-06-07,2025-03-29,14,164.22,223728,Data Platform,No,Boomerang Employee,7.1,Pending,No,MGR0024,Australia
+CW00171,Ethan Ivanov,Rejoiner,SOW Worker,Customer Success,Engineer,New York,FlexWork,2023-10-10,2024-04-18,12,44.84,143937,Project Beta,No,Seasonal,5.3,No,No,MGR0049,Germany
+CW00172,Priya Carter,Contractor,Freelancer,Marketing,Specialist,Seattle,DirectSource,2023-06-09,2025-02-05,18,99.56,130859,CX Revamp,Yes,Seasonal,0.3,Pending,Yes,MGR0017,Brazil
+CW00173,Olivia White,Contractor,SOW Worker,Data Science,Specialist,Chicago,FlexWork,2019-05-12,2019-12-28,6,175.21,384104,CX Revamp,No,Boomerang Employee,0.1,No,No,MGR0029,USA
+CW00174,Layla Okafor,Contractor,Contractor,Design,Specialist,Boston,FlexWork,2021-12-17,2023-03-24,6,165.62,371889,Digital Transformation,No,Seasonal,4.5,Yes,Yes,MGR0043,India
+CW00175,Emma Ahmed,Rejoiner,Consultant,Product,Analyst,Denver,ProConsult,2022-03-07,2024-01-27,16,170.76,327267,Project Beta,Yes,Restructure,6.7,Pending,No,MGR0019,India
+CW00176,Wei Wilson,Rejoiner,Temp Agency,Legal,Project Manager,Chicago,TechStaff Inc,2025-02-16,2026-07-13,9,122.7,264627,Cloud Migration,Yes,Business Need,0.7,Pending,Yes,MGR0001,India
+CW00177,Mei Baker,Contractor,SOW Worker,Customer Success,Project Manager,Boston,FlexWork,2021-01-13,2022-02-12,4,165.03,283573,ERP Implementation,No,Business Need,4.2,Pending,Yes,MGR0017,Australia
+CW00178,Sara Sharma,Rejoiner,Consultant,IT,Consultant,San Francisco,FlexWork,2020-09-21,2020-10-27,11,60.69,282147,Cloud Migration,Yes,Business Need,0.8,No,No,MGR0036,India
+CW00179,Fatima Costa,Contractor,Consultant,Engineering,Project Manager,Chicago,TechStaff Inc,2019-10-02,2021-09-03,15,66.82,380252,Data Platform,Yes,Boomerang Employee,6.6,Yes,No,MGR0033,Canada
+CW00180,Wei Okafor,Contractor,Consultant,Data Science,Analyst,New York,GlobalTalent,2025-05-03,2025-09-07,20,43.85,424494,Project Beta,No,Project-Based,2.8,Yes,No,MGR0025,Canada
+CW00181,Carlos Jackson,Rejoiner,SOW Worker,Marketing,Project Manager,Boston,GlobalTalent,2023-10-21,2025-08-17,8,124.91,432333,Digital Transformation,Yes,Seasonal,9.0,No,Yes,MGR0003,Germany
+CW00182,Jasmine Walker,Contractor,SOW Worker,Finance,Engineer,New York,FlexWork,2024-11-05,2025-12-14,6,168.83,201650,CX Revamp,Yes,Seasonal,2.0,Pending,Yes,MGR0013,USA
+CW00183,Raj Nguyen,Contractor,Consultant,Design,Analyst,Remote,DirectSource,2019-03-19,2021-01-30,14,96.49,91183,Data Platform,Yes,Seasonal,2.3,No,No,MGR0045,USA
+CW00184,Kevin Turner,Contractor,SOW Worker,HR,Consultant,Austin,FlexWork,2020-04-30,2022-04-12,16,162.95,149916,Project Beta,No,Project-Based,7.8,Yes,Yes,MGR0042,Canada
+CW00185,Noah Brown,Rejoiner,Freelancer,Design,Engineer,Chicago,ProConsult,2019-09-28,2021-03-07,7,145.27,442636,Project Alpha,Yes,Project-Based,7.6,Yes,No,MGR0045,UK
+CW00186,Jake Hall,Rejoiner,Freelancer,HR,Consultant,San Francisco,TechStaff Inc,2019-07-12,2021-03-03,14,146.83,132876,CX Revamp,No,Restructure,7.9,Yes,Yes,MGR0042,Germany
+CW00187,Raj Hernandez,Contractor,Contractor,Sales,Consultant,Remote,ProConsult,2019-04-01,2020-11-20,20,58.16,294656,Data Platform,No,Seasonal,6.9,Yes,No,MGR0025,India
+CW00188,Soren Hall,Contractor,Freelancer,Design,Project Manager,Remote,None,2022-12-11,2024-01-18,13,101.08,465461,Cloud Migration,Yes,Seasonal,1.7,Yes,Yes,MGR0047,UK
+CW00189,James Nelson,Contractor,SOW Worker,Legal,Specialist,Boston,None,2024-08-10,2024-10-06,16,116.95,360472,Digital Transformation,Yes,Project-Based,5.6,Pending,Yes,MGR0018,Australia
+CW00190,Zara Singh,Contractor,SOW Worker,Sales,Engineer,Boston,None,2024-11-22,2026-07-17,24,78.67,191431,ERP Implementation,No,Boomerang Employee,9.8,Pending,Yes,MGR0032,Brazil
+CW00191,Sophia Lee,Contractor,Temp Agency,Marketing,Project Manager,San Francisco,None,2022-02-14,2022-04-24,17,146.43,475811,CX Revamp,No,Boomerang Employee,8.6,Pending,Yes,MGR0012,Australia
+CW00192,Jasmine Roberts,Contractor,Consultant,Sales,Engineer,San Francisco,DirectSource,2020-01-10,2020-04-19,1,137.73,404955,Cloud Migration,No,Boomerang Employee,6.9,No,No,MGR0010,Germany
+CW00193,Ethan Walker,Contractor,Freelancer,Customer Success,Project Manager,Denver,DirectSource,2025-01-22,2026-02-15,20,72.7,469264,Project Alpha,No,Boomerang Employee,4.2,Pending,Yes,MGR0033,India
+CW00194,Zara Baker,Rejoiner,Temp Agency,Sales,Engineer,Remote,None,2020-02-09,2020-08-23,23,160.37,68578,ERP Implementation,Yes,Seasonal,8.6,No,No,MGR0028,Australia
+CW00195,Jake Roberts,Contractor,SOW Worker,Design,Analyst,Dallas,GlobalTalent,2022-10-29,2023-07-07,6,114.24,291978,Data Platform,Yes,Seasonal,9.9,Pending,No,MGR0048,Brazil
+CW00196,Aisha Ivanov,Rejoiner,Consultant,Sales,Specialist,Atlanta,TechStaff Inc,2022-01-26,2023-03-17,15,85.43,61502,Digital Transformation,Yes,Project-Based,6.7,No,No,MGR0024,Australia
+CW00197,Emma Chen,Contractor,Temp Agency,Finance,Consultant,Chicago,ProConsult,2020-07-01,2021-04-30,1,40.08,88890,CX Revamp,Yes,Seasonal,2.8,Pending,Yes,MGR0039,USA
+CW00198,Priya Harris,Rejoiner,Contractor,Design,Consultant,Boston,FlexWork,2023-05-03,2024-05-31,2,49.06,133644,Data Platform,No,Seasonal,2.5,Pending,No,MGR0049,Brazil
+CW00199,Andre Costa,Rejoiner,Contractor,Customer Success,Analyst,Seattle,None,2024-12-27,2026-01-27,2,116.03,422380,Project Beta,Yes,Seasonal,7.1,Yes,No,MGR0050,India
+CW00200,Zara Perez,Rejoiner,Consultant,Marketing,Consultant,Denver,ProConsult,2023-03-27,2024-11-01,19,128.19,418020,ERP Implementation,Yes,Seasonal,9.4,Yes,Yes,MGR0005,Australia
+CW00201,Noah Robinson,Rejoiner,Temp Agency,Data Science,Analyst,New York,None,2019-10-30,2020-07-20,14,136.01,53006,Digital Transformation,No,Project-Based,8.2,No,Yes,MGR0011,Canada
+CW00202,Nina Baker,Contractor,Freelancer,Sales,Project Manager,San Francisco,DirectSource,2024-07-04,2025-04-08,8,45.16,29733,Digital Transformation,Yes,Project-Based,4.6,No,No,MGR0040,USA
+CW00203,Aisha Ahmed,Contractor,Temp Agency,Sales,Engineer,Dallas,None,2021-05-29,2023-01-03,14,193.51,413532,Digital Transformation,Yes,Restructure,1.6,Pending,No,MGR0017,UK
+CW00204,Amara Wright,Rejoiner,SOW Worker,Design,Engineer,Dallas,DirectSource,2024-07-12,2024-10-11,22,160.81,192029,Digital Transformation,No,Project-Based,0.2,No,Yes,MGR0039,Canada
+CW00205,Ingrid Hernandez,Rejoiner,Freelancer,Legal,Specialist,Atlanta,DirectSource,2023-12-03,2024-09-17,5,35.27,145320,Data Platform,Yes,Restructure,0.1,Pending,No,MGR0037,UK
+CW00206,Rohan Robinson,Contractor,Freelancer,Legal,Consultant,Boston,None,2022-04-05,2023-04-26,3,134.68,474852,ERP Implementation,Yes,Seasonal,0.9,Yes,Yes,MGR0048,USA
+CW00207,Kevin Johnson,Contractor,SOW Worker,Customer Success,Analyst,Boston,None,2021-03-03,2021-08-22,16,105.58,289877,ERP Implementation,No,Business Need,1.7,No,No,MGR0018,USA
+CW00208,Yuki Walker,Contractor,Consultant,Finance,Project Manager,Remote,None,2020-06-12,2020-09-13,23,54.12,353608,Project Beta,Yes,Restructure,0.7,Pending,Yes,MGR0020,USA
+CW00209,Yuki Young,Rejoiner,Freelancer,Data Science,Engineer,Dallas,FlexWork,2024-05-03,2026-03-21,8,176.3,166933,Digital Transformation,No,Project-Based,9.0,Pending,No,MGR0031,USA
+CW00210,Priya Hall,Contractor,SOW Worker,Finance,Specialist,Austin,ProConsult,2023-07-07,2025-06-12,5,51.62,376130,Project Alpha,Yes,Business Need,9.1,No,No,MGR0002,Brazil
+CW00211,Maria Martinez,Contractor,Contractor,Product,Consultant,New York,ProConsult,2025-05-08,2026-07-31,4,170.5,291724,Digital Transformation,Yes,Seasonal,0.5,Yes,No,MGR0023,India
+CW00212,Raj Hernandez,Rejoiner,Freelancer,Design,Engineer,Austin,GlobalTalent,2021-09-01,2022-08-02,19,38.69,40902,Cloud Migration,Yes,Seasonal,2.2,No,No,MGR0003,UK
+CW00213,Layla Lee,Rejoiner,Consultant,IT,Engineer,Dallas,GlobalTalent,2019-09-03,2020-06-06,18,61.62,463475,Cloud Migration,No,Project-Based,4.0,Yes,Yes,MGR0040,Brazil
+CW00214,Chris Wright,Rejoiner,Freelancer,Operations,Analyst,Atlanta,None,2025-07-20,2026-07-31,9,142.45,424733,ERP Implementation,Yes,Boomerang Employee,7.4,Pending,No,MGR0024,Germany
+CW00215,Tyler Ahmed,Contractor,Consultant,Sales,Consultant,Chicago,TechStaff Inc,2019-12-01,2020-01-05,6,183.44,390992,ERP Implementation,Yes,Business Need,3.8,No,No,MGR0045,India
+CW00216,Hassan Patel,Contractor,SOW Worker,Product,Consultant,Dallas,ProConsult,2021-08-18,2022-04-26,1,187.44,277939,Data Platform,Yes,Project-Based,1.1,Yes,Yes,MGR0028,Brazil
+CW00217,Hassan Wilson,Contractor,Freelancer,Operations,Consultant,Denver,ProConsult,2025-06-08,2026-01-18,16,156.45,282216,CX Revamp,Yes,Seasonal,4.9,No,No,MGR0041,Brazil
+CW00218,Liam Harris,Rejoiner,Temp Agency,Operations,Consultant,San Francisco,ProConsult,2022-06-08,2023-08-01,23,46.47,353856,CX Revamp,No,Project-Based,8.1,No,Yes,MGR0033,Brazil
+CW00219,Hannah Okafor,Contractor,SOW Worker,Data Science,Analyst,Chicago,ProConsult,2023-10-31,2024-05-10,22,95.49,166526,Project Beta,No,Restructure,1.0,Pending,No,MGR0013,India
+CW00220,Tyler Nakamura,Contractor,Temp Agency,Design,Specialist,Atlanta,TechStaff Inc,2025-07-05,2025-09-09,13,134.2,356549,Data Platform,No,Boomerang Employee,2.9,No,Yes,MGR0032,Germany
+CW00221,Soren Ahmed,Rejoiner,SOW Worker,Design,Engineer,Remote,TechStaff Inc,2020-12-27,2022-08-10,24,181.57,279527,Digital Transformation,No,Boomerang Employee,8.4,No,No,MGR0049,India
+CW00222,Elena Okafor,Rejoiner,Freelancer,Design,Analyst,Remote,GlobalTalent,2024-03-05,2024-09-01,6,70.06,329204,ERP Implementation,Yes,Seasonal,8.1,Yes,Yes,MGR0010,India
+CW00223,Aisha Patel,Contractor,Consultant,Finance,Consultant,Austin,None,2021-11-14,2023-01-16,11,95.05,90880,Data Platform,No,Business Need,5.3,No,No,MGR0043,UK
+CW00224,Amara Green,Rejoiner,SOW Worker,Operations,Project Manager,Boston,DirectSource,2024-06-20,2025-02-20,2,38.27,421245,Data Platform,No,Restructure,7.4,Pending,No,MGR0008,Brazil
+CW00225,Layla Kim,Contractor,Contractor,Customer Success,Consultant,Seattle,DirectSource,2021-05-23,2023-03-28,6,63.53,229733,Digital Transformation,No,Business Need,5.1,No,Yes,MGR0017,USA
+CW00226,James Turner,Contractor,SOW Worker,Product,Engineer,Boston,TechStaff Inc,2021-05-07,2022-09-27,8,137.71,108118,Project Alpha,Yes,Seasonal,3.2,Yes,No,MGR0047,Canada
+CW00227,Zara Hall,Rejoiner,Contractor,Design,Specialist,New York,GlobalTalent,2020-08-21,2021-04-16,14,126.61,90282,CX Revamp,No,Restructure,7.5,No,Yes,MGR0035,Brazil
+CW00228,Sara Singh,Contractor,Temp Agency,Customer Success,Consultant,New York,ProConsult,2023-04-16,2024-01-24,12,75.72,94289,Digital Transformation,No,Boomerang Employee,4.0,Pending,Yes,MGR0036,USA
+CW00229,Zara Thomas,Rejoiner,Contractor,Finance,Analyst,New York,ProConsult,2025-07-29,2026-07-31,21,138.47,262451,Project Beta,No,Project-Based,1.7,Yes,No,MGR0018,India
+CW00230,Mia Turner,Contractor,SOW Worker,Operations,Specialist,Austin,GlobalTalent,2021-07-02,2021-12-01,19,64.24,328555,Project Beta,Yes,Business Need,3.3,Pending,Yes,MGR0041,Australia
+CW00231,Aisha Brown,Contractor,Freelancer,Engineering,Specialist,Dallas,ProConsult,2021-12-17,2023-08-28,18,181.66,369323,ERP Implementation,Yes,Project-Based,5.8,No,Yes,MGR0012,Germany
+CW00232,Ingrid Turner,Contractor,Consultant,Legal,Specialist,Remote,None,2021-12-22,2023-11-16,4,128.45,268290,Cloud Migration,Yes,Seasonal,2.6,No,Yes,MGR0033,India
+CW00233,Mei Sharma,Contractor,Temp Agency,HR,Consultant,Dallas,DirectSource,2023-08-05,2024-01-29,16,197.49,270617,Digital Transformation,No,Seasonal,0.6,No,Yes,MGR0029,India
+CW00234,Amara Nelson,Rejoiner,Contractor,Sales,Engineer,San Francisco,FlexWork,2024-06-13,2024-09-15,1,176.06,14374,CX Revamp,No,Project-Based,3.4,Pending,No,MGR0001,Australia
+CW00235,Soren Nelson,Rejoiner,Consultant,Design,Engineer,San Francisco,DirectSource,2023-04-21,2023-08-09,8,73.2,11032,Digital Transformation,No,Business Need,5.3,Yes,Yes,MGR0014,Australia
+CW00236,Sophia Carter,Rejoiner,Freelancer,Marketing,Specialist,Denver,TechStaff Inc,2023-08-10,2023-09-26,13,140.36,456249,Project Alpha,No,Boomerang Employee,5.2,Yes,Yes,MGR0038,Brazil
+CW00237,Ethan Roberts,Rejoiner,SOW Worker,Design,Engineer,Remote,None,2021-03-06,2022-11-16,20,55.67,110186,ERP Implementation,No,Boomerang Employee,3.9,No,Yes,MGR0034,Brazil
+CW00238,Aisha Garcia,Contractor,Consultant,Marketing,Consultant,Denver,ProConsult,2023-08-21,2025-03-02,23,64.79,283283,Digital Transformation,Yes,Seasonal,9.3,Pending,No,MGR0019,USA
+CW00239,Ananya Chen,Contractor,Temp Agency,Finance,Consultant,San Francisco,TechStaff Inc,2023-05-27,2024-06-21,11,192.18,250011,CX Revamp,No,Project-Based,4.9,Yes,No,MGR0008,UK
+CW00240,Sara Baker,Rejoiner,Contractor,Customer Success,Engineer,Austin,GlobalTalent,2023-11-17,2025-11-04,18,47.24,259103,Project Beta,Yes,Seasonal,5.0,Pending,Yes,MGR0013,Germany
+CW00241,Wei Nguyen,Contractor,Freelancer,Legal,Engineer,Atlanta,TechStaff Inc,2019-11-08,2021-06-17,4,169.48,5278,Project Alpha,No,Business Need,6.9,Pending,Yes,MGR0030,USA
+CW00242,Leila White,Contractor,SOW Worker,Customer Success,Specialist,New York,GlobalTalent,2024-05-29,2025-12-18,24,120.43,259901,Cloud Migration,No,Restructure,4.8,Pending,No,MGR0031,UK
+CW00243,Ingrid Taylor,Rejoiner,SOW Worker,Operations,Engineer,Remote,ProConsult,2019-07-22,2020-01-01,16,79.18,6572,Project Beta,No,Boomerang Employee,7.1,Yes,Yes,MGR0019,India
+CW00244,Rohan Sharma,Rejoiner,Contractor,Sales,Specialist,Chicago,FlexWork,2025-04-12,2026-07-31,2,179.71,444045,ERP Implementation,Yes,Restructure,9.7,No,Yes,MGR0012,Australia
+CW00245,Soren Okafor,Contractor,SOW Worker,Product,Project Manager,New York,DirectSource,2022-06-26,2023-01-06,4,41.97,236202,Project Beta,Yes,Restructure,2.5,No,No,MGR0049,India
+CW00246,Raj Garcia,Contractor,Temp Agency,Engineering,Consultant,Chicago,None,2024-01-11,2024-03-01,13,155.35,413290,Project Beta,Yes,Seasonal,4.6,Yes,No,MGR0002,Brazil
+CW00247,Sofia Williams,Rejoiner,Freelancer,Sales,Project Manager,Remote,TechStaff Inc,2021-04-24,2022-08-03,18,101.62,363593,Data Platform,No,Seasonal,0.9,Pending,Yes,MGR0009,Brazil
+CW00248,Nina Martinez,Contractor,Temp Agency,IT,Engineer,Chicago,None,2022-12-24,2024-06-02,3,140.87,25684,Cloud Migration,Yes,Boomerang Employee,6.0,Pending,No,MGR0039,India
+CW00249,Hannah Ali,Contractor,Temp Agency,Engineering,Specialist,Chicago,GlobalTalent,2022-07-19,2022-10-05,20,132.59,474595,Project Alpha,No,Business Need,9.9,Pending,No,MGR0048,Australia
+CW00250,Chloe Johnson,Rejoiner,Contractor,Marketing,Consultant,New York,ProConsult,2023-08-23,2024-11-10,17,109.37,18692,Data Platform,No,Seasonal,3.1,Yes,Yes,MGR0025,UK
+CW00251,Sofia Carter,Rejoiner,Consultant,Design,Project Manager,Denver,TechStaff Inc,2021-11-20,2023-09-15,16,128.24,86876,ERP Implementation,No,Project-Based,1.8,No,Yes,MGR0048,Canada
+CW00252,Sara Kim,Contractor,Freelancer,IT,Analyst,New York,None,2024-09-12,2026-02-14,4,37.71,336919,Cloud Migration,Yes,Restructure,9.3,Yes,No,MGR0015,Canada
+CW00253,Hassan Lee,Rejoiner,Consultant,Data Science,Engineer,Seattle,GlobalTalent,2020-08-24,2022-02-26,2,38.74,217011,CX Revamp,Yes,Seasonal,3.5,No,Yes,MGR0038,Canada
+CW00254,Raj Kim,Rejoiner,SOW Worker,Design,Specialist,New York,ProConsult,2025-01-29,2025-10-24,20,136.85,435260,Project Beta,Yes,Project-Based,7.9,Pending,No,MGR0032,Brazil
+CW00255,Lucas Lewis,Contractor,SOW Worker,IT,Project Manager,Seattle,DirectSource,2023-07-08,2025-03-21,20,83.88,185316,CX Revamp,No,Restructure,8.0,Pending,Yes,MGR0047,UK
+CW00256,Aisha Robinson,Contractor,Contractor,Marketing,Consultant,Atlanta,DirectSource,2021-07-03,2023-02-24,15,166.89,307190,Digital Transformation,No,Seasonal,1.4,Yes,No,MGR0034,USA
+CW00257,Ethan Chen,Contractor,Contractor,Operations,Analyst,Dallas,ProConsult,2020-02-03,2020-04-27,13,188.22,113825,Digital Transformation,Yes,Restructure,4.7,Pending,No,MGR0047,Germany
+CW00258,Layla Turner,Rejoiner,Temp Agency,IT,Consultant,Chicago,None,2023-11-29,2024-12-19,11,87.25,260892,Project Alpha,No,Restructure,9.6,Yes,Yes,MGR0039,India
+CW00259,Nadia Smith,Rejoiner,SOW Worker,Legal,Analyst,Atlanta,DirectSource,2019-02-08,2019-11-07,14,195.62,399263,Project Beta,No,Business Need,9.2,No,Yes,MGR0020,Canada
+CW00260,Raj Brown,Rejoiner,Consultant,Data Science,Analyst,Dallas,GlobalTalent,2020-02-25,2022-02-23,3,185.76,343939,Project Alpha,No,Seasonal,0.6,No,No,MGR0009,Canada
+CW00261,Wei Carter,Rejoiner,Contractor,IT,Consultant,San Francisco,TechStaff Inc,2021-07-22,2022-01-14,8,103.68,137333,Data Platform,Yes,Project-Based,3.2,Yes,No,MGR0004,Brazil
+CW00262,Fatima Nakamura,Contractor,Consultant,Legal,Consultant,Chicago,GlobalTalent,2023-09-22,2024-06-26,20,32.51,389138,ERP Implementation,Yes,Restructure,7.8,No,Yes,MGR0020,Canada
+CW00263,Emma Müller,Contractor,SOW Worker,Marketing,Analyst,Denver,DirectSource,2021-01-24,2022-02-15,17,92.76,348548,Cloud Migration,Yes,Restructure,7.6,Pending,Yes,MGR0041,India
+CW00264,Hassan Okafor,Rejoiner,Freelancer,Operations,Engineer,Seattle,TechStaff Inc,2022-03-23,2022-05-18,11,198.54,446336,Project Beta,No,Seasonal,2.1,Pending,No,MGR0037,UK
+CW00265,Elena Johnson,Rejoiner,Temp Agency,Operations,Analyst,Boston,GlobalTalent,2020-06-11,2021-10-30,2,146.26,305721,Data Platform,Yes,Boomerang Employee,9.7,Yes,No,MGR0031,India
+CW00266,Hannah Andersen,Rejoiner,SOW Worker,Product,Consultant,Atlanta,FlexWork,2023-02-11,2023-04-18,4,118.28,218478,CX Revamp,No,Restructure,1.8,Pending,No,MGR0022,USA
+CW00267,Aarav Nelson,Rejoiner,Temp Agency,IT,Engineer,Boston,TechStaff Inc,2023-03-09,2024-11-20,21,185.44,327082,Cloud Migration,Yes,Business Need,9.2,No,No,MGR0030,Canada
+CW00268,Layla Costa,Rejoiner,Freelancer,Data Science,Engineer,Atlanta,FlexWork,2023-10-24,2024-04-09,23,61.75,139806,Digital Transformation,No,Boomerang Employee,5.4,No,No,MGR0022,Australia
+CW00269,Jake Nguyen,Rejoiner,Freelancer,Product,Analyst,Austin,DirectSource,2019-12-28,2021-10-25,7,52.33,328979,Data Platform,Yes,Project-Based,5.9,Pending,Yes,MGR0039,India
+CW00270,Tyler Patel,Rejoiner,Contractor,Design,Consultant,San Francisco,FlexWork,2022-02-05,2023-05-11,17,156.52,61098,Digital Transformation,Yes,Seasonal,0.4,Yes,Yes,MGR0027,Germany
+CW00271,Marcus Martinez,Rejoiner,Temp Agency,Operations,Consultant,New York,DirectSource,2023-05-13,2024-04-22,10,40.74,9628,Project Alpha,No,Seasonal,1.7,Yes,Yes,MGR0006,Canada
+CW00272,Mei Costa,Rejoiner,Temp Agency,Legal,Consultant,Denver,ProConsult,2023-11-11,2025-06-17,3,139.82,415464,Digital Transformation,No,Seasonal,8.4,No,Yes,MGR0030,USA
+CW00273,Jake Martinez,Contractor,Freelancer,Finance,Specialist,New York,FlexWork,2023-02-27,2024-04-04,19,147.36,372281,Data Platform,Yes,Project-Based,9.7,No,No,MGR0035,Germany
+CW00274,Nina Ahmed,Contractor,Freelancer,IT,Consultant,Dallas,GlobalTalent,2019-02-11,2021-01-08,3,188.91,405216,Digital Transformation,Yes,Business Need,5.1,No,No,MGR0037,India
+CW00275,Aisha Harris,Rejoiner,Consultant,Product,Project Manager,Atlanta,DirectSource,2022-05-30,2022-12-18,12,178.26,328537,Data Platform,No,Boomerang Employee,9.4,No,No,MGR0012,Germany
+CW00276,Mei Young,Contractor,Freelancer,Product,Consultant,Boston,FlexWork,2020-01-13,2020-10-21,16,73.64,88820,ERP Implementation,No,Project-Based,0.7,Yes,Yes,MGR0007,Brazil
+CW00277,Mia Kim,Contractor,Contractor,Product,Analyst,Denver,GlobalTalent,2019-02-19,2019-06-10,8,42.29,108396,Digital Transformation,No,Seasonal,4.6,No,Yes,MGR0005,Australia
+CW00278,Noah Carter,Contractor,Contractor,Finance,Engineer,Dallas,FlexWork,2021-07-27,2021-09-04,8,127.28,469578,CX Revamp,No,Boomerang Employee,2.3,No,No,MGR0010,USA
+CW00279,Fatima White,Rejoiner,Consultant,Marketing,Project Manager,Denver,ProConsult,2023-02-28,2023-06-20,11,182.94,455391,CX Revamp,No,Boomerang Employee,5.1,No,Yes,MGR0023,Germany
+CW00280,Jake King,Rejoiner,SOW Worker,Sales,Engineer,Dallas,ProConsult,2020-03-10,2022-02-20,12,163.61,386498,Project Alpha,Yes,Restructure,2.9,No,Yes,MGR0049,Australia
+CW00281,Diego Mitchell,Contractor,Freelancer,Engineering,Consultant,Austin,ProConsult,2024-08-25,2025-01-11,10,133.08,144126,Cloud Migration,Yes,Project-Based,5.7,No,Yes,MGR0022,India
+CW00282,Ethan Wright,Rejoiner,Consultant,Operations,Engineer,Boston,FlexWork,2024-02-16,2024-03-30,17,117.08,261135,CX Revamp,Yes,Seasonal,6.5,Yes,No,MGR0026,India
+CW00283,Chloe Jackson,Contractor,Temp Agency,Data Science,Analyst,Boston,TechStaff Inc,2021-04-19,2022-04-28,19,185.64,255848,Project Beta,No,Business Need,1.8,No,No,MGR0022,Brazil
+CW00284,Priya Johnson,Contractor,Temp Agency,Customer Success,Engineer,Denver,GlobalTalent,2021-05-07,2022-08-28,13,168.76,464216,Project Alpha,No,Restructure,6.0,No,No,MGR0049,USA
+CW00285,Priya Wright,Contractor,Contractor,Product,Project Manager,Seattle,DirectSource,2023-07-31,2024-03-31,17,59.76,87989,CX Revamp,No,Business Need,3.5,Pending,No,MGR0023,UK
+CW00286,Emma Harris,Rejoiner,Temp Agency,Finance,Specialist,New York,TechStaff Inc,2024-05-31,2026-02-12,16,119.56,292902,Project Alpha,Yes,Business Need,5.8,Pending,Yes,MGR0049,Australia
+CW00287,Arjun Ivanov,Rejoiner,Contractor,Legal,Analyst,Remote,FlexWork,2022-06-07,2024-01-13,15,61.36,367621,Project Beta,Yes,Seasonal,2.9,No,Yes,MGR0046,India
+CW00288,Amir Clark,Contractor,Contractor,Data Science,Specialist,Remote,None,2023-06-04,2024-09-04,4,99.25,385412,Cloud Migration,No,Seasonal,4.8,Yes,No,MGR0031,USA
+CW00289,Elena Kim,Contractor,Contractor,Sales,Specialist,Dallas,DirectSource,2024-10-26,2025-07-22,16,87.2,261838,Digital Transformation,No,Project-Based,5.9,No,Yes,MGR0044,Germany
+CW00290,Liam Martinez,Rejoiner,Temp Agency,HR,Consultant,Denver,FlexWork,2019-07-15,2020-06-18,17,147.55,176264,Project Alpha,No,Business Need,1.9,No,Yes,MGR0027,India
+CW00291,Zara Harris,Rejoiner,Temp Agency,HR,Analyst,San Francisco,FlexWork,2019-11-15,2021-04-18,7,168.49,184661,Digital Transformation,No,Boomerang Employee,3.8,Yes,No,MGR0031,Australia
+CW00292,Sofia Andersen,Rejoiner,Contractor,Design,Engineer,Chicago,GlobalTalent,2025-05-30,2026-07-31,15,36.86,206769,Project Alpha,Yes,Seasonal,4.0,Yes,Yes,MGR0021,India
+CW00293,Chris Ali,Contractor,Temp Agency,Engineering,Specialist,Austin,DirectSource,2021-02-11,2022-07-05,1,49.91,22002,Project Beta,Yes,Restructure,5.7,Pending,Yes,MGR0016,Canada
+CW00294,Nina Chen,Contractor,Contractor,Customer Success,Analyst,San Francisco,DirectSource,2021-03-14,2022-06-21,5,56.43,472247,Project Alpha,Yes,Restructure,3.4,Pending,No,MGR0007,Germany
+CW00295,Amir Jackson,Rejoiner,SOW Worker,Finance,Project Manager,Boston,TechStaff Inc,2023-11-27,2024-08-03,9,157.49,298836,Digital Transformation,Yes,Seasonal,8.0,Pending,Yes,MGR0009,India
+CW00296,Amir Ahmed,Contractor,Consultant,Design,Specialist,Dallas,DirectSource,2024-02-20,2025-05-06,6,50.66,306734,CX Revamp,No,Seasonal,1.2,Yes,Yes,MGR0025,Australia
+CW00297,Aarav Nelson,Contractor,Freelancer,Design,Specialist,Austin,None,2022-10-31,2024-01-09,20,101.81,474718,Cloud Migration,No,Project-Based,4.2,Pending,No,MGR0049,USA
+CW00298,Mia Nelson,Contractor,Freelancer,Legal,Engineer,Seattle,DirectSource,2021-10-15,2022-06-24,15,159.92,332224,CX Revamp,No,Boomerang Employee,2.3,No,No,MGR0048,USA
+CW00299,Ethan White,Contractor,Consultant,HR,Consultant,Atlanta,None,2024-01-05,2024-04-28,16,191.97,82537,Cloud Migration,No,Restructure,1.0,No,No,MGR0012,India
+CW00300,Mei Baker,Rejoiner,Contractor,Operations,Project Manager,Remote,DirectSource,2019-09-13,2021-08-24,2,139.04,120921,Cloud Migration,No,Boomerang Employee,9.2,Pending,Yes,MGR0046,India
+CW00301,Andre Chen,Contractor,Contractor,Marketing,Specialist,Seattle,GlobalTalent,2021-05-01,2021-09-19,16,132.39,198096,CX Revamp,Yes,Project-Based,9.0,Yes,Yes,MGR0011,Brazil
+CW00302,David Kim,Rejoiner,Contractor,Engineering,Engineer,Boston,GlobalTalent,2025-05-06,2025-07-07,16,75.39,105737,CX Revamp,No,Seasonal,2.7,Pending,Yes,MGR0033,Canada
+CW00303,Rohan Brown,Rejoiner,SOW Worker,HR,Specialist,Remote,DirectSource,2024-11-29,2026-04-15,8,121.6,15967,ERP Implementation,No,Boomerang Employee,5.5,No,Yes,MGR0040,Australia
+CW00304,Omar Ferreira,Rejoiner,Freelancer,Sales,Project Manager,Remote,TechStaff Inc,2023-07-29,2024-01-03,22,147.9,236444,Project Beta,Yes,Boomerang Employee,9.1,Pending,No,MGR0029,Canada
+CW00305,Noah Scott,Contractor,SOW Worker,Customer Success,Engineer,San Francisco,GlobalTalent,2025-06-11,2025-12-09,12,189.89,44405,ERP Implementation,No,Business Need,5.7,Yes,No,MGR0037,Australia
+CW00306,David Jackson,Rejoiner,Temp Agency,Data Science,Engineer,Atlanta,DirectSource,2021-06-10,2021-09-09,17,90.79,251129,Data Platform,Yes,Business Need,5.3,Pending,No,MGR0048,USA
+CW00307,Yuki Nguyen,Contractor,Contractor,IT,Specialist,Remote,GlobalTalent,2022-08-29,2024-04-20,4,144.2,93212,Project Alpha,Yes,Boomerang Employee,3.4,Pending,No,MGR0034,India
+CW00308,Tyler Green,Contractor,Temp Agency,Operations,Project Manager,Seattle,FlexWork,2021-07-23,2022-12-06,17,76.19,408437,Cloud Migration,Yes,Business Need,6.3,Pending,Yes,MGR0022,Brazil
+CW00309,Elena Taylor,Contractor,Consultant,Engineering,Project Manager,San Francisco,ProConsult,2019-07-01,2021-04-07,8,137.76,113949,Digital Transformation,Yes,Business Need,6.6,Yes,Yes,MGR0023,Canada
+CW00310,Ananya Ahmed,Rejoiner,Consultant,Legal,Consultant,Austin,None,2022-03-02,2022-05-19,23,88.28,397540,Project Beta,Yes,Project-Based,0.5,Pending,No,MGR0033,USA
+CW00311,Elena Johnson,Contractor,Temp Agency,Customer Success,Project Manager,Chicago,TechStaff Inc,2022-03-03,2023-02-21,19,196.35,237017,Digital Transformation,No,Restructure,3.6,Pending,Yes,MGR0009,USA
+CW00312,Hassan Ferreira,Contractor,Contractor,Marketing,Consultant,Seattle,GlobalTalent,2020-11-27,2021-02-12,1,68.06,183352,Project Alpha,No,Restructure,9.4,Yes,No,MGR0026,USA
+CW00313,Tariq Nakamura,Contractor,Consultant,Sales,Project Manager,Seattle,DirectSource,2023-07-14,2025-06-27,2,64.05,270991,Project Beta,Yes,Project-Based,9.8,Yes,No,MGR0032,Germany
+CW00314,James Lewis,Rejoiner,SOW Worker,Customer Success,Consultant,Austin,ProConsult,2019-11-21,2020-04-09,13,122.11,473911,CX Revamp,Yes,Business Need,8.6,No,No,MGR0023,Canada
+CW00315,Chris Roberts,Contractor,Consultant,Marketing,Consultant,Boston,ProConsult,2021-12-23,2022-12-19,9,44.67,428256,Data Platform,Yes,Boomerang Employee,8.0,No,No,MGR0047,UK
+CW00316,Sophia Wilson,Contractor,SOW Worker,Sales,Project Manager,Chicago,GlobalTalent,2021-01-24,2022-08-15,10,153.28,301839,ERP Implementation,Yes,Project-Based,5.7,Pending,No,MGR0008,USA
+CW00317,Elena Walker,Contractor,Contractor,Finance,Specialist,Atlanta,GlobalTalent,2020-01-07,2021-03-17,11,188.0,251707,Data Platform,Yes,Seasonal,1.8,Pending,Yes,MGR0036,Australia
+CW00318,Mia Harris,Contractor,Freelancer,IT,Consultant,New York,DirectSource,2024-05-08,2025-03-17,23,181.61,317745,Project Beta,No,Project-Based,4.3,Pending,No,MGR0003,USA
+CW00319,Amara Singh,Rejoiner,SOW Worker,Legal,Engineer,Austin,GlobalTalent,2024-05-17,2025-03-18,14,51.51,390680,CX Revamp,No,Restructure,1.1,Yes,No,MGR0013,USA
+CW00320,Yuki Wilson,Rejoiner,Contractor,Engineering,Project Manager,Chicago,DirectSource,2019-11-03,2020-02-23,21,102.54,264599,Data Platform,No,Business Need,0.4,Pending,No,MGR0038,UK
+CW00321,Olivia Williams,Rejoiner,Temp Agency,Marketing,Engineer,Dallas,TechStaff Inc,2022-05-30,2022-11-13,20,199.94,361966,ERP Implementation,Yes,Project-Based,1.4,Yes,No,MGR0046,USA
+CW00322,Priya Patel,Rejoiner,Freelancer,Customer Success,Engineer,Dallas,GlobalTalent,2024-11-15,2026-02-23,3,56.32,275639,Project Alpha,Yes,Boomerang Employee,4.6,No,Yes,MGR0032,India
+CW00323,Ethan Ahmed,Contractor,SOW Worker,Finance,Specialist,Boston,GlobalTalent,2019-01-11,2019-11-07,22,64.38,266470,Cloud Migration,Yes,Project-Based,2.6,Yes,No,MGR0002,India
+CW00324,Isabella Green,Rejoiner,Consultant,HR,Project Manager,Seattle,TechStaff Inc,2023-02-05,2024-10-23,10,128.82,173353,Cloud Migration,Yes,Seasonal,9.3,Yes,No,MGR0019,Brazil
+CW00325,David Hernandez,Rejoiner,Freelancer,Data Science,Specialist,Chicago,TechStaff Inc,2023-02-02,2024-06-20,19,125.91,389174,Digital Transformation,Yes,Project-Based,4.4,Yes,Yes,MGR0011,India
+CW00326,Jake Ferreira,Rejoiner,Contractor,Legal,Analyst,Denver,FlexWork,2025-04-02,2025-06-30,3,174.86,320098,CX Revamp,Yes,Business Need,7.0,Yes,No,MGR0002,India
+CW00327,Olivia Hall,Contractor,Contractor,Engineering,Engineer,Chicago,FlexWork,2019-07-22,2021-02-14,21,192.17,318975,Project Alpha,Yes,Seasonal,8.2,No,No,MGR0029,Germany
+CW00328,Ananya Jackson,Contractor,Consultant,Design,Engineer,New York,DirectSource,2019-02-25,2020-12-06,3,199.54,429301,Project Beta,Yes,Project-Based,5.8,No,No,MGR0017,Canada
+CW00329,Sofia Scott,Contractor,Consultant,Customer Success,Consultant,Boston,GlobalTalent,2019-06-01,2020-01-01,18,146.73,420461,Project Beta,Yes,Restructure,3.8,No,Yes,MGR0017,USA
+CW00330,Arjun Wright,Rejoiner,SOW Worker,Legal,Project Manager,Boston,None,2025-03-15,2025-05-08,17,78.45,287689,Digital Transformation,Yes,Seasonal,7.1,No,No,MGR0013,Germany
+CW00331,Diego Smith,Contractor,SOW Worker,Finance,Engineer,Boston,TechStaff Inc,2019-05-19,2020-12-26,7,79.7,9497,ERP Implementation,Yes,Business Need,5.4,Yes,Yes,MGR0050,UK
+CW00332,Diego Young,Rejoiner,SOW Worker,Marketing,Consultant,Dallas,DirectSource,2019-07-22,2020-05-05,9,160.08,370458,Digital Transformation,No,Boomerang Employee,0.9,Yes,No,MGR0023,Germany
+CW00333,Aisha Lewis,Rejoiner,Consultant,Design,Consultant,Seattle,None,2025-01-05,2025-11-29,18,158.47,412086,ERP Implementation,Yes,Business Need,4.6,No,No,MGR0037,UK
+CW00334,David Ahmed,Rejoiner,Contractor,Data Science,Project Manager,Seattle,TechStaff Inc,2025-05-15,2025-08-27,4,158.07,160894,Digital Transformation,Yes,Seasonal,3.1,No,Yes,MGR0010,UK
+CW00335,Wei Hernandez,Contractor,Consultant,Engineering,Analyst,New York,None,2023-12-12,2024-08-13,22,151.8,179191,Project Beta,No,Project-Based,3.3,Yes,No,MGR0021,India
+CW00336,Jasmine Clark,Contractor,Consultant,Design,Specialist,San Francisco,GlobalTalent,2020-08-21,2022-01-07,24,84.35,487770,Data Platform,Yes,Seasonal,6.1,Pending,No,MGR0007,Canada
+CW00337,Lucas Wright,Rejoiner,SOW Worker,IT,Consultant,Denver,TechStaff Inc,2021-04-29,2022-05-19,3,37.39,11831,Project Alpha,Yes,Boomerang Employee,1.4,Pending,No,MGR0036,Canada
+CW00338,Priya Walker,Rejoiner,Temp Agency,HR,Specialist,Atlanta,FlexWork,2021-09-10,2023-04-24,4,35.38,103068,ERP Implementation,No,Seasonal,9.9,Yes,No,MGR0015,UK
+CW00339,Lucas Young,Rejoiner,Contractor,Customer Success,Project Manager,Austin,GlobalTalent,2023-07-04,2024-03-08,11,179.46,218035,Cloud Migration,Yes,Restructure,8.6,No,No,MGR0029,Brazil
+CW00340,Amara Harris,Rejoiner,Temp Agency,IT,Analyst,Denver,TechStaff Inc,2021-07-31,2023-05-08,16,57.59,475833,CX Revamp,No,Business Need,5.1,Yes,No,MGR0012,Germany
+CW00341,Soren Young,Rejoiner,SOW Worker,IT,Analyst,Atlanta,ProConsult,2019-03-27,2020-12-31,15,194.89,416795,Project Alpha,No,Project-Based,1.8,No,No,MGR0007,India
+CW00342,Chris Carter,Contractor,Consultant,Design,Analyst,Chicago,None,2021-10-28,2023-08-05,5,187.07,34390,Project Alpha,No,Business Need,3.1,Yes,Yes,MGR0031,Canada
+CW00343,Rohan Sharma,Contractor,SOW Worker,Legal,Engineer,New York,DirectSource,2025-05-02,2026-07-31,12,36.77,489670,Digital Transformation,Yes,Business Need,0.9,No,No,MGR0034,USA
+CW00344,Chris Turner,Rejoiner,Temp Agency,Marketing,Engineer,Remote,ProConsult,2024-01-15,2024-06-18,9,33.31,49877,ERP Implementation,Yes,Boomerang Employee,6.3,No,Yes,MGR0017,USA
+CW00345,Priya Ivanov,Rejoiner,SOW Worker,HR,Analyst,Austin,FlexWork,2021-08-23,2022-09-13,1,39.5,369279,Digital Transformation,No,Business Need,4.2,Yes,Yes,MGR0009,Brazil
+CW00346,Lucas Hernandez,Rejoiner,Contractor,Sales,Project Manager,Atlanta,GlobalTalent,2020-09-17,2021-12-15,7,46.88,355025,Project Beta,No,Boomerang Employee,0.1,No,No,MGR0008,Australia
+CW00347,Nadia Harris,Contractor,Temp Agency,Legal,Engineer,Denver,GlobalTalent,2022-04-28,2022-07-21,6,103.12,109484,ERP Implementation,No,Seasonal,8.8,Pending,Yes,MGR0021,India
+CW00348,Arjun Kim,Rejoiner,Contractor,Design,Consultant,Boston,TechStaff Inc,2025-02-14,2025-10-02,16,149.52,417912,ERP Implementation,No,Business Need,2.3,No,No,MGR0025,India
+CW00349,Mia Robinson,Rejoiner,Freelancer,Design,Project Manager,Seattle,None,2021-03-05,2022-12-06,7,65.2,40165,Cloud Migration,No,Project-Based,0.3,Yes,Yes,MGR0043,USA
+CW00350,Fatima Harris,Contractor,Contractor,Data Science,Analyst,Dallas,FlexWork,2022-07-22,2023-12-08,13,148.31,129030,Cloud Migration,No,Restructure,7.6,Pending,Yes,MGR0021,Germany
+CW00351,Emma Wright,Contractor,Contractor,Engineering,Specialist,Dallas,None,2022-11-22,2024-07-29,24,51.25,26798,CX Revamp,No,Restructure,8.2,Yes,No,MGR0033,Brazil
+CW00352,Marcus Johnson,Contractor,SOW Worker,Marketing,Project Manager,Dallas,DirectSource,2021-08-05,2022-08-05,24,107.53,149347,Digital Transformation,Yes,Business Need,8.4,No,No,MGR0045,Brazil
+CW00353,Layla Perez,Rejoiner,Temp Agency,Operations,Project Manager,Austin,None,2023-01-11,2023-09-21,4,70.67,249405,Project Alpha,No,Boomerang Employee,3.7,Yes,No,MGR0035,Canada
+CW00354,Ingrid Green,Rejoiner,Temp Agency,Product,Engineer,Austin,GlobalTalent,2019-05-28,2020-05-25,17,126.43,156607,CX Revamp,Yes,Restructure,1.6,Pending,No,MGR0023,USA
+CW00355,Ingrid Adams,Contractor,Contractor,Finance,Consultant,Chicago,TechStaff Inc,2019-11-04,2020-11-19,23,186.5,248278,CX Revamp,Yes,Boomerang Employee,9.4,Yes,Yes,MGR0004,UK
+CW00356,Tariq Nakamura,Rejoiner,SOW Worker,Product,Project Manager,Remote,FlexWork,2023-07-05,2024-07-30,10,97.24,11008,Project Beta,Yes,Boomerang Employee,9.6,Pending,Yes,MGR0029,Canada
+CW00357,Zara Scott,Rejoiner,Freelancer,IT,Project Manager,Dallas,ProConsult,2023-04-02,2024-01-07,6,146.64,37497,Cloud Migration,No,Seasonal,6.0,Pending,No,MGR0001,UK
+CW00358,Ananya Walker,Rejoiner,Consultant,Product,Consultant,Boston,DirectSource,2025-01-02,2025-05-30,6,35.53,456570,ERP Implementation,Yes,Business Need,0.0,Yes,No,MGR0039,USA
+CW00359,Ingrid Nelson,Rejoiner,Freelancer,Data Science,Specialist,Seattle,None,2023-07-19,2025-04-08,6,55.36,26917,Project Alpha,No,Project-Based,8.8,No,No,MGR0018,UK
+CW00360,Rohan Nelson,Rejoiner,SOW Worker,Product,Engineer,Remote,TechStaff Inc,2024-03-11,2025-03-05,12,77.61,255113,Project Beta,Yes,Project-Based,6.7,No,Yes,MGR0047,Canada
+CW00361,Mia Ahmed,Rejoiner,Temp Agency,Customer Success,Consultant,Atlanta,None,2022-12-15,2023-12-19,1,115.21,75494,ERP Implementation,No,Seasonal,9.3,Yes,No,MGR0022,Australia
+CW00362,James Lee,Contractor,Contractor,Sales,Project Manager,Chicago,GlobalTalent,2024-04-15,2025-09-12,6,61.71,478706,Project Alpha,No,Project-Based,3.4,Pending,Yes,MGR0015,UK
+CW00363,Liam Harris,Rejoiner,SOW Worker,Data Science,Specialist,Remote,None,2025-03-21,2026-07-31,10,184.63,407488,Cloud Migration,Yes,Seasonal,8.4,Pending,No,MGR0014,Germany
+CW00364,Raj Andersen,Contractor,SOW Worker,Customer Success,Engineer,Remote,DirectSource,2024-01-22,2024-10-25,13,182.11,247776,ERP Implementation,Yes,Boomerang Employee,6.4,Yes,No,MGR0003,India
+CW00365,Olivia Mitchell,Contractor,Temp Agency,Product,Engineer,Chicago,DirectSource,2023-08-31,2025-06-01,13,148.56,422517,Cloud Migration,No,Business Need,3.5,Pending,Yes,MGR0002,Canada
+CW00366,Liam Smith,Contractor,Contractor,Customer Success,Analyst,Dallas,TechStaff Inc,2022-06-19,2024-05-11,24,49.69,215761,Cloud Migration,Yes,Restructure,4.3,No,No,MGR0001,Australia
+CW00367,Andre Adams,Contractor,Consultant,Marketing,Engineer,Seattle,DirectSource,2021-09-18,2023-01-23,23,58.53,241173,Data Platform,Yes,Restructure,7.8,Yes,No,MGR0044,Brazil
+CW00368,James Hall,Contractor,Freelancer,Marketing,Project Manager,Dallas,FlexWork,2024-06-16,2024-09-01,6,35.85,134635,ERP Implementation,No,Restructure,2.5,Yes,Yes,MGR0047,Australia
+CW00369,James Sharma,Rejoiner,Temp Agency,Design,Engineer,San Francisco,None,2021-05-15,2021-10-18,2,182.02,100555,Project Beta,Yes,Business Need,8.0,Yes,Yes,MGR0033,Australia
+CW00370,Diego Chen,Contractor,SOW Worker,Finance,Project Manager,San Francisco,GlobalTalent,2023-05-06,2023-12-19,24,94.72,164613,Project Alpha,Yes,Boomerang Employee,0.6,Yes,No,MGR0032,Germany
+CW00371,James Lee,Contractor,SOW Worker,Marketing,Engineer,San Francisco,GlobalTalent,2019-12-26,2021-03-07,16,163.96,457935,Digital Transformation,Yes,Seasonal,1.4,Pending,No,MGR0033,UK
+CW00372,Sara Ferreira,Contractor,Consultant,Customer Success,Specialist,Seattle,DirectSource,2024-09-11,2026-06-24,3,110.04,211836,Project Alpha,No,Seasonal,1.9,No,No,MGR0012,USA
+CW00373,Emma Walker,Contractor,Temp Agency,IT,Project Manager,Austin,TechStaff Inc,2020-02-17,2020-12-28,14,177.09,50512,Data Platform,Yes,Restructure,7.9,Yes,Yes,MGR0014,UK
+CW00374,Kevin Müller,Contractor,Freelancer,HR,Analyst,Denver,TechStaff Inc,2020-11-18,2020-12-20,17,75.56,395802,Project Beta,Yes,Boomerang Employee,7.4,Pending,Yes,MGR0043,India
+CW00375,Aisha Robinson,Rejoiner,Consultant,Operations,Consultant,Seattle,FlexWork,2019-07-30,2020-01-21,12,195.99,328027,Cloud Migration,No,Business Need,1.2,No,Yes,MGR0032,Australia
+CW00376,Ethan Perez,Contractor,Freelancer,Legal,Engineer,Dallas,GlobalTalent,2020-05-25,2021-06-13,3,91.65,148559,Project Alpha,Yes,Project-Based,4.3,Yes,Yes,MGR0019,Australia
+CW00377,Carlos Ferreira,Rejoiner,Temp Agency,Customer Success,Specialist,Denver,FlexWork,2022-11-29,2023-09-27,14,116.86,243118,CX Revamp,Yes,Seasonal,8.6,Yes,No,MGR0046,Brazil
+CW00378,Ethan White,Contractor,Contractor,IT,Analyst,Dallas,ProConsult,2019-10-22,2021-10-15,18,117.61,139784,Project Beta,Yes,Business Need,7.4,No,Yes,MGR0009,Germany
+CW00379,Isabella Ahmed,Contractor,Temp Agency,Operations,Specialist,Chicago,GlobalTalent,2024-11-10,2025-12-29,9,85.6,336210,Digital Transformation,No,Business Need,8.0,Yes,No,MGR0014,USA
+CW00380,Jasmine Young,Contractor,Temp Agency,Legal,Consultant,Boston,None,2022-06-15,2024-05-01,22,44.64,212043,Project Beta,No,Business Need,0.3,Yes,Yes,MGR0010,Canada
+CW00381,Amara Patel,Rejoiner,Freelancer,Engineering,Engineer,Austin,TechStaff Inc,2024-04-24,2024-09-05,22,40.43,272377,Project Alpha,Yes,Business Need,5.8,Pending,Yes,MGR0024,India
+CW00382,Aarav Singh,Contractor,Temp Agency,Legal,Consultant,Denver,None,2019-05-12,2020-11-15,11,74.6,203764,CX Revamp,Yes,Project-Based,2.8,No,No,MGR0008,India
+CW00383,Amir Nelson,Rejoiner,SOW Worker,Marketing,Specialist,San Francisco,None,2024-05-18,2024-07-19,21,102.32,275013,Data Platform,No,Boomerang Employee,4.4,Pending,Yes,MGR0049,Canada
+CW00384,Jake Hall,Rejoiner,SOW Worker,Marketing,Engineer,New York,FlexWork,2019-11-02,2021-09-18,14,130.29,382507,Cloud Migration,No,Project-Based,3.2,No,Yes,MGR0048,USA
+CW00385,Kevin Walker,Contractor,Consultant,Data Science,Specialist,Boston,DirectSource,2025-06-24,2026-07-31,18,76.96,249935,Data Platform,No,Restructure,1.0,No,Yes,MGR0035,Australia
+CW00386,Fatima Robinson,Contractor,Contractor,IT,Analyst,Austin,TechStaff Inc,2020-10-08,2021-01-25,8,183.61,461047,CX Revamp,Yes,Business Need,3.4,No,Yes,MGR0046,Brazil
+CW00387,Sara Garcia,Contractor,SOW Worker,Finance,Analyst,Remote,None,2025-03-29,2026-02-28,1,122.01,86133,Project Alpha,No,Seasonal,7.5,No,No,MGR0037,USA
+CW00388,Hannah King,Contractor,Freelancer,Engineering,Specialist,Denver,TechStaff Inc,2025-04-04,2026-07-31,14,78.03,216214,ERP Implementation,No,Restructure,8.7,Yes,No,MGR0033,USA
+CW00389,Marcus Harris,Rejoiner,Contractor,Product,Consultant,Boston,ProConsult,2021-04-15,2021-12-18,19,64.67,136132,Digital Transformation,Yes,Project-Based,2.3,No,No,MGR0005,Brazil
+CW00390,Ananya Wilson,Contractor,Temp Agency,Sales,Engineer,Austin,FlexWork,2023-02-15,2023-12-11,15,118.77,166433,ERP Implementation,No,Seasonal,1.9,Yes,No,MGR0050,India
+CW00391,Yuki Robinson,Contractor,Temp Agency,Customer Success,Engineer,Atlanta,DirectSource,2022-02-07,2023-05-21,7,41.42,5959,Project Alpha,Yes,Boomerang Employee,2.9,No,No,MGR0012,UK
+CW00392,Omar Adams,Contractor,SOW Worker,Design,Project Manager,Seattle,FlexWork,2022-12-06,2024-09-03,9,101.7,135058,Project Beta,No,Business Need,2.0,Yes,Yes,MGR0027,Germany
+CW00393,Isabella Taylor,Contractor,SOW Worker,Legal,Consultant,Remote,DirectSource,2020-01-22,2020-05-22,17,80.11,480627,Project Alpha,No,Business Need,0.5,Pending,No,MGR0021,UK
+CW00394,Maria Perez,Rejoiner,Freelancer,HR,Consultant,Dallas,FlexWork,2021-11-27,2023-04-12,20,41.84,110414,Data Platform,No,Boomerang Employee,7.7,Pending,No,MGR0005,Brazil
+CW00395,Fatima Wilson,Rejoiner,Consultant,Marketing,Specialist,Atlanta,None,2023-06-24,2025-03-08,20,41.96,460426,Project Alpha,No,Seasonal,0.9,Pending,Yes,MGR0044,USA
+CW00396,Amir Baker,Rejoiner,Contractor,Engineering,Consultant,Chicago,GlobalTalent,2020-01-13,2021-09-21,5,99.4,269423,Cloud Migration,Yes,Boomerang Employee,4.2,No,No,MGR0001,Germany
+CW00397,Emma Roberts,Contractor,Temp Agency,Sales,Specialist,Chicago,FlexWork,2019-04-10,2019-06-13,1,92.15,406269,Digital Transformation,Yes,Restructure,2.0,Yes,Yes,MGR0014,Germany
+CW00398,Aisha White,Rejoiner,Consultant,Data Science,Consultant,San Francisco,TechStaff Inc,2020-11-28,2021-04-28,8,58.52,470586,CX Revamp,No,Project-Based,4.7,Pending,Yes,MGR0009,Brazil
+CW00399,Diego Garcia,Rejoiner,Contractor,Product,Analyst,Seattle,ProConsult,2024-04-20,2026-02-28,17,160.98,98126,Project Beta,Yes,Seasonal,0.4,Pending,Yes,MGR0039,UK
+CW00400,Ingrid Young,Contractor,SOW Worker,Sales,Analyst,San Francisco,ProConsult,2019-09-04,2021-06-17,11,84.47,57032,Data Platform,No,Restructure,4.7,Pending,Yes,MGR0030,India
+CW00401,Ananya Nelson,Rejoiner,Contractor,Customer Success,Engineer,Remote,ProConsult,2020-05-15,2022-04-20,20,189.27,225527,Project Alpha,No,Project-Based,9.2,Pending,Yes,MGR0015,Brazil
+CW00402,Mia Taylor,Rejoiner,Consultant,Sales,Consultant,Boston,TechStaff Inc,2024-01-07,2025-12-04,6,104.83,241949,Project Alpha,Yes,Seasonal,9.2,Pending,No,MGR0005,Germany
+CW00403,Olivia Green,Rejoiner,Contractor,HR,Consultant,San Francisco,GlobalTalent,2024-09-02,2024-11-03,14,66.65,216873,ERP Implementation,Yes,Restructure,2.0,Pending,No,MGR0043,India
+CW00404,Jasmine Nakamura,Rejoiner,SOW Worker,Sales,Consultant,Boston,None,2019-02-03,2020-03-25,7,114.6,35212,Project Beta,No,Seasonal,0.4,No,Yes,MGR0033,USA
+CW00405,Liam Young,Rejoiner,SOW Worker,Sales,Project Manager,Seattle,FlexWork,2022-12-02,2023-10-27,13,43.62,456861,Project Beta,No,Project-Based,0.1,Yes,Yes,MGR0027,USA
+CW00406,Jake Kim,Contractor,Consultant,Engineering,Analyst,Atlanta,FlexWork,2021-02-19,2022-03-24,2,51.04,422972,Project Beta,Yes,Seasonal,6.8,No,Yes,MGR0006,India
+CW00407,Fatima Brown,Rejoiner,SOW Worker,Finance,Engineer,Boston,TechStaff Inc,2019-12-14,2020-07-10,10,55.02,236889,CX Revamp,Yes,Restructure,0.2,No,Yes,MGR0014,Australia
+CW00408,Sophia Brown,Rejoiner,SOW Worker,Sales,Specialist,Seattle,None,2020-04-26,2021-07-13,24,134.07,384796,CX Revamp,No,Seasonal,0.9,No,Yes,MGR0014,Australia
+CW00409,Chloe Scott,Rejoiner,SOW Worker,Sales,Consultant,Seattle,FlexWork,2022-09-19,2023-02-28,6,117.78,181955,CX Revamp,Yes,Project-Based,9.0,Yes,Yes,MGR0039,Australia
+CW00410,Elena White,Rejoiner,Freelancer,Product,Analyst,San Francisco,DirectSource,2020-10-01,2022-07-14,12,121.48,244998,CX Revamp,Yes,Business Need,9.8,Yes,No,MGR0041,USA
+CW00411,Tyler Lewis,Rejoiner,Freelancer,Data Science,Engineer,Chicago,ProConsult,2023-06-29,2025-04-20,3,64.26,194544,Cloud Migration,No,Restructure,4.7,No,Yes,MGR0020,India
+CW00412,Diego Harris,Contractor,Contractor,Product,Analyst,Boston,FlexWork,2024-03-20,2025-01-21,5,101.41,360968,Cloud Migration,Yes,Project-Based,3.0,Pending,Yes,MGR0025,Australia
+CW00413,Priya Sharma,Contractor,Consultant,Customer Success,Analyst,New York,TechStaff Inc,2019-12-14,2020-12-20,24,88.74,63553,Cloud Migration,Yes,Project-Based,0.7,No,No,MGR0022,USA
+CW00414,Arjun Costa,Contractor,Consultant,IT,Specialist,Seattle,GlobalTalent,2020-06-09,2022-01-13,20,58.53,225969,Digital Transformation,Yes,Seasonal,0.2,No,Yes,MGR0029,Brazil
+CW00415,Aisha Roberts,Rejoiner,Contractor,Product,Engineer,Chicago,DirectSource,2021-12-02,2023-11-02,21,130.36,484436,Digital Transformation,Yes,Restructure,4.4,Pending,Yes,MGR0037,Australia
+CW00416,Mia Johnson,Rejoiner,Consultant,Data Science,Analyst,Atlanta,None,2021-10-06,2022-01-25,1,71.92,491603,Digital Transformation,Yes,Business Need,9.2,No,No,MGR0015,Brazil
+CW00417,Noah Green,Contractor,Freelancer,IT,Consultant,Remote,FlexWork,2019-05-14,2019-08-06,21,70.78,287549,Digital Transformation,No,Project-Based,4.9,Yes,No,MGR0021,Germany
+CW00418,Mia Hernandez,Contractor,SOW Worker,Product,Consultant,New York,TechStaff Inc,2021-09-25,2022-08-13,12,184.65,471448,Project Alpha,No,Seasonal,2.8,No,Yes,MGR0044,UK
+CW00419,Wei Carter,Rejoiner,Temp Agency,Marketing,Engineer,Dallas,DirectSource,2021-06-13,2023-05-16,24,131.93,461960,Digital Transformation,Yes,Business Need,7.0,Yes,No,MGR0027,India
+CW00420,Marcus Thomas,Contractor,Freelancer,Operations,Specialist,Dallas,None,2023-08-06,2025-04-19,13,68.76,445017,Project Alpha,No,Seasonal,4.8,No,Yes,MGR0018,Brazil
+CW00421,Raj Roberts,Contractor,SOW Worker,IT,Engineer,Austin,GlobalTalent,2019-11-11,2020-11-01,11,61.98,324632,Data Platform,Yes,Business Need,6.7,No,Yes,MGR0003,Canada
+CW00422,Ingrid Perez,Rejoiner,Consultant,Sales,Engineer,New York,ProConsult,2024-04-14,2024-11-17,13,58.13,282356,Digital Transformation,No,Boomerang Employee,4.5,No,No,MGR0027,Germany
+CW00423,Wei Hernandez,Contractor,Consultant,Sales,Project Manager,New York,GlobalTalent,2023-07-10,2024-06-03,1,83.44,364969,Project Alpha,No,Boomerang Employee,6.8,Yes,Yes,MGR0030,Brazil
+CW00424,Diego White,Contractor,Consultant,Customer Success,Analyst,Remote,TechStaff Inc,2020-02-16,2020-12-18,13,99.96,32435,Project Beta,No,Restructure,9.9,Yes,Yes,MGR0008,UK
+CW00425,Diego White,Contractor,SOW Worker,Product,Consultant,Denver,ProConsult,2025-06-05,2026-07-31,23,198.14,70777,Project Beta,Yes,Seasonal,1.6,Yes,Yes,MGR0040,Germany
+CW00426,Carlos Perez,Contractor,Consultant,Operations,Project Manager,Boston,GlobalTalent,2021-07-23,2021-10-10,18,142.6,41277,Data Platform,No,Restructure,4.8,No,Yes,MGR0032,Brazil
+CW00427,Hannah Johnson,Rejoiner,Temp Agency,Data Science,Project Manager,Atlanta,GlobalTalent,2022-07-30,2023-09-08,18,118.55,479962,CX Revamp,Yes,Project-Based,6.4,Pending,Yes,MGR0028,Canada
+CW00428,Nadia Nelson,Contractor,Consultant,Design,Project Manager,Seattle,TechStaff Inc,2020-06-27,2021-07-04,8,89.91,247544,Project Beta,Yes,Project-Based,4.5,No,Yes,MGR0013,Canada
+CW00429,Sara Perez,Contractor,Freelancer,Operations,Engineer,New York,None,2023-12-26,2025-12-23,9,155.44,422182,Project Alpha,No,Restructure,7.6,No,No,MGR0027,USA
+CW00430,David Nelson,Contractor,Temp Agency,Operations,Engineer,Dallas,TechStaff Inc,2020-03-29,2021-12-04,24,164.56,206771,CX Revamp,No,Restructure,3.1,Yes,Yes,MGR0047,Canada
+CW00431,Olivia Baker,Contractor,SOW Worker,Engineering,Project Manager,San Francisco,GlobalTalent,2019-10-20,2020-12-02,13,130.88,197980,Project Beta,No,Restructure,4.3,Pending,Yes,MGR0032,Canada
+CW00432,Nina Harris,Rejoiner,Contractor,Design,Consultant,Dallas,GlobalTalent,2020-04-18,2020-08-27,11,108.24,269557,Project Alpha,No,Boomerang Employee,4.2,No,No,MGR0017,Germany
+CW00433,James Müller,Contractor,Contractor,Product,Project Manager,Seattle,ProConsult,2019-05-21,2020-07-09,15,134.9,464008,Digital Transformation,No,Business Need,3.0,No,No,MGR0035,Brazil
+CW00434,Kevin Robinson,Rejoiner,Temp Agency,Data Science,Analyst,Austin,GlobalTalent,2019-12-31,2020-10-09,1,187.67,185844,Project Beta,Yes,Seasonal,5.6,No,Yes,MGR0047,India
+CW00435,Aarav Thomas,Rejoiner,SOW Worker,Design,Consultant,Dallas,None,2020-07-25,2020-12-31,3,145.36,201323,Cloud Migration,Yes,Boomerang Employee,3.9,No,Yes,MGR0043,Australia
+CW00436,Elena Robinson,Rejoiner,Consultant,Customer Success,Specialist,Dallas,ProConsult,2020-03-02,2020-10-10,20,197.93,333710,Project Alpha,No,Seasonal,9.7,Pending,Yes,MGR0017,Brazil
+CW00437,Emma Green,Rejoiner,SOW Worker,Customer Success,Consultant,Austin,DirectSource,2025-01-20,2025-07-18,8,125.68,44992,ERP Implementation,Yes,Boomerang Employee,1.9,No,No,MGR0014,Brazil
+CW00438,Leila Walker,Rejoiner,Freelancer,IT,Specialist,Remote,TechStaff Inc,2019-08-21,2020-10-26,7,116.47,27256,CX Revamp,No,Business Need,4.5,Yes,Yes,MGR0008,Brazil
+CW00439,Hassan Carter,Contractor,Consultant,Marketing,Consultant,Dallas,None,2025-05-25,2026-07-31,5,67.85,400215,Data Platform,Yes,Business Need,1.5,Pending,Yes,MGR0043,Australia
+CW00440,Layla Ivanov,Contractor,Contractor,Finance,Consultant,New York,DirectSource,2025-07-18,2026-03-16,10,81.98,155903,Digital Transformation,No,Restructure,6.1,No,Yes,MGR0039,India
+CW00441,Fatima Jackson,Rejoiner,Contractor,Design,Engineer,Seattle,DirectSource,2025-06-05,2026-07-31,4,163.84,167310,ERP Implementation,No,Project-Based,1.8,Yes,No,MGR0044,India
+CW00442,Mia Ali,Contractor,SOW Worker,Product,Analyst,New York,GlobalTalent,2020-08-27,2021-11-24,19,33.55,381728,Project Beta,No,Business Need,3.3,No,No,MGR0011,UK
+CW00443,Raj Lewis,Rejoiner,Freelancer,Product,Engineer,San Francisco,ProConsult,2019-12-11,2021-03-16,18,179.52,409131,Digital Transformation,No,Business Need,4.3,No,Yes,MGR0012,USA
+CW00444,Zara Thomas,Rejoiner,Freelancer,Marketing,Analyst,Remote,None,2019-04-12,2019-08-22,9,113.59,411917,Project Alpha,Yes,Project-Based,5.1,Pending,Yes,MGR0037,India
+CW00445,Diego Martinez,Contractor,SOW Worker,Sales,Specialist,Austin,ProConsult,2019-05-11,2020-02-26,5,53.05,72305,CX Revamp,Yes,Project-Based,8.3,Pending,Yes,MGR0029,Germany
+CW00446,Jake Garcia,Contractor,Freelancer,HR,Engineer,New York,None,2019-09-29,2019-11-16,12,88.41,349727,Cloud Migration,Yes,Business Need,1.8,Pending,No,MGR0043,USA
+CW00447,Nadia Brown,Contractor,Contractor,Engineering,Consultant,Remote,FlexWork,2025-07-31,2026-07-31,15,121.01,30718,Cloud Migration,Yes,Project-Based,8.7,Pending,Yes,MGR0033,Canada
+CW00448,Zara Nakamura,Contractor,Consultant,Engineering,Engineer,Atlanta,FlexWork,2023-12-07,2024-02-12,8,54.9,192792,Project Alpha,No,Business Need,7.1,Pending,No,MGR0029,Australia
+CW00449,Omar Wright,Rejoiner,SOW Worker,Product,Analyst,Seattle,DirectSource,2024-02-24,2026-02-05,8,184.36,54594,Digital Transformation,No,Boomerang Employee,1.4,Pending,Yes,MGR0029,India
+CW00450,Sophia Turner,Rejoiner,SOW Worker,Marketing,Specialist,Remote,TechStaff Inc,2019-09-29,2021-03-06,6,93.9,104360,ERP Implementation,Yes,Business Need,6.4,Pending,Yes,MGR0043,UK
+CW00451,Rohan Carter,Rejoiner,Freelancer,Design,Consultant,Boston,None,2022-06-26,2022-12-19,21,136.41,394945,ERP Implementation,Yes,Seasonal,8.2,No,No,MGR0026,Germany
+CW00452,Carlos King,Rejoiner,Contractor,Marketing,Consultant,San Francisco,FlexWork,2021-07-18,2022-09-04,14,89.2,163681,ERP Implementation,No,Project-Based,8.6,Pending,Yes,MGR0014,USA
+CW00453,Jasmine Müller,Contractor,SOW Worker,Engineering,Project Manager,Remote,None,2020-04-25,2022-03-05,7,36.18,449727,ERP Implementation,Yes,Seasonal,0.8,Yes,No,MGR0020,Brazil
+CW00454,Nina Patel,Rejoiner,SOW Worker,Engineering,Consultant,Boston,DirectSource,2024-02-14,2025-05-18,12,135.77,393585,Project Beta,No,Project-Based,8.6,Yes,Yes,MGR0026,USA
+CW00455,Aarav Andersen,Contractor,Contractor,HR,Engineer,Seattle,FlexWork,2021-04-25,2021-05-29,18,78.08,255776,Digital Transformation,Yes,Project-Based,5.7,Pending,No,MGR0017,Australia
+CW00456,Olivia Thomas,Rejoiner,Temp Agency,Marketing,Specialist,Atlanta,TechStaff Inc,2024-01-13,2025-11-29,8,60.47,30394,Data Platform,No,Business Need,8.4,No,No,MGR0005,Australia
+CW00457,Noah Robinson,Contractor,Freelancer,Sales,Analyst,New York,ProConsult,2024-10-07,2026-05-22,17,122.28,285851,Project Beta,No,Boomerang Employee,2.6,Yes,No,MGR0043,UK
+CW00458,Kevin Ahmed,Rejoiner,SOW Worker,Customer Success,Consultant,New York,DirectSource,2023-05-25,2024-02-03,18,32.5,360345,CX Revamp,Yes,Seasonal,4.1,Pending,Yes,MGR0047,Germany
+CW00459,Rohan Robinson,Contractor,Temp Agency,HR,Engineer,Boston,TechStaff Inc,2021-05-15,2022-03-31,12,140.66,20182,Project Beta,Yes,Restructure,0.3,No,No,MGR0012,UK
+CW00460,Emma Singh,Rejoiner,Contractor,Sales,Consultant,San Francisco,GlobalTalent,2021-08-31,2023-07-28,15,116.02,396225,Data Platform,No,Boomerang Employee,5.1,Yes,Yes,MGR0050,Canada
+CW00461,Aarav Ivanov,Contractor,SOW Worker,HR,Analyst,Denver,GlobalTalent,2021-01-07,2021-10-22,9,71.44,405899,Project Beta,Yes,Boomerang Employee,7.4,No,Yes,MGR0007,Australia
+CW00462,Liam Wright,Rejoiner,SOW Worker,Finance,Analyst,Atlanta,GlobalTalent,2019-12-15,2020-02-27,21,87.46,178759,Data Platform,No,Boomerang Employee,2.1,Yes,No,MGR0019,Brazil
+CW00463,Soren Nakamura,Rejoiner,SOW Worker,Customer Success,Project Manager,San Francisco,GlobalTalent,2019-12-20,2020-02-24,4,31.44,434900,Data Platform,Yes,Business Need,9.9,No,Yes,MGR0016,Canada
+CW00464,Chris Thomas,Contractor,Consultant,Data Science,Specialist,San Francisco,FlexWork,2021-04-14,2021-10-18,5,69.13,182273,Data Platform,Yes,Seasonal,8.0,No,Yes,MGR0037,India
+CW00465,Leila Carter,Rejoiner,Freelancer,Engineering,Project Manager,New York,GlobalTalent,2025-05-25,2025-08-09,17,175.44,346892,Project Beta,No,Project-Based,3.2,No,No,MGR0030,Germany
+CW00466,Mia Walker,Contractor,SOW Worker,Design,Project Manager,New York,GlobalTalent,2020-01-20,2022-01-16,15,166.83,137351,Project Alpha,No,Project-Based,3.8,Yes,No,MGR0028,Canada
+CW00467,Amara Brown,Contractor,Freelancer,Marketing,Specialist,Atlanta,FlexWork,2021-09-23,2022-08-10,23,119.43,234948,Project Alpha,Yes,Business Need,3.1,No,Yes,MGR0002,Australia
+CW00468,Ananya White,Contractor,Freelancer,HR,Analyst,Boston,ProConsult,2024-08-18,2026-07-31,17,191.85,47367,Data Platform,No,Boomerang Employee,5.0,No,No,MGR0013,Canada
+CW00469,Soren Walker,Rejoiner,Contractor,Engineering,Specialist,Boston,FlexWork,2022-12-12,2023-05-27,13,134.06,73536,Cloud Migration,No,Boomerang Employee,0.3,Yes,Yes,MGR0042,USA
+CW00470,Chloe Lee,Rejoiner,SOW Worker,Data Science,Project Manager,Atlanta,DirectSource,2021-07-26,2023-07-26,6,111.38,73928,Project Beta,No,Boomerang Employee,6.2,Yes,No,MGR0014,Brazil
+CW00471,Fatima Johnson,Rejoiner,SOW Worker,Legal,Engineer,Remote,ProConsult,2020-10-20,2021-08-30,12,107.36,431271,Data Platform,Yes,Seasonal,9.1,Pending,No,MGR0031,Germany
+CW00472,Yuki Adams,Contractor,SOW Worker,Marketing,Consultant,Remote,DirectSource,2023-07-14,2025-01-13,10,132.35,204344,Project Alpha,Yes,Seasonal,4.7,Pending,No,MGR0028,India
+CW00473,Mia Kim,Rejoiner,Contractor,Finance,Specialist,Atlanta,ProConsult,2020-10-26,2022-09-23,4,121.8,17234,Digital Transformation,Yes,Project-Based,5.3,Pending,Yes,MGR0018,Canada
+CW00474,Carlos Nelson,Rejoiner,Contractor,Product,Project Manager,Boston,FlexWork,2020-10-10,2021-11-23,17,45.11,59005,Data Platform,No,Boomerang Employee,4.3,Pending,Yes,MGR0030,Canada
+CW00475,Ananya Wright,Contractor,SOW Worker,Sales,Specialist,Chicago,GlobalTalent,2023-08-04,2025-06-14,16,47.21,192382,Data Platform,Yes,Restructure,8.1,Pending,No,MGR0015,India
+CW00476,David Andersen,Rejoiner,Freelancer,Legal,Analyst,Denver,None,2022-08-22,2022-11-08,15,162.86,144056,CX Revamp,Yes,Boomerang Employee,7.0,No,Yes,MGR0034,Germany
+CW00477,Amara Green,Rejoiner,Contractor,Product,Analyst,Seattle,ProConsult,2022-07-02,2023-05-10,18,164.48,96970,Project Alpha,Yes,Project-Based,9.3,No,No,MGR0050,Australia
+CW00478,Soren Roberts,Contractor,Freelancer,HR,Project Manager,Seattle,DirectSource,2022-12-25,2024-03-28,3,59.61,339712,ERP Implementation,No,Project-Based,3.4,Pending,Yes,MGR0012,USA
+CW00479,Nina Smith,Contractor,Temp Agency,Product,Project Manager,San Francisco,TechStaff Inc,2022-05-18,2023-08-24,5,85.05,458543,Data Platform,Yes,Restructure,1.0,No,Yes,MGR0033,Brazil
+CW00480,Liam Nelson,Contractor,Consultant,HR,Consultant,Remote,TechStaff Inc,2021-09-21,2022-12-15,21,95.59,465239,ERP Implementation,Yes,Business Need,4.7,No,No,MGR0019,Brazil
+CW00481,Zara Adams,Contractor,Contractor,Legal,Analyst,San Francisco,TechStaff Inc,2021-10-31,2022-09-01,22,147.97,217614,Digital Transformation,No,Restructure,1.8,Pending,No,MGR0030,Germany
+CW00482,Tyler Taylor,Rejoiner,Contractor,Product,Analyst,Dallas,TechStaff Inc,2024-06-15,2026-06-07,1,60.22,184079,CX Revamp,Yes,Restructure,3.0,Yes,Yes,MGR0013,UK
+CW00483,Nadia Thomas,Contractor,SOW Worker,Operations,Consultant,Boston,FlexWork,2022-01-19,2023-05-27,22,150.72,258453,ERP Implementation,Yes,Restructure,0.8,Pending,No,MGR0005,Canada
+CW00484,Ryan Andersen,Rejoiner,Contractor,IT,Consultant,Boston,FlexWork,2019-06-18,2020-11-26,12,124.57,425323,CX Revamp,No,Restructure,2.2,Yes,Yes,MGR0013,India
+CW00485,Soren Garcia,Rejoiner,Freelancer,Finance,Analyst,San Francisco,DirectSource,2022-10-20,2023-06-02,5,78.25,15586,CX Revamp,Yes,Project-Based,4.2,Yes,No,MGR0015,UK
+CW00486,Chris Baker,Contractor,Freelancer,Sales,Project Manager,New York,None,2024-11-16,2025-05-08,12,45.69,302620,Project Alpha,Yes,Project-Based,9.3,Yes,Yes,MGR0026,Australia
+CW00487,Raj Thomas,Contractor,SOW Worker,Customer Success,Specialist,Atlanta,GlobalTalent,2019-11-28,2019-12-28,22,114.24,379884,CX Revamp,Yes,Boomerang Employee,2.9,Pending,Yes,MGR0023,Canada
+CW00488,Carlos Jackson,Contractor,SOW Worker,HR,Engineer,Dallas,FlexWork,2020-04-09,2020-08-09,19,50.58,406696,Project Beta,No,Restructure,2.4,Yes,No,MGR0033,Canada
+CW00489,Zara Wilson,Rejoiner,Consultant,Engineering,Specialist,New York,None,2023-08-04,2024-03-19,13,198.65,67263,Cloud Migration,Yes,Restructure,4.2,Pending,No,MGR0029,Canada
+CW00490,Wei Harris,Rejoiner,Consultant,Customer Success,Project Manager,Austin,TechStaff Inc,2021-09-01,2023-05-31,12,39.29,483682,Cloud Migration,No,Restructure,9.2,Pending,Yes,MGR0022,Germany
+CW00491,Soren King,Rejoiner,Contractor,Data Science,Specialist,Remote,TechStaff Inc,2019-06-24,2021-03-29,3,159.76,192283,CX Revamp,Yes,Project-Based,3.6,No,No,MGR0018,Canada
+CW00492,Marcus Harris,Rejoiner,Consultant,Sales,Analyst,Dallas,GlobalTalent,2024-03-19,2024-08-01,19,47.54,153046,Project Beta,Yes,Boomerang Employee,0.3,Pending,No,MGR0031,Brazil
+CW00493,Leila Patel,Contractor,SOW Worker,Engineering,Project Manager,San Francisco,GlobalTalent,2020-04-11,2021-06-12,18,127.75,420391,ERP Implementation,No,Boomerang Employee,5.8,Pending,No,MGR0014,India
+CW00494,Tyler Johnson,Rejoiner,Freelancer,Customer Success,Engineer,Atlanta,TechStaff Inc,2020-11-25,2021-07-27,23,70.26,221965,Cloud Migration,No,Restructure,3.6,Yes,No,MGR0040,USA
+CW00495,Soren Adams,Rejoiner,Freelancer,Data Science,Project Manager,San Francisco,DirectSource,2025-06-07,2025-11-04,21,164.33,321028,Cloud Migration,No,Restructure,0.8,Pending,No,MGR0026,UK
+CW00496,Leila Thomas,Contractor,SOW Worker,Operations,Analyst,Atlanta,TechStaff Inc,2025-04-03,2025-05-07,16,149.73,95979,Data Platform,Yes,Restructure,7.3,No,Yes,MGR0041,India
+CW00497,Rohan Ahmed,Rejoiner,Temp Agency,Customer Success,Specialist,Chicago,DirectSource,2019-02-24,2019-12-04,3,60.79,165222,Data Platform,No,Business Need,7.2,No,Yes,MGR0003,Brazil
+CW00498,Layla Young,Contractor,Freelancer,Product,Project Manager,Dallas,ProConsult,2023-07-05,2024-02-13,4,141.15,414511,Cloud Migration,No,Seasonal,8.2,Pending,No,MGR0034,Germany
+CW00499,Hannah Patel,Contractor,SOW Worker,Design,Analyst,Dallas,None,2019-01-24,2019-02-26,15,126.06,455861,Project Alpha,No,Seasonal,9.5,Pending,No,MGR0007,Brazil
+CW00500,David Wilson,Rejoiner,Contractor,Legal,Specialist,Denver,None,2019-05-09,2020-12-20,8,79.89,72565,ERP Implementation,No,Restructure,7.2,Pending,Yes,MGR0016,UK

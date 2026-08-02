@@ -1,0 +1,1501 @@
+response_id,employee_id,survey_type,survey_date,department,job_level,location,engagement_score,wellbeing_score,manager_score,dei_inclusion_score,growth_score,workload_score,eNPS,would_recommend,open_text_theme,sentiment,response_channel
+SUR00001,EMP00216,Engagement,2021-04-15,Product,L5,Atlanta,2.57,4.52,2.45,3.69,2.4,2.37,-62,Neutral,Autonomy,Positive,App
+SUR00002,EMP00794,Wellbeing,2024-03-26,HR,L3,Dallas,2.35,4.77,3.72,4.03,3.32,3.44,-34,Neutral,Recognition,Negative,Kiosk
+SUR00003,EMP00854,Engagement,2025-09-23,Legal,L4,Remote,3.92,1.73,4.46,3.6,4.45,1.27,32,Yes,Recognition,Negative,QR Code
+SUR00004,EMP00070,DEI,2025-04-21,Product,L4,Atlanta,2.76,2.5,1.16,3.62,3.28,4.57,4,Yes,Recognition,Positive,QR Code
+SUR00005,EMP00960,DEI,2022-01-12,Design,L7,Atlanta,1.28,4.14,1.22,2.75,1.95,2.43,-67,Neutral,Recognition,Positive,App
+SUR00006,EMP00067,Exit,2024-01-11,Data Science,L2,Seattle,1.81,1.93,3.74,4.11,1.21,1.57,57,Neutral,Compensation,Neutral,Kiosk
+SUR00007,EMP00777,Engagement,2025-06-01,Legal,L7,New York,4.34,4.81,2.51,4.94,2.03,1.91,-100,No,Tools & Technology,Negative,App
+SUR00008,EMP00391,Onboarding,2023-06-16,Customer Success,L4,Boston,4.11,3.4,1.36,3.02,1.97,3.86,-88,Yes,Recognition,Neutral,Kiosk
+SUR00009,EMP01088,Manager Effectiveness,2024-02-13,Operations,L3,Dallas,2.92,4.79,1.98,1.47,3.31,4.01,33,Yes,Culture,Positive,Kiosk
+SUR00010,EMP00717,Onboarding,2026-01-27,Marketing,L5,New York,2.3,4.9,2.64,4.97,4.88,2.46,-93,No,Recognition,Negative,QR Code
+SUR00011,EMP01115,Exit,2021-02-26,Data Science,L2,New York,1.91,3.36,1.52,1.49,4.55,4.67,-92,Yes,Tools & Technology,Negative,QR Code
+SUR00012,EMP00850,Pulse,2026-05-03,IT,L7,Remote,3.65,3.16,2.89,3.1,2.94,4.68,32,No,Compensation,Negative,Email
+SUR00013,EMP00516,Manager Effectiveness,2021-11-19,Finance,L5,Boston,4.19,1.69,4.27,2.9,3.67,2.57,-24,Yes,Recognition,Positive,App
+SUR00014,EMP00399,Manager Effectiveness,2022-01-10,Customer Success,L5,Dallas,1.03,1.02,2.3,3.81,1.72,2.95,-14,Neutral,Work-Life Balance,Positive,Email
+SUR00015,EMP00302,Wellbeing,2021-11-23,Design,L6,New York,1.33,4.55,2.44,2.47,2.09,2.59,35,No,Management,Negative,Email
+SUR00016,EMP00114,Manager Effectiveness,2025-12-24,Finance,L4,Denver,1.53,2.87,3.6,1.07,1.39,1.68,74,Neutral,Autonomy,Neutral,Kiosk
+SUR00017,EMP00350,Manager Effectiveness,2021-04-15,HR,L7,Denver,1.22,3.14,4.07,2.17,3.17,4.76,-52,Yes,Career Growth,Negative,Kiosk
+SUR00018,EMP01040,Exit,2021-10-18,HR,L6,Dallas,1.86,3.14,3.58,2.7,4.18,4.46,-15,No,Management,Positive,App
+SUR00019,EMP00822,Exit,2021-06-04,Finance,L6,Dallas,2.37,3.81,3.48,2.84,1.38,1.18,-73,Neutral,Recognition,Neutral,QR Code
+SUR00020,EMP00271,Engagement,2024-06-18,Marketing,L3,San Francisco,3.29,1.18,4.39,1.62,3.9,2.41,-40,Yes,Management,Negative,QR Code
+SUR00021,EMP00008,Manager Effectiveness,2022-07-05,IT,L6,Chicago,4.02,3.34,3.02,3.37,1.41,3.14,61,No,Tools & Technology,Positive,Email
+SUR00022,EMP00880,Manager Effectiveness,2022-03-09,IT,L6,Atlanta,1.33,3.41,4.89,4.62,2.87,4.32,17,No,Work-Life Balance,Neutral,App
+SUR00023,EMP00613,DEI,2025-07-19,Product,L7,Chicago,3.33,1.63,1.52,3.41,3.07,3.18,77,Yes,Management,Neutral,QR Code
+SUR00024,EMP00921,Pulse,2025-04-05,Data Science,L4,Atlanta,2.92,4.53,2.03,1.77,2.22,3.52,-13,No,Autonomy,Negative,QR Code
+SUR00025,EMP00338,DEI,2026-06-19,Legal,L3,Atlanta,1.44,4.62,4.01,4.41,1.89,3.07,73,Neutral,Career Growth,Positive,Email
+SUR00026,EMP00464,Onboarding,2026-03-16,Customer Success,L6,New York,3.56,1.5,2.88,4.46,4.84,3.51,84,Yes,Culture,Positive,Email
+SUR00027,EMP00859,Wellbeing,2022-12-27,Product,L2,Atlanta,2.66,2.15,1.67,2.53,4.12,3.78,-65,Yes,Tools & Technology,Neutral,App
+SUR00028,EMP00068,Pulse,2023-04-25,IT,L2,New York,3.38,1.34,4.83,4.69,3.52,1.23,-75,Neutral,Tools & Technology,Positive,QR Code
+SUR00029,EMP00496,Engagement,2026-04-18,Design,L1,Atlanta,1.74,1.73,2.24,1.26,2.97,4.47,7,Neutral,Career Growth,Positive,Email
+SUR00030,EMP01069,Onboarding,2021-09-15,IT,L7,Chicago,1.87,2.32,3.11,3.95,2.79,2.22,-60,Neutral,Compensation,Negative,Kiosk
+SUR00031,EMP00855,Wellbeing,2023-05-01,Design,L4,Atlanta,4.19,1.33,2.41,4.45,1.08,1.68,10,Yes,Culture,Neutral,App
+SUR00032,EMP00825,Onboarding,2021-01-22,Engineering,L6,Chicago,1.57,3.25,3.3,3.81,3.54,2.73,16,No,Work-Life Balance,Negative,Kiosk
+SUR00033,EMP00617,Pulse,2023-07-14,Customer Success,L4,Chicago,4.37,3.82,2.27,3.63,1.21,4.68,-55,Neutral,Compensation,Positive,QR Code
+SUR00034,EMP01010,DEI,2021-10-22,Design,L6,New York,3.94,2.77,2.45,4.45,4.78,1.9,-50,No,Compensation,Negative,QR Code
+SUR00035,EMP00040,Onboarding,2022-10-17,HR,L6,Remote,4.46,4.16,3.76,1.7,2.88,3.78,-15,No,Compensation,Positive,Email
+SUR00036,EMP00454,Pulse,2021-02-10,Product,L2,Seattle,2.36,3.52,4.35,1.83,1.72,1.92,-21,Yes,Management,Positive,Kiosk
+SUR00037,EMP00975,Onboarding,2021-02-14,Data Science,L5,Dallas,2.5,3.86,2.83,1.22,1.92,1.18,-82,No,Career Growth,Positive,App
+SUR00038,EMP00271,Onboarding,2021-07-16,Engineering,L4,San Francisco,2.46,2.43,3.14,2.99,4.22,4.82,-32,Neutral,Career Growth,Neutral,App
+SUR00039,EMP00312,Wellbeing,2025-08-02,Data Science,L6,Seattle,4.79,2.57,1.28,3.37,1.63,4.25,-78,Yes,Tools & Technology,Positive,Email
+SUR00040,EMP00996,Manager Effectiveness,2023-11-25,Sales,L5,San Francisco,4.38,4.29,3.93,4.54,4.61,2.4,90,Yes,Culture,Negative,Kiosk
+SUR00041,EMP00141,DEI,2024-12-31,Product,L1,Boston,3.77,4.43,2.26,2.98,1.49,4.73,10,Yes,Management,Negative,App
+SUR00042,EMP00569,Exit,2022-05-19,Engineering,L7,Denver,1.48,2.64,4.38,1.3,3.68,3.15,-7,Neutral,Recognition,Positive,Kiosk
+SUR00043,EMP00270,Engagement,2025-11-25,Engineering,L4,Denver,4.76,2.25,2.16,1.22,3.43,3.64,28,No,Recognition,Negative,QR Code
+SUR00044,EMP00944,Engagement,2022-09-19,HR,L6,Chicago,3.77,2.69,4.65,3.02,3.98,3.37,-73,Yes,Work-Life Balance,Neutral,QR Code
+SUR00045,EMP00197,Manager Effectiveness,2021-04-13,Design,L2,Remote,1.6,4.32,3.1,3.23,3.15,1.83,-29,No,Work-Life Balance,Neutral,App
+SUR00046,EMP01137,DEI,2021-08-22,Legal,L5,Atlanta,3.83,3.94,1.35,4.27,2.41,2.68,52,Yes,Tools & Technology,Negative,Email
+SUR00047,EMP00782,Onboarding,2026-07-28,Legal,L7,Dallas,3.15,1.64,2.91,3.1,1.05,4.8,82,No,Management,Positive,Email
+SUR00048,EMP00595,Exit,2021-11-13,Data Science,L2,Atlanta,1.84,2.68,1.07,3.06,3.91,3.85,-93,Neutral,Compensation,Positive,QR Code
+SUR00049,EMP00909,DEI,2025-04-06,IT,L5,Remote,2.48,3.57,2.39,2.14,3.19,2.65,-80,No,Recognition,Neutral,Kiosk
+SUR00050,EMP01156,Engagement,2026-04-17,Legal,L4,Dallas,3.06,2.67,2.49,4.47,2.35,2.97,-75,Yes,Recognition,Neutral,Kiosk
+SUR00051,EMP00883,Engagement,2022-12-21,Data Science,L5,Boston,4.28,1.83,2.21,4.7,1.36,1.2,60,Neutral,Autonomy,Positive,App
+SUR00052,EMP00034,Wellbeing,2021-03-08,Marketing,L3,Dallas,4.34,2.38,2.33,4.16,1.96,2.88,22,No,Compensation,Positive,App
+SUR00053,EMP00204,Exit,2023-10-12,Design,L5,Atlanta,1.43,4.13,4.36,1.43,2.13,2.92,-61,Yes,Work-Life Balance,Positive,Kiosk
+SUR00054,EMP00118,Pulse,2026-05-08,Operations,L7,Seattle,2.35,1.1,1.23,2.37,3.36,1.13,90,Neutral,Career Growth,Negative,App
+SUR00055,EMP01164,Manager Effectiveness,2023-10-13,Legal,L6,Atlanta,1.95,3.04,1.54,2.51,2.57,1.05,97,No,Compensation,Negative,App
+SUR00056,EMP00122,Engagement,2021-03-03,IT,L1,Seattle,1.89,1.63,2.23,4.75,4.94,2.97,82,No,Work-Life Balance,Neutral,QR Code
+SUR00057,EMP00644,Onboarding,2023-04-27,Legal,L2,Dallas,3.48,3.77,2.44,3.09,4.19,1.63,-14,Yes,Autonomy,Neutral,QR Code
+SUR00058,EMP00115,Engagement,2021-12-06,Marketing,L2,New York,1.52,4.59,2.15,2.49,3.97,2.81,-74,Yes,Tools & Technology,Positive,Kiosk
+SUR00059,EMP01063,DEI,2025-02-17,Engineering,L7,Seattle,1.41,3.07,3.52,4.09,3.03,4.63,-14,Yes,Recognition,Neutral,QR Code
+SUR00060,EMP00089,Wellbeing,2024-01-16,Sales,L7,Austin,1.87,1.51,3.11,2.18,2.1,3.54,-92,Neutral,Recognition,Positive,QR Code
+SUR00061,EMP00170,Onboarding,2021-10-15,Product,L4,Remote,2.29,3.21,4.25,4.43,2.21,1.62,-63,Yes,Culture,Negative,App
+SUR00062,EMP00515,DEI,2024-01-20,Legal,L2,San Francisco,1.98,2.85,2.85,2.2,1.17,4.77,-72,Neutral,Career Growth,Negative,App
+SUR00063,EMP00779,Wellbeing,2023-02-19,Data Science,L5,San Francisco,4.68,4.15,3.42,1.99,3.3,1.03,-79,Yes,Culture,Neutral,Email
+SUR00064,EMP01027,DEI,2025-09-03,Design,L1,San Francisco,4.26,4.22,3.46,3.93,4.39,2.51,68,Neutral,Management,Neutral,QR Code
+SUR00065,EMP00839,DEI,2024-02-05,Data Science,L7,Chicago,2.16,4.88,1.88,1.31,1.37,4.02,32,Yes,Work-Life Balance,Negative,Email
+SUR00066,EMP00640,Engagement,2026-04-28,Operations,L1,Chicago,1.63,3.54,2.78,3.35,1.01,2.25,-91,Neutral,Tools & Technology,Neutral,Email
+SUR00067,EMP01173,Wellbeing,2022-07-17,Engineering,L7,Denver,2.81,2.18,4.27,2.84,1.85,1.09,-74,No,Tools & Technology,Neutral,Kiosk
+SUR00068,EMP00645,Exit,2021-09-14,Marketing,L4,Boston,3.65,2.89,2.08,1.22,3.9,1.11,-46,No,Culture,Neutral,QR Code
+SUR00069,EMP00008,DEI,2026-04-15,HR,L2,Remote,1.43,1.92,3.99,5.0,2.16,1.74,61,No,Culture,Positive,Email
+SUR00070,EMP00790,Engagement,2022-04-05,Marketing,L4,Atlanta,2.4,4.76,3.81,3.23,2.39,4.7,1,Yes,Work-Life Balance,Negative,Email
+SUR00071,EMP00167,Engagement,2023-12-30,IT,L4,Boston,2.18,4.15,1.66,1.9,1.15,4.72,-95,Yes,Culture,Neutral,Kiosk
+SUR00072,EMP01068,Exit,2023-08-09,IT,L3,Dallas,2.51,3.54,3.34,3.08,2.09,2.01,-83,No,Career Growth,Negative,App
+SUR00073,EMP00831,Manager Effectiveness,2021-08-07,Engineering,L1,Atlanta,4.19,1.02,1.29,2.95,4.82,4.45,67,No,Tools & Technology,Negative,Kiosk
+SUR00074,EMP00405,Manager Effectiveness,2022-02-18,Engineering,L4,Dallas,1.41,4.73,1.3,1.43,3.81,2.69,-87,Yes,Culture,Negative,Email
+SUR00075,EMP00349,Engagement,2022-07-03,Finance,L3,San Francisco,4.78,4.24,2.34,3.37,2.79,1.91,-41,Neutral,Culture,Negative,QR Code
+SUR00076,EMP00702,Onboarding,2026-04-10,Marketing,L2,Remote,4.94,2.92,3.72,4.27,3.91,2.44,-100,Yes,Culture,Negative,App
+SUR00077,EMP00788,Wellbeing,2023-04-08,Operations,L2,Denver,3.87,4.83,3.45,3.59,2.83,1.42,16,Yes,Culture,Neutral,App
+SUR00078,EMP00560,DEI,2023-10-12,Design,L6,Austin,4.72,1.78,3.98,3.24,2.4,3.1,-16,Neutral,Compensation,Negative,App
+SUR00079,EMP00982,Wellbeing,2025-07-22,Legal,L5,Atlanta,3.66,2.04,1.31,4.7,1.97,3.31,-69,No,Recognition,Neutral,Email
+SUR00080,EMP00882,Engagement,2023-01-19,Operations,L5,San Francisco,2.91,1.92,2.28,3.43,1.47,3.87,-1,Yes,Tools & Technology,Positive,QR Code
+SUR00081,EMP01142,DEI,2022-01-20,Operations,L7,Seattle,2.57,2.6,4.28,3.14,3.38,1.06,-25,Neutral,Tools & Technology,Neutral,QR Code
+SUR00082,EMP00011,Manager Effectiveness,2025-11-25,HR,L5,Chicago,2.0,1.53,3.78,4.93,3.9,4.94,1,Neutral,Management,Neutral,Kiosk
+SUR00083,EMP00259,DEI,2025-09-04,Data Science,L1,Boston,1.1,4.7,2.56,1.21,1.19,1.32,-72,Neutral,Career Growth,Positive,Kiosk
+SUR00084,EMP00869,Engagement,2023-05-01,Sales,L7,Remote,2.84,3.25,4.15,4.87,3.99,3.51,-80,Yes,Work-Life Balance,Positive,Email
+SUR00085,EMP00097,Wellbeing,2025-02-24,Customer Success,L5,Austin,3.62,1.77,4.41,3.66,2.5,3.29,-87,Neutral,Recognition,Neutral,App
+SUR00086,EMP00403,Wellbeing,2026-03-25,HR,L1,New York,2.05,2.05,1.5,3.71,4.78,2.86,60,Yes,Recognition,Neutral,Kiosk
+SUR00087,EMP00859,Engagement,2024-05-25,Marketing,L2,San Francisco,4.09,3.12,1.54,1.56,2.64,4.0,34,Neutral,Recognition,Neutral,Email
+SUR00088,EMP00985,Exit,2021-05-10,Data Science,L6,Chicago,4.31,1.62,2.65,4.06,3.76,2.75,-39,No,Compensation,Neutral,Email
+SUR00089,EMP00848,Manager Effectiveness,2023-08-06,Legal,L3,New York,4.35,1.59,4.13,3.67,3.85,3.94,68,Yes,Tools & Technology,Positive,App
+SUR00090,EMP00824,Manager Effectiveness,2023-07-20,Sales,L2,Denver,4.55,1.96,3.33,3.42,3.5,2.28,-58,Yes,Tools & Technology,Positive,QR Code
+SUR00091,EMP00527,Onboarding,2022-09-10,Data Science,L5,Seattle,4.04,1.99,4.69,3.52,4.07,3.92,11,Neutral,Work-Life Balance,Positive,Email
+SUR00092,EMP00634,Manager Effectiveness,2026-06-12,HR,L2,New York,2.7,1.1,3.83,1.1,3.25,2.92,-15,No,Tools & Technology,Negative,Email
+SUR00093,EMP00796,Wellbeing,2025-12-26,Marketing,L7,Atlanta,3.12,4.72,1.21,4.69,3.31,3.75,-96,Neutral,Culture,Neutral,App
+SUR00094,EMP00959,Pulse,2021-08-27,Legal,L2,Denver,2.58,1.09,1.58,2.3,2.19,3.14,-99,Yes,Tools & Technology,Neutral,QR Code
+SUR00095,EMP00960,Manager Effectiveness,2022-04-11,Design,L4,Remote,1.78,4.32,4.91,4.41,2.26,2.39,44,Neutral,Management,Neutral,QR Code
+SUR00096,EMP00552,Wellbeing,2021-06-24,Sales,L1,Atlanta,3.7,4.95,4.85,2.82,1.87,3.11,-63,No,Recognition,Negative,QR Code
+SUR00097,EMP00883,Engagement,2021-07-31,Marketing,L3,Dallas,2.17,4.4,1.82,1.12,1.06,1.17,1,Yes,Career Growth,Negative,App
+SUR00098,EMP01184,Pulse,2024-07-10,Finance,L6,Dallas,1.56,2.87,4.85,4.35,1.69,1.44,20,Neutral,Compensation,Positive,App
+SUR00099,EMP00904,Pulse,2025-01-06,Legal,L3,Seattle,3.18,1.6,1.01,1.53,1.26,2.8,-95,Neutral,Culture,Positive,QR Code
+SUR00100,EMP00519,Manager Effectiveness,2024-10-11,Sales,L4,Austin,2.96,3.79,4.05,1.84,2.58,1.26,59,Neutral,Tools & Technology,Neutral,Kiosk
+SUR00101,EMP00188,Wellbeing,2024-12-23,Engineering,L1,Boston,4.54,1.13,1.46,2.21,3.15,2.02,-68,Yes,Recognition,Positive,App
+SUR00102,EMP00098,Engagement,2022-03-06,Legal,L1,Atlanta,1.54,1.96,1.15,3.98,3.12,1.01,-52,Neutral,Culture,Negative,App
+SUR00103,EMP00563,Pulse,2023-07-25,Operations,L7,Chicago,3.3,4.92,4.07,1.57,4.83,1.12,55,Yes,Recognition,Negative,QR Code
+SUR00104,EMP00453,Engagement,2023-05-15,Legal,L5,Denver,4.34,2.88,3.7,1.04,1.83,1.01,-5,No,Culture,Positive,Email
+SUR00105,EMP00798,Engagement,2023-06-12,Legal,L3,Remote,2.86,1.12,3.19,2.16,3.94,3.21,-75,No,Work-Life Balance,Neutral,QR Code
+SUR00106,EMP00614,Pulse,2024-04-03,Legal,L7,Austin,3.06,3.35,2.18,1.48,1.02,4.27,67,Neutral,Recognition,Negative,QR Code
+SUR00107,EMP00203,Wellbeing,2025-01-12,HR,L1,Boston,4.35,3.83,2.49,3.79,3.79,1.53,41,Yes,Tools & Technology,Negative,App
+SUR00108,EMP00934,Wellbeing,2023-07-01,Data Science,L3,Chicago,2.4,2.08,1.23,3.8,3.85,2.99,3,Yes,Tools & Technology,Negative,App
+SUR00109,EMP00746,Engagement,2025-04-30,Sales,L1,San Francisco,4.66,4.11,4.27,2.28,3.74,4.34,18,No,Management,Neutral,Email
+SUR00110,EMP00453,Engagement,2026-07-07,Product,L3,Dallas,3.35,4.88,1.08,4.63,2.43,4.61,29,Yes,Autonomy,Positive,QR Code
+SUR00111,EMP00139,Manager Effectiveness,2025-12-26,Finance,L7,Austin,1.71,4.97,1.88,4.83,2.31,3.77,-25,Neutral,Tools & Technology,Negative,App
+SUR00112,EMP00093,Onboarding,2025-02-17,Operations,L5,Denver,2.77,2.78,3.4,4.93,1.35,3.72,14,Neutral,Compensation,Positive,Kiosk
+SUR00113,EMP00679,Exit,2023-04-24,Marketing,L4,Seattle,2.3,4.47,1.42,4.99,1.0,3.28,-9,Neutral,Autonomy,Positive,Email
+SUR00114,EMP00714,Wellbeing,2026-03-17,Marketing,L2,San Francisco,4.11,1.81,3.84,3.38,2.5,1.03,31,Yes,Culture,Neutral,QR Code
+SUR00115,EMP00145,Pulse,2024-10-07,Customer Success,L6,Remote,4.55,3.35,3.89,1.03,4.95,2.98,-1,Yes,Work-Life Balance,Negative,App
+SUR00116,EMP01172,DEI,2025-03-27,Data Science,L4,Remote,4.54,4.38,1.51,1.42,4.63,2.31,0,Yes,Compensation,Positive,QR Code
+SUR00117,EMP01108,DEI,2024-10-17,Operations,L7,Austin,3.05,3.94,4.85,3.24,3.46,2.59,66,Yes,Culture,Positive,QR Code
+SUR00118,EMP00811,Wellbeing,2022-05-13,Engineering,L6,Remote,1.03,1.02,1.95,3.35,3.46,4.92,100,Neutral,Culture,Neutral,Kiosk
+SUR00119,EMP00948,Wellbeing,2026-01-19,Data Science,L6,Seattle,4.48,2.24,1.44,4.85,2.81,3.33,-57,Neutral,Recognition,Positive,QR Code
+SUR00120,EMP00704,Onboarding,2024-09-01,HR,L3,Atlanta,4.32,4.97,1.44,2.56,4.75,3.93,-37,No,Compensation,Negative,Kiosk
+SUR00121,EMP01163,Wellbeing,2021-04-21,Product,L7,Remote,3.82,3.29,2.72,3.03,2.26,3.03,-43,Neutral,Autonomy,Neutral,QR Code
+SUR00122,EMP01131,Engagement,2023-02-14,Product,L5,Seattle,4.98,1.87,2.23,1.16,4.36,3.77,-86,No,Work-Life Balance,Negative,QR Code
+SUR00123,EMP00954,Exit,2021-07-12,Data Science,L6,Chicago,2.27,1.1,3.51,2.97,3.14,2.55,-60,Yes,Compensation,Positive,Kiosk
+SUR00124,EMP00579,Engagement,2022-04-29,HR,L4,Remote,3.35,2.36,4.82,2.33,4.06,3.91,-43,Yes,Management,Negative,QR Code
+SUR00125,EMP00646,Pulse,2021-11-21,Product,L2,Boston,3.78,3.84,4.24,2.14,2.8,2.05,76,Yes,Compensation,Positive,App
+SUR00126,EMP00504,Onboarding,2023-09-15,Product,L1,Seattle,2.7,3.45,4.54,3.34,3.84,2.26,-12,Neutral,Autonomy,Positive,App
+SUR00127,EMP00076,Engagement,2023-04-22,Sales,L4,Seattle,1.29,2.67,2.24,4.75,4.17,3.25,20,No,Work-Life Balance,Positive,Email
+SUR00128,EMP01129,DEI,2022-05-26,Data Science,L5,San Francisco,4.83,1.59,3.71,4.02,1.06,2.67,-93,No,Recognition,Positive,App
+SUR00129,EMP00346,Manager Effectiveness,2021-11-03,Customer Success,L6,Chicago,3.62,3.53,2.46,2.18,2.68,3.78,-37,Neutral,Career Growth,Neutral,Kiosk
+SUR00130,EMP00758,Onboarding,2025-07-20,Operations,L5,Boston,1.2,4.88,1.85,2.33,1.03,2.99,96,Neutral,Culture,Positive,App
+SUR00131,EMP00281,Exit,2023-04-20,HR,L5,Remote,1.25,3.71,2.64,1.12,1.71,3.97,-38,No,Recognition,Negative,App
+SUR00132,EMP00869,DEI,2021-02-05,Marketing,L6,Austin,1.6,3.26,2.5,2.35,1.09,1.42,97,Neutral,Career Growth,Neutral,QR Code
+SUR00133,EMP00049,Wellbeing,2021-05-18,Operations,L6,San Francisco,1.69,1.22,3.34,1.84,2.24,1.13,11,Neutral,Autonomy,Positive,Email
+SUR00134,EMP00784,Pulse,2025-01-31,Sales,L5,Chicago,3.74,4.02,4.27,3.35,3.54,4.36,89,Neutral,Management,Negative,QR Code
+SUR00135,EMP00301,Engagement,2021-01-06,Operations,L2,New York,2.92,1.64,4.68,1.17,1.22,3.24,-63,Neutral,Compensation,Negative,QR Code
+SUR00136,EMP00911,Wellbeing,2022-07-27,Marketing,L4,New York,2.26,3.48,2.3,3.94,3.14,2.78,-58,Neutral,Management,Positive,QR Code
+SUR00137,EMP00397,Pulse,2021-11-22,Design,L6,Dallas,4.32,3.99,1.1,1.32,4.99,2.69,47,Neutral,Career Growth,Neutral,Kiosk
+SUR00138,EMP00852,Wellbeing,2023-05-09,Operations,L5,Remote,2.3,3.96,2.08,2.63,4.38,2.67,77,Yes,Recognition,Neutral,QR Code
+SUR00139,EMP00319,Wellbeing,2024-07-09,Finance,L7,Boston,1.71,2.84,2.81,2.86,2.0,2.98,37,No,Career Growth,Neutral,Email
+SUR00140,EMP00559,Exit,2022-10-14,Product,L4,Atlanta,4.1,1.21,2.74,1.57,3.46,3.0,16,Yes,Culture,Positive,QR Code
+SUR00141,EMP01070,Engagement,2025-06-18,IT,L2,Dallas,4.19,1.59,2.6,3.88,3.83,4.02,-35,Yes,Autonomy,Positive,Email
+SUR00142,EMP00700,Pulse,2025-11-08,Product,L1,Dallas,4.77,1.13,2.55,3.87,3.17,1.04,-49,Yes,Recognition,Neutral,Kiosk
+SUR00143,EMP00967,Manager Effectiveness,2024-03-28,Operations,L6,San Francisco,1.58,3.33,1.76,1.49,1.7,4.05,-33,Yes,Tools & Technology,Positive,Kiosk
+SUR00144,EMP00554,Engagement,2025-09-14,Legal,L7,New York,1.34,3.42,4.91,3.23,2.05,1.08,12,Yes,Work-Life Balance,Neutral,Email
+SUR00145,EMP01054,Manager Effectiveness,2025-01-22,Data Science,L4,Atlanta,4.49,1.41,1.68,2.92,3.6,3.9,-86,No,Culture,Positive,Kiosk
+SUR00146,EMP00464,Pulse,2023-05-20,Customer Success,L5,Boston,3.93,3.39,2.81,1.61,4.65,2.65,71,Yes,Tools & Technology,Positive,Email
+SUR00147,EMP00072,Manager Effectiveness,2024-03-14,Engineering,L1,Atlanta,1.2,1.42,3.22,2.45,3.91,1.05,-88,Yes,Tools & Technology,Negative,Kiosk
+SUR00148,EMP01158,Exit,2021-12-01,Data Science,L7,Chicago,3.81,3.47,1.13,1.05,3.7,3.48,20,No,Autonomy,Neutral,QR Code
+SUR00149,EMP00684,Wellbeing,2022-04-17,IT,L4,Boston,3.38,3.99,2.81,2.24,4.33,1.67,-62,No,Culture,Negative,App
+SUR00150,EMP00116,Onboarding,2021-06-20,Legal,L3,San Francisco,2.4,3.88,2.76,1.16,4.17,3.72,-7,Yes,Compensation,Positive,QR Code
+SUR00151,EMP00471,Manager Effectiveness,2023-06-29,Legal,L7,Denver,3.97,4.09,3.75,2.79,3.13,3.97,-4,Yes,Tools & Technology,Neutral,QR Code
+SUR00152,EMP00182,Manager Effectiveness,2025-06-18,Product,L3,Remote,3.63,4.2,3.08,3.46,2.56,3.04,-30,No,Career Growth,Negative,Email
+SUR00153,EMP00434,Manager Effectiveness,2025-06-21,Operations,L5,Denver,1.68,3.94,3.7,2.78,2.06,1.11,58,Neutral,Recognition,Positive,App
+SUR00154,EMP00530,Onboarding,2025-04-16,HR,L3,Austin,4.9,3.95,1.44,4.61,1.36,4.85,79,Neutral,Tools & Technology,Negative,Email
+SUR00155,EMP01095,Onboarding,2023-04-21,Data Science,L4,Dallas,3.44,3.67,3.91,3.39,4.27,1.31,-9,Neutral,Recognition,Positive,App
+SUR00156,EMP00108,Manager Effectiveness,2024-09-11,Product,L6,Chicago,3.6,3.77,4.41,1.03,4.04,4.54,-63,Neutral,Recognition,Neutral,App
+SUR00157,EMP00709,DEI,2026-06-06,Product,L6,Austin,1.03,4.41,2.19,4.3,4.29,3.07,23,Neutral,Work-Life Balance,Negative,App
+SUR00158,EMP00132,Manager Effectiveness,2025-04-03,Finance,L4,Seattle,3.44,3.16,2.79,2.55,2.18,3.34,16,Yes,Autonomy,Negative,Kiosk
+SUR00159,EMP00972,Manager Effectiveness,2025-12-07,Marketing,L1,Seattle,2.72,2.83,3.0,3.14,4.23,2.38,-64,Neutral,Management,Neutral,QR Code
+SUR00160,EMP00877,DEI,2026-02-27,Customer Success,L5,Remote,2.82,4.97,3.1,4.76,2.32,2.12,31,No,Autonomy,Neutral,Email
+SUR00161,EMP00483,Onboarding,2021-01-09,Sales,L5,Austin,3.89,3.32,3.77,1.85,4.98,4.67,76,No,Recognition,Positive,QR Code
+SUR00162,EMP00682,Wellbeing,2026-07-23,Sales,L6,Remote,1.84,2.51,2.0,3.41,1.44,4.36,35,No,Culture,Neutral,App
+SUR00163,EMP00865,Wellbeing,2025-06-03,Data Science,L3,Denver,1.48,4.55,4.92,2.64,4.21,1.54,-67,Neutral,Compensation,Positive,QR Code
+SUR00164,EMP00058,Wellbeing,2023-05-08,Operations,L5,Seattle,3.07,4.47,4.87,1.41,1.14,3.83,15,Neutral,Culture,Positive,App
+SUR00165,EMP00109,Pulse,2025-09-11,Product,L6,Austin,4.23,4.65,3.86,4.63,1.27,2.66,66,Yes,Culture,Neutral,QR Code
+SUR00166,EMP00722,Exit,2022-01-21,Sales,L7,San Francisco,1.52,1.31,3.17,1.06,3.18,1.74,24,Neutral,Career Growth,Neutral,QR Code
+SUR00167,EMP00159,Onboarding,2024-11-28,Finance,L3,Remote,4.45,2.33,2.61,1.93,2.73,3.83,-25,Yes,Career Growth,Positive,App
+SUR00168,EMP00694,Pulse,2021-06-05,Marketing,L6,Dallas,3.82,2.52,3.34,4.65,2.26,4.81,-31,No,Culture,Positive,App
+SUR00169,EMP01091,Onboarding,2023-07-09,Engineering,L3,Austin,1.18,1.32,1.88,3.7,4.26,3.16,17,Yes,Management,Positive,App
+SUR00170,EMP00035,Pulse,2025-11-12,Legal,L4,Dallas,2.75,2.17,4.15,4.72,4.0,3.18,-66,No,Tools & Technology,Positive,QR Code
+SUR00171,EMP00295,DEI,2023-08-06,Design,L4,New York,3.89,1.6,3.02,4.65,2.8,1.91,-32,No,Work-Life Balance,Negative,Email
+SUR00172,EMP00833,Pulse,2024-09-25,Customer Success,L2,Chicago,2.06,3.53,4.25,4.02,4.91,3.55,-6,No,Compensation,Neutral,QR Code
+SUR00173,EMP00356,Pulse,2026-05-08,Data Science,L2,Atlanta,3.0,3.86,1.15,2.02,1.85,3.12,80,Neutral,Autonomy,Positive,Email
+SUR00174,EMP00258,Manager Effectiveness,2023-08-05,HR,L6,Austin,1.68,2.38,4.7,2.79,4.65,2.25,-59,No,Career Growth,Negative,App
+SUR00175,EMP00679,Onboarding,2022-11-23,Finance,L4,Dallas,3.41,4.16,3.74,4.92,4.18,4.57,17,Neutral,Career Growth,Neutral,Email
+SUR00176,EMP00213,Exit,2023-09-04,Customer Success,L5,San Francisco,2.44,3.34,3.55,4.46,2.6,3.58,-41,Neutral,Recognition,Neutral,QR Code
+SUR00177,EMP00021,Onboarding,2026-05-29,Finance,L5,Seattle,3.98,2.72,3.98,1.83,3.85,3.49,-82,Neutral,Management,Neutral,Kiosk
+SUR00178,EMP00722,DEI,2023-08-11,Design,L4,New York,1.04,4.4,4.56,1.96,3.46,4.76,49,Neutral,Culture,Positive,QR Code
+SUR00179,EMP00563,Engagement,2023-09-27,Legal,L1,Dallas,3.38,1.83,1.34,4.78,1.19,4.44,-38,Neutral,Career Growth,Negative,Email
+SUR00180,EMP00495,Wellbeing,2026-04-21,Customer Success,L4,San Francisco,4.47,2.5,3.18,1.99,2.7,3.5,-18,Neutral,Work-Life Balance,Positive,Email
+SUR00181,EMP00240,Onboarding,2025-08-04,HR,L2,Atlanta,2.12,4.23,2.3,2.83,1.52,3.62,25,Yes,Autonomy,Positive,Kiosk
+SUR00182,EMP00781,Onboarding,2024-05-30,Legal,L6,Remote,2.47,3.79,3.33,4.59,2.41,2.98,45,No,Tools & Technology,Neutral,Email
+SUR00183,EMP00702,Onboarding,2026-01-11,Data Science,L2,Denver,1.54,3.84,1.33,1.46,3.06,4.5,-27,Yes,Compensation,Negative,Kiosk
+SUR00184,EMP00329,Wellbeing,2022-10-03,Marketing,L6,Boston,1.57,4.73,4.77,4.58,4.09,3.58,28,Yes,Work-Life Balance,Neutral,Kiosk
+SUR00185,EMP00198,Manager Effectiveness,2021-05-18,IT,L6,Austin,1.37,4.33,2.5,2.18,2.18,1.6,-48,Yes,Management,Neutral,QR Code
+SUR00186,EMP00537,Exit,2022-02-19,Engineering,L5,Dallas,1.57,4.8,1.75,3.92,3.73,1.97,85,Yes,Management,Negative,Kiosk
+SUR00187,EMP00586,Engagement,2025-02-17,Design,L2,Remote,1.8,4.09,1.93,3.58,4.18,1.09,-36,Yes,Management,Negative,Email
+SUR00188,EMP01130,Engagement,2023-01-11,Design,L7,Austin,2.41,3.29,3.33,1.24,1.11,4.7,22,Neutral,Culture,Positive,App
+SUR00189,EMP00485,Pulse,2022-10-28,Finance,L4,New York,1.35,4.6,1.35,4.87,1.46,4.2,89,Neutral,Compensation,Neutral,Kiosk
+SUR00190,EMP00969,Engagement,2022-02-18,HR,L5,Remote,2.73,1.7,2.85,3.19,1.35,2.97,-26,Yes,Work-Life Balance,Positive,App
+SUR00191,EMP00054,Manager Effectiveness,2021-12-05,IT,L1,Chicago,3.01,4.98,1.16,2.16,4.44,3.24,-59,Neutral,Career Growth,Negative,Email
+SUR00192,EMP01185,Exit,2024-10-19,Legal,L3,Boston,1.63,1.47,3.29,3.7,4.48,1.14,-61,Yes,Compensation,Positive,Kiosk
+SUR00193,EMP00804,DEI,2025-01-29,Design,L2,San Francisco,2.77,1.61,4.04,4.52,3.5,2.96,-24,Neutral,Work-Life Balance,Neutral,Email
+SUR00194,EMP00024,Manager Effectiveness,2024-09-03,HR,L6,Dallas,4.61,1.37,1.46,3.02,4.05,2.16,-18,Yes,Work-Life Balance,Positive,App
+SUR00195,EMP00326,Engagement,2025-04-13,HR,L3,Seattle,3.37,2.72,4.83,1.31,4.58,2.9,0,No,Career Growth,Negative,QR Code
+SUR00196,EMP00930,Onboarding,2025-03-19,Design,L2,Boston,3.83,3.61,1.61,1.3,2.51,3.99,-70,No,Career Growth,Positive,QR Code
+SUR00197,EMP01032,Wellbeing,2021-06-07,Sales,L6,New York,2.26,4.56,4.02,4.91,4.88,4.82,94,Neutral,Recognition,Positive,Email
+SUR00198,EMP00870,Exit,2025-11-17,Product,L1,New York,2.38,3.43,2.61,3.39,4.35,2.59,75,Neutral,Compensation,Negative,App
+SUR00199,EMP00508,Pulse,2024-11-14,Product,L1,New York,2.97,3.97,2.27,4.28,4.13,3.32,-84,No,Career Growth,Negative,QR Code
+SUR00200,EMP00406,Pulse,2022-01-09,HR,L3,Chicago,4.38,4.2,2.62,4.56,4.11,2.17,78,Neutral,Compensation,Negative,App
+SUR00201,EMP00499,Exit,2022-11-18,IT,L6,New York,4.36,2.97,1.57,4.4,2.3,3.17,77,Yes,Tools & Technology,Negative,Kiosk
+SUR00202,EMP00562,Onboarding,2022-10-10,Sales,L2,Remote,4.08,4.58,4.82,4.13,4.86,4.68,32,Yes,Compensation,Neutral,QR Code
+SUR00203,EMP01112,DEI,2026-02-05,HR,L5,Atlanta,1.78,4.51,4.36,1.77,4.81,3.13,-92,No,Compensation,Neutral,Kiosk
+SUR00204,EMP00900,Onboarding,2023-11-29,Finance,L4,Denver,4.59,2.09,2.72,2.92,3.85,1.39,-41,No,Work-Life Balance,Positive,Email
+SUR00205,EMP00820,Pulse,2021-08-05,Product,L3,Boston,4.56,3.3,2.92,1.15,2.04,3.05,-99,Neutral,Work-Life Balance,Positive,Kiosk
+SUR00206,EMP00519,Manager Effectiveness,2021-06-12,Operations,L4,Austin,3.18,3.83,3.85,3.81,4.57,1.29,37,No,Work-Life Balance,Positive,Kiosk
+SUR00207,EMP00792,Engagement,2025-10-27,HR,L4,San Francisco,1.36,3.43,2.6,3.99,4.13,2.37,81,Neutral,Culture,Neutral,Kiosk
+SUR00208,EMP00529,Pulse,2025-02-27,Legal,L5,Chicago,2.52,4.01,4.7,4.77,4.88,4.97,27,No,Work-Life Balance,Neutral,Email
+SUR00209,EMP00407,Onboarding,2025-12-02,Data Science,L3,Boston,2.12,2.35,3.27,3.7,4.15,1.11,-41,Yes,Work-Life Balance,Positive,QR Code
+SUR00210,EMP00282,Pulse,2023-10-14,Marketing,L2,Dallas,2.51,3.35,4.63,3.75,3.76,3.61,86,No,Compensation,Neutral,App
+SUR00211,EMP01096,Onboarding,2024-09-09,Engineering,L5,Boston,4.35,3.52,1.09,4.16,1.77,1.12,83,Neutral,Work-Life Balance,Neutral,Kiosk
+SUR00212,EMP00068,DEI,2021-08-21,Sales,L2,Denver,4.21,4.16,4.42,4.01,4.79,1.96,35,Neutral,Culture,Negative,Kiosk
+SUR00213,EMP00387,Manager Effectiveness,2025-03-07,Product,L7,Atlanta,1.14,3.76,1.69,2.95,3.28,3.85,47,No,Work-Life Balance,Neutral,App
+SUR00214,EMP00728,Onboarding,2022-08-07,IT,L6,Denver,2.71,2.32,1.55,1.34,3.97,3.79,78,Neutral,Tools & Technology,Neutral,App
+SUR00215,EMP00973,Onboarding,2021-12-12,Customer Success,L1,New York,1.45,4.87,3.97,4.98,4.72,4.46,65,No,Compensation,Neutral,Kiosk
+SUR00216,EMP00945,DEI,2024-09-18,Finance,L6,Boston,3.34,1.94,3.7,4.26,3.85,3.2,-59,No,Culture,Negative,QR Code
+SUR00217,EMP00187,Wellbeing,2026-05-11,Data Science,L7,New York,1.21,2.78,2.86,4.86,1.41,3.73,59,No,Tools & Technology,Neutral,QR Code
+SUR00218,EMP00154,Wellbeing,2025-02-21,HR,L1,Seattle,4.5,4.11,4.76,2.21,2.13,3.8,-27,Yes,Compensation,Neutral,Kiosk
+SUR00219,EMP00307,Manager Effectiveness,2025-12-22,Customer Success,L2,Chicago,2.93,3.7,4.24,3.85,4.44,3.63,46,Neutral,Work-Life Balance,Negative,App
+SUR00220,EMP00099,Pulse,2023-04-30,Operations,L4,Seattle,3.55,4.8,2.89,4.31,2.37,3.24,86,Neutral,Work-Life Balance,Negative,QR Code
+SUR00221,EMP00077,Wellbeing,2025-12-28,Customer Success,L7,Remote,2.11,4.73,4.74,2.95,3.31,1.46,6,Yes,Work-Life Balance,Neutral,QR Code
+SUR00222,EMP00528,Onboarding,2023-02-21,Design,L6,San Francisco,4.87,5.0,4.43,1.96,4.03,2.83,-23,Yes,Culture,Neutral,App
+SUR00223,EMP01058,DEI,2025-10-24,Data Science,L7,Boston,4.88,1.74,2.99,3.89,2.93,2.17,72,Neutral,Autonomy,Neutral,Email
+SUR00224,EMP00116,Exit,2024-02-22,Customer Success,L1,Austin,2.36,1.69,4.73,1.63,4.0,3.91,42,Yes,Management,Positive,QR Code
+SUR00225,EMP00990,DEI,2026-06-13,IT,L1,Remote,2.64,2.62,3.91,1.59,2.72,4.64,-48,Neutral,Compensation,Negative,Kiosk
+SUR00226,EMP00941,Engagement,2023-04-20,Finance,L4,Dallas,1.53,1.43,3.87,4.32,1.76,4.97,20,Yes,Career Growth,Neutral,Email
+SUR00227,EMP00504,Exit,2023-12-02,Engineering,L5,Dallas,4.01,2.67,3.85,4.05,4.01,4.76,-43,Yes,Career Growth,Neutral,Email
+SUR00228,EMP01169,DEI,2022-04-26,Finance,L5,Seattle,3.38,3.69,3.77,2.97,2.22,2.76,4,Neutral,Management,Negative,QR Code
+SUR00229,EMP00712,Engagement,2025-10-12,Product,L7,Seattle,3.69,2.08,2.36,2.27,1.53,2.88,-8,Neutral,Culture,Positive,App
+SUR00230,EMP01029,Engagement,2023-07-04,IT,L3,Atlanta,2.91,2.4,4.44,4.23,1.78,2.34,-67,Yes,Career Growth,Positive,QR Code
+SUR00231,EMP00368,Exit,2024-06-06,HR,L1,Chicago,1.5,3.97,3.65,4.62,2.38,4.81,-5,No,Compensation,Positive,Email
+SUR00232,EMP00068,Exit,2025-03-24,Finance,L7,New York,3.93,1.91,1.35,3.06,1.59,1.59,19,No,Autonomy,Neutral,Email
+SUR00233,EMP00257,Onboarding,2024-12-21,Customer Success,L2,Atlanta,4.04,3.3,4.93,1.25,4.19,4.36,-47,No,Recognition,Negative,App
+SUR00234,EMP00398,Pulse,2023-10-06,Legal,L2,Chicago,4.97,1.52,3.13,2.42,2.6,4.09,97,Neutral,Compensation,Neutral,App
+SUR00235,EMP00449,Exit,2024-10-12,Marketing,L2,Boston,4.0,1.83,1.14,4.24,3.87,4.3,87,Neutral,Career Growth,Positive,Kiosk
+SUR00236,EMP00292,Wellbeing,2022-03-02,Finance,L1,Chicago,3.97,1.04,1.79,1.93,4.05,3.73,61,Neutral,Compensation,Negative,Kiosk
+SUR00237,EMP00752,Exit,2024-07-23,Sales,L2,Boston,3.58,4.56,3.5,1.05,2.86,2.76,51,Neutral,Tools & Technology,Negative,Email
+SUR00238,EMP00978,Exit,2024-03-16,Data Science,L4,Dallas,1.07,4.91,3.51,2.18,4.38,2.43,-23,Neutral,Management,Positive,Kiosk
+SUR00239,EMP01003,Wellbeing,2024-11-27,Customer Success,L7,Chicago,2.85,3.67,2.74,1.12,1.83,1.58,15,Yes,Recognition,Negative,Kiosk
+SUR00240,EMP00419,Onboarding,2025-01-26,Marketing,L5,Dallas,1.85,4.21,1.15,3.41,3.45,3.43,73,Neutral,Compensation,Negative,App
+SUR00241,EMP00165,Wellbeing,2023-02-02,Engineering,L2,Austin,1.38,3.04,4.03,4.3,2.68,2.38,-8,Yes,Career Growth,Positive,Kiosk
+SUR00242,EMP00024,Exit,2023-06-12,Legal,L6,Dallas,2.62,3.68,1.15,3.58,1.89,2.19,6,No,Work-Life Balance,Neutral,QR Code
+SUR00243,EMP00506,Pulse,2024-02-20,IT,L3,Remote,1.36,3.92,1.92,2.34,2.24,4.43,-3,Yes,Management,Positive,Kiosk
+SUR00244,EMP00722,DEI,2025-04-05,Legal,L2,Atlanta,2.18,3.29,4.94,1.91,3.41,3.46,52,No,Career Growth,Positive,Kiosk
+SUR00245,EMP00657,Manager Effectiveness,2025-03-04,Finance,L4,Boston,2.74,3.65,2.47,1.3,1.23,2.96,-92,Yes,Management,Negative,Email
+SUR00246,EMP00033,Wellbeing,2021-10-27,Design,L7,Atlanta,4.76,2.52,2.5,3.73,4.89,2.4,-1,Neutral,Autonomy,Positive,App
+SUR00247,EMP00349,Wellbeing,2022-02-23,Finance,L5,Atlanta,2.07,1.86,4.92,2.7,2.57,4.19,48,Yes,Career Growth,Negative,Email
+SUR00248,EMP00620,DEI,2023-11-30,Legal,L4,New York,3.99,1.83,4.44,1.62,2.24,4.7,14,Neutral,Compensation,Negative,QR Code
+SUR00249,EMP01053,Onboarding,2024-06-11,Operations,L6,Seattle,1.37,4.97,4.18,4.15,3.47,1.09,-50,No,Work-Life Balance,Neutral,Kiosk
+SUR00250,EMP00750,Wellbeing,2026-04-29,Customer Success,L1,New York,2.14,4.0,4.26,3.86,2.67,4.85,-24,No,Autonomy,Positive,App
+SUR00251,EMP01106,Exit,2025-04-23,Customer Success,L1,Boston,1.52,4.77,1.12,2.33,2.75,4.67,-78,Neutral,Compensation,Neutral,Kiosk
+SUR00252,EMP00921,Exit,2021-07-05,IT,L5,Dallas,3.01,4.91,2.09,4.26,2.42,3.42,3,Neutral,Tools & Technology,Negative,App
+SUR00253,EMP01031,Engagement,2023-03-21,Marketing,L6,Boston,1.23,1.96,3.05,3.28,3.37,3.69,-29,No,Management,Neutral,App
+SUR00254,EMP00611,Manager Effectiveness,2025-11-27,HR,L3,Seattle,3.11,3.38,1.71,1.45,4.28,3.74,-1,Yes,Compensation,Negative,QR Code
+SUR00255,EMP00131,Engagement,2023-12-04,Customer Success,L1,Chicago,2.32,2.24,3.49,2.53,1.0,2.2,-85,Yes,Autonomy,Neutral,Kiosk
+SUR00256,EMP00904,Onboarding,2023-07-31,Legal,L6,Remote,1.49,3.97,1.33,1.32,1.71,4.25,-89,Yes,Recognition,Negative,Kiosk
+SUR00257,EMP00720,DEI,2025-06-04,Legal,L6,Dallas,3.84,3.81,3.55,4.61,1.18,4.15,-23,Yes,Tools & Technology,Negative,App
+SUR00258,EMP00441,Pulse,2023-02-03,Marketing,L7,Dallas,2.66,3.86,2.6,1.4,1.89,2.26,91,Yes,Career Growth,Positive,Kiosk
+SUR00259,EMP00987,Pulse,2025-06-06,Customer Success,L1,San Francisco,4.97,4.54,1.27,4.42,4.24,4.42,-76,Neutral,Work-Life Balance,Neutral,Email
+SUR00260,EMP00789,Wellbeing,2026-02-16,Data Science,L7,San Francisco,3.39,3.43,4.08,1.46,4.65,3.5,85,No,Career Growth,Neutral,Kiosk
+SUR00261,EMP00248,DEI,2021-07-14,Data Science,L7,Remote,1.89,4.71,2.65,2.75,3.01,4.18,26,Yes,Autonomy,Positive,Email
+SUR00262,EMP00638,DEI,2026-04-26,Marketing,L5,Chicago,3.83,4.0,4.79,4.4,4.63,4.82,-7,Yes,Autonomy,Negative,Email
+SUR00263,EMP00866,Engagement,2021-11-11,IT,L2,Chicago,4.25,1.3,1.78,3.31,1.65,1.54,44,No,Career Growth,Negative,Email
+SUR00264,EMP00437,Exit,2025-11-23,Data Science,L1,Atlanta,2.98,3.09,2.4,1.62,2.8,3.16,-1,No,Work-Life Balance,Positive,App
+SUR00265,EMP00849,Manager Effectiveness,2026-06-23,Design,L2,New York,3.6,4.67,4.98,3.37,4.32,4.77,9,No,Autonomy,Negative,Email
+SUR00266,EMP00345,Engagement,2021-08-30,Customer Success,L4,New York,4.33,1.25,1.33,1.49,3.92,4.45,81,Neutral,Compensation,Negative,App
+SUR00267,EMP00401,Engagement,2022-01-08,Operations,L3,Remote,4.5,3.03,2.98,3.88,1.54,2.72,-62,Yes,Work-Life Balance,Neutral,Kiosk
+SUR00268,EMP00882,DEI,2024-09-09,Design,L5,Remote,4.99,4.26,4.38,4.53,3.82,3.53,46,No,Career Growth,Neutral,Kiosk
+SUR00269,EMP00064,Onboarding,2021-12-01,Sales,L1,Austin,4.02,4.37,4.17,1.02,1.49,4.14,98,Yes,Career Growth,Neutral,Kiosk
+SUR00270,EMP00834,Manager Effectiveness,2021-03-29,Customer Success,L6,San Francisco,3.77,3.0,1.41,1.15,4.1,4.36,-31,No,Tools & Technology,Neutral,Kiosk
+SUR00271,EMP01160,Onboarding,2021-03-03,Legal,L1,Remote,3.72,4.4,2.33,4.63,3.01,2.66,-67,Neutral,Autonomy,Neutral,Kiosk
+SUR00272,EMP00816,Exit,2024-05-01,Customer Success,L2,Remote,3.55,4.66,2.39,3.62,2.95,1.57,-30,Yes,Culture,Positive,Email
+SUR00273,EMP00595,DEI,2023-01-06,Product,L7,Atlanta,4.63,1.72,4.39,3.7,3.51,2.15,3,No,Work-Life Balance,Negative,Kiosk
+SUR00274,EMP00400,Engagement,2021-07-16,Legal,L7,Seattle,2.98,3.1,3.52,1.49,4.96,3.69,-4,Neutral,Tools & Technology,Negative,Email
+SUR00275,EMP00276,Manager Effectiveness,2026-05-25,Data Science,L4,Austin,3.44,2.78,2.55,1.48,2.56,1.55,84,Neutral,Recognition,Neutral,Email
+SUR00276,EMP00389,Onboarding,2024-05-07,Customer Success,L2,Seattle,4.23,2.6,3.19,4.67,4.99,3.7,23,Neutral,Career Growth,Positive,QR Code
+SUR00277,EMP00757,Exit,2021-11-19,Product,L6,Atlanta,4.29,2.18,1.63,4.59,4.29,2.99,-67,Yes,Work-Life Balance,Negative,App
+SUR00278,EMP00661,Pulse,2022-07-15,Marketing,L2,Boston,1.61,4.31,2.56,1.14,3.08,3.98,33,Neutral,Culture,Negative,QR Code
+SUR00279,EMP00129,Exit,2022-01-04,Sales,L3,New York,2.36,1.6,3.5,4.63,4.59,2.32,96,Yes,Compensation,Negative,Email
+SUR00280,EMP01055,Onboarding,2023-01-31,Legal,L1,Boston,3.45,4.32,1.92,3.66,1.97,1.51,83,Neutral,Work-Life Balance,Positive,Email
+SUR00281,EMP00301,DEI,2022-07-09,Finance,L6,Chicago,3.9,4.17,2.11,3.79,4.2,2.12,-93,Neutral,Autonomy,Negative,App
+SUR00282,EMP00544,Wellbeing,2026-02-01,HR,L6,Atlanta,4.5,2.93,4.05,1.6,4.5,1.18,-62,Yes,Work-Life Balance,Neutral,App
+SUR00283,EMP00468,Engagement,2022-03-21,Product,L5,Remote,4.46,4.6,3.07,3.01,3.61,4.84,74,Neutral,Recognition,Positive,Kiosk
+SUR00284,EMP00334,Exit,2022-12-06,Product,L5,Remote,4.02,2.74,1.87,2.33,3.02,2.81,-28,No,Management,Neutral,App
+SUR00285,EMP00616,DEI,2023-12-07,Customer Success,L2,Chicago,4.0,4.97,4.3,1.6,2.24,3.99,-68,Neutral,Tools & Technology,Positive,Kiosk
+SUR00286,EMP00240,Engagement,2026-01-16,Product,L5,Dallas,4.03,3.21,2.32,4.94,2.01,2.46,41,Neutral,Management,Negative,QR Code
+SUR00287,EMP00326,Engagement,2026-07-15,Finance,L4,Denver,2.89,2.52,2.52,1.18,1.51,3.18,26,No,Tools & Technology,Negative,QR Code
+SUR00288,EMP00162,Wellbeing,2024-09-24,Marketing,L1,Atlanta,2.25,1.29,4.37,1.86,4.65,3.22,54,Yes,Work-Life Balance,Neutral,App
+SUR00289,EMP00812,Pulse,2021-07-15,Data Science,L6,New York,2.92,2.18,4.59,1.33,4.16,2.05,-100,Neutral,Work-Life Balance,Positive,QR Code
+SUR00290,EMP00168,Onboarding,2026-03-04,Finance,L3,Austin,3.36,4.47,2.53,2.22,3.83,2.25,-48,Yes,Work-Life Balance,Negative,QR Code
+SUR00291,EMP00199,Manager Effectiveness,2021-09-08,Data Science,L7,Boston,1.91,4.27,4.55,4.14,4.73,1.66,10,Neutral,Autonomy,Positive,Email
+SUR00292,EMP00052,Manager Effectiveness,2021-04-04,Design,L2,Seattle,1.91,2.21,3.4,2.46,3.85,3.8,41,Neutral,Recognition,Negative,Email
+SUR00293,EMP01087,DEI,2023-11-04,Sales,L7,Atlanta,3.05,1.21,3.84,4.72,4.53,1.46,46,Neutral,Management,Neutral,Kiosk
+SUR00294,EMP00446,Exit,2023-06-15,HR,L5,Austin,2.96,2.15,4.47,4.81,1.84,1.47,-58,Yes,Compensation,Negative,Kiosk
+SUR00295,EMP00541,DEI,2021-03-25,Product,L1,Seattle,2.8,3.74,4.92,3.93,4.51,4.51,34,Yes,Recognition,Negative,QR Code
+SUR00296,EMP00635,Exit,2023-08-24,Design,L7,Atlanta,2.02,2.84,1.88,2.54,4.44,4.93,-10,No,Career Growth,Positive,QR Code
+SUR00297,EMP00774,Wellbeing,2021-10-13,Marketing,L7,Dallas,4.41,1.48,4.87,4.15,3.58,1.51,48,Yes,Recognition,Negative,App
+SUR00298,EMP00985,DEI,2025-06-07,Finance,L7,Atlanta,1.53,2.05,4.16,3.39,1.79,1.04,-24,Neutral,Tools & Technology,Negative,QR Code
+SUR00299,EMP01168,Pulse,2024-09-18,Engineering,L4,Denver,3.64,2.59,4.55,3.17,4.95,1.38,-49,No,Culture,Positive,Kiosk
+SUR00300,EMP01068,Manager Effectiveness,2025-01-28,Finance,L5,Dallas,1.37,4.87,3.63,4.93,4.19,2.41,-61,No,Management,Positive,Email
+SUR00301,EMP00797,Wellbeing,2022-04-27,Product,L5,San Francisco,2.9,3.83,2.23,3.84,4.75,4.16,-36,Neutral,Work-Life Balance,Positive,QR Code
+SUR00302,EMP00693,DEI,2022-12-18,Operations,L6,Dallas,4.23,3.84,3.29,2.03,1.29,1.99,46,Yes,Work-Life Balance,Positive,QR Code
+SUR00303,EMP00397,Wellbeing,2023-03-18,Operations,L5,Atlanta,1.71,2.6,2.71,2.97,2.95,3.27,-8,Neutral,Recognition,Positive,App
+SUR00304,EMP00633,Engagement,2023-09-22,Finance,L5,San Francisco,3.34,1.88,4.26,3.22,4.84,3.61,-24,Yes,Recognition,Neutral,App
+SUR00305,EMP00394,Pulse,2024-05-29,IT,L1,Atlanta,4.4,1.46,4.46,1.13,1.3,1.9,-73,No,Culture,Negative,Email
+SUR00306,EMP00631,Onboarding,2022-01-11,Design,L2,Denver,4.89,3.0,1.63,1.3,4.97,3.41,-78,Yes,Recognition,Positive,QR Code
+SUR00307,EMP00513,Manager Effectiveness,2023-08-01,Design,L5,New York,2.25,3.52,4.2,3.41,4.82,2.37,23,Yes,Career Growth,Neutral,QR Code
+SUR00308,EMP01173,Exit,2023-08-04,Data Science,L2,Denver,2.81,4.91,3.34,2.58,1.18,1.72,-51,No,Management,Neutral,Kiosk
+SUR00309,EMP00459,Wellbeing,2021-12-22,Engineering,L3,Dallas,4.19,3.27,2.76,1.63,2.07,2.45,20,Yes,Tools & Technology,Neutral,QR Code
+SUR00310,EMP00401,Pulse,2025-04-23,Product,L4,New York,1.47,3.73,2.23,3.47,4.33,2.87,27,Yes,Management,Negative,QR Code
+SUR00311,EMP00010,Manager Effectiveness,2026-06-03,IT,L4,Dallas,2.36,3.03,3.75,4.47,3.75,2.68,-84,Yes,Tools & Technology,Negative,QR Code
+SUR00312,EMP00411,Onboarding,2023-10-23,Legal,L4,Remote,2.17,1.85,3.79,1.78,4.42,2.1,27,Yes,Management,Neutral,App
+SUR00313,EMP00308,Exit,2023-03-22,Product,L6,Denver,4.54,4.06,2.4,2.57,4.49,2.06,-15,Neutral,Autonomy,Negative,QR Code
+SUR00314,EMP00789,DEI,2022-06-16,IT,L6,Seattle,4.89,3.98,2.4,4.37,4.24,1.95,13,No,Tools & Technology,Negative,Email
+SUR00315,EMP00266,Onboarding,2021-02-18,Operations,L2,Atlanta,2.98,3.4,1.02,3.9,3.72,3.99,56,No,Tools & Technology,Positive,Kiosk
+SUR00316,EMP00682,Engagement,2022-05-01,Product,L7,Boston,2.12,4.47,1.13,4.87,3.1,2.5,36,Yes,Compensation,Negative,Kiosk
+SUR00317,EMP00826,DEI,2022-01-22,Marketing,L6,Remote,1.48,2.63,2.52,4.9,3.1,3.79,-30,Yes,Autonomy,Positive,QR Code
+SUR00318,EMP00429,Engagement,2026-06-05,Finance,L1,Boston,1.01,4.52,1.87,4.24,3.83,4.35,-20,Yes,Career Growth,Negative,App
+SUR00319,EMP00835,Onboarding,2023-11-24,HR,L7,Dallas,2.81,3.33,1.82,4.56,4.7,2.87,65,No,Culture,Negative,QR Code
+SUR00320,EMP00885,Wellbeing,2021-03-18,HR,L2,Austin,4.61,1.79,4.14,3.48,2.06,2.34,-63,Yes,Culture,Positive,Email
+SUR00321,EMP00182,Engagement,2022-01-02,Data Science,L4,Denver,1.18,4.22,1.44,4.5,2.31,2.57,32,No,Autonomy,Neutral,QR Code
+SUR00322,EMP00415,DEI,2022-02-07,HR,L7,New York,2.71,2.05,1.86,2.29,4.45,2.48,80,No,Compensation,Neutral,Email
+SUR00323,EMP00705,Wellbeing,2025-04-01,Data Science,L6,Austin,2.64,1.74,2.87,3.9,4.44,2.88,10,No,Career Growth,Neutral,Email
+SUR00324,EMP01110,Wellbeing,2026-04-14,Sales,L2,Remote,1.73,4.53,2.6,1.38,1.87,1.44,-52,No,Autonomy,Neutral,Kiosk
+SUR00325,EMP01067,Onboarding,2026-05-20,Data Science,L1,Chicago,4.64,1.99,2.64,3.0,1.04,4.67,29,Yes,Autonomy,Negative,Email
+SUR00326,EMP00092,Wellbeing,2025-07-02,Legal,L7,Boston,1.48,1.12,2.71,1.16,1.14,2.82,-48,Neutral,Culture,Neutral,Kiosk
+SUR00327,EMP01050,Pulse,2025-07-08,Engineering,L2,Seattle,3.07,4.08,2.85,2.73,4.46,3.64,76,Neutral,Career Growth,Neutral,Kiosk
+SUR00328,EMP00265,Exit,2022-01-14,Customer Success,L1,Remote,1.04,1.47,2.81,4.48,3.02,4.17,-1,No,Compensation,Negative,Email
+SUR00329,EMP00877,Exit,2025-03-05,Customer Success,L3,Remote,3.01,2.07,2.04,2.07,1.17,3.25,46,No,Compensation,Positive,App
+SUR00330,EMP00382,Wellbeing,2021-03-10,Product,L6,Boston,2.74,4.38,4.3,1.62,3.48,4.12,-69,Neutral,Tools & Technology,Positive,App
+SUR00331,EMP00078,Pulse,2024-05-28,IT,L6,Remote,2.61,1.78,1.09,3.4,4.57,4.64,-9,No,Tools & Technology,Neutral,Email
+SUR00332,EMP00502,Engagement,2023-06-21,IT,L6,Remote,1.47,2.41,4.22,4.37,4.22,3.73,-47,Yes,Career Growth,Positive,App
+SUR00333,EMP00732,Pulse,2021-07-11,Customer Success,L3,New York,1.09,1.51,1.31,4.79,1.56,1.16,77,No,Management,Positive,Kiosk
+SUR00334,EMP01083,Manager Effectiveness,2021-09-12,Design,L1,Remote,1.95,4.87,4.64,2.39,3.12,3.84,-45,Neutral,Tools & Technology,Neutral,QR Code
+SUR00335,EMP00916,Pulse,2024-04-16,Customer Success,L6,Austin,2.08,3.87,3.55,2.31,3.11,1.42,-79,Neutral,Management,Neutral,App
+SUR00336,EMP00385,Manager Effectiveness,2023-11-22,Marketing,L4,Seattle,4.41,3.35,4.47,1.39,2.37,4.48,-7,Neutral,Autonomy,Negative,QR Code
+SUR00337,EMP01082,Manager Effectiveness,2023-12-14,Data Science,L6,San Francisco,2.35,2.35,1.16,1.21,3.05,3.3,86,Neutral,Tools & Technology,Neutral,Kiosk
+SUR00338,EMP01028,Exit,2023-03-05,Sales,L6,Boston,1.06,3.83,2.18,3.22,3.34,1.46,82,No,Career Growth,Negative,App
+SUR00339,EMP00523,Onboarding,2023-04-14,Design,L3,New York,1.95,2.33,2.77,4.4,3.38,2.44,100,No,Compensation,Neutral,Kiosk
+SUR00340,EMP01042,DEI,2021-06-09,Engineering,L5,Austin,3.66,2.79,4.1,2.2,4.07,2.81,27,No,Culture,Neutral,App
+SUR00341,EMP00758,Onboarding,2025-12-06,Design,L1,Austin,1.87,2.79,4.41,3.95,4.25,1.99,52,No,Career Growth,Positive,QR Code
+SUR00342,EMP00128,Wellbeing,2022-08-07,Operations,L3,Remote,4.93,3.19,2.24,3.75,2.66,4.59,84,Yes,Recognition,Neutral,App
+SUR00343,EMP00405,Wellbeing,2024-02-29,Operations,L7,Denver,3.64,2.95,1.62,2.46,1.88,4.61,-57,No,Recognition,Neutral,Kiosk
+SUR00344,EMP00043,Exit,2022-09-09,Sales,L7,Austin,4.65,4.94,2.96,3.72,2.59,1.79,-84,No,Tools & Technology,Positive,App
+SUR00345,EMP00566,Engagement,2023-10-14,Data Science,L7,New York,1.22,2.13,2.46,3.22,4.16,2.41,59,No,Tools & Technology,Neutral,App
+SUR00346,EMP00252,Exit,2026-07-25,Customer Success,L6,Chicago,1.81,4.18,4.71,2.93,4.88,4.06,6,Neutral,Career Growth,Negative,Kiosk
+SUR00347,EMP00016,Onboarding,2026-07-18,Design,L5,San Francisco,1.12,2.67,3.87,2.17,1.32,1.36,-16,Neutral,Autonomy,Negative,Kiosk
+SUR00348,EMP00325,Engagement,2024-07-05,Design,L5,Atlanta,3.33,1.89,3.22,4.55,4.11,3.46,-38,Yes,Recognition,Positive,Kiosk
+SUR00349,EMP00051,Engagement,2021-03-10,Operations,L3,Dallas,1.79,1.31,1.43,4.36,1.69,1.65,-28,Yes,Career Growth,Negative,App
+SUR00350,EMP00487,Wellbeing,2022-03-21,IT,L4,Chicago,3.0,1.17,4.64,3.66,4.56,3.17,62,No,Management,Negative,Email
+SUR00351,EMP01147,DEI,2024-06-13,HR,L5,Seattle,2.13,4.76,3.08,4.01,2.65,2.81,3,Yes,Culture,Positive,Email
+SUR00352,EMP01114,Pulse,2022-09-05,Customer Success,L6,San Francisco,1.74,1.75,4.06,2.74,2.92,1.6,5,No,Culture,Positive,Kiosk
+SUR00353,EMP00949,Wellbeing,2024-02-19,HR,L7,Austin,4.05,3.4,2.74,1.96,3.38,3.6,32,Yes,Autonomy,Neutral,Kiosk
+SUR00354,EMP00559,DEI,2024-03-06,Marketing,L3,Denver,3.11,3.66,2.22,4.8,2.54,3.44,45,Neutral,Tools & Technology,Positive,Email
+SUR00355,EMP00670,Onboarding,2025-07-13,Legal,L4,Seattle,3.61,1.78,2.12,4.77,3.51,4.17,49,Yes,Recognition,Neutral,QR Code
+SUR00356,EMP00800,Exit,2024-09-29,Customer Success,L1,San Francisco,3.65,3.15,4.36,3.31,4.16,1.97,97,Neutral,Management,Neutral,QR Code
+SUR00357,EMP01148,Exit,2021-10-09,Marketing,L1,Chicago,2.87,1.92,3.83,4.09,1.21,2.55,82,Yes,Compensation,Negative,QR Code
+SUR00358,EMP01008,Onboarding,2024-12-18,Customer Success,L3,Atlanta,3.01,1.21,2.06,2.32,3.34,3.75,-17,Neutral,Autonomy,Negative,QR Code
+SUR00359,EMP00762,Manager Effectiveness,2025-06-29,Product,L5,Denver,3.25,1.01,4.55,2.35,4.4,1.53,1,Neutral,Autonomy,Negative,QR Code
+SUR00360,EMP00535,Wellbeing,2022-06-08,IT,L3,Chicago,4.87,4.66,1.66,1.15,2.64,2.02,11,No,Compensation,Neutral,Kiosk
+SUR00361,EMP00364,Engagement,2021-05-06,Finance,L2,San Francisco,4.92,3.04,2.77,2.82,1.4,2.47,-88,Yes,Tools & Technology,Positive,Email
+SUR00362,EMP01171,DEI,2022-12-13,Data Science,L6,New York,4.22,2.64,3.51,1.94,2.27,4.41,-19,Yes,Work-Life Balance,Negative,Kiosk
+SUR00363,EMP00385,Pulse,2025-09-02,Marketing,L6,Remote,3.0,4.72,4.6,2.64,4.98,1.74,25,Neutral,Career Growth,Neutral,App
+SUR00364,EMP00425,Pulse,2024-01-28,Sales,L1,Denver,1.16,4.93,4.2,3.46,1.31,4.29,-89,Yes,Tools & Technology,Positive,App
+SUR00365,EMP00167,DEI,2022-07-02,Operations,L4,Seattle,3.32,4.07,2.45,3.39,2.34,1.53,-96,Neutral,Management,Neutral,QR Code
+SUR00366,EMP00196,Engagement,2025-07-01,Finance,L2,Boston,4.61,3.02,1.77,2.25,4.47,3.51,22,Neutral,Tools & Technology,Positive,App
+SUR00367,EMP00083,Exit,2021-06-07,Engineering,L5,Austin,4.59,4.91,1.43,3.2,2.82,2.36,-49,No,Work-Life Balance,Neutral,QR Code
+SUR00368,EMP00490,Manager Effectiveness,2021-11-14,Engineering,L3,Chicago,1.33,1.51,2.13,4.2,1.72,2.7,-11,No,Career Growth,Positive,App
+SUR00369,EMP00413,Exit,2021-06-27,Legal,L3,Boston,3.04,2.67,1.58,2.81,2.33,1.6,16,Yes,Career Growth,Negative,App
+SUR00370,EMP00830,Wellbeing,2026-01-01,Product,L6,New York,1.58,3.9,1.45,1.03,4.84,4.61,75,No,Autonomy,Positive,QR Code
+SUR00371,EMP01186,Engagement,2022-10-16,Product,L1,San Francisco,4.89,1.33,3.09,4.4,2.81,3.75,-49,Yes,Compensation,Neutral,App
+SUR00372,EMP01177,Manager Effectiveness,2022-04-16,Design,L2,New York,3.52,2.48,3.12,3.94,3.8,4.87,7,No,Autonomy,Positive,QR Code
+SUR00373,EMP01192,Onboarding,2022-01-21,Marketing,L7,San Francisco,3.83,1.91,1.59,1.71,3.73,2.65,35,No,Tools & Technology,Negative,Email
+SUR00374,EMP01175,Engagement,2021-10-20,Design,L1,Seattle,1.28,4.1,4.62,2.29,2.22,3.02,99,No,Work-Life Balance,Positive,App
+SUR00375,EMP00390,Onboarding,2023-03-13,Operations,L6,Chicago,1.9,2.67,4.06,1.03,2.93,4.09,79,No,Compensation,Neutral,Email
+SUR00376,EMP00006,DEI,2025-08-06,Customer Success,L3,San Francisco,2.62,4.96,1.93,4.72,1.13,3.59,-76,No,Career Growth,Negative,Kiosk
+SUR00377,EMP00903,Engagement,2021-08-16,Marketing,L3,Remote,1.68,4.59,4.34,1.9,1.85,4.64,44,Neutral,Autonomy,Positive,QR Code
+SUR00378,EMP01105,Onboarding,2023-02-19,Customer Success,L1,Atlanta,2.51,2.78,1.15,3.42,2.97,3.96,76,Neutral,Compensation,Positive,Email
+SUR00379,EMP00118,Wellbeing,2022-12-12,Design,L3,Remote,1.34,2.51,4.08,1.76,3.87,1.29,50,Yes,Recognition,Neutral,QR Code
+SUR00380,EMP00058,DEI,2024-05-18,Design,L7,Seattle,3.89,1.17,2.4,3.87,3.52,4.71,-10,Yes,Tools & Technology,Negative,App
+SUR00381,EMP00755,Exit,2021-02-13,Data Science,L4,Denver,4.46,1.03,2.04,1.72,1.05,3.15,65,No,Recognition,Positive,App
+SUR00382,EMP00922,Engagement,2024-04-04,Data Science,L7,Austin,2.64,4.04,4.91,4.32,3.63,4.15,-84,Yes,Recognition,Negative,Email
+SUR00383,EMP00241,Engagement,2026-07-21,IT,L7,Chicago,2.74,1.01,3.6,3.36,4.38,1.01,42,Yes,Autonomy,Positive,Email
+SUR00384,EMP00403,Pulse,2023-10-21,Design,L4,Austin,3.11,2.38,4.38,3.67,3.76,2.85,25,No,Career Growth,Positive,Kiosk
+SUR00385,EMP00951,Pulse,2024-11-29,Legal,L5,Austin,4.52,1.4,3.25,2.71,3.62,3.94,2,No,Recognition,Positive,QR Code
+SUR00386,EMP00921,Pulse,2024-07-25,Operations,L5,Boston,2.56,4.19,3.74,4.96,4.27,1.6,-10,Yes,Compensation,Neutral,QR Code
+SUR00387,EMP00492,Manager Effectiveness,2026-03-15,Design,L7,Remote,4.74,3.65,4.19,3.92,4.13,3.44,-10,Yes,Career Growth,Neutral,Kiosk
+SUR00388,EMP00217,Exit,2023-08-15,Design,L3,Dallas,2.66,2.89,2.45,1.48,1.52,1.45,86,No,Culture,Negative,QR Code
+SUR00389,EMP00578,Exit,2023-07-13,IT,L2,Boston,4.45,3.46,3.49,3.71,2.33,3.2,-45,Neutral,Compensation,Neutral,QR Code
+SUR00390,EMP01186,DEI,2023-08-20,Sales,L2,Boston,1.58,1.14,1.32,1.8,3.79,4.57,9,Neutral,Work-Life Balance,Positive,QR Code
+SUR00391,EMP01006,Engagement,2024-03-28,Sales,L5,Denver,4.85,3.3,1.84,1.96,1.15,3.51,-38,Neutral,Autonomy,Negative,App
+SUR00392,EMP00082,Onboarding,2024-08-06,Legal,L5,Austin,3.06,3.95,4.13,2.5,1.94,4.37,-55,No,Management,Positive,App
+SUR00393,EMP00567,Manager Effectiveness,2024-01-30,Product,L3,Atlanta,3.02,1.45,3.23,2.61,4.42,3.36,-26,Neutral,Tools & Technology,Positive,QR Code
+SUR00394,EMP00473,DEI,2026-06-17,Marketing,L7,Austin,1.55,1.88,2.76,2.84,2.73,4.62,-98,Yes,Culture,Negative,QR Code
+SUR00395,EMP00765,Manager Effectiveness,2025-04-02,Data Science,L6,New York,2.27,4.86,3.77,2.98,2.93,4.38,-80,No,Culture,Positive,Email
+SUR00396,EMP00258,Wellbeing,2022-09-09,HR,L3,Boston,1.83,1.99,4.7,1.31,3.76,2.98,-92,Neutral,Management,Neutral,App
+SUR00397,EMP00103,DEI,2022-07-11,Customer Success,L1,Chicago,2.52,3.81,2.49,3.57,4.97,1.75,56,No,Compensation,Positive,Email
+SUR00398,EMP00834,DEI,2023-02-13,Product,L1,Dallas,3.15,2.3,2.6,4.04,1.91,4.69,64,No,Culture,Positive,Email
+SUR00399,EMP00139,Engagement,2022-09-07,Marketing,L7,Atlanta,4.12,3.37,2.04,1.77,2.11,3.34,-71,Yes,Work-Life Balance,Negative,Email
+SUR00400,EMP01035,DEI,2025-12-02,Data Science,L5,Denver,3.45,4.75,3.57,1.86,1.62,4.39,60,Neutral,Compensation,Neutral,QR Code
+SUR00401,EMP00658,Pulse,2023-12-19,Finance,L7,Dallas,4.55,1.31,1.36,3.87,1.15,1.75,17,No,Recognition,Positive,Email
+SUR00402,EMP00844,Onboarding,2025-09-20,Data Science,L2,Denver,1.75,4.33,2.34,2.29,2.66,1.65,-55,Yes,Compensation,Neutral,Kiosk
+SUR00403,EMP00798,DEI,2024-12-23,Design,L2,Austin,3.65,3.28,1.02,4.35,1.33,2.78,70,No,Compensation,Neutral,QR Code
+SUR00404,EMP00785,Engagement,2026-02-24,IT,L3,Seattle,2.89,1.2,3.65,2.67,4.18,2.0,46,Neutral,Work-Life Balance,Positive,QR Code
+SUR00405,EMP01184,Manager Effectiveness,2023-01-03,Sales,L4,Chicago,2.35,1.3,3.53,3.95,3.96,1.0,-57,Yes,Culture,Negative,Email
+SUR00406,EMP00999,Onboarding,2023-03-29,Sales,L4,Dallas,1.17,3.43,2.74,3.66,1.34,3.93,-15,No,Work-Life Balance,Positive,App
+SUR00407,EMP00404,Exit,2023-03-14,Operations,L6,New York,1.56,2.36,4.76,4.2,1.27,4.62,78,No,Work-Life Balance,Neutral,Email
+SUR00408,EMP00765,Wellbeing,2023-08-28,Customer Success,L2,Remote,1.24,2.32,3.95,2.22,1.71,1.34,49,Yes,Work-Life Balance,Negative,Kiosk
+SUR00409,EMP00328,DEI,2024-04-08,IT,L3,Dallas,1.45,1.44,1.03,1.34,4.26,4.85,77,Neutral,Recognition,Negative,App
+SUR00410,EMP01189,Engagement,2022-08-06,Marketing,L4,Boston,1.62,4.62,4.32,4.28,1.12,2.8,-90,Yes,Career Growth,Negative,Kiosk
+SUR00411,EMP00630,Exit,2024-06-20,Customer Success,L5,Dallas,2.56,2.46,2.19,1.3,3.17,2.85,53,Yes,Compensation,Negative,QR Code
+SUR00412,EMP00937,Wellbeing,2022-11-01,IT,L1,Denver,2.25,2.09,3.56,1.5,4.64,2.25,-62,Neutral,Work-Life Balance,Negative,Email
+SUR00413,EMP00195,Engagement,2022-01-26,Engineering,L5,Boston,4.53,1.87,2.44,4.32,3.13,1.68,-40,No,Management,Negative,Kiosk
+SUR00414,EMP00026,Wellbeing,2021-09-14,Marketing,L6,Seattle,2.58,4.77,2.91,1.33,1.97,4.12,-98,Yes,Tools & Technology,Positive,Kiosk
+SUR00415,EMP00326,Pulse,2024-01-05,Legal,L4,New York,4.25,2.9,1.12,4.09,3.48,3.93,66,Neutral,Autonomy,Negative,QR Code
+SUR00416,EMP00810,Exit,2022-09-12,Engineering,L5,Atlanta,2.95,1.54,1.16,3.6,1.71,2.17,76,Yes,Career Growth,Positive,App
+SUR00417,EMP00074,Manager Effectiveness,2023-01-29,Sales,L1,Remote,3.86,2.97,4.67,2.13,2.85,4.9,-12,No,Management,Neutral,Kiosk
+SUR00418,EMP00593,Engagement,2023-06-14,Design,L7,Dallas,3.37,1.83,1.71,4.99,2.74,3.9,92,Neutral,Compensation,Negative,Kiosk
+SUR00419,EMP00380,Pulse,2024-02-12,Data Science,L1,Dallas,1.68,4.71,3.31,4.63,3.59,4.88,60,Yes,Autonomy,Negative,QR Code
+SUR00420,EMP01057,Engagement,2023-09-07,Design,L1,Seattle,1.72,4.51,2.41,4.66,4.09,1.92,33,Neutral,Tools & Technology,Negative,App
+SUR00421,EMP00145,Manager Effectiveness,2021-06-15,Design,L4,Remote,3.37,3.7,3.6,2.27,2.25,2.87,-86,No,Career Growth,Neutral,Email
+SUR00422,EMP01016,Exit,2023-02-07,Engineering,L6,Dallas,3.21,4.1,2.19,2.13,3.31,3.45,2,Yes,Tools & Technology,Neutral,QR Code
+SUR00423,EMP01034,Exit,2024-12-13,Legal,L2,San Francisco,1.95,4.74,4.25,4.65,2.43,3.44,-35,Neutral,Culture,Negative,Kiosk
+SUR00424,EMP00570,Wellbeing,2021-12-17,Marketing,L3,Remote,2.33,1.4,4.27,4.3,3.83,3.97,56,Yes,Tools & Technology,Neutral,Email
+SUR00425,EMP01192,Exit,2022-03-03,Data Science,L6,Boston,1.44,3.99,4.7,1.4,3.39,2.99,-13,Yes,Compensation,Neutral,App
+SUR00426,EMP00824,Manager Effectiveness,2022-12-30,Design,L5,New York,4.77,2.34,1.12,1.26,1.95,4.53,-64,Yes,Compensation,Neutral,App
+SUR00427,EMP00860,Manager Effectiveness,2024-12-08,Product,L7,Dallas,4.15,2.86,4.84,1.16,3.84,4.53,73,Yes,Compensation,Negative,Email
+SUR00428,EMP00287,DEI,2021-06-14,Product,L1,Dallas,4.26,3.62,3.28,1.92,4.78,2.23,13,Neutral,Tools & Technology,Positive,Email
+SUR00429,EMP00145,Pulse,2023-06-23,Design,L3,Remote,2.69,4.03,2.99,4.27,1.28,2.22,-48,Yes,Work-Life Balance,Positive,QR Code
+SUR00430,EMP00332,Pulse,2021-04-21,Legal,L6,Boston,4.13,3.33,2.04,4.32,1.11,4.26,36,Yes,Career Growth,Positive,QR Code
+SUR00431,EMP00610,DEI,2026-05-04,Operations,L6,San Francisco,3.71,4.67,1.52,3.0,2.22,3.83,-94,Neutral,Work-Life Balance,Neutral,Email
+SUR00432,EMP00276,DEI,2022-06-21,Legal,L1,Denver,3.54,2.88,2.78,4.17,1.77,4.04,-28,Neutral,Autonomy,Positive,App
+SUR00433,EMP00263,Engagement,2022-07-28,HR,L6,Seattle,3.66,2.02,3.9,2.23,1.52,1.17,-8,Yes,Career Growth,Positive,Kiosk
+SUR00434,EMP00810,Engagement,2021-05-15,Engineering,L6,Seattle,1.44,1.49,2.34,2.34,3.98,3.28,-66,Yes,Autonomy,Positive,App
+SUR00435,EMP00476,DEI,2026-05-21,Operations,L4,Atlanta,1.52,1.34,2.51,4.12,3.84,4.2,53,Neutral,Autonomy,Negative,QR Code
+SUR00436,EMP01006,Exit,2023-09-03,Design,L4,Boston,4.46,1.87,2.92,3.63,1.52,1.85,37,Yes,Compensation,Negative,QR Code
+SUR00437,EMP00330,Engagement,2022-07-23,Customer Success,L4,Chicago,1.16,2.44,3.35,2.28,3.96,2.64,30,Yes,Autonomy,Negative,App
+SUR00438,EMP00575,Engagement,2024-01-08,Customer Success,L6,New York,2.99,4.9,3.63,4.12,3.91,1.16,60,Neutral,Work-Life Balance,Neutral,QR Code
+SUR00439,EMP00654,DEI,2022-11-10,IT,L2,Remote,1.42,4.94,3.55,1.95,2.57,1.56,-8,No,Culture,Negative,App
+SUR00440,EMP00483,DEI,2022-01-10,Product,L1,Remote,2.26,1.12,2.64,3.07,4.39,4.59,-98,Yes,Career Growth,Negative,QR Code
+SUR00441,EMP00153,Manager Effectiveness,2022-12-29,HR,L4,Dallas,3.63,1.74,3.75,2.39,3.73,2.39,-14,Yes,Tools & Technology,Neutral,Kiosk
+SUR00442,EMP00074,Exit,2025-04-04,Customer Success,L6,Remote,3.71,2.82,3.79,3.01,3.1,4.89,50,Yes,Management,Positive,Email
+SUR00443,EMP00080,Exit,2025-05-16,Marketing,L6,New York,4.7,1.09,4.02,2.24,4.04,1.27,-69,Yes,Culture,Neutral,Email
+SUR00444,EMP00909,Onboarding,2024-10-01,Product,L5,New York,4.57,2.12,4.77,1.09,3.78,2.24,9,No,Autonomy,Positive,QR Code
+SUR00445,EMP00527,Onboarding,2021-11-02,Legal,L2,Seattle,2.2,4.79,2.99,3.78,3.25,2.66,-79,Yes,Career Growth,Positive,QR Code
+SUR00446,EMP00955,Manager Effectiveness,2021-01-29,HR,L2,Austin,2.31,4.11,3.77,3.64,1.9,4.02,18,Yes,Management,Neutral,QR Code
+SUR00447,EMP00867,Manager Effectiveness,2023-12-22,IT,L5,Atlanta,3.63,2.03,4.25,3.72,4.02,3.56,-86,No,Compensation,Negative,Email
+SUR00448,EMP00951,Exit,2024-07-02,IT,L6,Dallas,4.73,3.29,2.04,4.37,1.64,2.87,-28,Neutral,Work-Life Balance,Positive,App
+SUR00449,EMP00122,Engagement,2023-11-14,Legal,L7,Seattle,1.98,1.99,4.26,4.69,3.76,4.26,-76,Neutral,Work-Life Balance,Positive,QR Code
+SUR00450,EMP00753,DEI,2021-06-15,Product,L1,New York,1.98,1.97,4.04,2.08,3.92,1.62,-3,Neutral,Autonomy,Neutral,Email
+SUR00451,EMP00678,Pulse,2023-02-18,Marketing,L3,San Francisco,4.5,3.69,1.82,1.29,2.35,1.44,-83,Yes,Career Growth,Negative,App
+SUR00452,EMP00057,Exit,2021-01-24,Product,L1,Chicago,3.95,3.6,1.82,4.14,2.44,1.51,-81,Neutral,Culture,Neutral,App
+SUR00453,EMP00869,Manager Effectiveness,2026-03-15,Product,L6,Chicago,3.99,2.46,1.8,2.06,1.54,4.1,-70,Yes,Recognition,Positive,Kiosk
+SUR00454,EMP01170,Wellbeing,2024-06-05,Finance,L3,Austin,2.65,3.81,3.14,4.4,2.32,1.84,95,No,Management,Neutral,App
+SUR00455,EMP00756,Engagement,2023-12-30,Sales,L3,Remote,3.32,4.41,2.24,1.13,4.2,1.53,-12,Neutral,Tools & Technology,Negative,App
+SUR00456,EMP00713,DEI,2021-04-25,Design,L2,Boston,4.5,1.69,3.07,2.34,4.7,2.98,-89,No,Work-Life Balance,Negative,QR Code
+SUR00457,EMP00434,Onboarding,2022-06-15,Finance,L2,Boston,1.72,3.81,2.89,2.95,2.01,4.11,-30,Neutral,Recognition,Neutral,App
+SUR00458,EMP00070,Onboarding,2023-05-25,Finance,L7,New York,1.2,1.03,3.27,4.5,4.7,2.56,39,No,Management,Negative,QR Code
+SUR00459,EMP00746,Manager Effectiveness,2023-01-18,HR,L4,Atlanta,3.37,4.14,4.26,3.25,4.61,4.46,67,No,Career Growth,Negative,Email
+SUR00460,EMP00287,Engagement,2021-02-15,Finance,L1,Atlanta,1.63,2.44,4.24,2.42,1.79,2.74,-77,No,Career Growth,Negative,App
+SUR00461,EMP00290,Manager Effectiveness,2024-07-18,Design,L3,Atlanta,1.12,3.25,2.59,1.54,3.67,4.57,-74,Neutral,Autonomy,Neutral,App
+SUR00462,EMP00255,Wellbeing,2023-03-19,Engineering,L2,Austin,2.49,3.6,1.92,3.72,3.77,3.34,-37,Neutral,Culture,Neutral,App
+SUR00463,EMP00942,DEI,2024-03-19,Operations,L2,Chicago,2.71,4.15,3.0,4.64,3.28,3.9,-14,No,Tools & Technology,Negative,Kiosk
+SUR00464,EMP00935,Wellbeing,2023-11-05,Sales,L2,Atlanta,3.9,3.9,2.97,4.5,3.72,4.45,-64,No,Work-Life Balance,Negative,App
+SUR00465,EMP00272,Manager Effectiveness,2021-10-25,Data Science,L3,New York,1.65,3.4,1.83,4.45,4.66,2.9,-74,No,Recognition,Neutral,Email
+SUR00466,EMP00567,Engagement,2022-07-24,Design,L4,Boston,3.66,1.4,1.65,2.51,3.02,4.83,-96,No,Career Growth,Positive,App
+SUR00467,EMP01090,Wellbeing,2024-05-20,Marketing,L1,Atlanta,4.1,2.17,3.55,3.35,1.68,4.79,34,Neutral,Management,Neutral,QR Code
+SUR00468,EMP01005,Exit,2025-06-16,Finance,L2,Chicago,3.5,2.27,2.06,4.64,1.92,3.56,16,Yes,Management,Negative,QR Code
+SUR00469,EMP01066,Pulse,2024-05-30,Legal,L7,Remote,1.75,4.3,2.38,1.16,1.55,1.01,12,Yes,Work-Life Balance,Neutral,App
+SUR00470,EMP00515,Wellbeing,2023-12-05,Legal,L5,Denver,4.89,4.71,2.37,4.5,1.27,4.61,21,Yes,Work-Life Balance,Positive,Kiosk
+SUR00471,EMP00372,Engagement,2024-02-22,IT,L5,Chicago,1.26,2.81,1.12,4.24,4.95,1.21,59,Yes,Compensation,Neutral,QR Code
+SUR00472,EMP00467,Engagement,2026-07-05,Marketing,L5,Atlanta,4.96,4.56,2.1,1.34,2.25,2.36,96,Yes,Autonomy,Negative,Kiosk
+SUR00473,EMP00055,DEI,2021-11-02,Legal,L5,New York,1.0,1.24,1.6,1.11,3.62,2.91,-60,Yes,Culture,Neutral,App
+SUR00474,EMP00503,DEI,2024-08-10,Design,L3,Remote,2.65,1.15,1.94,1.3,2.31,3.48,99,Neutral,Autonomy,Neutral,Email
+SUR00475,EMP00943,Onboarding,2023-07-02,IT,L1,Chicago,1.67,1.06,4.74,3.1,1.23,2.74,-100,Neutral,Culture,Positive,QR Code
+SUR00476,EMP00689,Engagement,2021-12-13,Design,L3,San Francisco,4.79,4.73,1.19,3.05,3.19,2.97,-11,Neutral,Autonomy,Neutral,Kiosk
+SUR00477,EMP01109,Onboarding,2026-04-29,Engineering,L5,Boston,3.3,1.39,2.34,2.19,4.32,2.75,-37,No,Recognition,Negative,Kiosk
+SUR00478,EMP00806,Pulse,2023-07-02,Marketing,L5,Denver,4.82,1.42,4.65,2.15,3.76,1.16,-43,Neutral,Culture,Negative,Kiosk
+SUR00479,EMP00095,Wellbeing,2026-05-09,Design,L3,Denver,1.58,2.95,2.54,3.65,4.72,3.42,-49,Neutral,Culture,Positive,QR Code
+SUR00480,EMP00774,Exit,2022-06-10,Engineering,L4,Dallas,4.58,3.24,4.51,2.68,3.04,4.34,78,No,Tools & Technology,Neutral,Kiosk
+SUR00481,EMP00155,Manager Effectiveness,2021-06-26,Engineering,L4,Denver,2.83,1.6,2.72,4.8,3.02,3.5,67,Neutral,Autonomy,Negative,Kiosk
+SUR00482,EMP00444,Exit,2023-08-27,Engineering,L1,Austin,2.11,1.85,4.37,2.72,2.06,3.7,52,Neutral,Management,Neutral,App
+SUR00483,EMP00899,DEI,2021-01-30,Finance,L4,New York,2.17,2.93,3.36,2.56,1.27,3.04,14,No,Recognition,Negative,App
+SUR00484,EMP00885,Wellbeing,2026-01-23,IT,L2,New York,4.33,4.09,4.76,1.88,4.88,3.9,20,Yes,Tools & Technology,Neutral,Email
+SUR00485,EMP00289,Onboarding,2023-03-09,Product,L2,San Francisco,1.62,2.0,1.11,4.12,2.83,3.02,47,No,Work-Life Balance,Neutral,App
+SUR00486,EMP00291,Wellbeing,2022-09-17,Marketing,L3,Denver,2.52,1.03,3.16,3.9,1.0,4.49,25,Neutral,Compensation,Neutral,Email
+SUR00487,EMP00421,Engagement,2022-02-19,Finance,L1,Chicago,4.29,2.62,3.62,1.5,3.06,2.73,37,No,Autonomy,Negative,QR Code
+SUR00488,EMP00057,Wellbeing,2023-10-18,Engineering,L4,New York,1.1,2.09,2.51,4.33,4.15,1.99,13,Yes,Career Growth,Neutral,Email
+SUR00489,EMP01000,Onboarding,2026-01-01,Finance,L2,Denver,3.24,1.33,3.91,4.3,4.61,1.95,79,No,Recognition,Positive,Email
+SUR00490,EMP00733,Exit,2024-12-20,Product,L7,Seattle,4.33,3.96,2.02,2.5,3.01,2.72,34,Yes,Culture,Negative,QR Code
+SUR00491,EMP00630,Engagement,2022-07-16,Marketing,L4,Dallas,2.45,1.94,1.25,1.44,3.94,3.01,20,Yes,Recognition,Positive,Kiosk
+SUR00492,EMP01172,Pulse,2021-06-18,Data Science,L2,Austin,1.82,1.88,4.48,4.34,3.1,4.36,-60,Yes,Tools & Technology,Negative,Email
+SUR00493,EMP00030,Exit,2024-12-01,Sales,L2,Austin,3.65,1.03,3.87,4.79,2.03,4.12,7,No,Autonomy,Positive,Kiosk
+SUR00494,EMP00545,Engagement,2025-02-12,Product,L6,Denver,2.56,2.19,2.67,3.36,1.92,1.34,-75,No,Culture,Neutral,QR Code
+SUR00495,EMP00821,Exit,2026-03-01,Data Science,L4,Denver,4.73,4.27,3.88,2.54,4.45,2.92,0,Yes,Tools & Technology,Positive,Email
+SUR00496,EMP01025,Wellbeing,2025-02-19,Operations,L7,Austin,3.34,2.24,4.52,4.71,1.28,2.46,-27,Neutral,Autonomy,Negative,App
+SUR00497,EMP01144,DEI,2023-09-26,Marketing,L4,Boston,2.2,2.1,1.67,2.72,3.75,3.22,77,Yes,Recognition,Negative,App
+SUR00498,EMP01099,Exit,2025-05-24,Data Science,L2,Dallas,2.73,3.74,1.14,2.52,2.92,2.22,10,Yes,Career Growth,Positive,App
+SUR00499,EMP00180,Onboarding,2022-05-22,Engineering,L2,San Francisco,3.18,1.76,3.27,4.59,1.97,1.08,-80,Yes,Work-Life Balance,Negative,Kiosk
+SUR00500,EMP00044,Exit,2022-12-26,Finance,L5,Dallas,2.29,3.09,2.28,1.53,2.16,1.61,0,Yes,Tools & Technology,Positive,Kiosk
+SUR00501,EMP00395,Exit,2024-05-31,Product,L3,Boston,2.82,4.81,1.84,1.29,2.81,3.29,39,Yes,Autonomy,Negative,Email
+SUR00502,EMP00495,Onboarding,2022-12-16,Legal,L4,Remote,2.73,4.51,3.63,1.81,4.36,3.85,47,No,Recognition,Negative,Kiosk
+SUR00503,EMP00140,Exit,2024-08-31,Customer Success,L2,Boston,4.78,2.55,1.18,1.49,3.46,3.33,-72,Neutral,Recognition,Positive,Kiosk
+SUR00504,EMP00870,DEI,2022-09-20,Data Science,L4,Denver,3.81,1.67,1.78,4.21,3.74,3.15,-65,No,Tools & Technology,Positive,QR Code
+SUR00505,EMP00938,Pulse,2023-06-09,Product,L5,Remote,4.55,1.19,4.25,1.02,3.62,4.72,26,Yes,Career Growth,Negative,Kiosk
+SUR00506,EMP00261,Manager Effectiveness,2021-01-19,HR,L5,Atlanta,1.64,4.66,1.5,4.44,2.46,1.3,-90,Neutral,Culture,Neutral,QR Code
+SUR00507,EMP00352,Manager Effectiveness,2022-09-17,Design,L3,Denver,3.75,1.6,1.38,2.35,2.63,3.53,-40,Neutral,Compensation,Negative,Kiosk
+SUR00508,EMP00075,DEI,2021-11-15,Finance,L2,Austin,2.53,2.29,3.69,1.37,2.11,1.94,64,No,Tools & Technology,Neutral,Kiosk
+SUR00509,EMP00135,Wellbeing,2022-07-15,Marketing,L1,Austin,4.54,3.12,1.76,4.79,1.2,2.12,-97,Neutral,Compensation,Negative,App
+SUR00510,EMP00378,DEI,2021-04-21,IT,L6,Remote,3.43,2.86,1.56,2.08,2.21,4.15,-78,Yes,Career Growth,Neutral,QR Code
+SUR00511,EMP00198,Wellbeing,2024-02-16,Marketing,L2,Boston,3.81,1.97,4.71,4.03,2.96,3.52,-44,No,Recognition,Neutral,Kiosk
+SUR00512,EMP00527,Exit,2023-03-26,Sales,L4,Austin,2.78,2.9,1.9,2.28,3.23,1.43,19,Yes,Management,Neutral,QR Code
+SUR00513,EMP00877,Engagement,2022-11-27,Data Science,L2,Remote,1.87,4.09,3.98,1.51,2.07,2.85,-87,Yes,Work-Life Balance,Neutral,Email
+SUR00514,EMP00202,Pulse,2025-12-17,Finance,L7,Chicago,3.55,3.28,2.75,2.89,4.42,3.16,56,Neutral,Tools & Technology,Negative,App
+SUR00515,EMP00590,Manager Effectiveness,2023-07-04,Product,L2,Chicago,3.82,4.33,1.28,1.53,4.46,4.46,-44,No,Work-Life Balance,Negative,Email
+SUR00516,EMP00304,Exit,2022-12-11,IT,L2,Remote,3.79,2.45,2.85,4.68,4.8,4.21,-79,Neutral,Work-Life Balance,Neutral,App
+SUR00517,EMP00364,Engagement,2025-09-03,Design,L4,Boston,3.39,1.18,3.87,4.34,1.76,2.0,-45,No,Culture,Neutral,Kiosk
+SUR00518,EMP00431,Manager Effectiveness,2021-11-25,Design,L7,Remote,4.23,2.67,1.37,1.59,3.76,4.92,81,Yes,Career Growth,Neutral,App
+SUR00519,EMP00339,Exit,2023-03-27,Design,L5,Chicago,2.28,2.85,1.19,3.51,4.61,4.68,39,No,Autonomy,Positive,Email
+SUR00520,EMP00448,Pulse,2024-01-12,Operations,L2,New York,1.06,3.35,4.6,3.66,1.85,4.9,-13,Neutral,Recognition,Negative,QR Code
+SUR00521,EMP00914,Onboarding,2022-08-04,Legal,L3,Dallas,2.65,2.92,3.21,2.24,2.85,1.11,-26,No,Recognition,Negative,App
+SUR00522,EMP00452,Pulse,2024-12-28,Finance,L7,Denver,2.41,4.16,4.04,2.65,4.46,2.14,97,Yes,Tools & Technology,Neutral,QR Code
+SUR00523,EMP00412,Onboarding,2021-09-05,Product,L3,Atlanta,1.82,4.89,4.03,4.27,3.06,1.43,86,No,Recognition,Negative,QR Code
+SUR00524,EMP00736,Wellbeing,2025-08-01,IT,L3,Remote,2.63,4.16,1.05,4.14,3.56,4.08,-42,Neutral,Compensation,Neutral,Kiosk
+SUR00525,EMP00315,Pulse,2024-03-12,Legal,L6,Seattle,3.06,3.55,1.35,3.26,1.74,4.55,-17,Yes,Culture,Neutral,Kiosk
+SUR00526,EMP00983,DEI,2024-07-22,Operations,L7,Chicago,2.81,1.52,2.94,2.65,2.09,2.14,9,No,Compensation,Positive,App
+SUR00527,EMP00967,Engagement,2024-01-22,Sales,L2,Atlanta,1.62,3.36,1.57,1.06,4.12,2.45,93,Yes,Culture,Negative,App
+SUR00528,EMP00313,Pulse,2024-05-28,Data Science,L3,New York,1.35,4.96,3.67,4.74,3.27,4.59,42,No,Career Growth,Neutral,QR Code
+SUR00529,EMP00673,Pulse,2024-05-20,Engineering,L5,Atlanta,3.15,1.85,4.99,2.18,3.0,2.83,59,Yes,Career Growth,Neutral,App
+SUR00530,EMP00637,Onboarding,2023-03-29,Legal,L4,Denver,3.43,3.75,1.89,4.72,4.28,3.72,44,Neutral,Culture,Positive,QR Code
+SUR00531,EMP01036,Pulse,2025-12-05,Data Science,L6,Boston,4.62,1.07,2.31,3.32,2.34,3.53,-58,Neutral,Autonomy,Positive,QR Code
+SUR00532,EMP00779,DEI,2025-03-18,Marketing,L2,Austin,2.31,3.94,1.64,1.98,4.78,3.87,5,Neutral,Management,Neutral,Email
+SUR00533,EMP00554,Exit,2021-12-29,HR,L7,Chicago,2.01,2.01,4.51,2.72,2.59,1.18,-75,No,Recognition,Positive,Email
+SUR00534,EMP00776,Manager Effectiveness,2023-11-18,Legal,L2,Dallas,4.26,2.54,3.96,3.08,3.09,2.88,57,Yes,Culture,Neutral,Kiosk
+SUR00535,EMP00039,Manager Effectiveness,2022-05-19,Data Science,L7,Remote,2.44,3.08,2.71,3.83,2.67,1.35,70,No,Culture,Positive,App
+SUR00536,EMP00482,Manager Effectiveness,2021-07-27,Customer Success,L2,Dallas,1.11,2.58,3.96,2.07,2.68,1.27,-66,Neutral,Compensation,Neutral,QR Code
+SUR00537,EMP00508,Wellbeing,2026-06-10,IT,L5,New York,1.36,3.69,1.63,4.72,1.11,2.54,-76,Neutral,Tools & Technology,Positive,Email
+SUR00538,EMP00013,Wellbeing,2021-11-10,HR,L5,San Francisco,2.46,1.86,4.71,1.97,4.3,3.55,75,Yes,Work-Life Balance,Neutral,Email
+SUR00539,EMP01134,Pulse,2021-06-12,Marketing,L4,New York,1.73,1.49,3.38,2.71,1.75,4.33,-54,Neutral,Tools & Technology,Negative,Email
+SUR00540,EMP00502,Engagement,2024-09-20,Product,L4,Boston,2.6,3.3,3.76,1.03,1.02,1.42,48,Neutral,Work-Life Balance,Neutral,QR Code
+SUR00541,EMP00702,Manager Effectiveness,2026-05-20,HR,L7,Austin,4.76,4.4,3.12,2.03,1.87,4.46,99,No,Work-Life Balance,Neutral,Email
+SUR00542,EMP00641,Onboarding,2025-01-12,Product,L3,Denver,3.48,1.45,4.91,1.23,3.86,3.21,-98,Yes,Autonomy,Positive,App
+SUR00543,EMP00068,Manager Effectiveness,2022-06-06,Engineering,L1,Remote,1.95,4.97,3.88,1.04,4.48,4.73,-49,No,Work-Life Balance,Positive,App
+SUR00544,EMP00344,Engagement,2023-02-19,Data Science,L6,New York,1.1,4.44,4.48,1.86,2.06,1.3,-41,Yes,Tools & Technology,Positive,QR Code
+SUR00545,EMP00788,Pulse,2023-01-10,Marketing,L6,New York,4.54,1.35,1.45,2.75,3.26,3.9,-58,Neutral,Compensation,Positive,QR Code
+SUR00546,EMP01012,Wellbeing,2021-02-24,Sales,L6,San Francisco,2.6,3.02,1.45,2.73,4.69,4.18,89,Neutral,Recognition,Negative,App
+SUR00547,EMP00015,Pulse,2022-10-18,Sales,L3,Chicago,3.03,4.5,4.02,2.73,1.94,1.06,-57,Yes,Culture,Positive,QR Code
+SUR00548,EMP00693,Pulse,2024-08-05,Engineering,L3,New York,2.44,1.79,3.43,2.12,1.3,3.66,-93,No,Tools & Technology,Neutral,Email
+SUR00549,EMP01081,Onboarding,2023-10-25,Operations,L2,Dallas,2.16,4.72,2.79,1.93,2.99,2.0,15,Neutral,Autonomy,Positive,Email
+SUR00550,EMP01146,Wellbeing,2025-01-27,HR,L1,Atlanta,2.57,3.64,4.32,2.36,3.04,2.29,83,Yes,Work-Life Balance,Neutral,App
+SUR00551,EMP00905,Pulse,2023-07-20,Data Science,L5,Atlanta,1.97,3.9,3.19,3.26,1.47,3.76,-40,Yes,Career Growth,Neutral,Email
+SUR00552,EMP00185,Manager Effectiveness,2021-11-19,Sales,L7,Chicago,2.02,2.71,1.78,2.53,1.12,4.54,52,Yes,Tools & Technology,Positive,App
+SUR00553,EMP00621,Engagement,2023-04-02,Operations,L1,San Francisco,3.7,3.55,4.33,4.42,2.9,1.31,-78,No,Career Growth,Negative,QR Code
+SUR00554,EMP00557,DEI,2022-12-22,Product,L5,Denver,4.65,3.22,4.81,3.52,1.36,4.58,-35,Yes,Autonomy,Negative,Email
+SUR00555,EMP00631,Wellbeing,2022-09-02,Customer Success,L6,San Francisco,4.76,3.17,3.63,1.48,1.25,1.5,92,No,Tools & Technology,Negative,QR Code
+SUR00556,EMP01024,Manager Effectiveness,2024-11-24,Legal,L4,Atlanta,2.66,1.28,4.44,1.52,3.26,3.95,-76,No,Career Growth,Negative,App
+SUR00557,EMP00194,Exit,2023-05-15,Finance,L3,San Francisco,4.73,2.93,4.79,4.03,1.16,4.54,70,Yes,Career Growth,Neutral,Kiosk
+SUR00558,EMP00472,Onboarding,2023-07-15,Customer Success,L7,Austin,2.76,3.63,2.29,1.76,1.6,3.47,-10,Neutral,Management,Negative,Kiosk
+SUR00559,EMP01074,DEI,2024-02-12,Product,L7,Chicago,2.44,3.01,1.7,2.83,1.69,3.43,-52,Yes,Tools & Technology,Negative,QR Code
+SUR00560,EMP00033,Pulse,2024-12-04,Finance,L1,Remote,1.97,3.01,3.66,1.78,3.43,3.11,96,No,Culture,Negative,Kiosk
+SUR00561,EMP00546,Pulse,2024-10-19,Product,L2,Remote,3.23,2.28,4.04,4.18,2.39,3.84,54,Yes,Recognition,Negative,QR Code
+SUR00562,EMP00830,Pulse,2025-06-04,Marketing,L4,Chicago,2.33,4.92,1.9,1.94,2.25,1.01,-1,Neutral,Management,Positive,Email
+SUR00563,EMP00842,Exit,2022-02-03,HR,L3,New York,1.47,3.76,1.53,2.5,3.76,2.02,76,No,Management,Neutral,App
+SUR00564,EMP00822,Pulse,2025-06-26,Customer Success,L5,Denver,1.73,1.87,2.46,1.13,2.1,2.46,83,Yes,Culture,Positive,Kiosk
+SUR00565,EMP00595,Pulse,2021-06-22,Sales,L1,Atlanta,2.36,4.56,2.06,4.97,2.33,3.57,-58,Yes,Culture,Positive,Kiosk
+SUR00566,EMP00776,Pulse,2023-11-02,Sales,L3,San Francisco,1.65,1.44,4.91,2.63,4.01,3.57,-56,No,Recognition,Neutral,App
+SUR00567,EMP01027,Exit,2021-12-22,Finance,L4,Chicago,2.29,3.61,3.49,3.11,2.98,4.06,45,Yes,Tools & Technology,Positive,Email
+SUR00568,EMP00126,Exit,2022-10-10,Sales,L3,Boston,4.93,3.6,4.19,1.88,2.11,4.53,-55,Neutral,Compensation,Positive,Kiosk
+SUR00569,EMP00954,Manager Effectiveness,2025-12-25,Customer Success,L2,Seattle,2.3,1.79,1.3,3.9,1.37,2.0,-24,Yes,Autonomy,Negative,QR Code
+SUR00570,EMP00345,Onboarding,2022-02-26,Design,L1,San Francisco,4.68,3.53,1.05,2.68,3.97,2.56,85,Yes,Recognition,Negative,QR Code
+SUR00571,EMP00497,Wellbeing,2023-07-03,Finance,L5,San Francisco,4.52,1.59,4.43,1.26,4.65,3.39,79,Neutral,Career Growth,Neutral,Kiosk
+SUR00572,EMP00019,Exit,2021-06-08,Finance,L4,San Francisco,2.4,1.04,1.43,1.66,1.01,3.91,-52,Yes,Recognition,Positive,Email
+SUR00573,EMP00521,Manager Effectiveness,2021-04-18,Marketing,L4,Austin,3.23,4.25,3.16,4.16,4.85,3.05,-42,Neutral,Management,Positive,App
+SUR00574,EMP00124,DEI,2023-03-12,Sales,L3,Remote,3.19,1.56,1.15,2.85,2.58,2.52,54,Neutral,Autonomy,Negative,Kiosk
+SUR00575,EMP00336,Engagement,2026-03-23,Engineering,L6,San Francisco,2.14,2.11,2.08,2.03,1.06,2.9,25,Yes,Compensation,Negative,QR Code
+SUR00576,EMP00139,Wellbeing,2026-06-30,Operations,L5,Boston,1.68,3.82,4.37,3.96,3.83,3.4,16,No,Autonomy,Negative,QR Code
+SUR00577,EMP00437,Manager Effectiveness,2026-01-13,Product,L6,Remote,3.02,3.37,1.11,2.26,2.91,2.88,53,Neutral,Compensation,Neutral,QR Code
+SUR00578,EMP00890,Engagement,2023-08-19,Finance,L6,San Francisco,1.16,3.35,3.42,3.92,3.14,2.27,97,No,Compensation,Negative,Email
+SUR00579,EMP00485,Onboarding,2026-06-16,Legal,L6,New York,4.5,3.12,4.07,3.53,3.48,4.86,8,Neutral,Career Growth,Negative,QR Code
+SUR00580,EMP00434,Onboarding,2022-09-22,Data Science,L4,Denver,1.07,2.94,4.38,4.19,1.35,1.35,-26,Yes,Recognition,Positive,App
+SUR00581,EMP00778,Onboarding,2025-09-14,Data Science,L3,San Francisco,3.11,4.51,1.52,2.11,3.33,1.24,-11,Neutral,Compensation,Neutral,QR Code
+SUR00582,EMP00765,Pulse,2022-11-20,Marketing,L7,Seattle,3.56,2.88,2.81,3.92,3.36,1.15,14,Neutral,Recognition,Negative,Kiosk
+SUR00583,EMP00661,Exit,2026-01-10,HR,L4,Seattle,3.24,4.0,3.91,3.91,4.0,2.32,-57,Yes,Tools & Technology,Negative,Kiosk
+SUR00584,EMP00859,Exit,2025-06-13,IT,L7,New York,1.33,2.97,2.3,1.68,1.63,2.92,92,Neutral,Management,Negative,Kiosk
+SUR00585,EMP01153,Wellbeing,2025-04-08,Legal,L3,Austin,1.84,3.5,2.99,3.71,3.34,4.74,57,Yes,Management,Positive,App
+SUR00586,EMP01059,Onboarding,2022-07-06,Engineering,L4,New York,1.24,2.05,1.36,3.28,1.33,1.52,-64,No,Tools & Technology,Neutral,Kiosk
+SUR00587,EMP00454,Manager Effectiveness,2024-11-23,Customer Success,L3,San Francisco,3.83,1.81,4.77,4.48,2.5,1.99,-59,Neutral,Culture,Neutral,Email
+SUR00588,EMP00640,Pulse,2025-01-20,Legal,L6,Austin,1.09,1.24,2.42,1.09,4.16,1.82,4,Yes,Work-Life Balance,Negative,QR Code
+SUR00589,EMP01077,Exit,2022-01-22,Product,L2,Dallas,1.72,2.53,2.4,3.41,4.32,3.64,77,Neutral,Career Growth,Neutral,Email
+SUR00590,EMP00136,Exit,2021-06-24,Legal,L1,Chicago,1.81,4.31,4.21,1.93,3.02,2.49,-28,Yes,Culture,Positive,QR Code
+SUR00591,EMP00881,Engagement,2024-09-23,Marketing,L6,New York,3.52,4.67,1.35,2.88,3.21,1.19,-60,Neutral,Work-Life Balance,Positive,App
+SUR00592,EMP00851,Exit,2025-01-24,Design,L4,Atlanta,4.76,4.13,2.82,4.41,2.37,4.82,-4,No,Tools & Technology,Neutral,Kiosk
+SUR00593,EMP00678,DEI,2025-12-19,Engineering,L2,Seattle,4.6,3.02,3.45,4.22,3.78,1.81,97,Neutral,Work-Life Balance,Positive,Email
+SUR00594,EMP00287,Exit,2024-07-02,HR,L5,Boston,2.49,1.94,1.2,3.47,4.0,1.77,-37,Yes,Work-Life Balance,Positive,Kiosk
+SUR00595,EMP00144,Onboarding,2026-06-18,Data Science,L5,Boston,2.35,4.14,2.86,1.57,2.0,2.73,8,Yes,Recognition,Neutral,Kiosk
+SUR00596,EMP00218,Onboarding,2024-07-18,Sales,L6,Seattle,2.22,3.03,2.75,1.43,4.75,4.91,-27,Neutral,Compensation,Negative,Kiosk
+SUR00597,EMP00279,Exit,2024-11-28,IT,L4,Chicago,1.22,3.33,1.21,3.27,4.3,4.67,-12,Yes,Career Growth,Positive,App
+SUR00598,EMP00740,DEI,2024-06-23,HR,L4,Atlanta,4.07,1.64,3.18,3.15,3.12,4.07,54,Yes,Culture,Negative,Kiosk
+SUR00599,EMP00170,Exit,2024-10-21,Design,L3,Remote,3.33,4.0,3.8,2.11,4.34,2.57,-25,No,Recognition,Neutral,Kiosk
+SUR00600,EMP00296,Pulse,2025-08-16,IT,L1,New York,2.03,4.87,1.68,4.49,4.91,4.52,88,Neutral,Recognition,Neutral,Kiosk
+SUR00601,EMP00677,Onboarding,2023-10-09,Engineering,L7,San Francisco,3.01,2.88,2.95,3.75,4.06,1.5,75,No,Recognition,Neutral,Email
+SUR00602,EMP00468,Exit,2023-10-01,Marketing,L7,Boston,4.61,3.97,4.63,3.79,1.23,3.76,70,Yes,Autonomy,Neutral,Email
+SUR00603,EMP01015,Pulse,2022-07-07,Design,L7,Denver,1.17,1.99,2.65,1.89,2.19,3.99,50,Neutral,Management,Negative,Email
+SUR00604,EMP00790,Onboarding,2022-12-18,Product,L3,Austin,2.95,2.15,1.72,3.01,4.69,4.5,-68,Neutral,Recognition,Neutral,Kiosk
+SUR00605,EMP00185,Onboarding,2024-10-24,Engineering,L4,Denver,3.08,3.03,2.39,3.97,1.44,2.3,6,Neutral,Recognition,Positive,QR Code
+SUR00606,EMP00850,DEI,2026-07-12,IT,L3,New York,3.26,2.68,3.99,2.55,2.63,1.06,45,No,Tools & Technology,Positive,QR Code
+SUR00607,EMP00239,Manager Effectiveness,2026-01-31,Sales,L2,Chicago,3.35,2.66,1.75,1.53,4.63,4.72,30,Yes,Tools & Technology,Neutral,QR Code
+SUR00608,EMP00138,DEI,2021-09-21,Sales,L2,Denver,4.61,2.8,3.96,2.25,4.36,3.8,-1,Neutral,Autonomy,Negative,Kiosk
+SUR00609,EMP01077,Exit,2024-03-15,Customer Success,L6,Remote,4.96,3.96,1.34,2.7,1.9,2.39,26,Neutral,Career Growth,Neutral,App
+SUR00610,EMP00797,DEI,2025-11-28,Marketing,L2,Boston,4.25,3.93,2.69,1.53,1.02,1.48,23,No,Recognition,Negative,Email
+SUR00611,EMP00227,Exit,2023-03-11,HR,L1,Remote,1.36,4.3,4.45,1.97,4.98,3.61,34,No,Tools & Technology,Positive,QR Code
+SUR00612,EMP00010,Exit,2025-06-03,Marketing,L2,Chicago,1.05,1.75,2.67,1.82,3.95,2.96,-5,No,Culture,Positive,Kiosk
+SUR00613,EMP00133,Engagement,2025-06-25,Finance,L1,New York,1.87,3.98,2.88,1.07,4.01,2.23,34,Yes,Autonomy,Neutral,QR Code
+SUR00614,EMP00424,Wellbeing,2025-06-14,Operations,L2,Chicago,4.15,4.36,1.32,3.23,3.76,1.6,-38,Neutral,Career Growth,Negative,QR Code
+SUR00615,EMP01194,Onboarding,2023-11-02,Data Science,L4,Austin,3.65,3.25,1.8,3.6,3.66,1.26,-74,Yes,Management,Negative,Email
+SUR00616,EMP00956,Exit,2025-06-17,IT,L1,Chicago,3.55,2.7,2.57,2.57,3.88,3.47,22,Yes,Work-Life Balance,Negative,App
+SUR00617,EMP00325,Exit,2026-05-03,Operations,L5,Dallas,2.12,1.04,1.8,3.74,3.44,3.87,70,Neutral,Culture,Positive,App
+SUR00618,EMP01005,Onboarding,2022-03-24,Operations,L6,Chicago,3.67,1.43,1.8,3.84,3.96,1.5,76,No,Tools & Technology,Neutral,QR Code
+SUR00619,EMP00201,DEI,2024-07-17,Operations,L1,Chicago,1.22,2.61,2.82,1.25,4.16,1.5,97,No,Tools & Technology,Positive,Kiosk
+SUR00620,EMP00599,Manager Effectiveness,2024-01-15,IT,L1,Dallas,2.42,4.2,3.4,3.02,3.03,4.6,-99,Neutral,Work-Life Balance,Neutral,Email
+SUR00621,EMP00567,DEI,2023-08-15,Product,L4,Denver,2.07,1.36,2.6,1.34,4.43,2.76,-12,Yes,Management,Positive,QR Code
+SUR00622,EMP00223,Manager Effectiveness,2024-03-08,Data Science,L3,Seattle,3.83,3.25,4.26,4.56,4.83,3.25,43,No,Culture,Positive,Kiosk
+SUR00623,EMP00656,Exit,2023-09-11,Legal,L7,Denver,1.31,4.53,4.67,3.14,2.75,3.5,-96,Neutral,Career Growth,Negative,Email
+SUR00624,EMP00753,DEI,2022-12-11,Design,L4,Atlanta,3.06,1.57,1.83,3.79,4.89,4.14,-7,Neutral,Compensation,Neutral,Email
+SUR00625,EMP00240,DEI,2025-05-17,Finance,L1,Austin,3.55,1.12,2.53,3.25,2.31,1.92,-92,Neutral,Autonomy,Negative,Email
+SUR00626,EMP00898,Pulse,2021-01-02,Data Science,L2,New York,4.61,4.61,4.71,3.85,3.2,3.2,-83,Yes,Career Growth,Negative,QR Code
+SUR00627,EMP00812,Manager Effectiveness,2023-09-04,Legal,L2,Atlanta,1.66,1.07,3.59,1.89,4.1,3.01,-4,No,Recognition,Neutral,Email
+SUR00628,EMP00943,Wellbeing,2021-07-26,IT,L6,New York,2.39,3.64,2.3,4.22,4.36,4.39,50,No,Autonomy,Neutral,Email
+SUR00629,EMP00651,Onboarding,2023-03-12,Product,L2,Remote,1.98,2.57,3.9,1.02,4.79,4.98,-31,No,Autonomy,Negative,App
+SUR00630,EMP00103,Manager Effectiveness,2022-12-26,Customer Success,L5,Denver,3.14,1.23,1.64,1.85,1.38,4.87,-55,No,Recognition,Positive,Kiosk
+SUR00631,EMP00558,Exit,2025-05-12,Customer Success,L1,New York,3.25,3.06,2.22,4.4,4.12,2.54,-20,Neutral,Autonomy,Negative,Email
+SUR00632,EMP00084,Engagement,2021-05-25,IT,L6,New York,4.86,4.7,2.8,3.08,4.75,2.03,12,Neutral,Compensation,Negative,Kiosk
+SUR00633,EMP01017,Onboarding,2022-05-15,Legal,L7,Remote,1.93,3.29,4.88,3.22,2.11,1.84,47,Neutral,Tools & Technology,Negative,QR Code
+SUR00634,EMP01020,Engagement,2023-12-09,HR,L2,San Francisco,1.8,1.05,2.18,4.73,3.17,2.01,81,Yes,Tools & Technology,Negative,Email
+SUR00635,EMP00213,Engagement,2026-06-03,IT,L6,New York,1.79,2.41,2.2,3.99,3.31,1.66,47,No,Work-Life Balance,Positive,Kiosk
+SUR00636,EMP01157,Exit,2024-06-26,IT,L6,Remote,1.15,3.73,4.04,1.56,3.23,3.84,73,No,Autonomy,Neutral,QR Code
+SUR00637,EMP00075,Wellbeing,2023-03-05,Marketing,L7,Dallas,3.31,2.28,4.98,1.28,1.81,4.8,-21,Yes,Compensation,Negative,QR Code
+SUR00638,EMP01127,Pulse,2023-12-30,Product,L3,Seattle,3.68,3.61,1.09,1.4,1.79,1.96,76,Neutral,Compensation,Negative,QR Code
+SUR00639,EMP00018,Pulse,2023-02-28,Legal,L2,Dallas,1.67,1.02,1.49,4.73,3.24,3.2,-70,Yes,Compensation,Positive,Email
+SUR00640,EMP00963,DEI,2023-04-30,Engineering,L3,Atlanta,4.32,2.62,2.81,1.29,1.55,3.82,70,Neutral,Management,Positive,App
+SUR00641,EMP00121,Pulse,2023-12-23,Product,L3,Atlanta,2.08,2.43,3.5,4.63,1.95,4.34,-47,No,Career Growth,Neutral,QR Code
+SUR00642,EMP01002,DEI,2023-09-15,Sales,L5,Austin,2.07,3.39,3.65,1.7,2.29,4.0,19,Yes,Compensation,Neutral,Kiosk
+SUR00643,EMP01181,Manager Effectiveness,2023-04-29,Product,L3,Boston,1.38,3.98,2.27,2.81,4.06,2.42,84,No,Culture,Negative,App
+SUR00644,EMP00662,Pulse,2025-01-15,Legal,L6,Remote,3.29,1.19,1.45,3.08,4.79,4.05,-74,Yes,Tools & Technology,Negative,QR Code
+SUR00645,EMP00976,Pulse,2025-06-01,HR,L5,Boston,1.3,2.84,2.15,2.68,4.97,3.6,-85,Neutral,Recognition,Negative,Email
+SUR00646,EMP01116,Pulse,2023-10-30,Design,L2,San Francisco,4.44,1.89,2.74,3.81,1.71,2.94,30,No,Career Growth,Positive,Kiosk
+SUR00647,EMP00705,Exit,2022-02-20,Design,L2,Chicago,4.11,3.31,1.98,3.49,4.54,1.55,96,No,Autonomy,Positive,Kiosk
+SUR00648,EMP00158,Onboarding,2025-11-04,Operations,L6,Atlanta,4.41,4.75,3.55,2.61,3.14,1.03,63,Yes,Management,Neutral,App
+SUR00649,EMP00951,Engagement,2023-02-13,Sales,L6,Dallas,3.99,2.56,1.64,4.72,3.04,3.53,48,No,Culture,Neutral,QR Code
+SUR00650,EMP00369,Pulse,2024-07-19,Product,L1,Chicago,3.74,2.38,4.97,2.88,4.03,4.01,77,Yes,Recognition,Negative,Email
+SUR00651,EMP01169,Manager Effectiveness,2022-01-23,Sales,L7,Remote,1.62,3.9,4.81,1.36,4.18,4.85,79,Yes,Management,Negative,Email
+SUR00652,EMP00803,Pulse,2022-12-15,HR,L6,Remote,2.0,3.93,4.65,2.44,2.37,2.11,38,Neutral,Management,Neutral,App
+SUR00653,EMP00176,Onboarding,2025-04-18,Engineering,L1,Chicago,2.39,1.9,1.81,4.66,3.02,2.72,-52,No,Culture,Negative,Email
+SUR00654,EMP00632,Exit,2024-04-01,Customer Success,L4,Boston,2.77,2.71,4.17,3.34,2.75,1.56,-51,Yes,Tools & Technology,Positive,QR Code
+SUR00655,EMP00354,Manager Effectiveness,2024-01-11,Legal,L5,Boston,2.54,4.84,1.84,2.75,1.2,3.72,37,Yes,Compensation,Positive,App
+SUR00656,EMP00741,DEI,2023-06-19,Marketing,L5,Remote,4.17,3.56,2.58,4.73,3.66,2.57,-81,No,Compensation,Positive,Email
+SUR00657,EMP01135,Onboarding,2023-03-05,Engineering,L1,Atlanta,1.63,2.58,4.57,3.06,1.06,4.78,79,No,Culture,Negative,Email
+SUR00658,EMP01056,Manager Effectiveness,2025-07-17,Finance,L7,Atlanta,2.13,1.32,1.36,4.23,1.96,4.41,81,Yes,Career Growth,Positive,Email
+SUR00659,EMP00126,Wellbeing,2026-05-02,Design,L1,Denver,2.65,4.07,2.73,4.94,4.88,3.1,-8,No,Culture,Positive,Kiosk
+SUR00660,EMP00006,DEI,2024-07-25,Operations,L4,Remote,4.66,4.41,2.51,1.65,3.3,1.3,-74,Neutral,Career Growth,Negative,Kiosk
+SUR00661,EMP01080,Exit,2021-06-13,Engineering,L4,Denver,3.99,3.96,4.16,1.73,2.56,1.02,7,Neutral,Career Growth,Negative,Email
+SUR00662,EMP00906,Onboarding,2024-06-08,Data Science,L3,Chicago,3.04,3.54,1.42,4.29,2.52,4.28,-21,No,Work-Life Balance,Positive,QR Code
+SUR00663,EMP00797,Wellbeing,2023-10-04,Customer Success,L5,Seattle,2.28,2.88,4.72,4.39,1.59,1.3,-11,Yes,Management,Negative,Kiosk
+SUR00664,EMP00314,Pulse,2025-05-05,Customer Success,L5,Chicago,2.39,3.97,4.39,1.06,1.31,1.27,-97,Neutral,Autonomy,Positive,Kiosk
+SUR00665,EMP00050,Pulse,2022-05-15,Data Science,L6,New York,4.96,3.55,4.0,4.36,2.73,1.38,38,No,Compensation,Positive,App
+SUR00666,EMP00250,Exit,2025-04-14,Sales,L3,Atlanta,3.3,2.27,2.02,4.24,1.68,4.68,41,Neutral,Management,Neutral,App
+SUR00667,EMP00321,Engagement,2025-08-08,Marketing,L5,Dallas,1.29,4.14,1.72,3.04,4.44,3.72,-65,Yes,Autonomy,Neutral,Email
+SUR00668,EMP00247,Manager Effectiveness,2021-11-20,Legal,L5,Denver,1.66,4.86,4.4,4.04,2.91,1.91,82,Yes,Culture,Negative,Email
+SUR00669,EMP00475,DEI,2022-08-28,HR,L1,Chicago,4.27,3.75,1.68,1.18,4.02,2.95,53,No,Management,Positive,App
+SUR00670,EMP01036,Onboarding,2022-08-29,Engineering,L7,Chicago,2.93,2.57,2.03,3.38,3.37,1.62,87,Neutral,Tools & Technology,Negative,Email
+SUR00671,EMP00392,Pulse,2026-07-11,Engineering,L5,Denver,3.56,4.28,2.15,2.65,1.98,1.51,66,Yes,Tools & Technology,Positive,Kiosk
+SUR00672,EMP00118,Manager Effectiveness,2025-08-27,Finance,L6,Dallas,4.42,3.64,2.34,1.11,2.26,3.23,-46,No,Autonomy,Positive,Email
+SUR00673,EMP00122,DEI,2021-04-17,Product,L3,Seattle,2.03,3.29,1.93,1.43,1.29,1.5,-36,Neutral,Career Growth,Positive,App
+SUR00674,EMP00525,Onboarding,2023-03-19,Customer Success,L6,Dallas,3.75,4.66,3.12,2.32,4.73,4.02,22,No,Culture,Negative,QR Code
+SUR00675,EMP00830,Exit,2026-04-21,Engineering,L4,Austin,1.88,2.51,1.23,2.17,4.53,2.88,-74,Yes,Career Growth,Negative,Email
+SUR00676,EMP01113,Engagement,2022-01-31,Legal,L5,Remote,1.84,3.56,2.42,4.43,4.16,3.71,49,Neutral,Culture,Positive,Kiosk
+SUR00677,EMP00443,DEI,2022-05-21,Operations,L1,Denver,1.07,2.58,4.1,2.31,4.9,2.49,76,No,Recognition,Negative,Kiosk
+SUR00678,EMP01145,Engagement,2022-03-21,Data Science,L6,San Francisco,2.71,2.6,3.09,2.84,1.6,4.34,41,Yes,Compensation,Neutral,App
+SUR00679,EMP00999,Exit,2025-12-21,Finance,L2,Remote,4.32,4.79,1.92,3.45,1.05,4.83,95,No,Compensation,Negative,Kiosk
+SUR00680,EMP00278,Wellbeing,2024-11-30,Legal,L1,Dallas,3.61,4.93,1.75,3.4,3.24,2.87,-40,No,Career Growth,Positive,Email
+SUR00681,EMP00521,DEI,2025-07-17,IT,L4,Seattle,2.82,2.32,3.91,1.81,4.48,2.8,18,Yes,Culture,Negative,Email
+SUR00682,EMP01180,Exit,2023-07-29,Customer Success,L1,Remote,2.24,4.29,2.56,4.44,3.3,4.78,-41,Neutral,Recognition,Positive,Email
+SUR00683,EMP00411,Manager Effectiveness,2024-11-08,Finance,L1,Boston,2.88,4.63,2.61,4.62,3.92,1.39,-87,Neutral,Career Growth,Neutral,Email
+SUR00684,EMP01018,Onboarding,2023-05-30,IT,L6,Seattle,4.56,1.13,4.42,4.65,4.22,4.59,28,Neutral,Autonomy,Negative,QR Code
+SUR00685,EMP00140,Wellbeing,2025-01-12,Legal,L5,Remote,1.4,2.28,2.85,1.93,1.99,4.05,-70,Yes,Culture,Negative,Kiosk
+SUR00686,EMP00901,DEI,2026-02-22,Design,L4,Atlanta,4.73,1.44,1.58,2.31,2.91,1.64,-83,Neutral,Management,Negative,Email
+SUR00687,EMP00341,Manager Effectiveness,2023-10-02,Customer Success,L5,Dallas,3.04,4.65,1.66,3.31,3.7,1.26,3,Yes,Culture,Positive,Kiosk
+SUR00688,EMP01148,Manager Effectiveness,2022-11-17,Operations,L2,Atlanta,3.85,1.25,4.18,1.86,4.6,1.81,35,No,Tools & Technology,Negative,QR Code
+SUR00689,EMP01012,Engagement,2023-10-07,Sales,L4,Remote,4.34,2.02,3.84,4.39,2.08,2.22,-99,Yes,Culture,Positive,QR Code
+SUR00690,EMP00757,Exit,2021-04-03,Marketing,L2,San Francisco,1.2,2.69,4.88,1.16,4.07,3.43,-60,Neutral,Recognition,Negative,App
+SUR00691,EMP00362,Wellbeing,2024-02-25,Customer Success,L6,Boston,4.0,2.22,2.81,1.82,2.07,4.98,82,No,Management,Neutral,Email
+SUR00692,EMP00984,Wellbeing,2022-02-04,Legal,L4,Boston,4.97,2.78,4.76,3.03,4.34,4.35,79,Neutral,Compensation,Negative,QR Code
+SUR00693,EMP00138,Engagement,2025-09-16,Design,L3,Chicago,4.9,3.98,1.57,3.59,3.36,4.18,77,No,Autonomy,Positive,Kiosk
+SUR00694,EMP00400,Wellbeing,2023-04-02,Engineering,L7,San Francisco,2.9,4.71,3.8,2.03,4.85,1.63,-4,Yes,Career Growth,Neutral,Email
+SUR00695,EMP00412,Engagement,2023-04-18,Data Science,L4,Atlanta,2.86,1.59,4.11,1.0,1.44,1.62,14,Neutral,Autonomy,Positive,QR Code
+SUR00696,EMP00881,Pulse,2025-02-27,Operations,L1,Denver,4.49,4.04,1.71,3.79,1.63,3.88,-94,Neutral,Culture,Positive,Email
+SUR00697,EMP00998,Wellbeing,2023-04-14,Product,L4,Austin,4.73,1.67,4.54,1.14,3.95,2.25,-82,No,Compensation,Negative,Email
+SUR00698,EMP00653,DEI,2022-09-25,Legal,L3,Atlanta,1.5,2.67,4.3,2.54,2.87,4.57,-60,Neutral,Career Growth,Negative,App
+SUR00699,EMP00893,DEI,2021-02-13,Legal,L6,San Francisco,2.28,4.18,2.4,3.65,1.74,4.64,-40,No,Career Growth,Negative,QR Code
+SUR00700,EMP00464,Engagement,2025-11-07,Marketing,L2,New York,4.26,3.85,2.54,2.74,4.88,2.15,-99,No,Compensation,Negative,App
+SUR00701,EMP00569,Pulse,2024-07-08,Data Science,L1,Denver,4.91,2.11,2.34,3.81,4.78,3.0,11,Yes,Autonomy,Negative,Email
+SUR00702,EMP00749,DEI,2025-12-27,Sales,L2,Dallas,1.13,2.33,1.9,1.46,2.51,4.23,42,Neutral,Recognition,Neutral,Kiosk
+SUR00703,EMP00681,Manager Effectiveness,2023-02-02,Marketing,L4,San Francisco,2.26,1.12,1.04,3.94,3.66,4.93,-98,No,Management,Negative,Kiosk
+SUR00704,EMP00074,DEI,2023-03-28,Customer Success,L4,Seattle,2.16,1.51,1.76,4.71,3.35,4.35,78,Neutral,Recognition,Negative,App
+SUR00705,EMP00652,DEI,2023-03-25,IT,L2,Denver,1.99,2.72,1.14,3.59,2.34,2.38,-7,Yes,Autonomy,Negative,QR Code
+SUR00706,EMP00744,Engagement,2025-11-09,IT,L2,Atlanta,4.51,2.0,2.34,1.27,4.92,2.82,-50,No,Culture,Neutral,Email
+SUR00707,EMP00136,DEI,2026-07-28,Product,L4,Austin,1.45,4.75,2.67,1.36,2.11,2.51,-19,Yes,Recognition,Neutral,App
+SUR00708,EMP00310,Manager Effectiveness,2021-10-17,Marketing,L7,Seattle,4.61,4.1,1.16,3.71,1.38,4.96,-73,No,Work-Life Balance,Positive,QR Code
+SUR00709,EMP00149,DEI,2024-02-18,Customer Success,L3,New York,4.1,3.22,4.52,3.63,1.99,4.07,-23,Neutral,Work-Life Balance,Positive,QR Code
+SUR00710,EMP01056,Engagement,2023-09-26,IT,L2,New York,3.91,3.08,1.07,3.06,4.23,3.43,-97,No,Career Growth,Negative,Email
+SUR00711,EMP00549,Engagement,2022-01-30,HR,L3,New York,2.36,1.13,4.36,1.45,3.89,1.19,-4,Neutral,Compensation,Neutral,QR Code
+SUR00712,EMP00078,Wellbeing,2022-01-13,Sales,L7,Chicago,5.0,1.39,3.81,3.27,2.67,4.56,62,Yes,Management,Neutral,QR Code
+SUR00713,EMP00918,Manager Effectiveness,2023-05-15,Finance,L2,Dallas,1.46,3.82,3.9,2.39,3.09,1.76,98,Yes,Career Growth,Neutral,Kiosk
+SUR00714,EMP01043,Manager Effectiveness,2024-02-21,Finance,L5,Boston,3.4,4.39,2.56,4.45,1.59,1.98,-80,Neutral,Culture,Negative,QR Code
+SUR00715,EMP00757,Exit,2026-06-07,Data Science,L3,Atlanta,3.86,4.49,4.04,2.56,2.96,4.44,31,Neutral,Work-Life Balance,Positive,Email
+SUR00716,EMP00585,DEI,2024-07-01,Operations,L7,New York,2.21,4.71,3.28,4.02,2.16,1.4,-31,No,Career Growth,Negative,QR Code
+SUR00717,EMP00296,Wellbeing,2024-12-17,IT,L3,Chicago,4.18,1.52,1.51,1.9,2.89,1.59,-31,Neutral,Autonomy,Neutral,Kiosk
+SUR00718,EMP00193,Pulse,2023-04-27,Sales,L2,Remote,2.46,4.36,4.12,2.96,2.28,2.59,29,Neutral,Career Growth,Negative,Kiosk
+SUR00719,EMP01033,Pulse,2024-03-26,HR,L3,New York,3.07,2.48,3.53,4.7,4.36,3.7,21,Neutral,Tools & Technology,Negative,Email
+SUR00720,EMP00353,Engagement,2023-06-07,IT,L4,Boston,2.52,1.78,2.48,4.66,2.66,1.57,17,No,Management,Positive,App
+SUR00721,EMP00849,DEI,2022-04-29,Sales,L7,Austin,2.88,1.92,2.02,3.13,3.45,3.43,92,No,Tools & Technology,Negative,QR Code
+SUR00722,EMP01149,Manager Effectiveness,2025-03-13,Engineering,L2,Austin,4.58,1.07,4.44,2.99,3.71,1.11,-67,Neutral,Culture,Neutral,Email
+SUR00723,EMP00274,Wellbeing,2023-03-03,Data Science,L7,Remote,2.15,2.82,4.11,3.67,2.11,4.98,64,No,Compensation,Negative,Email
+SUR00724,EMP00063,Wellbeing,2022-03-21,Marketing,L2,San Francisco,4.31,2.72,3.65,2.71,2.87,3.29,-88,No,Recognition,Negative,QR Code
+SUR00725,EMP00527,Exit,2023-09-15,Data Science,L6,Austin,4.0,3.85,1.39,3.65,1.25,1.01,-42,Neutral,Culture,Positive,QR Code
+SUR00726,EMP01143,Pulse,2023-03-19,Engineering,L7,San Francisco,3.57,2.79,3.85,4.14,4.01,3.58,-52,Neutral,Culture,Positive,App
+SUR00727,EMP00665,Pulse,2024-04-26,HR,L5,Austin,1.54,1.51,4.54,2.97,2.8,1.73,16,No,Tools & Technology,Neutral,Kiosk
+SUR00728,EMP00099,Pulse,2021-08-07,Data Science,L7,Dallas,3.1,2.38,1.37,4.74,2.13,2.24,-92,Yes,Recognition,Positive,App
+SUR00729,EMP01193,Manager Effectiveness,2023-03-23,Design,L7,Dallas,2.96,4.33,4.49,1.71,4.14,4.03,70,No,Autonomy,Neutral,App
+SUR00730,EMP00755,Wellbeing,2023-10-28,IT,L3,Atlanta,4.01,1.22,2.53,3.81,3.89,1.98,50,Yes,Tools & Technology,Positive,App
+SUR00731,EMP00112,Pulse,2026-07-23,Operations,L3,Denver,1.32,2.68,3.66,3.58,3.37,2.16,91,No,Autonomy,Negative,Email
+SUR00732,EMP01065,Manager Effectiveness,2024-03-12,Customer Success,L7,Denver,1.86,2.66,4.68,4.49,4.48,2.3,83,No,Tools & Technology,Negative,App
+SUR00733,EMP00133,Engagement,2024-12-29,Customer Success,L3,Atlanta,1.69,4.81,2.33,3.52,1.35,2.12,-46,No,Autonomy,Negative,QR Code
+SUR00734,EMP00282,Exit,2024-10-13,HR,L5,Remote,2.52,4.32,2.17,4.84,4.77,4.51,73,No,Work-Life Balance,Negative,QR Code
+SUR00735,EMP01135,Wellbeing,2024-07-17,Marketing,L7,Austin,1.08,3.2,3.58,1.09,1.12,3.97,-55,Neutral,Recognition,Negative,QR Code
+SUR00736,EMP00119,Exit,2022-01-09,Operations,L1,Boston,2.95,3.34,1.43,4.47,4.07,4.04,44,Neutral,Recognition,Neutral,Email
+SUR00737,EMP00029,Wellbeing,2023-11-14,Engineering,L1,Seattle,3.52,2.41,3.78,4.6,2.09,3.64,23,Neutral,Culture,Negative,QR Code
+SUR00738,EMP00868,Onboarding,2024-12-12,Data Science,L2,Remote,2.19,3.07,4.41,4.8,2.38,2.83,50,No,Management,Negative,Kiosk
+SUR00739,EMP00131,Pulse,2024-08-29,HR,L7,Seattle,1.82,4.77,2.31,4.78,2.85,3.7,74,No,Autonomy,Neutral,App
+SUR00740,EMP00514,Wellbeing,2025-05-31,Marketing,L4,Boston,3.13,2.93,1.19,3.66,1.04,3.84,51,No,Work-Life Balance,Neutral,Email
+SUR00741,EMP00964,Exit,2021-06-03,Data Science,L6,Austin,4.47,1.12,4.15,1.34,3.64,3.31,-91,No,Culture,Neutral,QR Code
+SUR00742,EMP00845,DEI,2025-04-12,Product,L7,Seattle,2.9,4.17,4.59,4.0,2.84,4.0,-57,No,Compensation,Neutral,QR Code
+SUR00743,EMP00867,DEI,2024-09-06,HR,L7,New York,1.87,2.39,1.79,4.72,4.39,3.29,83,Yes,Tools & Technology,Neutral,QR Code
+SUR00744,EMP00778,Exit,2022-02-28,Operations,L6,New York,2.9,3.24,1.37,1.22,3.0,3.09,-43,Neutral,Culture,Neutral,QR Code
+SUR00745,EMP00549,Wellbeing,2023-05-01,Design,L6,San Francisco,1.73,2.52,2.04,3.79,4.15,1.82,3,Neutral,Compensation,Positive,QR Code
+SUR00746,EMP00361,Manager Effectiveness,2026-05-25,Product,L3,Denver,3.79,2.02,3.32,4.05,3.33,1.25,54,No,Recognition,Neutral,App
+SUR00747,EMP00034,Engagement,2024-08-28,Legal,L2,Denver,1.58,4.7,4.17,1.22,3.72,2.56,-86,No,Autonomy,Negative,Email
+SUR00748,EMP00616,Manager Effectiveness,2026-02-06,Customer Success,L1,San Francisco,1.82,3.62,4.06,4.57,1.78,4.73,86,No,Compensation,Negative,QR Code
+SUR00749,EMP00748,Pulse,2023-09-16,Data Science,L2,Remote,2.27,4.0,2.57,2.84,3.79,2.34,-24,Neutral,Career Growth,Neutral,Email
+SUR00750,EMP00374,Wellbeing,2024-04-18,IT,L4,Remote,4.06,4.72,2.3,3.82,1.73,4.29,22,Yes,Career Growth,Negative,App
+SUR00751,EMP01176,Pulse,2022-03-21,Design,L7,San Francisco,1.85,1.51,3.04,1.78,4.26,2.68,-60,Yes,Compensation,Neutral,Kiosk
+SUR00752,EMP00156,Onboarding,2023-10-21,Product,L1,Austin,3.97,4.96,3.11,1.69,3.5,2.5,84,Neutral,Tools & Technology,Neutral,Email
+SUR00753,EMP00969,Exit,2024-09-26,Operations,L3,Dallas,3.4,1.62,3.77,2.45,1.52,3.19,42,No,Career Growth,Neutral,App
+SUR00754,EMP00012,Manager Effectiveness,2024-09-27,Marketing,L7,Austin,3.19,4.48,1.71,4.71,4.19,2.43,-64,Neutral,Autonomy,Negative,QR Code
+SUR00755,EMP00213,Onboarding,2025-01-27,HR,L3,Remote,3.6,2.2,4.77,2.64,3.66,4.4,27,No,Recognition,Neutral,Kiosk
+SUR00756,EMP00658,Engagement,2023-07-21,Data Science,L2,Dallas,1.98,4.03,4.69,1.49,3.2,2.41,75,Yes,Career Growth,Negative,QR Code
+SUR00757,EMP00648,Exit,2025-02-24,Finance,L7,Boston,4.0,3.99,2.35,1.44,1.05,3.12,-73,Yes,Recognition,Neutral,QR Code
+SUR00758,EMP00533,Onboarding,2023-10-21,Legal,L1,Remote,1.85,3.13,4.09,3.19,2.71,1.78,-2,Neutral,Culture,Neutral,Kiosk
+SUR00759,EMP00497,Pulse,2022-04-25,Finance,L7,Atlanta,2.77,3.98,2.63,1.92,4.81,3.31,-63,Yes,Recognition,Positive,Email
+SUR00760,EMP00153,Onboarding,2021-01-02,Marketing,L2,Atlanta,2.16,3.2,3.56,1.98,4.95,1.2,-58,Yes,Culture,Positive,Kiosk
+SUR00761,EMP00008,Onboarding,2023-08-28,Marketing,L7,Denver,1.11,2.91,4.64,3.25,1.66,1.3,-10,Neutral,Autonomy,Neutral,App
+SUR00762,EMP00840,Exit,2021-02-02,IT,L5,Boston,3.32,3.43,1.37,4.01,2.94,3.88,-1,No,Tools & Technology,Positive,QR Code
+SUR00763,EMP01083,DEI,2022-12-18,Customer Success,L4,Seattle,3.02,3.38,3.72,4.61,4.49,2.81,-38,Yes,Culture,Neutral,Kiosk
+SUR00764,EMP00800,Engagement,2026-02-25,Legal,L2,Remote,2.28,2.36,2.0,2.91,2.11,2.75,-60,Yes,Management,Positive,Kiosk
+SUR00765,EMP01056,Exit,2023-06-30,Operations,L4,San Francisco,4.14,4.67,1.33,3.19,3.25,3.08,-15,No,Autonomy,Negative,App
+SUR00766,EMP00260,Wellbeing,2022-01-19,IT,L1,New York,4.67,2.29,1.05,2.15,3.96,2.75,-3,No,Tools & Technology,Neutral,Email
+SUR00767,EMP00661,Wellbeing,2024-03-07,Sales,L5,Chicago,2.11,4.7,2.16,1.5,3.63,4.48,-74,Yes,Compensation,Negative,App
+SUR00768,EMP00506,Engagement,2025-05-06,Legal,L3,Chicago,1.81,4.51,1.78,3.85,3.45,2.89,49,Neutral,Career Growth,Negative,QR Code
+SUR00769,EMP00321,DEI,2022-01-16,Design,L6,San Francisco,3.38,4.66,3.1,3.24,4.06,2.3,20,Neutral,Management,Negative,QR Code
+SUR00770,EMP00390,Exit,2025-10-11,Legal,L2,New York,3.35,2.88,1.88,3.56,3.06,1.99,11,No,Recognition,Positive,QR Code
+SUR00771,EMP01167,Exit,2023-10-28,Operations,L3,New York,4.16,4.02,3.74,2.17,4.98,3.65,13,Neutral,Management,Negative,QR Code
+SUR00772,EMP00322,DEI,2026-01-07,Design,L7,New York,3.75,1.07,2.77,1.93,1.73,4.8,3,No,Management,Neutral,App
+SUR00773,EMP00708,Onboarding,2023-03-02,HR,L1,Boston,3.48,3.68,3.95,2.7,1.48,2.84,-19,Yes,Autonomy,Positive,Kiosk
+SUR00774,EMP00647,DEI,2021-07-05,Design,L5,Dallas,2.84,1.14,3.02,3.0,1.03,2.32,-20,Yes,Career Growth,Neutral,App
+SUR00775,EMP00803,Onboarding,2024-06-20,Data Science,L4,Austin,2.75,1.87,3.48,2.48,4.08,3.96,-94,No,Work-Life Balance,Positive,Email
+SUR00776,EMP00838,DEI,2023-05-01,Product,L2,San Francisco,4.12,3.14,2.27,3.19,3.21,4.13,-54,No,Tools & Technology,Positive,QR Code
+SUR00777,EMP01166,Manager Effectiveness,2024-02-15,Marketing,L1,Seattle,4.91,3.9,1.68,1.34,2.89,2.92,-100,No,Compensation,Negative,Email
+SUR00778,EMP01084,Onboarding,2023-12-23,HR,L1,Denver,3.24,3.73,3.01,4.91,2.7,4.73,32,Yes,Recognition,Neutral,App
+SUR00779,EMP00408,DEI,2023-03-20,Legal,L3,Denver,1.18,2.6,2.92,4.98,2.4,2.42,100,Yes,Tools & Technology,Neutral,Email
+SUR00780,EMP00007,Onboarding,2026-04-17,Design,L7,Atlanta,2.93,3.64,2.42,1.05,1.16,2.31,91,Neutral,Work-Life Balance,Positive,Kiosk
+SUR00781,EMP00667,DEI,2023-07-06,Marketing,L2,Boston,2.94,2.17,2.44,2.89,1.6,3.11,-61,No,Work-Life Balance,Positive,Kiosk
+SUR00782,EMP00176,Onboarding,2021-05-02,Product,L6,Seattle,3.32,1.47,2.52,3.09,1.48,4.07,-71,Yes,Tools & Technology,Negative,Kiosk
+SUR00783,EMP00784,Exit,2021-07-02,HR,L6,Seattle,1.07,2.1,3.65,2.43,1.17,4.49,-21,No,Culture,Positive,App
+SUR00784,EMP00267,Wellbeing,2023-09-06,Engineering,L4,Remote,3.49,1.15,3.6,2.24,4.16,3.5,-15,No,Tools & Technology,Negative,Email
+SUR00785,EMP00462,Manager Effectiveness,2024-09-04,Legal,L2,Dallas,1.87,2.17,1.56,1.66,2.45,4.08,90,Yes,Autonomy,Positive,App
+SUR00786,EMP00483,Onboarding,2021-05-13,Finance,L7,Austin,2.04,3.59,4.49,3.45,4.32,2.63,79,Yes,Career Growth,Positive,Email
+SUR00787,EMP00533,Onboarding,2022-03-10,IT,L6,Dallas,1.07,3.81,4.49,3.9,4.47,3.17,88,No,Autonomy,Negative,App
+SUR00788,EMP00648,Engagement,2022-09-10,Engineering,L6,Remote,2.51,3.95,1.2,3.32,4.78,1.84,27,Yes,Work-Life Balance,Neutral,QR Code
+SUR00789,EMP01093,DEI,2021-07-30,HR,L1,Chicago,4.43,3.18,2.52,1.43,1.72,1.38,-87,Yes,Recognition,Neutral,Kiosk
+SUR00790,EMP00535,Exit,2023-02-28,Marketing,L3,Atlanta,1.93,1.62,2.4,2.69,1.51,2.61,28,No,Recognition,Positive,App
+SUR00791,EMP01197,Onboarding,2026-03-16,Product,L7,Remote,4.77,2.95,2.46,3.22,3.52,3.59,57,No,Work-Life Balance,Neutral,App
+SUR00792,EMP00452,Engagement,2025-04-03,Operations,L7,Atlanta,1.38,2.7,4.58,1.69,4.75,4.31,-33,No,Autonomy,Positive,QR Code
+SUR00793,EMP00682,Engagement,2025-10-04,Finance,L3,San Francisco,2.48,2.72,2.14,2.38,3.64,3.96,-64,Neutral,Recognition,Negative,Kiosk
+SUR00794,EMP00756,Onboarding,2021-06-26,Data Science,L6,Remote,4.19,1.46,1.88,3.92,2.85,1.18,52,Neutral,Autonomy,Neutral,App
+SUR00795,EMP00043,DEI,2022-01-23,Customer Success,L7,Chicago,2.78,3.38,4.72,3.94,2.25,1.69,21,Neutral,Recognition,Positive,QR Code
+SUR00796,EMP00577,Wellbeing,2024-10-16,Sales,L3,Denver,2.05,4.05,2.08,4.19,2.74,1.5,-10,Yes,Culture,Positive,Kiosk
+SUR00797,EMP00724,Onboarding,2023-03-01,Sales,L5,Chicago,1.57,4.78,3.88,4.32,1.83,2.02,-69,Neutral,Tools & Technology,Neutral,Email
+SUR00798,EMP00019,DEI,2024-09-28,Operations,L3,Austin,4.48,3.51,4.09,4.47,2.36,2.47,38,Neutral,Career Growth,Negative,Kiosk
+SUR00799,EMP01077,Pulse,2024-11-28,Engineering,L4,Austin,2.88,1.61,1.75,2.23,3.77,1.74,58,Yes,Autonomy,Negative,Email
+SUR00800,EMP00509,Pulse,2023-04-13,Product,L2,Atlanta,1.99,1.62,2.64,2.8,4.66,2.72,-26,No,Tools & Technology,Negative,Email
+SUR00801,EMP01190,Wellbeing,2025-09-26,Finance,L7,Denver,3.15,2.79,3.83,4.01,3.33,1.6,47,No,Culture,Negative,App
+SUR00802,EMP00150,Pulse,2023-05-05,Product,L3,Atlanta,1.63,4.47,3.91,4.54,2.64,2.04,54,Yes,Tools & Technology,Positive,QR Code
+SUR00803,EMP00866,Exit,2024-08-16,Customer Success,L2,Austin,1.13,1.3,1.49,3.85,4.11,4.5,23,No,Career Growth,Neutral,App
+SUR00804,EMP00620,Engagement,2026-02-18,HR,L5,Dallas,1.89,1.8,3.62,4.18,3.66,4.55,-76,Neutral,Career Growth,Positive,QR Code
+SUR00805,EMP00825,Onboarding,2024-01-13,Engineering,L2,Chicago,2.69,3.15,4.47,4.49,1.89,3.11,77,Neutral,Tools & Technology,Positive,Email
+SUR00806,EMP00226,Onboarding,2022-07-20,Data Science,L2,Remote,2.94,4.64,2.44,1.98,4.24,4.44,48,Yes,Career Growth,Negative,QR Code
+SUR00807,EMP00874,Engagement,2023-10-22,Legal,L7,Austin,1.94,2.52,1.24,2.59,4.8,2.64,67,Yes,Management,Neutral,QR Code
+SUR00808,EMP01131,Wellbeing,2024-05-24,Marketing,L2,Boston,1.42,4.13,4.97,1.59,4.83,2.71,64,Yes,Compensation,Neutral,Email
+SUR00809,EMP00852,Pulse,2021-05-14,Engineering,L5,Seattle,1.13,2.29,2.92,3.45,3.33,4.69,-96,No,Management,Negative,Email
+SUR00810,EMP00077,DEI,2024-06-06,Product,L6,Boston,1.74,4.82,3.12,2.67,2.5,4.92,-46,No,Work-Life Balance,Neutral,App
+SUR00811,EMP00233,Onboarding,2021-03-27,Product,L2,Atlanta,4.94,1.22,3.74,2.81,4.69,4.02,48,Yes,Compensation,Negative,Email
+SUR00812,EMP00318,Engagement,2026-02-14,Engineering,L3,Denver,1.71,4.18,2.93,3.53,4.94,4.74,26,No,Tools & Technology,Negative,QR Code
+SUR00813,EMP01072,Wellbeing,2023-12-31,Customer Success,L5,Austin,1.25,1.67,1.91,1.47,2.32,1.7,52,Yes,Management,Positive,QR Code
+SUR00814,EMP00358,Manager Effectiveness,2022-11-03,Finance,L1,San Francisco,2.19,3.68,3.7,3.2,4.8,4.57,25,No,Culture,Positive,Email
+SUR00815,EMP01037,DEI,2023-04-03,Finance,L3,Remote,2.07,3.18,1.23,4.26,4.32,3.3,88,No,Recognition,Positive,QR Code
+SUR00816,EMP00842,DEI,2025-09-08,Customer Success,L2,Atlanta,4.37,2.44,3.55,2.46,1.07,4.33,-14,Neutral,Compensation,Negative,QR Code
+SUR00817,EMP00740,Engagement,2021-01-28,Design,L4,Atlanta,4.88,3.47,1.22,1.75,2.78,1.58,61,Yes,Compensation,Neutral,Email
+SUR00818,EMP00580,Pulse,2022-03-06,HR,L1,Boston,3.69,3.32,2.06,1.46,1.33,2.62,-77,Neutral,Compensation,Positive,Kiosk
+SUR00819,EMP00381,Engagement,2025-10-06,Legal,L2,Austin,4.24,2.53,3.75,1.83,4.96,3.97,-67,No,Recognition,Positive,App
+SUR00820,EMP00240,Exit,2021-07-13,Finance,L1,Dallas,4.81,1.76,1.03,2.9,3.76,1.48,49,No,Tools & Technology,Neutral,Kiosk
+SUR00821,EMP00095,Onboarding,2025-04-11,Sales,L5,Remote,2.45,3.22,3.39,3.84,1.02,4.32,-15,No,Autonomy,Positive,Kiosk
+SUR00822,EMP00323,Manager Effectiveness,2023-05-05,HR,L3,Remote,2.48,2.89,2.73,2.45,2.05,1.96,-93,Yes,Management,Negative,QR Code
+SUR00823,EMP00981,Engagement,2021-04-22,Legal,L4,Boston,3.97,1.09,2.18,1.67,1.77,4.53,12,No,Culture,Positive,Kiosk
+SUR00824,EMP01188,Engagement,2023-01-23,Product,L1,Atlanta,2.35,1.6,3.85,4.45,3.5,3.47,26,Neutral,Tools & Technology,Positive,QR Code
+SUR00825,EMP00250,Onboarding,2023-12-16,Product,L5,Remote,3.81,4.38,3.1,4.23,1.46,4.26,41,Yes,Work-Life Balance,Neutral,Email
+SUR00826,EMP00650,Manager Effectiveness,2026-05-15,Sales,L1,San Francisco,2.03,3.89,1.46,2.17,4.22,2.25,-7,No,Recognition,Neutral,App
+SUR00827,EMP00153,Wellbeing,2026-03-31,HR,L4,San Francisco,4.69,2.88,4.37,3.86,1.37,4.57,-100,Neutral,Recognition,Neutral,Kiosk
+SUR00828,EMP00636,Onboarding,2024-09-02,Engineering,L5,Boston,2.9,4.26,1.77,1.03,1.49,4.92,-77,No,Recognition,Positive,QR Code
+SUR00829,EMP00060,Exit,2021-08-02,HR,L6,New York,1.45,3.69,2.81,3.13,4.43,3.66,33,Neutral,Work-Life Balance,Neutral,App
+SUR00830,EMP00061,Pulse,2026-05-30,Operations,L4,Remote,2.52,4.82,2.69,1.05,1.25,1.26,98,Neutral,Tools & Technology,Neutral,App
+SUR00831,EMP00817,Wellbeing,2021-04-28,Design,L7,Atlanta,3.21,4.84,4.41,1.3,2.68,2.12,-31,Neutral,Management,Neutral,Email
+SUR00832,EMP00251,Onboarding,2025-12-05,Product,L3,Seattle,3.64,4.77,1.58,4.64,3.11,1.51,-85,Neutral,Recognition,Neutral,App
+SUR00833,EMP00151,Manager Effectiveness,2021-06-12,Legal,L5,Seattle,2.6,1.9,4.23,4.77,4.24,1.39,79,No,Management,Positive,Kiosk
+SUR00834,EMP00866,Exit,2022-10-15,Marketing,L1,Atlanta,2.15,2.03,1.75,4.7,1.39,2.73,-31,Neutral,Tools & Technology,Positive,QR Code
+SUR00835,EMP00070,Manager Effectiveness,2022-10-25,Data Science,L7,Seattle,1.41,3.76,1.85,4.92,4.71,1.42,-43,Neutral,Culture,Negative,QR Code
+SUR00836,EMP00496,Wellbeing,2021-08-04,Data Science,L1,Atlanta,3.17,4.39,1.18,2.93,2.71,4.34,91,No,Autonomy,Negative,QR Code
+SUR00837,EMP00110,Engagement,2024-02-16,Customer Success,L2,New York,2.1,3.78,2.29,4.43,2.11,2.13,-22,No,Compensation,Positive,Kiosk
+SUR00838,EMP00457,Onboarding,2026-07-12,Data Science,L7,Remote,2.88,2.73,3.41,1.14,3.66,3.01,-8,Yes,Tools & Technology,Positive,Email
+SUR00839,EMP00991,Manager Effectiveness,2025-11-02,Operations,L1,Seattle,4.93,4.18,1.86,1.07,4.65,1.46,-17,Neutral,Recognition,Negative,QR Code
+SUR00840,EMP00551,Wellbeing,2021-02-06,Design,L5,Boston,1.68,1.08,3.9,3.63,2.42,3.4,23,Neutral,Management,Negative,Email
+SUR00841,EMP01087,Onboarding,2023-07-05,Design,L2,Denver,2.59,1.2,4.79,3.96,3.43,3.54,-56,No,Work-Life Balance,Neutral,Email
+SUR00842,EMP00186,DEI,2022-12-11,Finance,L1,Denver,1.71,2.95,3.58,4.57,1.1,4.91,88,Neutral,Career Growth,Neutral,App
+SUR00843,EMP00183,Manager Effectiveness,2021-09-09,Marketing,L6,San Francisco,2.84,3.33,3.41,4.51,1.59,4.3,-59,Yes,Compensation,Positive,App
+SUR00844,EMP00675,Exit,2023-09-23,Product,L2,Boston,1.01,3.76,4.33,3.08,2.38,4.03,9,Yes,Recognition,Positive,QR Code
+SUR00845,EMP00238,Onboarding,2021-07-08,HR,L3,Austin,2.99,3.83,1.75,1.81,3.6,1.93,25,No,Management,Positive,Kiosk
+SUR00846,EMP00310,Engagement,2024-06-01,Finance,L2,New York,2.76,1.95,2.92,1.45,3.6,2.82,58,Neutral,Culture,Positive,Kiosk
+SUR00847,EMP00104,Manager Effectiveness,2024-09-18,Operations,L5,Austin,3.65,4.39,2.32,4.81,4.62,4.23,-100,Neutral,Tools & Technology,Neutral,QR Code
+SUR00848,EMP01013,DEI,2025-06-28,Design,L5,Chicago,2.58,3.69,1.73,1.84,3.34,2.82,-44,Neutral,Work-Life Balance,Neutral,Email
+SUR00849,EMP00262,DEI,2021-11-01,Sales,L2,Boston,1.41,3.64,3.55,1.96,1.83,1.43,21,No,Compensation,Neutral,Email
+SUR00850,EMP00365,Manager Effectiveness,2022-06-17,Legal,L5,Seattle,4.82,4.33,4.25,3.85,4.51,1.68,-65,Neutral,Management,Positive,App
+SUR00851,EMP00349,Engagement,2024-02-17,Product,L7,Chicago,3.09,2.29,3.82,4.22,1.24,4.07,95,Neutral,Culture,Positive,Email
+SUR00852,EMP00510,Exit,2021-01-25,Customer Success,L3,Dallas,4.51,4.84,1.82,3.47,1.5,4.8,-72,No,Management,Positive,QR Code
+SUR00853,EMP00111,DEI,2021-01-14,IT,L7,Remote,1.84,1.27,1.43,1.93,4.7,4.37,-23,No,Compensation,Negative,Email
+SUR00854,EMP00405,Exit,2024-07-30,Finance,L6,Atlanta,4.55,4.22,3.17,1.38,4.17,2.78,71,No,Culture,Neutral,App
+SUR00855,EMP00628,Manager Effectiveness,2023-01-21,Operations,L3,New York,2.76,2.95,4.93,1.06,4.66,4.67,-18,Neutral,Management,Positive,Kiosk
+SUR00856,EMP01131,Wellbeing,2021-07-27,Data Science,L1,Dallas,1.11,3.22,1.72,3.61,1.93,4.97,-86,Yes,Culture,Neutral,QR Code
+SUR00857,EMP01134,Manager Effectiveness,2021-12-06,Operations,L5,Atlanta,3.95,1.88,1.28,2.48,4.08,1.4,-40,Yes,Career Growth,Neutral,Email
+SUR00858,EMP00781,Exit,2023-05-03,Data Science,L4,New York,3.58,3.65,2.61,4.06,1.93,1.4,-83,Neutral,Recognition,Negative,Email
+SUR00859,EMP00214,DEI,2022-11-12,Operations,L6,Chicago,1.1,1.98,1.82,1.46,1.76,3.74,-42,No,Autonomy,Negative,Email
+SUR00860,EMP00956,Engagement,2025-05-05,HR,L4,Remote,3.52,1.84,2.66,4.24,3.32,4.52,-97,No,Tools & Technology,Negative,App
+SUR00861,EMP00093,Exit,2021-10-22,Sales,L4,Austin,4.31,2.8,3.77,1.51,2.73,2.08,22,Yes,Management,Neutral,Kiosk
+SUR00862,EMP00125,Manager Effectiveness,2023-05-20,Operations,L7,Austin,3.3,3.42,2.34,4.56,2.54,4.66,12,Neutral,Work-Life Balance,Positive,Email
+SUR00863,EMP00923,Pulse,2026-01-31,Design,L6,New York,3.49,2.91,4.25,4.88,1.09,1.94,78,Neutral,Tools & Technology,Positive,Email
+SUR00864,EMP01165,DEI,2025-03-24,Legal,L5,Seattle,2.11,2.74,4.81,2.79,4.99,3.79,37,Yes,Autonomy,Neutral,Kiosk
+SUR00865,EMP00380,Engagement,2026-06-10,Operations,L3,New York,4.71,3.54,4.62,4.89,4.68,4.69,70,No,Recognition,Neutral,Kiosk
+SUR00866,EMP00020,DEI,2025-05-31,Marketing,L1,San Francisco,3.92,3.58,4.2,3.41,3.39,1.97,-94,Yes,Compensation,Neutral,Email
+SUR00867,EMP00621,Manager Effectiveness,2021-03-10,Operations,L6,Dallas,1.21,3.52,1.08,1.29,2.02,4.14,10,No,Culture,Negative,Kiosk
+SUR00868,EMP00012,Engagement,2021-01-28,Engineering,L3,New York,1.09,3.85,2.02,2.44,3.49,2.54,-46,No,Autonomy,Neutral,App
+SUR00869,EMP00740,Exit,2021-02-08,Finance,L5,Remote,3.42,4.44,2.59,1.54,2.77,1.24,-51,Neutral,Career Growth,Negative,QR Code
+SUR00870,EMP00679,Wellbeing,2021-06-12,Sales,L5,San Francisco,1.68,4.57,4.17,2.54,1.71,3.63,-85,Neutral,Work-Life Balance,Neutral,Kiosk
+SUR00871,EMP00047,Onboarding,2022-05-08,Sales,L3,New York,2.76,4.35,4.4,4.1,2.03,3.53,75,No,Autonomy,Neutral,QR Code
+SUR00872,EMP00387,Manager Effectiveness,2025-04-27,Sales,L6,New York,3.76,4.57,4.11,1.63,1.99,3.34,2,No,Career Growth,Positive,Kiosk
+SUR00873,EMP00630,Exit,2021-07-24,Legal,L5,Seattle,4.68,2.11,3.37,2.13,4.04,3.57,55,Yes,Culture,Negative,Kiosk
+SUR00874,EMP00173,Wellbeing,2024-01-16,HR,L2,Dallas,4.58,1.27,1.35,4.2,1.97,2.78,-68,No,Culture,Neutral,App
+SUR00875,EMP01185,Exit,2025-03-13,Design,L3,Remote,1.37,4.44,4.66,2.2,3.12,4.68,-22,Yes,Career Growth,Negative,Kiosk
+SUR00876,EMP00788,Onboarding,2025-10-09,Customer Success,L3,Denver,1.94,4.88,3.32,3.58,2.16,3.97,28,No,Career Growth,Negative,QR Code
+SUR00877,EMP00500,Exit,2023-03-25,Data Science,L6,Atlanta,2.67,2.02,3.29,4.7,2.81,1.18,-37,No,Management,Neutral,Email
+SUR00878,EMP01153,Engagement,2025-10-18,Customer Success,L4,San Francisco,2.69,4.39,3.29,2.23,2.74,2.83,8,Neutral,Recognition,Positive,Email
+SUR00879,EMP00247,DEI,2022-01-24,Operations,L2,Denver,4.35,1.5,3.31,3.59,1.84,2.79,48,No,Career Growth,Negative,Kiosk
+SUR00880,EMP00862,Manager Effectiveness,2025-10-22,Product,L3,Remote,1.47,3.51,4.38,2.74,4.14,4.19,87,Neutral,Recognition,Neutral,Email
+SUR00881,EMP00621,Manager Effectiveness,2022-07-23,Product,L4,Atlanta,4.67,4.98,2.09,2.42,2.8,4.39,-86,Yes,Tools & Technology,Negative,Email
+SUR00882,EMP00176,Onboarding,2023-01-25,Finance,L3,Remote,2.13,3.56,4.14,3.77,4.51,2.28,-18,Yes,Tools & Technology,Neutral,App
+SUR00883,EMP01005,Onboarding,2026-04-30,Finance,L6,Dallas,2.08,2.35,2.35,3.68,2.89,4.77,92,Neutral,Recognition,Positive,App
+SUR00884,EMP00693,Wellbeing,2022-07-11,Marketing,L1,Boston,1.11,3.26,2.37,1.86,1.04,2.8,20,Neutral,Autonomy,Positive,App
+SUR00885,EMP00973,Exit,2024-03-17,Operations,L6,Dallas,4.52,2.99,4.79,3.22,4.96,4.37,-60,Neutral,Recognition,Neutral,Email
+SUR00886,EMP00481,Exit,2026-03-10,Legal,L7,Remote,3.16,4.15,1.75,2.86,3.73,2.22,38,Yes,Culture,Positive,Kiosk
+SUR00887,EMP00095,Engagement,2026-05-22,Product,L5,Denver,4.21,2.73,1.9,2.98,4.12,3.72,-35,Yes,Culture,Neutral,Email
+SUR00888,EMP00861,Onboarding,2024-03-01,Sales,L5,San Francisco,2.56,4.78,2.71,2.33,4.42,3.75,-56,No,Management,Neutral,Email
+SUR00889,EMP00203,Exit,2024-05-26,Sales,L3,Denver,3.45,3.12,2.92,3.04,1.83,2.91,-89,Yes,Work-Life Balance,Positive,App
+SUR00890,EMP00631,Manager Effectiveness,2025-02-18,IT,L1,Austin,1.83,4.08,2.2,1.71,4.95,3.3,83,Yes,Culture,Negative,Kiosk
+SUR00891,EMP00201,DEI,2021-01-08,Sales,L6,Denver,3.69,3.55,4.63,3.45,1.47,3.78,46,No,Recognition,Neutral,Email
+SUR00892,EMP00507,Engagement,2026-07-23,Sales,L5,Austin,3.21,4.97,4.62,2.05,4.66,3.36,-76,Yes,Management,Positive,App
+SUR00893,EMP00473,DEI,2025-07-25,Design,L1,Boston,3.41,2.54,2.73,2.73,3.32,1.62,46,No,Compensation,Negative,App
+SUR00894,EMP00987,Onboarding,2025-12-09,Data Science,L6,Seattle,4.55,3.12,2.2,1.97,3.88,1.97,60,Neutral,Tools & Technology,Positive,App
+SUR00895,EMP00020,Manager Effectiveness,2026-07-03,Design,L2,Atlanta,2.9,1.55,4.17,4.98,3.3,4.26,2,Yes,Tools & Technology,Positive,Kiosk
+SUR00896,EMP00722,Pulse,2021-11-20,Legal,L4,Remote,3.43,2.11,4.37,3.53,3.7,3.81,-38,Neutral,Autonomy,Positive,QR Code
+SUR00897,EMP01144,Wellbeing,2023-08-03,Design,L4,Remote,4.54,3.94,4.52,3.11,4.33,4.44,-80,Yes,Recognition,Neutral,App
+SUR00898,EMP01038,Exit,2023-09-11,Finance,L4,Dallas,2.53,3.47,1.21,1.07,2.52,4.49,100,Yes,Recognition,Negative,QR Code
+SUR00899,EMP00643,Pulse,2025-09-06,Design,L3,San Francisco,3.97,2.94,1.3,3.06,1.56,2.14,-33,Yes,Career Growth,Neutral,Email
+SUR00900,EMP01161,Engagement,2021-10-03,IT,L7,Seattle,2.0,3.75,2.83,4.95,1.72,2.46,35,Yes,Culture,Negative,QR Code
+SUR00901,EMP00455,Manager Effectiveness,2023-01-03,Operations,L1,San Francisco,3.33,2.48,4.61,3.65,1.12,1.46,-18,Neutral,Culture,Neutral,QR Code
+SUR00902,EMP00908,Manager Effectiveness,2022-04-07,Sales,L7,Chicago,2.91,3.78,3.9,3.86,4.95,3.77,-30,Neutral,Compensation,Positive,QR Code
+SUR00903,EMP00737,Exit,2026-05-03,Engineering,L7,Atlanta,5.0,1.03,4.77,3.82,3.8,4.99,13,Yes,Autonomy,Positive,App
+SUR00904,EMP00986,Manager Effectiveness,2024-07-21,Data Science,L1,San Francisco,4.37,4.5,1.39,4.52,2.16,1.69,-60,Yes,Management,Positive,Kiosk
+SUR00905,EMP00032,Engagement,2023-05-02,Sales,L2,Dallas,2.53,2.08,3.77,2.71,2.61,1.68,66,No,Work-Life Balance,Neutral,App
+SUR00906,EMP00700,DEI,2025-01-18,Engineering,L7,Seattle,4.31,1.33,4.32,3.84,1.12,4.14,-23,No,Career Growth,Positive,Kiosk
+SUR00907,EMP00497,Engagement,2024-12-20,Sales,L5,Boston,3.44,4.65,4.85,4.25,2.63,4.32,-62,No,Recognition,Negative,App
+SUR00908,EMP00562,Manager Effectiveness,2026-03-14,Product,L4,Remote,2.75,1.2,2.31,4.65,4.37,2.33,-62,No,Autonomy,Neutral,Email
+SUR00909,EMP00560,Pulse,2022-01-03,Finance,L4,Seattle,4.03,2.55,4.51,3.65,3.77,2.66,-72,Neutral,Autonomy,Neutral,Kiosk
+SUR00910,EMP00217,Wellbeing,2023-11-28,Marketing,L4,Atlanta,1.44,1.46,3.25,4.31,1.39,1.22,42,Yes,Work-Life Balance,Negative,QR Code
+SUR00911,EMP00677,Onboarding,2026-02-08,Product,L1,Dallas,1.68,2.97,3.19,4.4,2.3,1.19,-31,Neutral,Culture,Positive,Kiosk
+SUR00912,EMP00572,Wellbeing,2021-10-09,IT,L3,Austin,3.99,2.97,3.52,3.12,1.24,2.39,-89,Yes,Tools & Technology,Positive,App
+SUR00913,EMP00898,Wellbeing,2023-11-15,Data Science,L4,Austin,2.64,2.01,3.47,4.98,1.17,1.57,-84,No,Work-Life Balance,Neutral,App
+SUR00914,EMP00012,Exit,2026-06-22,Legal,L6,Dallas,1.31,3.61,1.18,3.14,4.61,1.88,-8,Neutral,Autonomy,Positive,App
+SUR00915,EMP00958,Exit,2023-04-22,Design,L1,New York,2.25,1.49,2.84,1.33,1.15,4.19,10,Yes,Work-Life Balance,Negative,QR Code
+SUR00916,EMP00713,Manager Effectiveness,2026-05-24,Sales,L6,Dallas,4.52,1.02,2.8,2.89,2.0,3.03,-6,No,Autonomy,Neutral,Email
+SUR00917,EMP01085,Wellbeing,2023-05-27,Product,L4,New York,2.73,2.95,3.75,3.42,1.64,4.31,41,Yes,Culture,Negative,Email
+SUR00918,EMP00531,Pulse,2021-01-22,Data Science,L5,Austin,1.44,1.63,4.81,3.98,3.49,3.14,-50,No,Autonomy,Neutral,Email
+SUR00919,EMP01073,Wellbeing,2024-03-26,Sales,L2,New York,2.38,3.34,2.07,2.15,2.86,4.51,0,Neutral,Career Growth,Positive,App
+SUR00920,EMP00339,Onboarding,2025-03-27,Legal,L7,Austin,1.24,1.86,1.38,1.06,3.24,1.15,-9,No,Career Growth,Positive,QR Code
+SUR00921,EMP00345,Wellbeing,2021-04-07,Design,L6,Denver,3.87,2.83,1.91,2.49,2.35,2.41,59,Yes,Tools & Technology,Positive,QR Code
+SUR00922,EMP00898,Exit,2025-03-23,Sales,L4,Denver,1.61,3.29,4.5,4.87,3.17,2.59,91,Yes,Recognition,Positive,App
+SUR00923,EMP00737,Pulse,2026-07-02,Legal,L5,Atlanta,1.75,1.58,1.24,1.59,2.3,2.1,-89,Neutral,Career Growth,Neutral,Kiosk
+SUR00924,EMP00038,DEI,2023-06-19,Customer Success,L7,Atlanta,4.28,4.29,4.62,4.45,2.99,1.39,37,Yes,Culture,Positive,Email
+SUR00925,EMP00105,Wellbeing,2021-01-10,Legal,L4,Boston,3.16,3.06,4.97,4.87,1.96,3.85,44,Yes,Career Growth,Positive,Kiosk
+SUR00926,EMP00882,Engagement,2022-04-07,Design,L7,Boston,4.35,3.86,1.01,3.13,3.79,4.81,27,Yes,Recognition,Neutral,App
+SUR00927,EMP00964,Onboarding,2024-07-01,Engineering,L3,Seattle,2.87,3.44,1.2,4.32,2.26,3.22,-38,Yes,Culture,Neutral,Email
+SUR00928,EMP00260,Exit,2024-09-03,Customer Success,L5,New York,1.64,2.82,2.05,1.45,1.75,3.74,96,Yes,Tools & Technology,Negative,Email
+SUR00929,EMP00243,DEI,2024-01-23,Operations,L4,Boston,2.2,1.84,3.17,4.1,3.17,1.72,-22,Yes,Recognition,Positive,App
+SUR00930,EMP01027,Onboarding,2025-05-25,Engineering,L4,Austin,2.38,1.89,1.05,3.77,4.85,2.44,-19,No,Career Growth,Positive,App
+SUR00931,EMP00675,Pulse,2022-06-02,Product,L1,San Francisco,4.2,3.21,2.9,4.04,4.1,1.05,-8,Yes,Compensation,Negative,Email
+SUR00932,EMP01087,Wellbeing,2022-07-02,Sales,L5,New York,2.44,1.37,2.16,1.51,4.87,4.75,-100,No,Culture,Negative,Email
+SUR00933,EMP00563,Wellbeing,2026-06-25,Operations,L1,Boston,2.71,3.41,4.35,1.87,4.09,2.89,79,Neutral,Management,Neutral,Kiosk
+SUR00934,EMP00918,Pulse,2023-11-13,Product,L7,Remote,1.81,3.27,1.6,2.48,4.4,3.41,-4,Yes,Tools & Technology,Neutral,App
+SUR00935,EMP00843,Manager Effectiveness,2021-04-03,Product,L1,Austin,2.21,4.25,1.49,2.91,3.44,2.19,-78,Yes,Tools & Technology,Negative,Email
+SUR00936,EMP01163,Pulse,2026-01-05,Legal,L4,Remote,2.15,1.76,2.19,4.87,2.4,3.77,-79,Neutral,Culture,Negative,Kiosk
+SUR00937,EMP00574,Onboarding,2026-05-05,Legal,L5,San Francisco,2.47,4.02,3.33,4.97,4.66,2.53,-41,Neutral,Work-Life Balance,Negative,QR Code
+SUR00938,EMP01128,DEI,2023-09-08,Legal,L7,Chicago,1.96,3.7,1.19,1.79,2.12,4.24,-47,Yes,Compensation,Negative,App
+SUR00939,EMP00213,Wellbeing,2024-03-13,Legal,L1,Austin,2.3,3.44,3.85,1.61,1.06,1.02,99,No,Compensation,Negative,QR Code
+SUR00940,EMP00778,Exit,2023-11-21,Finance,L4,New York,4.25,3.61,2.55,3.95,2.86,2.91,29,Neutral,Recognition,Neutral,App
+SUR00941,EMP00847,DEI,2021-03-01,Operations,L2,Atlanta,1.77,1.23,3.22,3.1,4.84,1.8,-89,Neutral,Autonomy,Positive,Email
+SUR00942,EMP01190,DEI,2021-12-14,Finance,L4,Atlanta,1.2,3.75,2.45,3.09,4.69,1.55,-100,Neutral,Recognition,Positive,QR Code
+SUR00943,EMP00943,DEI,2026-03-29,Data Science,L2,Dallas,3.6,1.27,2.69,4.79,2.55,1.06,98,No,Work-Life Balance,Positive,QR Code
+SUR00944,EMP00097,Onboarding,2025-01-28,Marketing,L3,Austin,3.18,2.07,2.29,4.72,2.69,4.1,73,No,Management,Positive,Kiosk
+SUR00945,EMP00207,Wellbeing,2024-06-05,IT,L7,Atlanta,4.97,2.77,1.87,1.17,1.25,1.85,43,Neutral,Career Growth,Negative,Kiosk
+SUR00946,EMP00530,Onboarding,2026-02-04,Customer Success,L4,Dallas,3.29,4.78,4.19,2.09,4.78,1.99,-35,No,Tools & Technology,Negative,QR Code
+SUR00947,EMP00938,Wellbeing,2024-07-23,Marketing,L4,New York,1.73,1.87,3.68,3.02,1.12,3.81,91,Neutral,Recognition,Neutral,Email
+SUR00948,EMP00656,Wellbeing,2024-05-25,IT,L4,Seattle,1.89,1.1,2.99,3.22,4.37,1.85,34,Yes,Tools & Technology,Negative,App
+SUR00949,EMP00899,Engagement,2021-09-17,Legal,L6,Dallas,3.11,1.09,4.97,1.32,4.15,2.28,38,Neutral,Work-Life Balance,Positive,QR Code
+SUR00950,EMP00411,Wellbeing,2021-06-09,Finance,L7,Austin,4.89,1.48,2.91,2.35,4.93,2.08,52,Neutral,Culture,Negative,Kiosk
+SUR00951,EMP00505,Pulse,2025-09-07,Sales,L4,Dallas,1.64,1.9,4.23,2.41,4.46,2.91,11,Yes,Career Growth,Negative,Kiosk
+SUR00952,EMP00029,Exit,2023-12-03,Finance,L6,Denver,2.01,1.05,1.46,2.77,2.18,4.88,-65,Yes,Autonomy,Negative,Kiosk
+SUR00953,EMP00876,Onboarding,2024-07-16,Marketing,L3,Boston,3.66,2.2,2.05,3.25,2.69,2.82,56,Yes,Career Growth,Neutral,App
+SUR00954,EMP00278,Wellbeing,2023-05-11,Product,L5,Seattle,1.17,3.66,1.4,4.96,2.04,1.91,-59,No,Compensation,Negative,QR Code
+SUR00955,EMP01101,DEI,2022-03-24,HR,L5,Austin,4.21,4.34,3.67,3.42,2.56,1.62,65,No,Recognition,Negative,QR Code
+SUR00956,EMP00383,DEI,2023-04-25,Legal,L1,New York,1.91,2.61,2.99,3.57,1.21,4.66,-49,No,Work-Life Balance,Negative,Kiosk
+SUR00957,EMP01188,Pulse,2023-04-21,Marketing,L4,Chicago,3.51,1.02,2.6,1.21,1.31,4.29,5,No,Recognition,Negative,Email
+SUR00958,EMP01200,Manager Effectiveness,2023-06-08,Sales,L3,Remote,4.13,3.27,4.43,1.03,3.39,2.72,-9,Neutral,Tools & Technology,Neutral,Kiosk
+SUR00959,EMP00637,Wellbeing,2022-05-25,Engineering,L1,San Francisco,2.9,3.08,2.08,2.6,3.62,4.48,86,No,Management,Positive,Kiosk
+SUR00960,EMP00371,Manager Effectiveness,2025-01-02,Marketing,L3,Dallas,3.28,4.74,2.83,4.72,1.79,3.0,-50,Yes,Work-Life Balance,Neutral,QR Code
+SUR00961,EMP00765,Manager Effectiveness,2025-05-05,Legal,L5,San Francisco,1.18,2.79,3.51,3.72,2.62,4.63,-70,No,Work-Life Balance,Positive,Kiosk
+SUR00962,EMP00002,Wellbeing,2021-10-28,Operations,L1,New York,2.63,1.7,4.91,4.98,4.63,2.03,-21,Neutral,Culture,Negative,QR Code
+SUR00963,EMP00694,Pulse,2026-02-23,Legal,L6,Boston,1.24,2.28,1.77,3.0,2.96,4.4,-80,Yes,Recognition,Positive,App
+SUR00964,EMP01042,Onboarding,2024-12-06,IT,L3,Chicago,3.87,4.93,4.82,3.15,2.99,2.44,63,Neutral,Autonomy,Neutral,App
+SUR00965,EMP00122,Onboarding,2025-01-22,Sales,L6,Boston,4.53,1.65,4.16,3.12,4.14,4.67,95,Yes,Career Growth,Positive,QR Code
+SUR00966,EMP00561,Wellbeing,2022-04-19,Engineering,L6,Chicago,3.51,4.99,3.41,2.98,3.82,2.18,98,No,Compensation,Positive,App
+SUR00967,EMP00634,Onboarding,2024-10-22,Product,L5,Denver,4.79,4.66,3.77,3.93,4.51,1.22,20,No,Management,Neutral,QR Code
+SUR00968,EMP00562,DEI,2023-09-12,Marketing,L7,Dallas,1.84,4.09,1.41,4.18,2.64,3.51,68,Yes,Career Growth,Positive,QR Code
+SUR00969,EMP01145,Onboarding,2022-08-21,Marketing,L5,Dallas,1.66,3.28,1.26,3.54,1.52,1.51,-68,No,Tools & Technology,Negative,Kiosk
+SUR00970,EMP00963,Manager Effectiveness,2021-04-14,Marketing,L3,Dallas,3.37,1.01,3.57,2.88,3.29,1.35,96,Neutral,Culture,Positive,Kiosk
+SUR00971,EMP00719,Exit,2022-12-19,Sales,L6,Austin,4.98,1.89,1.82,2.06,1.22,4.48,77,Yes,Career Growth,Neutral,App
+SUR00972,EMP00146,Wellbeing,2022-05-06,IT,L3,Remote,3.59,1.95,4.73,3.16,4.13,4.67,-17,Neutral,Career Growth,Negative,QR Code
+SUR00973,EMP00429,Wellbeing,2025-01-31,Sales,L2,Dallas,1.65,3.55,4.18,1.73,2.23,1.61,68,Neutral,Work-Life Balance,Neutral,Kiosk
+SUR00974,EMP00538,Manager Effectiveness,2023-10-13,Customer Success,L5,Remote,1.87,2.86,4.89,1.21,1.23,4.42,13,Yes,Tools & Technology,Negative,Email
+SUR00975,EMP00824,Pulse,2023-02-28,Data Science,L2,Austin,2.78,1.72,2.02,3.63,4.05,4.95,-67,No,Tools & Technology,Neutral,App
+SUR00976,EMP00007,Manager Effectiveness,2023-10-13,IT,L5,New York,2.02,2.96,2.93,3.49,4.16,4.39,-39,No,Autonomy,Neutral,Kiosk
+SUR00977,EMP00334,Wellbeing,2026-06-11,Data Science,L2,Remote,3.36,2.74,4.34,2.56,4.22,4.24,-24,No,Culture,Neutral,Email
+SUR00978,EMP01117,Wellbeing,2022-04-05,Customer Success,L3,Atlanta,4.89,4.56,1.61,1.66,4.23,3.97,-96,Yes,Recognition,Neutral,Email
+SUR00979,EMP00647,DEI,2025-01-21,IT,L3,Austin,2.93,2.14,4.41,3.17,3.96,2.98,-75,No,Tools & Technology,Negative,App
+SUR00980,EMP00396,Pulse,2021-05-25,Data Science,L4,Remote,4.76,1.91,4.17,1.85,2.2,2.98,-2,Yes,Recognition,Negative,Email
+SUR00981,EMP00952,Exit,2023-01-09,Data Science,L1,Austin,1.45,1.08,1.08,1.17,2.99,2.7,69,Neutral,Tools & Technology,Negative,QR Code
+SUR00982,EMP00116,Manager Effectiveness,2021-01-11,Operations,L1,Austin,4.77,1.91,4.59,1.21,3.6,2.69,-76,Neutral,Career Growth,Neutral,App
+SUR00983,EMP01016,Manager Effectiveness,2026-01-12,Legal,L5,Chicago,1.68,3.23,3.53,4.63,3.73,3.84,27,No,Recognition,Positive,App
+SUR00984,EMP00810,DEI,2024-10-17,IT,L4,Boston,1.78,1.31,4.53,1.65,2.04,4.17,37,No,Management,Negative,Email
+SUR00985,EMP00911,Onboarding,2023-07-03,IT,L2,San Francisco,2.24,3.6,2.0,3.43,4.24,4.2,51,Neutral,Recognition,Negative,Kiosk
+SUR00986,EMP00647,Wellbeing,2024-03-22,Data Science,L4,Austin,3.53,3.68,3.21,1.03,3.3,4.73,-64,No,Autonomy,Negative,Email
+SUR00987,EMP00727,Exit,2025-10-15,HR,L6,Denver,3.11,1.02,2.78,2.28,1.44,3.17,-11,Yes,Work-Life Balance,Positive,App
+SUR00988,EMP00184,Wellbeing,2023-12-25,Legal,L4,Austin,4.99,2.91,3.32,2.1,4.31,2.49,9,Yes,Recognition,Neutral,QR Code
+SUR00989,EMP00771,Manager Effectiveness,2021-01-20,Sales,L6,Boston,1.22,2.08,2.09,1.01,1.32,4.95,0,Neutral,Tools & Technology,Neutral,QR Code
+SUR00990,EMP00776,Wellbeing,2022-09-15,Product,L3,Denver,4.38,4.38,4.35,2.58,3.98,4.53,85,Yes,Autonomy,Neutral,Kiosk
+SUR00991,EMP00172,Manager Effectiveness,2021-05-01,Operations,L1,Denver,3.08,3.46,4.17,4.21,1.61,1.97,56,No,Recognition,Negative,App
+SUR00992,EMP00241,Onboarding,2024-12-10,Product,L6,New York,4.46,4.35,4.35,4.8,2.34,4.4,18,Yes,Career Growth,Neutral,App
+SUR00993,EMP00607,Pulse,2024-01-18,IT,L1,Atlanta,3.84,1.28,4.56,2.67,3.32,1.25,47,Neutral,Recognition,Positive,Kiosk
+SUR00994,EMP00116,Exit,2021-08-17,Engineering,L4,Denver,1.49,3.42,1.88,4.39,2.84,2.33,-85,No,Work-Life Balance,Positive,QR Code
+SUR00995,EMP01176,Wellbeing,2025-10-17,Data Science,L4,Atlanta,3.44,3.7,1.42,3.3,2.14,2.77,45,Neutral,Recognition,Negative,Email
+SUR00996,EMP01126,Exit,2022-07-10,IT,L4,San Francisco,4.45,1.6,4.45,3.05,1.07,3.68,25,Neutral,Culture,Negative,QR Code
+SUR00997,EMP00927,Manager Effectiveness,2024-02-28,Customer Success,L5,Dallas,1.61,4.11,2.82,3.49,4.94,3.96,37,Neutral,Recognition,Positive,QR Code
+SUR00998,EMP00520,DEI,2022-01-19,Design,L2,New York,4.49,4.78,3.28,2.76,4.6,2.03,-15,Neutral,Tools & Technology,Positive,Email
+SUR00999,EMP00399,Manager Effectiveness,2025-04-08,HR,L4,Atlanta,4.43,3.91,1.35,4.34,2.53,4.06,33,Yes,Culture,Positive,App
+SUR01000,EMP01096,Pulse,2026-04-25,Finance,L7,Denver,2.23,3.44,4.32,4.18,4.25,3.56,15,Yes,Recognition,Neutral,Email
+SUR01001,EMP01164,Onboarding,2024-10-04,Data Science,L2,Chicago,3.64,2.49,3.28,3.55,2.88,3.15,-43,Yes,Work-Life Balance,Neutral,Email
+SUR01002,EMP01050,Wellbeing,2021-06-02,Design,L2,Denver,4.23,4.21,1.11,4.61,3.38,2.22,87,No,Culture,Negative,Kiosk
+SUR01003,EMP00123,Manager Effectiveness,2022-12-12,Data Science,L7,Dallas,1.26,1.39,4.04,3.46,4.63,2.98,44,Yes,Work-Life Balance,Negative,App
+SUR01004,EMP00889,Manager Effectiveness,2025-09-21,Customer Success,L5,New York,1.08,3.0,4.97,4.83,1.2,2.69,33,Yes,Culture,Neutral,Email
+SUR01005,EMP00879,Wellbeing,2023-05-24,Design,L4,San Francisco,1.41,4.04,3.74,4.34,2.11,4.88,4,No,Career Growth,Negative,Email
+SUR01006,EMP00702,Wellbeing,2023-11-29,Design,L3,Dallas,1.61,5.0,1.05,3.49,2.92,3.85,50,Neutral,Tools & Technology,Negative,QR Code
+SUR01007,EMP00362,Onboarding,2021-01-14,Engineering,L2,New York,1.79,2.46,3.99,3.08,2.65,2.79,50,Neutral,Recognition,Positive,App
+SUR01008,EMP00636,DEI,2022-09-15,Data Science,L4,Denver,2.06,4.84,3.44,3.36,4.37,4.46,-46,Yes,Tools & Technology,Positive,Email
+SUR01009,EMP00170,Engagement,2021-10-07,Legal,L2,Chicago,2.05,3.49,1.54,1.58,4.68,2.95,94,No,Career Growth,Negative,Kiosk
+SUR01010,EMP01183,Onboarding,2025-10-08,Data Science,L2,Denver,3.02,1.94,3.63,2.44,2.48,1.79,-29,No,Management,Positive,App
+SUR01011,EMP01071,Wellbeing,2021-01-09,Sales,L1,Boston,3.59,2.36,2.62,2.11,1.4,4.86,-74,Yes,Tools & Technology,Neutral,App
+SUR01012,EMP00322,Pulse,2023-08-22,Operations,L1,Dallas,4.03,3.44,1.97,2.85,4.59,4.26,-62,Neutral,Compensation,Positive,Kiosk
+SUR01013,EMP00481,Onboarding,2024-12-01,Marketing,L1,Chicago,3.28,4.19,2.93,3.3,2.73,4.77,-58,Neutral,Career Growth,Neutral,App
+SUR01014,EMP00457,Onboarding,2021-02-08,Engineering,L4,Seattle,4.43,2.3,2.3,3.09,5.0,2.22,32,Yes,Culture,Positive,QR Code
+SUR01015,EMP01109,Pulse,2023-11-30,Legal,L2,Boston,3.94,3.09,3.99,3.31,4.47,4.0,-95,No,Management,Negative,Kiosk
+SUR01016,EMP01038,Exit,2025-01-22,HR,L4,New York,3.09,2.47,3.15,4.31,1.54,1.57,-49,Neutral,Work-Life Balance,Neutral,QR Code
+SUR01017,EMP00765,Manager Effectiveness,2021-02-11,Sales,L1,Boston,1.79,1.54,4.76,3.99,4.95,1.86,-24,Yes,Culture,Neutral,QR Code
+SUR01018,EMP00692,Manager Effectiveness,2023-02-17,Design,L5,Dallas,3.79,2.69,3.94,1.36,4.95,4.95,50,Neutral,Autonomy,Positive,Email
+SUR01019,EMP00682,Pulse,2023-11-03,Marketing,L5,Remote,3.2,4.99,4.19,3.82,3.62,4.11,68,Neutral,Recognition,Neutral,QR Code
+SUR01020,EMP00745,Manager Effectiveness,2022-02-04,Data Science,L4,Denver,2.08,2.15,1.46,3.51,4.71,1.62,-57,Yes,Career Growth,Negative,App
+SUR01021,EMP00575,Manager Effectiveness,2023-04-16,Finance,L6,Seattle,4.2,1.53,3.26,3.94,1.49,3.07,14,Yes,Recognition,Positive,QR Code
+SUR01022,EMP01168,DEI,2025-06-22,Data Science,L2,Remote,3.4,2.36,1.15,2.54,4.4,1.8,84,Yes,Management,Positive,QR Code
+SUR01023,EMP00299,DEI,2023-11-24,Design,L4,New York,2.22,1.74,3.03,3.8,4.18,1.42,-86,Yes,Recognition,Negative,App
+SUR01024,EMP00026,Onboarding,2023-02-11,IT,L3,Denver,4.65,2.26,1.14,3.33,3.45,1.29,-46,No,Management,Negative,Email
+SUR01025,EMP01124,DEI,2025-04-05,Customer Success,L4,New York,3.1,1.37,4.58,2.84,2.13,3.98,-48,Neutral,Recognition,Positive,App
+SUR01026,EMP00848,DEI,2021-03-02,Customer Success,L6,Boston,4.93,3.65,2.14,4.13,2.09,4.21,24,Yes,Work-Life Balance,Positive,App
+SUR01027,EMP00884,Manager Effectiveness,2025-06-07,Design,L6,Atlanta,4.97,4.41,1.85,3.24,4.81,4.1,-82,Neutral,Work-Life Balance,Negative,Email
+SUR01028,EMP00624,Pulse,2023-11-16,Finance,L6,Chicago,1.19,3.37,2.88,4.87,2.32,4.09,31,Neutral,Culture,Positive,Email
+SUR01029,EMP01138,Engagement,2024-02-13,Engineering,L1,Dallas,4.39,2.89,2.85,3.39,3.85,3.77,-42,Yes,Work-Life Balance,Positive,QR Code
+SUR01030,EMP00731,DEI,2024-11-17,Product,L3,Denver,1.03,1.23,3.74,1.43,1.29,3.11,14,Yes,Culture,Positive,App
+SUR01031,EMP00288,Exit,2025-10-20,Operations,L5,Dallas,3.21,4.49,3.13,3.44,1.67,2.66,-94,No,Work-Life Balance,Neutral,Kiosk
+SUR01032,EMP00267,Manager Effectiveness,2023-07-18,Marketing,L4,San Francisco,3.21,3.27,1.04,2.38,1.39,1.17,-83,No,Management,Neutral,Email
+SUR01033,EMP00462,Exit,2025-11-12,Data Science,L2,Austin,1.78,3.61,1.3,3.65,4.82,1.71,44,Neutral,Work-Life Balance,Negative,Kiosk
+SUR01034,EMP00011,Engagement,2025-11-08,Finance,L4,Remote,2.55,4.46,1.94,2.61,4.74,2.98,25,Yes,Career Growth,Negative,Kiosk
+SUR01035,EMP00747,Engagement,2024-11-26,Design,L5,Dallas,1.03,3.94,4.58,3.76,4.55,2.4,-39,Yes,Tools & Technology,Positive,Email
+SUR01036,EMP00824,Wellbeing,2022-01-19,Legal,L2,Boston,4.9,1.14,4.37,3.3,2.51,1.48,-38,Yes,Tools & Technology,Negative,Email
+SUR01037,EMP00693,Engagement,2022-02-28,HR,L6,Austin,1.12,2.58,1.81,4.46,4.74,4.34,-62,No,Career Growth,Neutral,Kiosk
+SUR01038,EMP00192,Wellbeing,2025-09-22,HR,L3,Remote,3.53,2.68,2.35,1.95,1.2,4.18,-43,Neutral,Tools & Technology,Neutral,Kiosk
+SUR01039,EMP00411,Pulse,2024-05-24,Sales,L5,Boston,4.49,1.08,1.05,4.18,2.19,2.57,74,No,Autonomy,Neutral,Email
+SUR01040,EMP00190,Wellbeing,2022-09-28,Legal,L5,Chicago,3.59,2.07,2.45,4.86,4.13,1.9,-35,Neutral,Tools & Technology,Neutral,Kiosk
+SUR01041,EMP00796,Manager Effectiveness,2025-03-02,Finance,L6,Austin,1.23,3.01,4.05,4.66,1.09,1.85,-100,Yes,Recognition,Neutral,Email
+SUR01042,EMP01070,DEI,2026-03-23,IT,L1,Denver,3.98,4.37,1.45,2.95,2.4,2.83,-13,Yes,Management,Neutral,QR Code
+SUR01043,EMP00970,Wellbeing,2022-12-27,Engineering,L3,Denver,1.38,2.57,1.64,1.58,3.55,3.06,-28,Yes,Recognition,Neutral,QR Code
+SUR01044,EMP01102,Wellbeing,2025-11-18,Data Science,L5,Atlanta,4.14,1.66,1.57,1.01,4.38,4.78,24,Yes,Career Growth,Positive,QR Code
+SUR01045,EMP00696,Pulse,2022-08-06,Product,L4,Seattle,1.35,2.17,1.57,4.86,4.44,2.88,75,Neutral,Autonomy,Neutral,Kiosk
+SUR01046,EMP00447,Engagement,2025-11-04,Finance,L3,Remote,2.47,1.06,3.24,1.2,1.58,3.47,-96,No,Tools & Technology,Neutral,QR Code
+SUR01047,EMP00401,Onboarding,2023-05-20,Finance,L2,Atlanta,3.75,3.37,1.81,3.52,1.15,4.13,-94,Neutral,Management,Neutral,Kiosk
+SUR01048,EMP00117,Wellbeing,2023-12-05,Sales,L3,Denver,3.66,2.77,1.6,1.79,1.02,2.18,25,Yes,Recognition,Positive,App
+SUR01049,EMP00356,Onboarding,2021-12-14,Operations,L3,Chicago,3.64,1.32,2.02,1.37,2.69,4.98,39,Yes,Tools & Technology,Neutral,Email
+SUR01050,EMP01008,Onboarding,2022-06-29,Data Science,L1,San Francisco,2.55,4.91,2.8,1.14,4.09,2.07,-58,Neutral,Work-Life Balance,Neutral,App
+SUR01051,EMP00419,Pulse,2025-03-27,IT,L6,Denver,3.47,4.62,1.11,4.67,4.05,4.81,-59,Neutral,Recognition,Negative,Kiosk
+SUR01052,EMP00889,Engagement,2021-10-07,Engineering,L7,Denver,2.14,2.11,2.64,4.77,2.92,2.04,42,No,Recognition,Positive,Kiosk
+SUR01053,EMP00098,DEI,2022-06-20,Operations,L1,San Francisco,3.6,4.99,4.77,1.99,4.94,4.86,48,Neutral,Management,Neutral,QR Code
+SUR01054,EMP00032,DEI,2024-03-31,Marketing,L5,Denver,1.48,1.58,2.38,2.34,4.33,2.0,35,Neutral,Management,Neutral,Kiosk
+SUR01055,EMP00289,Engagement,2022-05-20,Marketing,L6,Dallas,4.04,2.35,3.26,3.15,4.86,4.44,44,Neutral,Career Growth,Neutral,App
+SUR01056,EMP01086,Manager Effectiveness,2022-02-25,IT,L7,New York,4.4,2.36,1.06,2.73,1.88,1.06,71,Neutral,Compensation,Positive,App
+SUR01057,EMP01152,DEI,2022-08-16,Engineering,L1,Denver,3.55,2.86,2.61,1.57,3.75,1.26,65,Yes,Career Growth,Neutral,Email
+SUR01058,EMP01003,Engagement,2024-03-31,Product,L1,Remote,2.42,2.94,4.89,4.04,2.39,3.83,-94,No,Work-Life Balance,Neutral,App
+SUR01059,EMP01045,Exit,2025-06-24,Legal,L4,Chicago,3.21,2.22,1.47,3.77,3.53,3.98,-5,No,Autonomy,Neutral,Kiosk
+SUR01060,EMP00946,DEI,2021-12-01,IT,L4,Austin,3.95,1.91,3.86,1.87,4.85,4.79,25,Yes,Compensation,Negative,Email
+SUR01061,EMP01170,Wellbeing,2026-07-18,Engineering,L3,Denver,2.62,2.28,4.22,1.44,4.75,1.25,-41,No,Compensation,Positive,QR Code
+SUR01062,EMP00814,DEI,2024-08-28,HR,L2,Remote,4.12,2.78,4.24,3.19,3.56,3.99,-92,No,Work-Life Balance,Negative,Email
+SUR01063,EMP00965,Manager Effectiveness,2021-01-16,Marketing,L6,Seattle,1.74,1.95,4.0,2.77,3.92,1.86,-37,Neutral,Career Growth,Positive,App
+SUR01064,EMP00155,DEI,2022-06-23,HR,L3,San Francisco,1.75,4.44,2.93,1.48,2.75,3.25,5,Yes,Work-Life Balance,Positive,Kiosk
+SUR01065,EMP00945,Exit,2026-03-10,Marketing,L1,Atlanta,1.82,2.85,2.93,4.16,1.92,2.38,-70,No,Tools & Technology,Neutral,QR Code
+SUR01066,EMP00626,Exit,2026-01-23,HR,L1,San Francisco,4.11,3.05,2.31,1.7,2.61,2.89,85,Yes,Career Growth,Negative,Kiosk
+SUR01067,EMP00458,DEI,2022-02-03,Engineering,L1,Seattle,3.19,2.46,3.03,4.98,1.42,2.49,10,Yes,Career Growth,Negative,Kiosk
+SUR01068,EMP00141,DEI,2024-11-01,IT,L1,Austin,2.13,4.79,4.23,1.74,3.11,1.68,-84,No,Compensation,Neutral,QR Code
+SUR01069,EMP00070,Manager Effectiveness,2024-01-22,Product,L2,Denver,4.34,1.31,3.26,3.76,3.07,1.76,-66,Yes,Compensation,Negative,Email
+SUR01070,EMP00626,Onboarding,2021-01-14,Data Science,L2,New York,4.1,3.57,4.15,1.92,3.27,3.62,2,No,Autonomy,Neutral,Kiosk
+SUR01071,EMP01190,Pulse,2025-01-25,Product,L2,Dallas,3.76,2.63,4.24,1.81,1.94,3.91,66,Yes,Management,Negative,QR Code
+SUR01072,EMP01144,Engagement,2024-02-18,Sales,L3,Boston,4.59,3.64,1.74,3.75,3.14,1.14,-56,Yes,Compensation,Neutral,QR Code
+SUR01073,EMP00130,Exit,2021-04-16,Data Science,L2,Chicago,3.01,1.29,3.9,4.04,2.82,1.05,30,No,Culture,Negative,Email
+SUR01074,EMP00967,Pulse,2023-04-28,Design,L6,Seattle,3.12,1.28,2.35,1.12,3.35,2.67,37,Yes,Management,Negative,App
+SUR01075,EMP00910,DEI,2024-07-21,HR,L5,Dallas,2.32,3.54,1.89,4.03,1.23,3.22,-61,Yes,Autonomy,Negative,Email
+SUR01076,EMP00561,Exit,2024-03-17,Operations,L2,Remote,2.27,4.31,2.69,3.07,1.59,4.79,98,Yes,Career Growth,Neutral,App
+SUR01077,EMP00616,Manager Effectiveness,2023-11-14,Legal,L1,San Francisco,2.36,4.2,3.69,4.15,4.01,1.92,-87,Neutral,Recognition,Neutral,Email
+SUR01078,EMP00133,Wellbeing,2024-03-25,Finance,L4,Atlanta,1.15,1.34,3.82,1.31,1.6,4.55,-100,No,Culture,Neutral,Email
+SUR01079,EMP00325,Engagement,2026-07-15,Customer Success,L2,Denver,1.51,3.19,2.23,2.32,1.74,4.27,39,Neutral,Recognition,Negative,Email
+SUR01080,EMP00983,Pulse,2025-07-03,Marketing,L7,Atlanta,2.84,2.63,3.81,4.9,1.75,4.5,75,No,Work-Life Balance,Negative,App
+SUR01081,EMP00835,DEI,2024-03-11,IT,L1,Denver,2.44,2.9,1.3,2.65,3.2,3.58,6,No,Compensation,Negative,App
+SUR01082,EMP00975,Wellbeing,2025-09-05,Operations,L4,San Francisco,4.62,3.03,2.41,2.37,2.81,3.86,34,No,Management,Negative,Kiosk
+SUR01083,EMP00695,DEI,2022-04-24,Legal,L1,Dallas,4.89,4.72,3.05,3.79,2.76,2.25,44,Yes,Compensation,Negative,QR Code
+SUR01084,EMP00077,Onboarding,2021-09-25,Finance,L3,Boston,1.02,2.41,4.39,2.99,1.25,1.48,22,Neutral,Management,Negative,Kiosk
+SUR01085,EMP01138,DEI,2026-02-13,Sales,L4,San Francisco,3.89,4.85,2.75,2.64,4.06,3.36,-100,Yes,Career Growth,Neutral,App
+SUR01086,EMP01006,Onboarding,2021-07-04,Data Science,L2,Denver,3.44,4.29,4.75,3.05,2.5,2.28,-70,Yes,Recognition,Positive,QR Code
+SUR01087,EMP00007,Manager Effectiveness,2023-10-13,Design,L6,Dallas,1.83,4.16,3.71,1.94,3.49,1.13,73,No,Tools & Technology,Negative,Kiosk
+SUR01088,EMP00372,Onboarding,2026-01-21,Engineering,L1,Denver,2.49,2.46,2.28,2.21,2.51,3.54,42,Yes,Career Growth,Negative,QR Code
+SUR01089,EMP00007,Manager Effectiveness,2022-11-30,Legal,L1,Boston,4.96,2.92,3.09,3.5,4.83,2.14,-87,Neutral,Recognition,Positive,Email
+SUR01090,EMP00884,Exit,2025-08-23,Sales,L4,San Francisco,3.64,1.77,1.32,2.51,1.08,3.77,-25,No,Tools & Technology,Neutral,QR Code
+SUR01091,EMP00188,DEI,2021-06-23,Finance,L2,Chicago,4.04,4.58,4.27,4.47,4.9,2.31,-15,No,Culture,Neutral,Email
+SUR01092,EMP00788,DEI,2022-01-26,Finance,L7,Austin,2.67,2.49,1.94,3.1,1.63,3.52,55,Neutral,Recognition,Negative,QR Code
+SUR01093,EMP00773,Wellbeing,2021-04-13,Customer Success,L6,San Francisco,3.06,4.03,3.07,1.14,1.43,3.56,-51,No,Compensation,Neutral,QR Code
+SUR01094,EMP00533,Onboarding,2021-08-04,Marketing,L7,Denver,1.48,3.26,1.96,2.8,1.23,1.66,67,Neutral,Compensation,Positive,Kiosk
+SUR01095,EMP00603,Pulse,2026-04-17,Sales,L6,Austin,1.34,1.79,4.97,3.85,2.32,2.76,56,Neutral,Career Growth,Positive,QR Code
+SUR01096,EMP00380,Onboarding,2023-04-02,Legal,L7,Dallas,2.94,4.75,1.23,3.56,4.76,2.39,34,Yes,Autonomy,Negative,Email
+SUR01097,EMP00759,Engagement,2026-05-31,Engineering,L3,San Francisco,1.94,2.94,2.93,2.52,2.95,2.45,48,Neutral,Compensation,Negative,App
+SUR01098,EMP00272,Onboarding,2025-11-18,IT,L4,Atlanta,1.87,1.32,2.69,2.25,4.12,3.33,-70,Yes,Career Growth,Negative,Kiosk
+SUR01099,EMP00686,Onboarding,2024-10-04,Engineering,L2,Dallas,3.82,4.53,2.11,2.19,3.24,3.95,-65,No,Autonomy,Neutral,Kiosk
+SUR01100,EMP00248,Pulse,2024-10-14,Legal,L4,Atlanta,2.08,3.18,2.71,3.02,4.96,2.56,-98,Neutral,Autonomy,Negative,QR Code
+SUR01101,EMP00476,DEI,2026-02-13,Sales,L3,San Francisco,3.16,1.96,3.34,3.98,4.6,2.14,-87,Neutral,Culture,Neutral,Kiosk
+SUR01102,EMP00956,Onboarding,2022-01-17,Product,L1,Atlanta,1.55,2.2,2.37,1.6,3.24,1.25,54,No,Culture,Neutral,App
+SUR01103,EMP01126,Exit,2022-07-22,Engineering,L4,Boston,4.92,4.49,1.98,1.5,2.01,4.19,-39,No,Management,Negative,Email
+SUR01104,EMP00468,Onboarding,2023-04-28,Customer Success,L5,Remote,3.76,3.7,1.07,3.61,2.49,2.98,17,Yes,Autonomy,Neutral,Email
+SUR01105,EMP00218,Pulse,2024-03-25,Data Science,L6,Remote,1.86,4.21,3.51,4.94,2.57,4.79,56,No,Culture,Negative,QR Code
+SUR01106,EMP00502,Engagement,2025-04-12,Product,L7,Atlanta,1.27,2.61,2.63,3.92,3.94,4.4,5,Yes,Recognition,Positive,App
+SUR01107,EMP01151,Exit,2022-03-02,Customer Success,L1,Chicago,1.04,1.79,3.98,2.64,2.21,4.28,32,No,Culture,Positive,Kiosk
+SUR01108,EMP00825,Exit,2023-01-21,Finance,L5,Atlanta,2.81,4.11,1.9,2.19,4.86,4.21,-35,Neutral,Tools & Technology,Neutral,Email
+SUR01109,EMP00271,Engagement,2024-08-29,Product,L4,Austin,1.19,3.16,1.13,1.31,1.71,3.12,-37,No,Management,Negative,Email
+SUR01110,EMP00049,Manager Effectiveness,2024-10-12,IT,L2,New York,2.42,4.43,2.29,2.16,2.42,3.1,58,No,Career Growth,Positive,Email
+SUR01111,EMP00347,Pulse,2022-01-21,Sales,L7,Boston,1.53,2.2,4.8,4.57,1.49,2.25,16,No,Culture,Negative,App
+SUR01112,EMP00947,Exit,2023-11-26,Legal,L7,San Francisco,3.61,1.7,2.8,4.67,4.82,3.28,-50,Yes,Compensation,Positive,Kiosk
+SUR01113,EMP00893,Manager Effectiveness,2024-06-14,Finance,L2,New York,1.37,2.07,4.19,2.79,4.85,1.34,83,Neutral,Management,Negative,Kiosk
+SUR01114,EMP00109,Wellbeing,2023-04-29,Finance,L1,New York,1.86,3.14,1.25,3.6,4.51,2.95,-38,Neutral,Management,Negative,QR Code
+SUR01115,EMP00755,Manager Effectiveness,2021-10-15,HR,L3,Denver,2.48,4.57,2.45,2.72,1.25,4.27,-85,Yes,Culture,Negative,QR Code
+SUR01116,EMP00932,Wellbeing,2021-12-22,Legal,L3,Seattle,3.7,1.3,3.41,4.29,3.05,1.69,30,Neutral,Work-Life Balance,Neutral,App
+SUR01117,EMP00684,Pulse,2022-11-27,Data Science,L3,Austin,2.37,3.86,4.27,1.5,4.94,3.67,8,Neutral,Career Growth,Neutral,Email
+SUR01118,EMP00509,Manager Effectiveness,2026-05-15,Customer Success,L3,Atlanta,4.18,4.39,1.98,4.06,4.1,2.85,-31,Neutral,Work-Life Balance,Negative,Kiosk
+SUR01119,EMP00038,Onboarding,2024-12-02,Customer Success,L2,Seattle,1.21,2.38,4.74,4.08,2.67,2.41,-67,Yes,Recognition,Negative,Email
+SUR01120,EMP00883,Engagement,2021-07-16,IT,L7,Boston,4.09,2.82,3.56,1.62,1.95,1.0,-70,No,Culture,Neutral,Kiosk
+SUR01121,EMP00467,Manager Effectiveness,2024-05-05,Finance,L3,Austin,3.19,3.75,2.02,1.07,3.34,1.66,87,Yes,Work-Life Balance,Negative,Kiosk
+SUR01122,EMP00098,Exit,2024-02-22,Product,L2,New York,4.52,2.37,1.76,1.11,1.15,4.04,62,Neutral,Compensation,Positive,App
+SUR01123,EMP00796,Pulse,2021-02-21,Operations,L6,Boston,4.08,2.47,2.38,4.71,4.97,4.28,29,No,Autonomy,Neutral,QR Code
+SUR01124,EMP00707,Wellbeing,2026-03-08,Product,L5,Chicago,4.34,4.24,3.38,3.41,4.09,1.83,-93,Neutral,Tools & Technology,Positive,Kiosk
+SUR01125,EMP00912,DEI,2023-06-20,Customer Success,L2,Dallas,4.76,1.06,4.39,2.36,1.72,4.48,30,Yes,Autonomy,Negative,App
+SUR01126,EMP00025,Wellbeing,2025-10-15,Sales,L5,Remote,3.25,4.25,3.52,3.35,4.07,3.09,3,Neutral,Career Growth,Neutral,Kiosk
+SUR01127,EMP00700,Manager Effectiveness,2023-05-10,Marketing,L6,Boston,3.72,2.51,2.87,4.58,4.65,2.79,36,Neutral,Autonomy,Neutral,QR Code
+SUR01128,EMP00673,Engagement,2025-06-16,IT,L5,New York,3.66,1.14,2.37,4.93,4.63,1.18,2,Neutral,Career Growth,Neutral,Kiosk
+SUR01129,EMP00427,DEI,2021-02-12,Data Science,L4,Seattle,4.68,2.01,4.98,1.76,1.67,1.6,61,No,Culture,Positive,QR Code
+SUR01130,EMP00483,Wellbeing,2021-07-27,IT,L4,San Francisco,4.64,3.61,4.0,1.0,1.27,1.23,-50,No,Autonomy,Positive,Email
+SUR01131,EMP00809,DEI,2025-07-08,Data Science,L3,Austin,4.57,1.33,3.55,4.93,2.66,2.68,23,Yes,Career Growth,Neutral,App
+SUR01132,EMP00710,Pulse,2023-06-27,Operations,L4,Boston,1.54,3.8,1.1,1.99,4.81,4.6,95,Yes,Career Growth,Negative,Email
+SUR01133,EMP00155,Wellbeing,2023-03-03,Sales,L6,Dallas,1.88,1.36,1.63,3.27,1.19,4.36,26,No,Work-Life Balance,Negative,QR Code
+SUR01134,EMP00774,Wellbeing,2024-11-25,Finance,L2,New York,3.2,1.1,2.19,3.22,3.65,1.39,25,Yes,Compensation,Positive,Kiosk
+SUR01135,EMP00783,Manager Effectiveness,2025-02-23,Finance,L3,Atlanta,1.46,2.52,4.16,1.25,2.82,3.58,25,No,Management,Positive,Kiosk
+SUR01136,EMP00251,DEI,2021-08-30,Engineering,L1,Atlanta,1.64,3.43,3.02,2.03,3.48,4.78,36,Neutral,Career Growth,Negative,Email
+SUR01137,EMP00195,Exit,2021-05-05,Design,L3,Denver,2.09,3.55,3.71,3.96,3.16,2.48,93,No,Autonomy,Negative,Email
+SUR01138,EMP00462,Manager Effectiveness,2025-02-07,HR,L4,Atlanta,4.48,2.28,3.36,3.91,2.12,2.96,54,Yes,Career Growth,Negative,App
+SUR01139,EMP00990,DEI,2022-08-02,Customer Success,L6,Denver,2.26,1.87,1.17,1.02,2.26,1.86,-33,Yes,Career Growth,Neutral,App
+SUR01140,EMP00054,Manager Effectiveness,2023-08-07,Engineering,L1,New York,1.62,4.81,2.87,2.35,2.79,1.81,81,Neutral,Recognition,Neutral,Email
+SUR01141,EMP00870,Pulse,2023-12-20,Marketing,L3,San Francisco,1.42,4.42,1.56,4.94,1.81,1.77,-11,Neutral,Management,Positive,QR Code
+SUR01142,EMP00359,Exit,2026-05-14,HR,L6,Chicago,4.46,3.18,4.63,4.13,3.99,2.03,63,Neutral,Career Growth,Negative,QR Code
+SUR01143,EMP00162,Engagement,2021-12-07,Operations,L5,New York,2.21,3.81,1.93,2.59,2.27,4.32,18,No,Management,Positive,Email
+SUR01144,EMP00274,Exit,2021-08-08,Design,L4,Dallas,1.42,3.26,4.6,4.86,4.4,4.49,6,No,Compensation,Neutral,App
+SUR01145,EMP00175,Onboarding,2021-11-08,Legal,L4,Chicago,4.31,2.81,1.29,2.81,1.03,2.58,5,Neutral,Recognition,Neutral,QR Code
+SUR01146,EMP00630,Engagement,2022-08-19,Product,L2,Boston,4.5,4.36,2.71,3.28,1.77,2.87,-53,No,Management,Neutral,QR Code
+SUR01147,EMP00910,Exit,2024-01-08,IT,L7,Remote,3.56,2.97,2.93,4.01,3.72,3.29,-78,No,Recognition,Positive,App
+SUR01148,EMP00330,Wellbeing,2024-08-25,HR,L6,Atlanta,3.96,1.12,2.06,3.9,4.53,2.41,65,Yes,Autonomy,Negative,Email
+SUR01149,EMP00720,Wellbeing,2025-04-22,Sales,L5,Remote,4.78,3.91,3.52,1.89,1.89,3.6,24,No,Management,Neutral,QR Code
+SUR01150,EMP00155,Wellbeing,2021-07-07,Operations,L6,Remote,4.91,2.38,3.74,4.43,1.92,4.11,98,No,Work-Life Balance,Neutral,App
+SUR01151,EMP01188,Wellbeing,2026-06-15,Engineering,L4,Austin,3.19,4.06,1.35,3.88,3.92,2.59,69,Yes,Career Growth,Negative,Email
+SUR01152,EMP00720,Engagement,2024-08-01,Customer Success,L2,Seattle,4.72,2.1,3.27,2.63,2.29,3.11,77,Neutral,Autonomy,Neutral,App
+SUR01153,EMP00583,Exit,2021-10-24,Finance,L6,Seattle,1.38,2.7,2.55,1.38,3.15,3.98,-39,Yes,Recognition,Neutral,QR Code
+SUR01154,EMP00618,Pulse,2024-05-19,Data Science,L2,Austin,2.56,1.95,2.21,2.93,3.42,4.8,-56,Neutral,Tools & Technology,Positive,QR Code
+SUR01155,EMP00346,DEI,2024-12-24,IT,L1,Dallas,2.25,2.06,4.16,2.51,2.75,4.62,-43,Yes,Management,Neutral,Email
+SUR01156,EMP00268,Wellbeing,2025-04-23,Customer Success,L4,Denver,4.93,1.89,1.03,4.19,3.49,4.9,90,No,Culture,Neutral,QR Code
+SUR01157,EMP00699,Wellbeing,2022-01-08,Marketing,L3,Denver,4.38,2.6,4.19,4.76,1.46,3.37,-83,No,Tools & Technology,Positive,QR Code
+SUR01158,EMP00214,Pulse,2023-01-31,Design,L6,Austin,3.52,2.19,2.04,2.82,3.85,4.34,-99,Neutral,Career Growth,Neutral,QR Code
+SUR01159,EMP00533,Wellbeing,2022-11-13,Design,L5,New York,2.94,2.68,3.14,3.07,1.46,3.18,-37,Yes,Management,Neutral,QR Code
+SUR01160,EMP00096,Exit,2024-01-03,HR,L2,Boston,3.43,3.16,3.55,4.49,1.51,2.02,-68,No,Work-Life Balance,Neutral,Email
+SUR01161,EMP00388,Onboarding,2025-07-11,HR,L3,San Francisco,2.95,3.8,2.41,2.63,4.23,1.39,65,Neutral,Work-Life Balance,Positive,Email
+SUR01162,EMP00600,Wellbeing,2025-05-08,Product,L7,Chicago,3.27,3.64,4.55,3.52,4.31,3.03,66,Yes,Tools & Technology,Negative,Kiosk
+SUR01163,EMP00577,DEI,2026-07-07,Design,L1,San Francisco,1.54,2.9,1.54,2.77,2.96,1.42,-18,No,Tools & Technology,Positive,Email
+SUR01164,EMP00197,Wellbeing,2023-07-13,Finance,L3,Atlanta,3.28,4.78,1.06,3.1,3.63,1.12,93,Neutral,Management,Positive,Email
+SUR01165,EMP00825,Onboarding,2025-08-23,Sales,L5,Remote,4.06,2.3,4.0,1.13,3.78,1.98,7,No,Tools & Technology,Positive,QR Code
+SUR01166,EMP00654,DEI,2023-07-17,Marketing,L5,New York,4.72,1.95,4.51,2.28,1.71,2.66,-97,Neutral,Career Growth,Neutral,Email
+SUR01167,EMP00247,Manager Effectiveness,2023-12-13,Customer Success,L5,New York,1.03,1.99,1.0,4.71,2.82,1.62,1,Neutral,Autonomy,Negative,App
+SUR01168,EMP00317,Engagement,2026-02-04,HR,L1,Atlanta,1.28,4.94,3.17,4.6,2.7,3.95,-58,Yes,Autonomy,Neutral,QR Code
+SUR01169,EMP00343,Engagement,2023-01-21,Finance,L1,Boston,4.4,3.79,4.9,4.97,1.24,1.01,99,Neutral,Management,Neutral,App
+SUR01170,EMP00342,Manager Effectiveness,2025-08-10,Design,L5,Seattle,4.4,4.73,3.65,2.64,2.33,4.08,-40,No,Management,Negative,QR Code
+SUR01171,EMP00411,DEI,2024-04-08,Data Science,L7,Dallas,2.95,3.62,3.46,2.4,1.35,3.44,97,Neutral,Compensation,Positive,Kiosk
+SUR01172,EMP00744,Manager Effectiveness,2023-12-11,Customer Success,L3,Atlanta,4.38,1.59,3.06,1.88,2.6,1.86,32,Neutral,Work-Life Balance,Neutral,Email
+SUR01173,EMP00055,Onboarding,2022-10-20,Customer Success,L4,Boston,1.83,3.79,1.6,2.64,2.09,3.34,71,Yes,Culture,Positive,QR Code
+SUR01174,EMP00959,DEI,2022-11-03,Data Science,L6,Austin,3.61,1.75,3.38,4.67,3.46,3.92,-76,No,Tools & Technology,Neutral,Email
+SUR01175,EMP00146,DEI,2026-05-05,IT,L1,Atlanta,3.51,3.05,2.35,3.06,3.14,2.93,50,No,Career Growth,Positive,App
+SUR01176,EMP00862,Pulse,2024-02-06,Customer Success,L4,Boston,3.94,4.36,4.92,2.97,1.74,1.09,-86,Neutral,Career Growth,Neutral,QR Code
+SUR01177,EMP00043,Engagement,2024-03-13,Product,L3,Chicago,4.86,3.63,4.98,2.79,3.74,3.63,57,Yes,Tools & Technology,Neutral,Kiosk
+SUR01178,EMP00864,DEI,2021-02-20,Design,L6,Dallas,2.07,4.27,3.92,1.01,2.36,3.61,-72,Yes,Compensation,Neutral,App
+SUR01179,EMP00560,Wellbeing,2022-01-19,Finance,L5,Seattle,4.14,3.71,1.02,4.89,2.38,3.29,-90,No,Autonomy,Positive,Kiosk
+SUR01180,EMP00552,Manager Effectiveness,2023-05-21,Engineering,L5,Boston,4.24,2.89,2.94,1.64,2.15,2.92,-27,No,Recognition,Positive,Email
+SUR01181,EMP01089,Pulse,2022-11-14,Product,L2,Dallas,3.41,4.78,1.38,4.14,1.23,3.86,6,Yes,Culture,Negative,QR Code
+SUR01182,EMP00630,Wellbeing,2025-04-27,Data Science,L1,Dallas,1.06,2.06,4.1,1.18,1.62,1.78,-20,Neutral,Autonomy,Neutral,QR Code
+SUR01183,EMP00511,Pulse,2026-07-09,Legal,L5,Austin,4.72,4.4,2.51,4.83,2.44,2.43,-65,No,Recognition,Negative,Kiosk
+SUR01184,EMP00787,DEI,2023-01-08,Engineering,L6,Denver,4.05,2.07,4.87,2.91,1.67,2.6,30,No,Work-Life Balance,Positive,Email
+SUR01185,EMP00106,Engagement,2021-12-26,Operations,L3,Seattle,2.62,2.06,4.39,1.95,2.78,3.04,-66,Neutral,Culture,Negative,Kiosk
+SUR01186,EMP00590,Exit,2021-01-13,Finance,L7,San Francisco,3.76,2.25,1.14,3.67,2.54,4.06,23,Yes,Recognition,Negative,Kiosk
+SUR01187,EMP00217,Manager Effectiveness,2021-05-15,Customer Success,L1,Remote,2.58,1.48,3.14,2.76,4.5,3.62,-11,No,Culture,Positive,App
+SUR01188,EMP01178,DEI,2026-04-08,Sales,L6,Chicago,1.98,4.72,1.61,1.31,3.67,2.84,18,Neutral,Work-Life Balance,Positive,Email
+SUR01189,EMP00222,Wellbeing,2024-11-21,Legal,L4,Atlanta,2.18,4.27,2.52,4.32,3.18,4.89,51,Neutral,Tools & Technology,Negative,App
+SUR01190,EMP00899,Engagement,2026-07-31,Finance,L2,Denver,3.29,2.09,2.01,3.42,4.88,2.22,22,No,Compensation,Negative,QR Code
+SUR01191,EMP00167,Exit,2024-07-18,Design,L1,Dallas,3.66,4.22,2.53,4.87,2.27,3.7,38,No,Compensation,Positive,QR Code
+SUR01192,EMP00652,Pulse,2025-01-26,Sales,L6,Atlanta,4.35,3.94,3.56,1.11,2.29,3.65,-66,No,Career Growth,Neutral,Kiosk
+SUR01193,EMP01004,Onboarding,2021-05-08,Marketing,L6,Dallas,4.01,2.21,2.34,2.47,4.05,4.77,8,Neutral,Tools & Technology,Neutral,Email
+SUR01194,EMP00350,Exit,2023-11-23,Sales,L2,New York,2.98,1.97,4.47,1.44,3.08,3.76,-11,Neutral,Culture,Positive,App
+SUR01195,EMP00484,Manager Effectiveness,2025-03-03,Finance,L3,Remote,3.87,1.81,4.24,3.77,1.22,4.0,-27,No,Tools & Technology,Neutral,Email
+SUR01196,EMP00209,Manager Effectiveness,2023-02-24,Marketing,L7,Atlanta,2.08,1.83,1.41,4.13,3.39,3.06,5,Yes,Management,Neutral,Email
+SUR01197,EMP00316,Pulse,2021-07-24,Product,L3,New York,1.52,3.97,1.18,2.52,4.12,4.41,-1,Yes,Culture,Neutral,App
+SUR01198,EMP00426,Onboarding,2024-10-24,Legal,L1,Austin,3.6,4.87,3.99,4.88,1.83,3.9,1,No,Work-Life Balance,Negative,QR Code
+SUR01199,EMP00368,DEI,2025-07-07,Customer Success,L6,Atlanta,1.15,1.68,1.6,2.44,3.89,1.35,73,Neutral,Compensation,Neutral,Email
+SUR01200,EMP00973,Pulse,2024-08-23,HR,L6,Denver,4.69,2.46,2.05,3.98,3.64,3.14,-57,No,Career Growth,Negative,App
+SUR01201,EMP00504,Onboarding,2022-08-12,Data Science,L4,Austin,4.51,2.03,4.57,4.71,4.73,4.21,-40,Yes,Recognition,Positive,Email
+SUR01202,EMP00463,DEI,2021-02-04,Engineering,L3,Boston,3.62,4.65,1.54,2.46,3.54,1.79,-87,Neutral,Autonomy,Positive,Kiosk
+SUR01203,EMP00858,DEI,2025-06-16,Data Science,L2,Chicago,2.34,4.8,2.61,3.04,3.36,1.25,97,Yes,Culture,Positive,QR Code
+SUR01204,EMP00609,DEI,2025-06-07,Legal,L5,Dallas,1.17,4.5,3.87,2.95,4.84,4.3,-49,Neutral,Career Growth,Neutral,App
+SUR01205,EMP00832,Wellbeing,2023-03-07,Engineering,L5,Seattle,1.04,2.01,4.54,2.48,1.41,4.23,-97,No,Recognition,Negative,QR Code
+SUR01206,EMP00711,Manager Effectiveness,2022-10-24,Customer Success,L5,Remote,3.54,3.99,3.58,2.29,4.73,4.47,27,Neutral,Management,Positive,App
+SUR01207,EMP00347,Onboarding,2022-01-08,Engineering,L3,Chicago,1.07,2.6,3.76,3.3,4.47,4.31,44,No,Work-Life Balance,Negative,App
+SUR01208,EMP00782,Manager Effectiveness,2022-05-11,Operations,L5,San Francisco,4.05,4.19,1.36,2.2,3.87,4.33,-61,Neutral,Recognition,Positive,App
+SUR01209,EMP00296,Pulse,2021-11-20,Customer Success,L4,San Francisco,2.08,3.86,1.53,2.15,2.32,1.55,-34,Neutral,Management,Positive,Kiosk
+SUR01210,EMP00492,Engagement,2021-11-01,HR,L6,Austin,4.1,1.22,1.11,1.76,2.79,4.75,-57,Neutral,Management,Neutral,App
+SUR01211,EMP00682,Engagement,2024-08-05,IT,L7,Atlanta,3.27,3.86,1.93,1.92,1.65,2.29,-3,Yes,Autonomy,Neutral,App
+SUR01212,EMP00575,Wellbeing,2024-11-27,Customer Success,L3,Denver,3.94,4.2,2.14,4.6,3.15,4.87,52,No,Autonomy,Negative,Kiosk
+SUR01213,EMP00442,Exit,2021-05-22,Finance,L1,Dallas,1.76,3.57,1.16,1.22,1.98,4.72,-4,Yes,Management,Neutral,App
+SUR01214,EMP00250,Wellbeing,2026-06-09,Operations,L4,Atlanta,4.36,1.66,1.28,3.98,4.66,1.79,-53,Neutral,Management,Neutral,Kiosk
+SUR01215,EMP01117,DEI,2023-08-22,Design,L4,Atlanta,1.78,3.91,1.73,2.2,4.79,1.62,-29,No,Management,Negative,App
+SUR01216,EMP00340,Pulse,2026-07-24,Marketing,L5,Chicago,1.79,3.88,1.33,3.0,4.71,1.71,-59,Yes,Tools & Technology,Negative,Email
+SUR01217,EMP00789,Pulse,2023-09-21,Data Science,L1,Remote,4.45,2.17,4.95,4.41,4.51,3.75,-29,No,Work-Life Balance,Positive,Kiosk
+SUR01218,EMP00694,Pulse,2022-01-15,IT,L2,Seattle,4.24,2.55,3.7,3.09,4.3,3.27,47,Neutral,Compensation,Negative,Kiosk
+SUR01219,EMP00071,Onboarding,2023-04-30,Marketing,L6,Remote,3.77,1.79,4.82,2.11,2.41,1.79,-13,Neutral,Compensation,Positive,QR Code
+SUR01220,EMP01042,Wellbeing,2026-04-16,IT,L3,Remote,1.32,4.62,4.7,1.09,1.97,1.13,63,Neutral,Culture,Neutral,QR Code
+SUR01221,EMP00741,DEI,2022-12-09,Engineering,L5,Austin,2.38,4.64,1.52,1.73,3.79,1.76,-99,No,Career Growth,Negative,QR Code
+SUR01222,EMP00144,DEI,2023-06-12,IT,L7,Seattle,3.01,2.19,3.73,2.14,3.88,4.01,-57,Neutral,Work-Life Balance,Neutral,App
+SUR01223,EMP00752,Wellbeing,2023-02-19,Operations,L1,Dallas,3.55,2.52,1.55,4.35,2.83,4.75,69,Yes,Management,Neutral,App
+SUR01224,EMP00756,Manager Effectiveness,2025-07-01,Data Science,L6,Seattle,4.57,1.41,1.44,3.67,4.57,4.5,-10,Neutral,Recognition,Positive,Kiosk
+SUR01225,EMP00147,Pulse,2023-05-16,Data Science,L4,Atlanta,2.68,3.58,1.1,3.59,3.28,2.06,-88,Neutral,Tools & Technology,Negative,QR Code
+SUR01226,EMP00619,Exit,2021-03-14,HR,L2,Denver,4.29,1.68,2.16,4.06,4.04,4.91,-61,Yes,Recognition,Neutral,Kiosk
+SUR01227,EMP00461,Pulse,2026-06-27,Legal,L6,San Francisco,2.18,1.88,4.47,3.78,4.62,4.36,-47,No,Work-Life Balance,Neutral,App
+SUR01228,EMP00546,Pulse,2025-06-16,Sales,L1,Remote,1.26,3.7,4.74,3.13,3.6,1.12,88,No,Compensation,Negative,Email
+SUR01229,EMP00382,Pulse,2026-07-24,Operations,L2,Denver,2.1,2.78,2.75,2.85,2.74,3.6,71,No,Culture,Neutral,App
+SUR01230,EMP01037,Exit,2024-07-08,HR,L1,Atlanta,4.93,3.95,2.84,1.32,1.16,1.28,-91,Yes,Management,Neutral,Kiosk
+SUR01231,EMP01073,Manager Effectiveness,2021-01-19,Operations,L4,Remote,3.56,4.77,1.42,3.96,2.93,3.87,67,Yes,Career Growth,Neutral,Kiosk
+SUR01232,EMP01197,Engagement,2025-08-20,Engineering,L6,New York,2.76,3.79,3.75,3.93,4.22,4.67,-56,Yes,Culture,Negative,App
+SUR01233,EMP00034,Wellbeing,2026-05-16,Legal,L3,New York,4.55,1.34,1.29,2.83,3.68,2.1,-48,Yes,Career Growth,Neutral,Kiosk
+SUR01234,EMP00020,Pulse,2021-06-30,Operations,L6,Dallas,3.05,3.2,1.16,2.66,4.08,2.78,-9,Neutral,Work-Life Balance,Neutral,Email
+SUR01235,EMP00543,DEI,2022-04-12,Operations,L1,Boston,2.61,3.27,1.48,3.88,4.73,2.9,75,Yes,Work-Life Balance,Neutral,App
+SUR01236,EMP01106,Exit,2021-08-24,Sales,L3,San Francisco,1.47,4.63,2.74,4.46,2.88,1.38,-47,No,Compensation,Neutral,Email
+SUR01237,EMP00074,Exit,2021-08-04,Data Science,L7,Denver,4.85,1.04,2.02,3.79,3.0,4.79,-11,Yes,Work-Life Balance,Negative,Email
+SUR01238,EMP01018,Pulse,2023-10-20,Sales,L2,Austin,1.03,1.58,3.93,3.18,4.95,2.28,85,Neutral,Management,Neutral,Email
+SUR01239,EMP01124,DEI,2023-06-14,Design,L7,New York,3.96,2.71,3.37,2.27,4.78,4.25,4,Yes,Work-Life Balance,Negative,Email
+SUR01240,EMP01193,Wellbeing,2024-09-03,IT,L5,Chicago,4.13,4.33,3.36,1.39,4.09,4.35,97,Yes,Career Growth,Negative,Email
+SUR01241,EMP00338,Manager Effectiveness,2025-01-12,IT,L4,San Francisco,4.98,3.35,3.65,4.38,3.57,3.07,14,No,Work-Life Balance,Neutral,Kiosk
+SUR01242,EMP00308,Manager Effectiveness,2022-12-30,Finance,L6,Chicago,2.19,2.32,1.18,2.62,2.04,1.69,-38,Neutral,Recognition,Negative,QR Code
+SUR01243,EMP00896,Onboarding,2024-01-29,Sales,L1,New York,2.34,4.81,1.68,3.56,1.54,4.51,-63,No,Compensation,Positive,QR Code
+SUR01244,EMP01010,Exit,2023-10-17,IT,L5,Chicago,3.65,2.82,3.03,1.05,1.01,3.76,-66,No,Career Growth,Negative,App
+SUR01245,EMP00735,Engagement,2025-01-06,Design,L7,Chicago,1.76,4.05,4.97,2.82,1.71,3.25,71,Yes,Recognition,Neutral,Email
+SUR01246,EMP00794,Wellbeing,2021-12-02,Engineering,L1,Atlanta,4.31,4.67,3.36,4.87,3.93,3.72,-3,Neutral,Recognition,Positive,QR Code
+SUR01247,EMP00867,Manager Effectiveness,2021-08-15,Sales,L7,New York,3.22,1.01,1.96,1.11,3.27,3.63,71,No,Recognition,Neutral,App
+SUR01248,EMP00844,Engagement,2025-05-06,Customer Success,L4,Chicago,4.55,1.83,4.26,3.38,4.88,1.18,0,Neutral,Recognition,Negative,QR Code
+SUR01249,EMP00877,Engagement,2025-06-11,Design,L3,Boston,1.08,3.58,3.59,2.36,4.69,3.72,-87,Neutral,Compensation,Positive,QR Code
+SUR01250,EMP00383,Onboarding,2021-04-09,Design,L6,Remote,4.05,4.32,2.41,4.9,2.48,2.72,-25,No,Work-Life Balance,Negative,Kiosk
+SUR01251,EMP00139,Manager Effectiveness,2021-09-17,Finance,L2,Denver,1.26,1.19,1.05,1.72,3.54,4.81,56,Yes,Autonomy,Neutral,Email
+SUR01252,EMP01191,Engagement,2025-04-11,Data Science,L5,San Francisco,3.97,4.6,3.45,3.15,2.65,3.09,56,Yes,Compensation,Positive,Email
+SUR01253,EMP00922,Exit,2022-07-26,IT,L7,San Francisco,4.9,4.07,2.74,2.33,1.09,3.77,70,Yes,Culture,Positive,QR Code
+SUR01254,EMP00695,Wellbeing,2025-11-19,HR,L6,San Francisco,2.33,2.78,3.58,3.66,1.53,1.71,-18,Yes,Compensation,Negative,QR Code
+SUR01255,EMP00074,Pulse,2026-04-24,IT,L1,Chicago,2.7,2.16,2.72,4.4,4.53,2.89,-6,Yes,Tools & Technology,Positive,Kiosk
+SUR01256,EMP00509,Onboarding,2024-09-16,Design,L4,Seattle,1.81,4.74,2.99,3.07,1.68,2.83,-89,Neutral,Career Growth,Positive,QR Code
+SUR01257,EMP01106,Engagement,2025-10-20,Engineering,L1,New York,2.0,1.57,4.46,3.01,4.39,2.03,-76,No,Career Growth,Negative,Email
+SUR01258,EMP01182,Exit,2022-12-13,Product,L6,Dallas,3.14,4.19,1.46,2.6,1.34,1.07,1,No,Culture,Neutral,Email
+SUR01259,EMP00575,Pulse,2025-05-25,IT,L3,Denver,3.87,2.74,3.59,1.5,1.68,2.86,13,Yes,Recognition,Positive,Email
+SUR01260,EMP00698,Onboarding,2025-05-18,Data Science,L7,New York,1.68,2.53,3.98,1.72,3.6,4.41,5,No,Tools & Technology,Negative,App
+SUR01261,EMP00187,Wellbeing,2023-12-23,IT,L3,Denver,3.16,4.23,4.61,4.49,3.5,4.59,-51,Neutral,Autonomy,Neutral,Kiosk
+SUR01262,EMP00390,DEI,2026-05-28,Sales,L5,New York,1.7,3.16,3.23,2.64,4.14,2.21,-35,Yes,Compensation,Negative,QR Code
+SUR01263,EMP00475,Exit,2025-04-29,Data Science,L6,New York,3.48,4.38,3.05,2.75,1.89,3.95,54,No,Autonomy,Neutral,App
+SUR01264,EMP00215,DEI,2025-01-04,HR,L6,Seattle,1.72,3.29,1.05,2.14,3.37,3.57,37,No,Management,Positive,Kiosk
+SUR01265,EMP00819,Wellbeing,2026-05-01,Data Science,L1,Boston,1.28,4.91,4.84,1.45,4.26,2.97,88,Yes,Recognition,Positive,Email
+SUR01266,EMP00041,Exit,2026-04-21,Legal,L7,Boston,3.02,3.49,3.01,1.64,2.24,3.94,7,No,Management,Negative,App
+SUR01267,EMP01141,Manager Effectiveness,2022-11-07,Finance,L6,New York,3.51,2.2,2.18,2.35,3.76,4.53,40,No,Compensation,Negative,App
+SUR01268,EMP00520,Exit,2026-07-01,Legal,L5,New York,3.09,5.0,2.18,3.12,4.99,1.55,82,No,Tools & Technology,Positive,App
+SUR01269,EMP01139,Wellbeing,2026-01-02,HR,L7,San Francisco,2.38,4.74,1.09,1.07,4.57,4.19,-74,Neutral,Career Growth,Neutral,QR Code
+SUR01270,EMP01058,Exit,2026-04-17,Engineering,L1,Boston,1.25,3.84,3.55,1.9,4.85,4.72,-30,No,Work-Life Balance,Positive,App
+SUR01271,EMP00516,Onboarding,2022-07-14,Sales,L5,Chicago,1.8,2.98,3.08,2.22,2.97,4.62,-22,Yes,Tools & Technology,Positive,QR Code
+SUR01272,EMP00632,Pulse,2023-12-14,Marketing,L1,Chicago,3.38,4.3,1.24,3.84,1.22,3.03,14,No,Tools & Technology,Neutral,Email
+SUR01273,EMP00071,Manager Effectiveness,2022-10-20,HR,L6,Boston,2.94,4.63,3.55,4.57,2.54,1.24,-44,No,Autonomy,Positive,App
+SUR01274,EMP00797,Engagement,2022-07-06,Marketing,L3,Atlanta,2.12,4.98,4.06,1.37,2.74,1.9,57,No,Recognition,Neutral,Email
+SUR01275,EMP00564,DEI,2025-12-10,Design,L2,Seattle,3.61,2.67,3.18,1.3,3.11,3.78,74,No,Autonomy,Neutral,App
+SUR01276,EMP00124,Manager Effectiveness,2023-03-04,Sales,L3,Denver,1.12,2.97,2.02,1.34,2.51,1.1,85,Yes,Career Growth,Negative,App
+SUR01277,EMP00671,Exit,2024-10-17,Customer Success,L7,Chicago,4.62,3.71,4.71,3.62,2.71,1.51,33,Yes,Autonomy,Neutral,QR Code
+SUR01278,EMP00784,Onboarding,2022-06-18,Engineering,L2,Chicago,2.19,4.99,4.05,2.13,1.46,1.77,-31,Neutral,Career Growth,Positive,App
+SUR01279,EMP00857,Manager Effectiveness,2022-12-31,Data Science,L7,Denver,4.86,1.72,1.89,3.67,2.91,2.55,16,No,Culture,Neutral,Kiosk
+SUR01280,EMP00029,Pulse,2025-05-15,Finance,L5,Dallas,4.02,4.88,1.99,2.8,3.48,2.32,2,Neutral,Culture,Negative,App
+SUR01281,EMP00372,Wellbeing,2021-04-11,IT,L3,Atlanta,1.13,2.03,2.04,4.46,2.43,4.51,78,Yes,Career Growth,Positive,QR Code
+SUR01282,EMP00789,Manager Effectiveness,2024-11-16,IT,L2,Atlanta,1.25,4.43,3.05,2.32,3.89,4.46,32,No,Work-Life Balance,Neutral,App
+SUR01283,EMP00556,Wellbeing,2026-06-15,Data Science,L7,Seattle,1.9,1.53,3.33,3.76,2.86,3.87,40,No,Culture,Neutral,App
+SUR01284,EMP00575,Engagement,2021-11-16,IT,L7,Seattle,4.28,3.14,1.03,3.8,3.06,2.54,85,Neutral,Career Growth,Negative,QR Code
+SUR01285,EMP00821,Pulse,2025-12-25,Finance,L6,Austin,2.95,2.23,4.22,1.41,2.4,3.2,-51,No,Work-Life Balance,Neutral,QR Code
+SUR01286,EMP00252,Manager Effectiveness,2025-12-14,Legal,L2,San Francisco,3.96,1.85,4.73,4.38,1.94,3.11,26,Yes,Work-Life Balance,Neutral,Email
+SUR01287,EMP00442,Engagement,2024-03-11,Design,L7,San Francisco,2.59,2.66,4.1,1.48,1.68,3.99,69,No,Recognition,Neutral,QR Code
+SUR01288,EMP00353,Wellbeing,2021-06-05,Customer Success,L2,Austin,2.25,3.28,3.52,1.73,2.03,2.62,41,No,Autonomy,Positive,QR Code
+SUR01289,EMP00210,Exit,2025-09-21,Product,L1,Seattle,3.08,3.28,2.84,1.56,2.82,2.48,-56,Yes,Tools & Technology,Positive,Email
+SUR01290,EMP00054,Manager Effectiveness,2024-06-24,HR,L3,San Francisco,1.89,2.77,2.0,2.08,4.98,2.91,93,Yes,Work-Life Balance,Neutral,Kiosk
+SUR01291,EMP01061,Pulse,2025-10-23,Marketing,L1,Dallas,1.45,3.26,1.34,1.37,3.41,1.01,-94,No,Autonomy,Neutral,QR Code
+SUR01292,EMP00405,Manager Effectiveness,2025-11-18,Sales,L2,San Francisco,4.17,2.56,4.45,2.25,3.21,1.77,-25,Yes,Tools & Technology,Neutral,Email
+SUR01293,EMP00457,Onboarding,2022-05-17,HR,L6,Austin,4.26,1.35,1.4,2.35,2.2,2.61,-17,Neutral,Work-Life Balance,Neutral,Kiosk
+SUR01294,EMP01170,Manager Effectiveness,2025-10-12,Product,L4,New York,1.93,3.81,2.92,2.44,3.13,3.9,-6,Neutral,Compensation,Positive,Email
+SUR01295,EMP00138,Onboarding,2025-06-30,HR,L3,Seattle,2.48,4.22,4.46,4.14,4.5,3.46,31,Neutral,Compensation,Neutral,QR Code
+SUR01296,EMP00482,Exit,2024-07-19,Finance,L6,Seattle,3.88,4.59,3.03,1.47,3.65,4.72,-51,Yes,Recognition,Neutral,App
+SUR01297,EMP01157,Pulse,2024-07-21,Engineering,L4,New York,2.1,4.47,3.32,1.59,3.44,1.56,-81,Yes,Management,Neutral,QR Code
+SUR01298,EMP00538,Pulse,2024-08-08,Data Science,L3,New York,2.72,3.65,3.17,1.68,3.3,3.95,28,No,Management,Positive,Email
+SUR01299,EMP00284,Engagement,2022-03-18,Customer Success,L2,Remote,3.46,1.77,4.03,4.89,4.52,4.67,-74,No,Career Growth,Negative,Kiosk
+SUR01300,EMP00716,Onboarding,2023-10-01,Legal,L1,Denver,3.24,4.01,3.89,4.91,3.05,4.8,-91,No,Career Growth,Positive,Kiosk
+SUR01301,EMP00554,Manager Effectiveness,2023-05-11,Customer Success,L1,San Francisco,4.22,4.08,1.47,4.48,2.1,4.67,6,Yes,Tools & Technology,Neutral,Kiosk
+SUR01302,EMP00402,Pulse,2021-07-29,Design,L1,San Francisco,4.64,2.38,3.3,3.48,3.96,3.59,-67,Neutral,Work-Life Balance,Negative,QR Code
+SUR01303,EMP00221,DEI,2023-02-16,IT,L7,New York,3.41,1.27,2.52,1.26,3.57,2.27,79,Neutral,Management,Positive,Kiosk
+SUR01304,EMP01176,Onboarding,2024-01-16,Data Science,L2,Denver,1.1,3.28,1.11,4.51,1.3,4.3,-97,Yes,Work-Life Balance,Neutral,App
+SUR01305,EMP00853,Engagement,2024-07-02,Legal,L3,Chicago,3.43,2.46,4.38,1.78,2.07,3.43,-47,Yes,Career Growth,Positive,QR Code
+SUR01306,EMP00069,Engagement,2023-02-01,HR,L3,Chicago,4.22,4.94,4.16,2.44,1.72,4.08,10,Neutral,Management,Neutral,Email
+SUR01307,EMP00616,DEI,2023-10-12,Engineering,L3,Denver,2.11,4.53,2.32,2.43,4.96,3.73,45,Neutral,Compensation,Positive,Kiosk
+SUR01308,EMP00065,Manager Effectiveness,2022-11-13,Data Science,L4,Seattle,1.4,4.65,3.26,2.48,3.27,3.51,-40,Neutral,Work-Life Balance,Negative,QR Code
+SUR01309,EMP00820,Exit,2023-06-22,Data Science,L1,Remote,4.47,4.94,1.62,4.93,4.66,2.33,29,No,Career Growth,Neutral,App
+SUR01310,EMP00534,Pulse,2024-04-23,Engineering,L1,Dallas,3.71,3.12,4.95,2.31,4.65,3.16,62,No,Autonomy,Negative,App
+SUR01311,EMP01115,Engagement,2022-01-28,Product,L1,Chicago,2.81,1.82,1.33,1.21,4.87,4.16,4,Neutral,Culture,Negative,Kiosk
+SUR01312,EMP00421,Wellbeing,2021-05-07,Product,L3,Dallas,2.84,3.2,4.22,2.03,1.09,3.37,76,Neutral,Work-Life Balance,Neutral,Email
+SUR01313,EMP00655,Engagement,2025-03-03,Sales,L5,San Francisco,1.97,4.38,2.55,2.98,1.13,1.15,-30,Neutral,Tools & Technology,Neutral,Email
+SUR01314,EMP00277,Wellbeing,2022-01-29,Data Science,L3,Dallas,4.7,1.03,3.9,2.14,2.3,2.27,-37,Neutral,Recognition,Positive,Kiosk
+SUR01315,EMP00740,Exit,2021-06-10,Finance,L3,San Francisco,4.75,3.65,3.87,3.77,3.93,3.26,14,Yes,Work-Life Balance,Positive,App
+SUR01316,EMP00265,Engagement,2022-11-14,Marketing,L5,Seattle,1.43,4.23,1.44,1.38,4.4,3.06,-41,Yes,Culture,Negative,Email
+SUR01317,EMP00832,Wellbeing,2022-12-04,Marketing,L6,Denver,4.25,1.53,2.55,4.15,4.98,3.25,32,Yes,Career Growth,Positive,Email
+SUR01318,EMP00132,Pulse,2024-12-24,HR,L2,New York,1.49,2.82,4.3,2.35,2.47,4.95,66,No,Compensation,Positive,App
+SUR01319,EMP01124,Wellbeing,2024-08-18,HR,L4,Dallas,2.23,2.17,2.23,2.57,1.68,4.21,-95,Neutral,Autonomy,Neutral,Email
+SUR01320,EMP00643,Pulse,2023-11-16,Data Science,L7,Remote,4.11,1.05,3.92,2.47,3.46,4.61,86,No,Management,Negative,Email
+SUR01321,EMP00893,DEI,2022-04-19,Legal,L2,Boston,4.81,2.97,1.34,3.8,2.96,2.87,-69,Yes,Tools & Technology,Negative,Email
+SUR01322,EMP00717,Wellbeing,2023-08-02,IT,L5,San Francisco,2.49,2.34,3.21,3.37,3.87,4.16,-58,Neutral,Recognition,Neutral,App
+SUR01323,EMP00651,Pulse,2021-10-10,Sales,L4,Chicago,1.51,2.22,2.06,3.1,4.7,3.68,45,Neutral,Career Growth,Negative,App
+SUR01324,EMP00047,Pulse,2024-06-18,Sales,L6,Atlanta,4.96,2.54,4.1,3.62,1.98,2.05,-92,No,Tools & Technology,Neutral,Email
+SUR01325,EMP00501,Engagement,2022-08-19,Operations,L7,Denver,1.55,2.49,1.24,1.24,1.55,4.4,-44,Yes,Career Growth,Positive,Email
+SUR01326,EMP00432,Engagement,2022-07-31,Legal,L3,Seattle,1.74,2.13,2.86,2.91,3.71,3.71,-5,No,Management,Negative,App
+SUR01327,EMP00980,Exit,2021-02-18,Data Science,L2,Denver,1.21,2.22,2.87,3.49,3.6,3.45,88,Neutral,Autonomy,Negative,App
+SUR01328,EMP00720,Exit,2024-10-07,IT,L4,Seattle,1.31,1.85,1.06,2.79,2.74,2.16,59,No,Autonomy,Positive,QR Code
+SUR01329,EMP00826,Pulse,2022-03-22,IT,L4,Dallas,1.11,1.16,1.45,1.42,4.45,3.0,-88,Neutral,Tools & Technology,Negative,App
+SUR01330,EMP00263,Engagement,2021-07-14,Sales,L2,Atlanta,4.26,4.89,3.93,1.57,4.82,2.48,45,Neutral,Compensation,Positive,App
+SUR01331,EMP00431,Manager Effectiveness,2024-02-05,Sales,L7,Seattle,1.93,1.45,4.58,4.8,2.73,2.62,59,Neutral,Autonomy,Neutral,Kiosk
+SUR01332,EMP00847,DEI,2023-09-24,Engineering,L4,San Francisco,1.45,4.98,4.23,3.32,4.59,4.17,-70,No,Autonomy,Negative,QR Code
+SUR01333,EMP00263,Pulse,2024-04-08,Engineering,L2,Atlanta,1.47,3.59,4.74,3.06,1.04,2.61,-67,Yes,Recognition,Positive,Kiosk
+SUR01334,EMP00695,Manager Effectiveness,2023-11-10,Customer Success,L6,Seattle,3.85,3.96,4.4,2.78,4.25,2.85,41,No,Tools & Technology,Positive,Email
+SUR01335,EMP00732,Wellbeing,2024-11-21,Product,L6,San Francisco,1.27,4.9,4.38,3.11,3.53,2.12,-85,Yes,Autonomy,Neutral,Kiosk
+SUR01336,EMP00349,Onboarding,2022-09-21,HR,L4,Remote,4.3,2.62,2.71,1.21,2.24,4.02,88,No,Work-Life Balance,Positive,Email
+SUR01337,EMP00834,Engagement,2023-12-14,Marketing,L6,Atlanta,3.87,3.58,2.18,2.78,2.15,2.67,32,Neutral,Culture,Neutral,App
+SUR01338,EMP00948,Pulse,2024-11-17,HR,L6,San Francisco,3.56,4.32,4.61,1.42,2.66,2.31,-28,Yes,Compensation,Neutral,Kiosk
+SUR01339,EMP00721,Onboarding,2024-09-17,Product,L5,Atlanta,3.55,1.12,2.84,4.13,1.24,4.57,64,Yes,Culture,Negative,Kiosk
+SUR01340,EMP00691,Pulse,2021-02-24,Engineering,L1,Atlanta,1.78,4.1,2.05,1.61,1.69,2.41,-56,Yes,Management,Negative,Kiosk
+SUR01341,EMP00783,Exit,2024-11-15,Marketing,L3,New York,2.47,2.37,3.58,3.51,2.31,4.35,27,No,Culture,Negative,Kiosk
+SUR01342,EMP00883,Onboarding,2021-11-16,Data Science,L4,Seattle,4.65,4.04,4.0,1.86,2.23,3.02,-66,Yes,Career Growth,Positive,App
+SUR01343,EMP00106,Onboarding,2021-05-30,Engineering,L4,Seattle,4.62,2.62,2.83,2.5,1.63,1.25,75,Yes,Culture,Negative,QR Code
+SUR01344,EMP00859,Engagement,2024-06-29,Legal,L4,Chicago,2.76,2.5,1.22,1.95,1.64,1.47,46,No,Recognition,Negative,App
+SUR01345,EMP00368,Engagement,2023-02-06,Design,L1,Denver,3.91,1.17,4.57,2.55,3.51,3.69,96,No,Culture,Neutral,Kiosk
+SUR01346,EMP00260,Pulse,2023-03-24,Finance,L5,Seattle,1.29,4.62,1.11,1.13,4.55,1.68,37,Neutral,Recognition,Neutral,QR Code
+SUR01347,EMP00070,Onboarding,2021-04-30,Legal,L2,Chicago,4.78,1.39,2.45,3.79,4.32,2.26,54,No,Autonomy,Negative,App
+SUR01348,EMP01181,Exit,2021-02-26,Operations,L5,Denver,2.41,1.32,2.08,4.19,2.08,1.71,-92,No,Career Growth,Neutral,App
+SUR01349,EMP00162,Manager Effectiveness,2024-11-03,Engineering,L4,Atlanta,1.67,1.57,2.87,3.47,4.8,4.48,29,Neutral,Compensation,Negative,QR Code
+SUR01350,EMP00997,Onboarding,2021-12-03,Customer Success,L6,Denver,1.13,2.94,2.57,4.55,3.56,3.67,35,No,Compensation,Negative,Email
+SUR01351,EMP00242,Engagement,2021-05-11,HR,L1,Boston,1.69,4.74,1.6,1.83,1.89,4.7,-58,Yes,Compensation,Neutral,QR Code
+SUR01352,EMP00687,Engagement,2022-07-07,Finance,L7,Dallas,4.21,2.59,1.97,1.75,2.11,3.73,2,Neutral,Culture,Neutral,Email
+SUR01353,EMP00571,Manager Effectiveness,2021-08-13,Design,L2,Denver,1.42,3.9,2.47,3.52,1.52,3.34,-50,Neutral,Autonomy,Positive,App
+SUR01354,EMP00248,Onboarding,2024-10-04,Legal,L1,Denver,3.45,3.98,1.14,2.89,2.52,1.2,56,No,Tools & Technology,Neutral,Kiosk
+SUR01355,EMP00170,DEI,2025-03-13,Engineering,L7,Seattle,1.79,2.86,1.13,3.47,2.66,4.7,-92,No,Career Growth,Positive,Kiosk
+SUR01356,EMP00847,Manager Effectiveness,2025-08-21,Marketing,L2,Atlanta,4.27,4.92,2.1,3.67,4.09,4.93,1,Yes,Culture,Negative,Kiosk
+SUR01357,EMP00177,Engagement,2024-04-13,IT,L1,Denver,2.28,2.57,1.94,4.45,3.69,2.94,-82,Yes,Work-Life Balance,Neutral,Kiosk
+SUR01358,EMP00234,Pulse,2022-12-13,IT,L6,Austin,3.73,1.71,4.87,1.31,3.39,4.78,95,Yes,Management,Negative,App
+SUR01359,EMP00714,Pulse,2024-01-24,Finance,L1,Dallas,2.77,4.16,2.91,4.72,1.35,2.62,73,No,Management,Positive,Kiosk
+SUR01360,EMP00746,Manager Effectiveness,2023-12-03,Customer Success,L7,Chicago,2.74,1.06,3.34,1.87,4.99,2.13,31,Yes,Compensation,Neutral,App
+SUR01361,EMP00804,Manager Effectiveness,2024-07-25,Sales,L3,Remote,1.73,2.56,3.09,2.53,3.07,3.17,-95,No,Tools & Technology,Neutral,Kiosk
+SUR01362,EMP00489,Engagement,2021-02-21,Engineering,L2,Austin,2.94,2.46,3.46,3.77,3.64,1.06,20,Yes,Management,Negative,Email
+SUR01363,EMP00481,Pulse,2023-07-16,Sales,L3,Austin,3.73,1.86,2.89,2.8,1.71,4.31,-42,Neutral,Management,Negative,App
+SUR01364,EMP00835,Wellbeing,2024-12-11,Customer Success,L5,Seattle,4.5,2.31,1.63,4.29,3.97,1.5,-37,Neutral,Compensation,Neutral,App
+SUR01365,EMP00290,Manager Effectiveness,2022-09-26,Engineering,L6,Atlanta,1.7,4.67,1.34,4.97,4.32,3.45,-74,Neutral,Recognition,Positive,Email
+SUR01366,EMP01037,Manager Effectiveness,2025-03-19,Engineering,L5,Dallas,3.25,1.25,1.08,1.83,2.58,1.71,-63,No,Culture,Neutral,App
+SUR01367,EMP00381,Exit,2023-01-07,IT,L3,Austin,2.56,1.93,1.54,3.81,3.82,1.72,-63,Yes,Tools & Technology,Neutral,App
+SUR01368,EMP00300,Onboarding,2021-04-13,Sales,L4,Remote,4.46,1.75,4.5,3.27,4.63,2.01,-76,Yes,Recognition,Neutral,Email
+SUR01369,EMP00865,Engagement,2024-01-25,Legal,L2,Seattle,4.33,4.13,4.51,1.9,3.32,2.7,84,Yes,Tools & Technology,Neutral,Kiosk
+SUR01370,EMP00306,Wellbeing,2024-03-23,Legal,L4,Seattle,4.63,2.92,4.9,1.37,1.34,4.65,-66,Neutral,Career Growth,Neutral,App
+SUR01371,EMP00396,Wellbeing,2024-03-20,Sales,L5,San Francisco,3.15,4.89,2.32,2.46,1.22,2.64,-45,No,Tools & Technology,Positive,QR Code
+SUR01372,EMP00939,Wellbeing,2025-11-17,Legal,L6,Boston,2.42,3.47,4.01,1.3,4.83,2.52,5,Neutral,Autonomy,Neutral,Email
+SUR01373,EMP00377,Pulse,2022-02-09,Legal,L3,Seattle,3.29,3.29,4.19,3.75,4.39,1.94,70,Yes,Culture,Positive,Kiosk
+SUR01374,EMP00318,Onboarding,2024-05-28,Sales,L7,Denver,1.62,1.79,2.99,2.88,2.09,4.6,-63,Yes,Management,Positive,App
+SUR01375,EMP00618,Pulse,2026-06-04,Data Science,L1,Remote,4.37,1.77,3.05,3.67,4.5,3.73,-93,Yes,Culture,Neutral,App
+SUR01376,EMP00213,Exit,2022-11-01,Sales,L1,Austin,3.36,2.46,1.95,3.24,1.06,3.94,-40,Yes,Autonomy,Positive,Email
+SUR01377,EMP00612,Onboarding,2022-03-01,Design,L3,San Francisco,4.86,2.27,2.71,1.81,3.69,2.18,-43,Yes,Autonomy,Positive,Email
+SUR01378,EMP00780,Pulse,2026-03-20,HR,L7,Boston,2.04,3.51,3.81,4.49,4.46,1.84,63,Neutral,Management,Neutral,Kiosk
+SUR01379,EMP00221,Exit,2025-06-29,Legal,L5,Remote,4.86,3.76,1.59,2.59,3.16,3.28,65,Neutral,Culture,Neutral,Email
+SUR01380,EMP00356,DEI,2026-03-23,Finance,L3,Atlanta,1.47,3.23,3.29,3.75,1.4,3.26,64,Neutral,Work-Life Balance,Neutral,App
+SUR01381,EMP00757,Onboarding,2024-05-07,IT,L2,San Francisco,4.68,2.29,3.92,2.35,1.8,4.68,11,Yes,Compensation,Neutral,QR Code
+SUR01382,EMP00596,Manager Effectiveness,2023-03-02,Sales,L4,San Francisco,2.72,1.04,2.09,1.91,3.73,2.94,71,Neutral,Compensation,Neutral,QR Code
+SUR01383,EMP00161,Pulse,2023-10-18,Design,L3,Atlanta,1.02,3.42,4.66,2.5,1.96,1.31,-73,No,Culture,Positive,QR Code
+SUR01384,EMP00924,Pulse,2026-07-15,IT,L4,Atlanta,4.94,4.42,2.09,3.22,1.68,1.78,57,Yes,Recognition,Neutral,QR Code
+SUR01385,EMP00643,Wellbeing,2024-11-13,Customer Success,L4,Seattle,2.97,2.03,4.55,4.53,3.43,1.58,-7,No,Compensation,Positive,QR Code
+SUR01386,EMP00686,Onboarding,2025-06-25,Engineering,L3,Denver,4.35,2.74,2.18,1.94,4.38,4.61,-31,Yes,Compensation,Negative,QR Code
+SUR01387,EMP00258,Manager Effectiveness,2023-02-15,Product,L3,Seattle,2.38,2.67,3.36,1.23,2.18,2.03,-9,Neutral,Career Growth,Negative,Kiosk
+SUR01388,EMP00804,Pulse,2023-04-17,Data Science,L6,New York,1.87,2.32,2.29,3.03,3.09,1.76,-47,Yes,Recognition,Neutral,App
+SUR01389,EMP00633,Pulse,2026-03-27,Operations,L5,Boston,3.47,1.43,3.43,4.53,2.86,1.99,-8,Neutral,Recognition,Negative,App
+SUR01390,EMP00291,Onboarding,2024-12-30,Data Science,L6,Seattle,1.91,3.77,1.78,2.62,3.01,1.39,18,Yes,Recognition,Neutral,App
+SUR01391,EMP00702,DEI,2025-04-01,Operations,L3,Chicago,3.42,4.7,4.23,2.7,3.27,3.46,28,Neutral,Management,Negative,Kiosk
+SUR01392,EMP01103,Exit,2022-04-28,Engineering,L5,Remote,3.92,3.82,3.08,2.3,3.51,1.49,48,Yes,Culture,Positive,Email
+SUR01393,EMP00640,DEI,2024-12-14,Sales,L3,Austin,4.64,2.42,2.24,4.49,4.5,3.32,18,No,Management,Neutral,App
+SUR01394,EMP01127,Onboarding,2023-10-10,Finance,L1,Seattle,1.09,4.11,1.64,3.68,2.94,3.76,-95,Yes,Tools & Technology,Neutral,QR Code
+SUR01395,EMP00883,Exit,2026-03-28,HR,L1,Atlanta,4.16,3.64,2.77,4.25,2.95,1.31,65,Yes,Career Growth,Neutral,Kiosk
+SUR01396,EMP00202,DEI,2025-10-09,Finance,L1,Atlanta,1.68,4.2,1.91,4.8,2.63,2.45,-90,No,Work-Life Balance,Negative,Email
+SUR01397,EMP01023,Engagement,2023-11-18,Marketing,L5,Austin,1.56,3.35,4.29,1.35,3.8,3.47,-99,Yes,Tools & Technology,Positive,Email
+SUR01398,EMP00192,Onboarding,2023-06-23,Finance,L6,Atlanta,1.71,3.29,3.83,5.0,2.29,1.96,29,Yes,Career Growth,Neutral,QR Code
+SUR01399,EMP00707,Exit,2024-12-09,Finance,L3,Denver,4.71,2.13,1.55,2.53,1.78,4.29,-38,Neutral,Culture,Negative,QR Code
+SUR01400,EMP00702,Engagement,2024-03-14,Engineering,L2,Seattle,3.25,4.17,3.24,2.18,1.83,1.47,-88,No,Culture,Negative,Kiosk
+SUR01401,EMP01192,Engagement,2022-02-17,Operations,L6,Remote,1.97,4.98,4.71,1.48,2.94,2.94,60,Yes,Compensation,Neutral,App
+SUR01402,EMP00087,Manager Effectiveness,2024-12-11,Product,L1,Dallas,3.88,1.61,4.9,3.5,3.13,1.37,-2,Neutral,Career Growth,Neutral,App
+SUR01403,EMP01166,Pulse,2026-05-24,HR,L1,Dallas,4.71,2.85,3.54,3.08,3.7,3.65,-94,Neutral,Career Growth,Positive,App
+SUR01404,EMP01110,DEI,2022-05-09,Legal,L5,Atlanta,4.64,4.08,1.56,4.36,4.17,2.8,-19,Yes,Tools & Technology,Neutral,Kiosk
+SUR01405,EMP00554,Wellbeing,2021-05-11,Sales,L5,Chicago,2.39,4.64,2.81,1.74,2.56,3.37,44,Neutral,Recognition,Positive,Kiosk
+SUR01406,EMP00035,Wellbeing,2021-11-18,HR,L5,Seattle,4.87,1.58,1.9,2.9,2.38,1.3,-18,Yes,Career Growth,Negative,Email
+SUR01407,EMP00392,DEI,2024-10-14,Operations,L7,Atlanta,1.55,4.58,3.46,3.46,1.94,4.8,100,Yes,Career Growth,Neutral,QR Code
+SUR01408,EMP00464,Pulse,2022-03-13,Customer Success,L2,Atlanta,2.54,4.95,4.28,4.79,2.18,3.68,-55,Neutral,Culture,Negative,QR Code
+SUR01409,EMP00802,DEI,2024-06-15,IT,L6,Austin,1.94,3.23,3.19,3.9,3.96,1.11,-100,Neutral,Work-Life Balance,Negative,Kiosk
+SUR01410,EMP00636,Onboarding,2025-05-04,Finance,L5,Seattle,2.97,1.56,2.79,1.23,1.42,3.91,76,Neutral,Autonomy,Positive,App
+SUR01411,EMP00276,Pulse,2021-07-30,Design,L6,Atlanta,2.83,3.46,1.22,2.38,2.0,4.59,52,Neutral,Compensation,Negative,Email
+SUR01412,EMP00054,Pulse,2021-12-27,Engineering,L6,Seattle,1.42,1.21,3.56,1.52,4.05,1.22,-62,Neutral,Autonomy,Positive,Kiosk
+SUR01413,EMP00918,Onboarding,2026-07-28,Operations,L1,Austin,2.73,2.85,3.57,2.98,3.43,4.08,67,Neutral,Compensation,Positive,Email
+SUR01414,EMP00371,Pulse,2022-12-16,Sales,L4,Denver,2.72,4.34,3.49,1.7,4.62,2.96,6,Yes,Work-Life Balance,Positive,App
+SUR01415,EMP00621,Onboarding,2024-03-27,Design,L3,Dallas,1.71,3.49,2.47,2.59,2.4,1.64,48,Yes,Tools & Technology,Negative,Email
+SUR01416,EMP01195,Wellbeing,2024-03-06,Finance,L7,Seattle,1.3,2.19,2.46,1.83,2.76,4.38,93,No,Management,Neutral,QR Code
+SUR01417,EMP00599,Manager Effectiveness,2023-11-07,Operations,L5,Denver,4.64,4.98,2.75,3.33,4.59,2.29,27,No,Career Growth,Neutral,Email
+SUR01418,EMP01149,Exit,2025-10-31,Operations,L7,New York,2.59,3.4,4.1,2.65,2.12,2.35,-75,No,Career Growth,Neutral,App
+SUR01419,EMP00679,Exit,2023-10-28,Product,L1,Seattle,4.49,2.7,2.51,3.44,3.47,1.19,86,Neutral,Career Growth,Neutral,QR Code
+SUR01420,EMP00835,Manager Effectiveness,2021-01-14,Design,L6,Denver,1.88,3.82,4.28,1.73,2.49,3.86,-74,No,Management,Neutral,Kiosk
+SUR01421,EMP00001,Manager Effectiveness,2025-06-24,Data Science,L6,Austin,1.11,3.46,1.72,1.7,1.74,4.1,-43,Neutral,Career Growth,Positive,Kiosk
+SUR01422,EMP00544,Wellbeing,2025-08-07,Legal,L7,Austin,4.59,2.51,2.3,3.88,4.55,2.17,18,No,Autonomy,Negative,Email
+SUR01423,EMP00646,Wellbeing,2021-07-19,Marketing,L6,Remote,4.79,2.1,4.02,3.24,1.96,4.94,-20,Yes,Compensation,Neutral,Kiosk
+SUR01424,EMP01169,DEI,2024-07-08,IT,L6,Remote,4.37,1.27,3.36,1.89,2.39,4.05,65,Neutral,Tools & Technology,Positive,App
+SUR01425,EMP01127,Wellbeing,2023-08-28,Data Science,L6,Boston,1.32,4.97,3.29,1.18,3.19,2.99,-23,Neutral,Autonomy,Positive,Email
+SUR01426,EMP00251,Engagement,2022-08-12,IT,L4,Chicago,1.84,4.4,3.26,3.44,1.39,4.48,-20,Neutral,Career Growth,Neutral,Kiosk
+SUR01427,EMP00798,Wellbeing,2025-10-06,Sales,L5,Atlanta,4.6,4.85,1.25,4.39,2.45,2.96,98,Neutral,Compensation,Neutral,Kiosk
+SUR01428,EMP00733,DEI,2025-02-15,Finance,L2,San Francisco,1.07,2.2,1.07,3.04,2.18,1.36,31,Yes,Recognition,Neutral,Kiosk
+SUR01429,EMP01168,Engagement,2025-09-03,Product,L5,Atlanta,1.7,2.32,3.82,2.24,2.34,4.55,55,Yes,Compensation,Neutral,Kiosk
+SUR01430,EMP00917,Manager Effectiveness,2023-08-13,Engineering,L7,Atlanta,4.31,3.32,2.52,4.61,4.95,3.73,-77,Neutral,Recognition,Negative,Kiosk
+SUR01431,EMP00231,Pulse,2025-04-07,Operations,L7,San Francisco,1.69,3.17,4.15,3.23,2.52,3.4,98,No,Tools & Technology,Negative,App
+SUR01432,EMP00993,Exit,2025-02-18,Engineering,L6,Denver,3.33,4.39,4.54,2.66,4.36,1.44,-5,No,Culture,Negative,Email
+SUR01433,EMP00891,Engagement,2025-10-09,Customer Success,L6,Austin,2.99,1.5,1.04,3.85,2.42,1.31,-65,Yes,Culture,Neutral,QR Code
+SUR01434,EMP01196,Engagement,2022-11-16,Product,L2,Seattle,3.4,4.52,3.25,4.71,3.64,1.8,22,No,Culture,Negative,Email
+SUR01435,EMP00498,Wellbeing,2024-01-13,Design,L4,Dallas,2.99,1.01,3.24,1.35,4.13,3.75,80,Neutral,Work-Life Balance,Positive,App
+SUR01436,EMP00479,Manager Effectiveness,2023-08-28,IT,L3,Austin,1.83,1.38,1.94,2.1,3.52,2.77,71,No,Work-Life Balance,Positive,QR Code
+SUR01437,EMP01031,Exit,2025-04-30,IT,L4,Chicago,1.98,3.04,4.04,3.47,1.16,3.05,-83,Yes,Management,Positive,Email
+SUR01438,EMP01040,Pulse,2022-01-06,Engineering,L3,Seattle,3.08,3.64,3.87,4.45,1.45,2.96,98,Neutral,Work-Life Balance,Neutral,Kiosk
+SUR01439,EMP00724,Exit,2021-08-17,Engineering,L7,Seattle,4.89,3.67,2.36,3.49,1.07,3.81,61,Yes,Culture,Positive,App
+SUR01440,EMP00564,Manager Effectiveness,2021-07-19,Product,L1,San Francisco,3.16,4.12,4.32,4.94,4.41,4.14,-39,No,Autonomy,Negative,Kiosk
+SUR01441,EMP00430,Onboarding,2021-03-13,HR,L1,Boston,3.96,2.89,1.68,3.83,3.56,2.99,-43,Yes,Tools & Technology,Negative,Email
+SUR01442,EMP00477,Exit,2023-10-23,Marketing,L7,Austin,1.19,3.51,2.34,1.62,4.82,3.76,57,No,Tools & Technology,Neutral,QR Code
+SUR01443,EMP00360,Engagement,2021-07-09,Legal,L4,New York,3.54,2.67,1.17,1.55,1.42,1.53,-98,No,Recognition,Neutral,Kiosk
+SUR01444,EMP00692,Wellbeing,2025-08-01,HR,L4,Austin,4.31,1.51,4.03,1.98,3.89,1.18,-75,Yes,Compensation,Neutral,Kiosk
+SUR01445,EMP00773,DEI,2026-02-26,Design,L7,Remote,2.3,3.36,4.28,1.33,4.3,2.14,49,Neutral,Culture,Neutral,Kiosk
+SUR01446,EMP01196,Onboarding,2025-02-14,IT,L4,Austin,2.41,2.86,1.59,4.6,1.22,2.96,-22,Yes,Work-Life Balance,Neutral,Kiosk
+SUR01447,EMP00844,Pulse,2024-03-11,Finance,L5,New York,4.77,4.25,2.3,4.49,2.2,2.22,77,No,Autonomy,Neutral,Email
+SUR01448,EMP00599,Wellbeing,2022-10-14,Marketing,L3,Austin,3.81,3.05,3.04,3.67,2.58,2.52,-96,Neutral,Compensation,Positive,Kiosk
+SUR01449,EMP00488,Engagement,2023-09-02,Customer Success,L3,Austin,1.31,4.76,1.39,4.11,3.81,3.47,27,No,Culture,Negative,App
+SUR01450,EMP00440,Exit,2023-09-21,Product,L2,Atlanta,3.95,4.99,2.01,1.61,2.03,1.66,-19,Yes,Compensation,Negative,App
+SUR01451,EMP00564,Manager Effectiveness,2021-07-20,Marketing,L3,Atlanta,1.55,1.92,4.46,2.82,1.58,2.78,-83,Neutral,Autonomy,Neutral,App
+SUR01452,EMP00978,Engagement,2026-04-16,Data Science,L1,Denver,1.94,1.94,4.67,3.42,3.66,3.22,25,No,Compensation,Positive,Kiosk
+SUR01453,EMP00327,Engagement,2026-07-26,Engineering,L5,Boston,4.66,1.76,3.56,2.46,3.73,3.18,-55,No,Compensation,Positive,Email
+SUR01454,EMP01081,DEI,2022-07-30,Operations,L1,New York,3.23,2.39,3.03,3.82,3.31,4.89,71,Yes,Work-Life Balance,Positive,Kiosk
+SUR01455,EMP00372,DEI,2021-09-03,Product,L7,Dallas,1.94,1.54,3.57,2.65,1.76,3.63,50,Neutral,Tools & Technology,Neutral,App
+SUR01456,EMP00633,Pulse,2022-01-20,Finance,L5,Atlanta,3.85,4.07,2.78,3.5,2.08,4.31,44,Neutral,Compensation,Positive,Kiosk
+SUR01457,EMP00304,Onboarding,2025-05-07,HR,L7,New York,4.46,3.45,1.32,3.96,4.05,1.9,-4,Yes,Compensation,Positive,Kiosk
+SUR01458,EMP00466,Engagement,2024-09-08,Customer Success,L6,Atlanta,4.06,1.68,2.02,3.01,4.36,3.95,24,Yes,Management,Positive,App
+SUR01459,EMP00750,Exit,2024-06-22,Customer Success,L5,Denver,4.74,4.94,1.2,2.21,1.45,4.96,68,Yes,Autonomy,Positive,Kiosk
+SUR01460,EMP00596,Wellbeing,2024-06-30,Operations,L2,New York,2.76,3.28,3.51,1.31,1.57,4.62,-47,Yes,Work-Life Balance,Negative,QR Code
+SUR01461,EMP01010,DEI,2024-03-26,Operations,L1,Denver,2.62,4.42,1.23,1.43,3.14,1.21,-30,No,Career Growth,Positive,QR Code
+SUR01462,EMP00897,Exit,2021-05-02,Sales,L6,Austin,1.89,2.56,2.36,2.89,1.37,4.93,-96,Yes,Recognition,Neutral,Kiosk
+SUR01463,EMP00966,Manager Effectiveness,2022-10-02,HR,L5,Atlanta,4.97,1.95,2.08,4.19,4.89,4.27,-77,Neutral,Culture,Neutral,Email
+SUR01464,EMP00796,Pulse,2025-10-30,Engineering,L2,San Francisco,1.7,4.22,3.14,1.77,1.77,4.41,-66,No,Work-Life Balance,Positive,App
+SUR01465,EMP01068,Engagement,2025-03-04,HR,L7,San Francisco,1.21,2.52,1.93,1.1,1.15,4.13,72,No,Management,Negative,Kiosk
+SUR01466,EMP00328,Manager Effectiveness,2021-11-09,IT,L2,Boston,2.13,4.56,2.57,4.81,4.02,3.69,26,No,Compensation,Positive,QR Code
+SUR01467,EMP00189,Onboarding,2023-01-29,Operations,L5,New York,1.83,2.35,2.42,3.99,4.41,2.13,-48,No,Management,Neutral,QR Code
+SUR01468,EMP00869,Exit,2025-11-11,Legal,L6,Austin,1.67,4.65,2.93,1.3,2.22,2.76,-97,No,Tools & Technology,Neutral,App
+SUR01469,EMP00293,Onboarding,2025-01-22,Marketing,L6,New York,2.44,4.13,2.04,4.95,2.46,3.42,36,Yes,Recognition,Neutral,App
+SUR01470,EMP00988,Engagement,2024-06-18,Data Science,L4,New York,3.78,1.76,4.4,4.21,3.49,4.65,-44,Yes,Work-Life Balance,Neutral,Email
+SUR01471,EMP00252,Onboarding,2023-02-18,Operations,L2,Remote,3.41,1.74,1.37,4.09,3.56,4.79,-19,No,Management,Neutral,Email
+SUR01472,EMP00192,Onboarding,2021-02-16,Data Science,L6,Seattle,1.85,3.56,3.44,4.16,3.81,2.66,40,Yes,Compensation,Neutral,Kiosk
+SUR01473,EMP00722,DEI,2024-08-13,HR,L4,Seattle,2.28,3.53,2.79,4.06,2.8,3.26,94,Neutral,Autonomy,Neutral,App
+SUR01474,EMP00716,Wellbeing,2022-08-22,Marketing,L6,Remote,3.59,1.23,4.07,2.21,2.54,1.67,22,No,Recognition,Negative,Kiosk
+SUR01475,EMP01199,Exit,2025-12-20,Data Science,L5,Boston,1.25,3.77,4.69,3.09,3.56,2.72,23,Yes,Tools & Technology,Positive,Email
+SUR01476,EMP01048,Engagement,2022-11-15,Customer Success,L1,Dallas,4.43,4.85,3.09,4.11,4.54,2.05,-73,Yes,Compensation,Negative,App
+SUR01477,EMP00581,Exit,2023-09-15,Sales,L6,Remote,3.47,1.62,2.34,1.87,4.6,1.08,-98,Neutral,Management,Negative,Kiosk
+SUR01478,EMP00790,Pulse,2022-10-14,Sales,L7,Dallas,4.39,2.4,1.22,1.82,1.72,3.25,-38,No,Work-Life Balance,Positive,Email
+SUR01479,EMP00134,Onboarding,2022-10-01,Legal,L3,San Francisco,3.49,2.93,3.84,4.33,3.63,1.28,-86,Yes,Recognition,Neutral,Kiosk
+SUR01480,EMP01087,Engagement,2023-03-05,IT,L7,Chicago,1.61,3.92,4.09,3.1,3.37,1.16,-77,No,Work-Life Balance,Positive,Email
+SUR01481,EMP00509,Wellbeing,2023-09-20,Engineering,L5,Atlanta,1.41,2.06,4.33,3.36,3.21,2.9,78,Yes,Autonomy,Positive,Email
+SUR01482,EMP00853,Manager Effectiveness,2024-03-15,Marketing,L4,Boston,3.44,2.96,2.66,1.19,1.17,4.88,63,Neutral,Autonomy,Neutral,Kiosk
+SUR01483,EMP00106,Engagement,2024-05-02,Design,L4,New York,1.25,1.86,2.48,3.7,4.13,2.53,-82,Neutral,Career Growth,Neutral,Email
+SUR01484,EMP00007,DEI,2026-02-08,Operations,L7,Chicago,4.24,1.16,3.0,4.32,1.4,4.68,92,Yes,Management,Negative,Email
+SUR01485,EMP00347,Wellbeing,2023-03-22,Customer Success,L7,Chicago,4.5,4.78,1.17,1.38,3.98,1.49,-81,Neutral,Work-Life Balance,Negative,QR Code
+SUR01486,EMP01160,Pulse,2025-06-06,Finance,L6,Remote,1.45,4.13,4.66,2.75,3.07,2.91,-84,Yes,Work-Life Balance,Neutral,Kiosk
+SUR01487,EMP00163,Engagement,2025-06-09,Legal,L2,Austin,3.23,3.97,2.45,3.27,2.03,1.54,51,No,Recognition,Positive,QR Code
+SUR01488,EMP00914,Pulse,2021-08-11,Sales,L7,Atlanta,1.08,4.13,4.25,2.01,2.21,4.26,-1,No,Tools & Technology,Positive,App
+SUR01489,EMP00565,Wellbeing,2021-11-17,Design,L1,Dallas,3.65,4.17,4.66,4.34,2.05,3.1,-16,Neutral,Autonomy,Neutral,Kiosk
+SUR01490,EMP00005,Pulse,2022-08-26,Marketing,L3,Austin,2.68,1.98,2.5,1.91,3.64,3.52,-27,Neutral,Autonomy,Neutral,Email
+SUR01491,EMP00398,Pulse,2021-01-05,Marketing,L1,Denver,1.36,1.83,4.21,1.52,1.94,4.11,6,No,Recognition,Negative,QR Code
+SUR01492,EMP00574,Onboarding,2023-11-27,Marketing,L2,Dallas,3.98,3.22,3.0,1.78,1.25,4.68,-24,Neutral,Recognition,Positive,Email
+SUR01493,EMP01185,Exit,2023-05-05,Legal,L7,Atlanta,4.03,2.75,3.27,1.13,1.63,4.17,55,No,Culture,Negative,Email
+SUR01494,EMP00086,Onboarding,2025-06-11,Design,L4,San Francisco,4.94,2.19,4.99,2.31,2.03,4.32,-18,Neutral,Culture,Negative,Kiosk
+SUR01495,EMP00834,Onboarding,2023-08-17,Product,L6,San Francisco,1.98,4.26,3.53,1.45,1.79,1.67,28,Neutral,Compensation,Negative,App
+SUR01496,EMP01068,Manager Effectiveness,2023-08-09,HR,L2,Austin,4.22,4.07,2.7,2.28,4.02,3.14,-26,Yes,Autonomy,Neutral,Kiosk
+SUR01497,EMP00878,Wellbeing,2022-09-18,Operations,L6,Seattle,3.59,1.76,3.92,3.88,1.62,1.4,-24,Yes,Recognition,Neutral,Kiosk
+SUR01498,EMP01154,Onboarding,2023-01-06,HR,L5,Dallas,1.69,4.91,1.55,2.0,4.16,2.33,-38,Yes,Tools & Technology,Neutral,QR Code
+SUR01499,EMP01055,Manager Effectiveness,2021-11-28,Marketing,L7,Dallas,3.39,3.94,2.66,2.46,2.94,2.47,54,Neutral,Management,Negative,Email
+SUR01500,EMP00453,Manager Effectiveness,2024-12-04,IT,L5,New York,1.45,1.93,3.54,3.56,1.29,3.45,-7,Neutral,Autonomy,Neutral,Email

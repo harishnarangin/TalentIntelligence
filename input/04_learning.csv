@@ -1,0 +1,1001 @@
+learning_id,employee_id,department,job_level,course_name,course_category,provider,start_date,completion_date,status,score_pct,hours_spent,certification_earned,mandatory,mode,rating_by_learner,manager_id
+LRN00001,EMP00637,Sales,L1,Cloud Fundamentals,Technical,Internal LMS,2022-07-23,2022-10-28,Completed,90,15.5,No,Yes,Online Self-Paced,2.4,MGR0040
+LRN00002,EMP00329,Customer Success,L1,Leadership Foundations,Compliance,Pluralsight,2023-07-14,2023-10-11,Dropped,71,2.0,Yes,No,Virtual Instructor-Led,4.6,MGR0029
+LRN00003,EMP00747,Engineering,L3,Cloud Fundamentals,Soft Skills,Custom,2025-07-29,2025-11-13,In Progress,57,34.9,No,Yes,Online Self-Paced,3.6,MGR0039
+LRN00004,EMP00190,Engineering,L1,Machine Learning Basics,Domain,Custom,2025-02-14,2025-04-18,Not Started,64,1.1,No,No,Blended,1.9,MGR0049
+LRN00005,EMP00769,Operations,L4,DEI in the Workplace,Compliance,Coursera,2022-01-29,2022-04-26,Dropped,90,8.0,Yes,Yes,Blended,4.5,MGR0011
+LRN00006,EMP00912,Legal,L6,Power BI Essentials,Technical,LinkedIn Learning,2024-03-17,2024-05-25,In Progress,55,30.0,No,No,Virtual Instructor-Led,4.4,MGR0033
+LRN00007,EMP00161,Finance,L1,Agile & Scrum Certification,Leadership,Udemy,2024-09-01,2024-11-07,In Progress,87,9.2,No,No,Blended,4.6,MGR0019
+LRN00008,EMP01037,Design,L2,Design Thinking,Domain,Custom,2023-02-12,2023-03-22,Dropped,81,12.4,No,No,In-Person,4.5,MGR0023
+LRN00009,EMP00583,Data Science,L4,Agile & Scrum Certification,Leadership,Pluralsight,2024-12-26,2025-04-09,Not Started,81,35.1,No,No,Virtual Instructor-Led,3.6,MGR0022
+LRN00010,EMP00939,IT,L5,DEI in the Workplace,Domain,Coursera,2026-07-31,2026-07-31,Not Started,71,14.1,No,Yes,In-Person,1.6,MGR0002
+LRN00011,EMP00231,Finance,L6,DEI in the Workplace,Domain,Udemy,2022-01-20,2022-03-06,Completed,98,33.3,No,No,In-Person,4.2,MGR0024
+LRN00012,EMP01159,Design,L7,Machine Learning Basics,Technical,HarvardX,2023-03-04,2023-05-17,Dropped,95,25.0,No,No,Virtual Instructor-Led,4.9,MGR0028
+LRN00013,EMP00362,HR,L2,DEI in the Workplace,Compliance,Custom,2025-05-02,2025-07-01,Completed,52,30.0,No,No,In-Person,4.8,MGR0039
+LRN00014,EMP00376,Data Science,L3,SQL Mastery,Leadership,Udemy,2023-11-17,2024-02-17,In Progress,56,7.4,No,Yes,In-Person,2.4,MGR0047
+LRN00015,EMP00066,Sales,L2,Leadership Foundations,Technical,LinkedIn Learning,2024-09-29,2024-12-24,Not Started,57,19.9,No,No,Virtual Instructor-Led,2.6,MGR0019
+LRN00016,EMP00362,Sales,L3,Leadership Foundations,Compliance,Udemy,2025-02-27,2025-06-11,Not Started,69,9.2,No,No,Online Self-Paced,2.8,MGR0005
+LRN00017,EMP00663,Data Science,L5,Power BI Essentials,Compliance,HarvardX,2023-04-19,2023-08-12,Completed,53,36.6,No,Yes,In-Person,2.7,MGR0047
+LRN00018,EMP00437,IT,L4,Negotiation Skills,Compliance,Coursera,2024-09-18,2025-01-12,In Progress,57,17.5,No,Yes,Virtual Instructor-Led,4.7,MGR0027
+LRN00019,EMP01093,Data Science,L6,Financial Acumen,Soft Skills,Pluralsight,2025-09-15,2025-11-21,In Progress,92,27.9,No,No,Online Self-Paced,2.3,MGR0026
+LRN00020,EMP00901,Marketing,L1,Financial Acumen,Domain,Udemy,2025-09-08,2025-11-22,Completed,74,15.3,Yes,Yes,In-Person,4.9,MGR0048
+LRN00021,EMP01061,Operations,L5,Design Thinking,Compliance,Internal LMS,2024-03-21,2024-04-30,Dropped,68,33.0,No,Yes,Online Self-Paced,4.1,MGR0006
+LRN00022,EMP00656,Legal,L7,Machine Learning Basics,Domain,Internal LMS,2022-06-28,2022-09-05,Completed,60,15.8,No,Yes,Online Self-Paced,2.6,MGR0045
+LRN00023,EMP00021,Design,L2,Negotiation Skills,Soft Skills,Coursera,2025-09-06,2025-10-27,In Progress,93,15.1,Yes,No,Virtual Instructor-Led,1.6,MGR0043
+LRN00024,EMP00876,Operations,L4,Leadership Foundations,Leadership,HarvardX,2022-07-02,2022-08-08,Dropped,97,32.6,No,Yes,In-Person,3.0,MGR0044
+LRN00025,EMP00555,Finance,L7,Power BI Essentials,Technical,LinkedIn Learning,2023-10-21,2024-01-18,Not Started,100,13.8,No,No,Blended,4.7,MGR0008
+LRN00026,EMP00602,Legal,L7,Design Thinking,Compliance,Custom,2025-08-20,2025-10-01,In Progress,56,16.4,No,Yes,In-Person,1.9,MGR0016
+LRN00027,EMP00888,HR,L1,Communication Skills,Soft Skills,HarvardX,2025-12-16,2026-03-01,Dropped,94,20.5,No,No,Online Self-Paced,2.8,MGR0004
+LRN00028,EMP00690,Engineering,L4,Financial Acumen,Soft Skills,Udemy,2023-01-18,2023-04-12,Completed,74,23.2,No,Yes,In-Person,3.8,MGR0028
+LRN00029,EMP00097,Legal,L5,DEI in the Workplace,Soft Skills,Internal LMS,2022-06-17,2022-08-30,In Progress,58,15.7,No,No,In-Person,4.5,MGR0042
+LRN00030,EMP00532,Sales,L2,Machine Learning Basics,Compliance,LinkedIn Learning,2025-12-23,2026-04-18,Not Started,62,23.0,No,Yes,In-Person,3.3,MGR0050
+LRN00031,EMP00103,Engineering,L1,Cloud Fundamentals,Technical,Pluralsight,2024-03-05,2024-06-27,In Progress,50,36.1,No,Yes,Blended,3.5,MGR0034
+LRN00032,EMP00250,IT,L2,Financial Acumen,Domain,HarvardX,2025-02-03,2025-05-26,In Progress,80,3.7,Yes,Yes,Online Self-Paced,4.8,MGR0035
+LRN00033,EMP00264,Sales,L4,Communication Skills,Technical,LinkedIn Learning,2024-09-05,2024-12-11,Completed,79,29.6,No,No,Online Self-Paced,1.4,MGR0003
+LRN00034,EMP00883,Design,L4,Machine Learning Basics,Compliance,HarvardX,2024-11-30,2025-01-15,In Progress,76,5.7,Yes,No,Virtual Instructor-Led,3.7,MGR0040
+LRN00035,EMP00345,Customer Success,L1,Cloud Fundamentals,Soft Skills,Custom,2023-04-06,2023-06-30,Not Started,100,30.1,No,No,Virtual Instructor-Led,1.3,MGR0006
+LRN00036,EMP00944,Finance,L5,Power BI Essentials,Technical,Coursera,2025-06-12,2025-08-22,In Progress,95,38.9,No,No,Virtual Instructor-Led,4.1,MGR0023
+LRN00037,EMP00506,Product,L4,Machine Learning Basics,Compliance,LinkedIn Learning,2023-12-03,2024-01-13,In Progress,70,17.8,No,No,Online Self-Paced,2.5,MGR0039
+LRN00038,EMP00934,Marketing,L4,Leadership Foundations,Compliance,Internal LMS,2022-08-13,2022-11-19,In Progress,76,7.3,Yes,Yes,In-Person,1.5,MGR0022
+LRN00039,EMP00385,HR,L3,SQL Mastery,Technical,HarvardX,2022-02-18,2022-05-19,Not Started,87,16.9,No,No,Blended,2.2,MGR0048
+LRN00040,EMP00877,Design,L3,Agile & Scrum Certification,Compliance,Pluralsight,2023-08-29,2023-10-16,Completed,82,34.0,No,Yes,Virtual Instructor-Led,1.4,MGR0009
+LRN00041,EMP00668,Customer Success,L5,Safety & Compliance,Soft Skills,Internal LMS,2023-11-07,2023-12-12,Not Started,53,9.1,Yes,No,Online Self-Paced,1.8,MGR0049
+LRN00042,EMP00777,Operations,L1,Project Management Professional,Soft Skills,Internal LMS,2025-09-24,2026-01-20,Dropped,89,22.7,No,Yes,Blended,4.2,MGR0019
+LRN00043,EMP01008,Sales,L2,Agile & Scrum Certification,Technical,Coursera,2024-09-08,2024-11-20,In Progress,91,32.2,No,No,Online Self-Paced,1.1,MGR0024
+LRN00044,EMP00940,Marketing,L5,Financial Acumen,Domain,Udemy,2026-05-10,2026-07-31,Dropped,73,17.2,No,Yes,Blended,4.3,MGR0041
+LRN00045,EMP00484,IT,L2,Power BI Essentials,Soft Skills,Udemy,2022-04-11,2022-08-06,Dropped,79,10.6,Yes,Yes,In-Person,1.8,MGR0031
+LRN00046,EMP00230,Customer Success,L2,Financial Acumen,Technical,LinkedIn Learning,2022-09-07,2022-11-03,Not Started,52,25.1,No,No,Virtual Instructor-Led,2.9,MGR0044
+LRN00047,EMP00995,HR,L6,Financial Acumen,Leadership,Custom,2022-08-21,2022-09-26,In Progress,55,26.7,No,No,Blended,2.1,MGR0028
+LRN00048,EMP00737,Sales,L7,Project Management Professional,Compliance,Udemy,2025-12-09,2026-03-14,Dropped,95,36.3,No,No,In-Person,4.4,MGR0041
+LRN00049,EMP01007,IT,L6,Cloud Fundamentals,Compliance,Udemy,2025-12-13,2026-04-11,Dropped,55,4.4,Yes,No,In-Person,2.7,MGR0042
+LRN00050,EMP00111,Legal,L5,Financial Acumen,Leadership,Custom,2025-06-07,2025-08-04,Not Started,56,1.3,No,Yes,Blended,3.7,MGR0026
+LRN00051,EMP01066,Legal,L5,Machine Learning Basics,Domain,Pluralsight,2024-03-14,2024-06-19,Not Started,59,1.2,No,Yes,Blended,4.8,MGR0022
+LRN00052,EMP00468,Engineering,L3,Cloud Fundamentals,Leadership,Internal LMS,2022-05-04,2022-06-15,Completed,67,30.3,Yes,No,Blended,2.5,MGR0007
+LRN00053,EMP00457,HR,L3,Excel Advanced,Domain,Internal LMS,2026-07-10,2026-07-31,Not Started,80,17.8,No,No,Online Self-Paced,5.0,MGR0035
+LRN00054,EMP01162,Marketing,L7,Financial Acumen,Domain,Udemy,2023-07-08,2023-08-13,Not Started,99,13.0,No,No,Blended,1.3,MGR0045
+LRN00055,EMP01163,Product,L4,Safety & Compliance,Soft Skills,Coursera,2026-03-19,2026-05-02,In Progress,71,12.4,No,No,Online Self-Paced,5.0,MGR0047
+LRN00056,EMP00247,Operations,L6,Power BI Essentials,Domain,HarvardX,2023-04-10,2023-06-03,Not Started,85,33.0,No,Yes,Online Self-Paced,1.7,MGR0004
+LRN00057,EMP01065,Operations,L5,Cloud Fundamentals,Technical,Internal LMS,2022-03-07,2022-04-12,Completed,61,11.5,No,Yes,Virtual Instructor-Led,2.6,MGR0017
+LRN00058,EMP00499,Product,L6,Power BI Essentials,Leadership,LinkedIn Learning,2023-01-11,2023-03-08,Not Started,90,6.4,Yes,No,Blended,1.5,MGR0033
+LRN00059,EMP00988,Legal,L2,Design Thinking,Technical,Custom,2025-03-18,2025-06-17,Dropped,88,34.2,No,Yes,Virtual Instructor-Led,1.4,MGR0007
+LRN00060,EMP00279,Product,L3,Project Management Professional,Leadership,LinkedIn Learning,2024-10-10,2025-02-07,Not Started,55,36.2,No,Yes,Blended,3.7,MGR0027
+LRN00061,EMP00165,HR,L2,Agile & Scrum Certification,Technical,HarvardX,2023-04-29,2023-07-03,Dropped,55,25.1,No,No,Online Self-Paced,3.4,MGR0026
+LRN00062,EMP00986,Sales,L3,Communication Skills,Soft Skills,LinkedIn Learning,2022-12-18,2023-03-12,Not Started,94,21.5,No,No,Virtual Instructor-Led,4.3,MGR0014
+LRN00063,EMP01048,Operations,L6,Negotiation Skills,Soft Skills,Udemy,2024-06-23,2024-08-04,Dropped,57,7.5,No,Yes,Blended,2.5,MGR0048
+LRN00064,EMP00003,Data Science,L7,Negotiation Skills,Soft Skills,HarvardX,2024-09-06,2024-10-07,Completed,58,7.3,No,No,Virtual Instructor-Led,3.9,MGR0020
+LRN00065,EMP00375,Product,L5,Design Thinking,Compliance,Coursera,2023-11-21,2023-12-21,Completed,64,24.5,No,Yes,Blended,5.0,MGR0019
+LRN00066,EMP00698,IT,L3,Financial Acumen,Domain,LinkedIn Learning,2024-05-17,2024-09-08,Dropped,84,26.0,No,No,In-Person,3.4,MGR0013
+LRN00067,EMP00366,Engineering,L2,Financial Acumen,Domain,Coursera,2025-12-02,2026-01-22,Dropped,85,34.4,No,No,Online Self-Paced,3.6,MGR0014
+LRN00068,EMP00752,Operations,L6,Negotiation Skills,Soft Skills,Pluralsight,2024-08-21,2024-11-06,Not Started,70,19.6,No,No,Virtual Instructor-Led,1.0,MGR0010
+LRN00069,EMP00858,Finance,L2,Python for Data Science,Domain,LinkedIn Learning,2023-06-18,2023-08-15,In Progress,59,7.3,No,No,Online Self-Paced,2.0,MGR0009
+LRN00070,EMP00864,Legal,L3,Negotiation Skills,Leadership,HarvardX,2022-12-02,2023-02-17,Completed,86,11.6,No,No,Blended,1.9,MGR0019
+LRN00071,EMP01168,Marketing,L6,SQL Mastery,Soft Skills,Coursera,2026-04-27,2026-06-14,Not Started,81,17.8,Yes,Yes,Virtual Instructor-Led,4.2,MGR0033
+LRN00072,EMP00986,Sales,L1,Python for Data Science,Leadership,Internal LMS,2022-05-02,2022-07-11,Dropped,67,5.0,No,Yes,Blended,3.5,MGR0039
+LRN00073,EMP00459,IT,L7,Power BI Essentials,Leadership,Pluralsight,2023-05-16,2023-07-10,In Progress,83,18.1,No,Yes,Blended,3.1,MGR0034
+LRN00074,EMP00708,Customer Success,L1,Safety & Compliance,Leadership,Pluralsight,2022-11-03,2023-01-27,Completed,74,14.3,No,Yes,In-Person,1.1,MGR0041
+LRN00075,EMP00483,Product,L5,Safety & Compliance,Leadership,HarvardX,2025-05-20,2025-09-07,Not Started,58,5.0,Yes,No,In-Person,4.7,MGR0039
+LRN00076,EMP00063,Data Science,L2,Cloud Fundamentals,Leadership,Internal LMS,2024-04-07,2024-05-29,Not Started,53,21.9,No,Yes,Virtual Instructor-Led,2.6,MGR0041
+LRN00077,EMP00380,Customer Success,L1,Cloud Fundamentals,Technical,Udemy,2024-06-07,2024-08-27,Dropped,79,29.8,No,No,Blended,3.7,MGR0015
+LRN00078,EMP00988,Sales,L5,Leadership Foundations,Domain,LinkedIn Learning,2025-12-07,2026-02-20,Dropped,66,36.3,No,Yes,Online Self-Paced,2.4,MGR0045
+LRN00079,EMP00575,Engineering,L6,SQL Mastery,Leadership,Internal LMS,2024-09-22,2024-11-08,Dropped,57,2.7,No,Yes,Virtual Instructor-Led,2.1,MGR0036
+LRN00080,EMP00968,Product,L2,SQL Mastery,Compliance,LinkedIn Learning,2025-11-20,2026-02-25,Not Started,99,24.4,No,No,Online Self-Paced,1.8,MGR0038
+LRN00081,EMP00044,Legal,L2,Communication Skills,Soft Skills,Coursera,2023-09-09,2023-11-11,Dropped,75,34.0,No,No,Virtual Instructor-Led,4.2,MGR0043
+LRN00082,EMP01072,Operations,L1,Python for Data Science,Soft Skills,Coursera,2025-12-03,2026-03-13,Not Started,64,20.6,No,Yes,Online Self-Paced,3.3,MGR0038
+LRN00083,EMP00879,Legal,L6,Cloud Fundamentals,Domain,Coursera,2024-11-12,2025-03-11,Not Started,91,32.0,No,Yes,In-Person,1.3,MGR0018
+LRN00084,EMP00059,Finance,L5,Negotiation Skills,Soft Skills,HarvardX,2025-06-16,2025-08-13,Not Started,96,24.5,No,No,Virtual Instructor-Led,4.3,MGR0021
+LRN00085,EMP00782,Finance,L5,DEI in the Workplace,Soft Skills,LinkedIn Learning,2023-04-26,2023-06-02,Dropped,81,29.0,No,No,Virtual Instructor-Led,1.6,MGR0010
+LRN00086,EMP00880,Finance,L7,Cloud Fundamentals,Soft Skills,HarvardX,2025-11-29,2026-03-25,Completed,98,39.6,No,Yes,Online Self-Paced,1.0,MGR0032
+LRN00087,EMP00279,Product,L7,Communication Skills,Technical,Custom,2022-01-23,2022-04-23,Dropped,89,19.1,No,Yes,Online Self-Paced,4.6,MGR0007
+LRN00088,EMP00734,HR,L7,Project Management Professional,Soft Skills,HarvardX,2023-06-01,2023-09-15,Completed,57,37.3,Yes,Yes,Online Self-Paced,3.0,MGR0001
+LRN00089,EMP00052,Legal,L5,Design Thinking,Domain,HarvardX,2022-04-22,2022-06-01,Not Started,73,21.4,No,Yes,Virtual Instructor-Led,4.5,MGR0017
+LRN00090,EMP00653,Operations,L4,Communication Skills,Leadership,Coursera,2023-06-09,2023-08-01,In Progress,56,12.5,No,No,Online Self-Paced,1.8,MGR0050
+LRN00091,EMP01177,Operations,L6,Leadership Foundations,Soft Skills,Udemy,2025-03-17,2025-06-27,In Progress,63,37.5,No,Yes,In-Person,2.7,MGR0021
+LRN00092,EMP00086,Product,L1,Communication Skills,Soft Skills,Pluralsight,2025-04-17,2025-07-03,Completed,50,33.7,No,No,Online Self-Paced,3.6,MGR0005
+LRN00093,EMP00288,Customer Success,L7,Safety & Compliance,Compliance,LinkedIn Learning,2026-07-13,2026-07-31,Completed,54,18.4,No,Yes,Blended,3.3,MGR0039
+LRN00094,EMP01087,Marketing,L1,Agile & Scrum Certification,Compliance,Coursera,2023-04-15,2023-07-23,Dropped,83,23.5,No,Yes,Virtual Instructor-Led,1.0,MGR0042
+LRN00095,EMP01132,Finance,L1,Communication Skills,Leadership,LinkedIn Learning,2023-01-19,2023-04-23,Not Started,53,13.2,Yes,Yes,Online Self-Paced,3.3,MGR0010
+LRN00096,EMP00837,Engineering,L3,Financial Acumen,Domain,Internal LMS,2025-08-29,2025-12-04,Dropped,70,10.9,Yes,No,In-Person,4.8,MGR0039
+LRN00097,EMP01114,Legal,L3,Agile & Scrum Certification,Soft Skills,LinkedIn Learning,2023-05-11,2023-08-28,In Progress,81,25.8,Yes,No,In-Person,3.0,MGR0020
+LRN00098,EMP00967,Engineering,L3,SQL Mastery,Soft Skills,Coursera,2024-12-20,2025-02-16,Completed,100,37.1,Yes,No,Blended,5.0,MGR0038
+LRN00099,EMP00633,Finance,L6,SQL Mastery,Technical,Internal LMS,2025-08-21,2025-09-21,Completed,58,33.7,No,No,Online Self-Paced,2.7,MGR0041
+LRN00100,EMP00771,Legal,L7,Python for Data Science,Compliance,LinkedIn Learning,2024-02-07,2024-04-21,Completed,82,34.2,No,No,Blended,2.3,MGR0035
+LRN00101,EMP00436,Product,L5,Financial Acumen,Leadership,Pluralsight,2025-03-22,2025-05-03,Not Started,81,11.0,No,Yes,Online Self-Paced,3.8,MGR0021
+LRN00102,EMP00170,Design,L7,Negotiation Skills,Domain,HarvardX,2022-11-09,2023-01-27,Completed,87,5.4,No,No,Blended,4.6,MGR0018
+LRN00103,EMP00146,Finance,L2,Agile & Scrum Certification,Leadership,Coursera,2024-10-15,2024-11-24,Completed,54,32.6,Yes,Yes,Blended,3.6,MGR0049
+LRN00104,EMP00274,HR,L4,Safety & Compliance,Leadership,HarvardX,2025-10-11,2026-01-19,Completed,100,9.2,No,Yes,Virtual Instructor-Led,1.4,MGR0017
+LRN00105,EMP00333,HR,L4,Project Management Professional,Technical,Coursera,2024-01-28,2024-04-06,Dropped,63,32.1,No,No,In-Person,3.5,MGR0024
+LRN00106,EMP00656,Legal,L5,SQL Mastery,Soft Skills,Custom,2024-05-03,2024-08-09,Completed,97,26.5,No,Yes,Online Self-Paced,1.2,MGR0024
+LRN00107,EMP01180,Data Science,L3,Cloud Fundamentals,Leadership,Pluralsight,2025-02-13,2025-03-29,Not Started,80,33.4,Yes,Yes,In-Person,2.1,MGR0044
+LRN00108,EMP00683,Product,L5,Leadership Foundations,Domain,HarvardX,2025-01-18,2025-02-23,Dropped,79,25.0,No,Yes,In-Person,4.5,MGR0034
+LRN00109,EMP00235,Operations,L6,Negotiation Skills,Technical,Internal LMS,2026-07-11,2026-07-31,Dropped,76,4.2,No,No,Online Self-Paced,2.8,MGR0003
+LRN00110,EMP00833,Operations,L4,Design Thinking,Leadership,Udemy,2022-01-08,2022-03-29,Dropped,84,22.4,No,No,In-Person,1.9,MGR0041
+LRN00111,EMP00818,HR,L4,Cloud Fundamentals,Soft Skills,Udemy,2025-11-03,2026-01-27,Not Started,88,25.0,No,Yes,Virtual Instructor-Led,3.7,MGR0018
+LRN00112,EMP00272,HR,L7,Project Management Professional,Technical,Custom,2023-07-31,2023-10-23,In Progress,61,15.6,No,No,Online Self-Paced,3.1,MGR0026
+LRN00113,EMP00640,Legal,L2,Project Management Professional,Domain,Coursera,2022-07-18,2022-10-07,In Progress,95,13.7,Yes,No,Virtual Instructor-Led,1.8,MGR0043
+LRN00114,EMP00169,Data Science,L2,Leadership Foundations,Leadership,Internal LMS,2024-01-09,2024-04-03,Completed,56,37.9,Yes,Yes,Blended,3.0,MGR0031
+LRN00115,EMP00609,Finance,L4,Design Thinking,Domain,Custom,2023-01-20,2023-03-15,Dropped,60,30.1,No,Yes,Blended,4.1,MGR0005
+LRN00116,EMP00835,Customer Success,L2,Cloud Fundamentals,Leadership,Internal LMS,2025-06-03,2025-09-07,Not Started,92,37.9,No,Yes,Online Self-Paced,1.9,MGR0046
+LRN00117,EMP00644,Design,L6,Machine Learning Basics,Soft Skills,Internal LMS,2026-03-19,2026-04-19,Dropped,69,18.2,Yes,No,Virtual Instructor-Led,3.4,MGR0010
+LRN00118,EMP00860,Sales,L6,Safety & Compliance,Compliance,Udemy,2025-03-22,2025-06-03,Dropped,81,23.8,Yes,No,Online Self-Paced,3.0,MGR0016
+LRN00119,EMP00593,Finance,L2,Communication Skills,Technical,LinkedIn Learning,2026-02-26,2026-05-31,Completed,88,13.0,No,No,Online Self-Paced,3.3,MGR0043
+LRN00120,EMP00593,Sales,L3,Cloud Fundamentals,Leadership,Pluralsight,2022-09-16,2022-12-10,In Progress,69,22.1,Yes,Yes,Blended,4.4,MGR0006
+LRN00121,EMP00925,Engineering,L7,Machine Learning Basics,Soft Skills,Internal LMS,2025-10-05,2026-01-20,Completed,69,12.6,No,Yes,Blended,3.8,MGR0023
+LRN00122,EMP00042,Sales,L7,Communication Skills,Soft Skills,Pluralsight,2023-01-03,2023-02-14,Not Started,77,37.7,Yes,No,In-Person,5.0,MGR0023
+LRN00123,EMP00467,HR,L4,SQL Mastery,Domain,Internal LMS,2024-08-28,2024-09-27,Completed,62,11.1,No,Yes,Online Self-Paced,3.5,MGR0032
+LRN00124,EMP01176,Operations,L4,Machine Learning Basics,Technical,HarvardX,2022-08-16,2022-10-23,Not Started,56,12.8,No,Yes,In-Person,3.3,MGR0045
+LRN00125,EMP00736,Operations,L5,Negotiation Skills,Leadership,Pluralsight,2025-08-27,2025-11-27,In Progress,74,22.2,No,Yes,Blended,2.7,MGR0005
+LRN00126,EMP00102,Customer Success,L3,Power BI Essentials,Domain,Pluralsight,2024-11-25,2025-01-02,Dropped,84,12.8,No,No,Virtual Instructor-Led,4.9,MGR0042
+LRN00127,EMP00065,Product,L1,Negotiation Skills,Compliance,HarvardX,2022-02-17,2022-05-07,Not Started,66,13.9,No,Yes,Online Self-Paced,2.5,MGR0001
+LRN00128,EMP00733,Design,L6,Leadership Foundations,Domain,Pluralsight,2023-06-20,2023-07-26,Completed,82,19.4,No,Yes,Online Self-Paced,1.7,MGR0041
+LRN00129,EMP00490,Design,L2,Negotiation Skills,Soft Skills,Coursera,2024-02-13,2024-04-04,In Progress,100,20.1,No,No,Online Self-Paced,2.0,MGR0014
+LRN00130,EMP00791,Engineering,L3,DEI in the Workplace,Technical,Internal LMS,2022-10-27,2023-01-24,In Progress,72,8.8,No,Yes,Blended,4.0,MGR0043
+LRN00131,EMP00533,IT,L2,Python for Data Science,Compliance,Custom,2024-01-20,2024-03-16,Dropped,62,30.9,No,Yes,Virtual Instructor-Led,3.7,MGR0023
+LRN00132,EMP00890,Finance,L2,SQL Mastery,Technical,HarvardX,2026-07-16,2026-07-31,Completed,95,1.5,No,Yes,Blended,2.0,MGR0001
+LRN00133,EMP00644,Sales,L3,Machine Learning Basics,Leadership,LinkedIn Learning,2025-12-05,2026-02-22,Not Started,55,31.7,Yes,Yes,Blended,2.5,MGR0020
+LRN00134,EMP00102,Data Science,L7,Excel Advanced,Compliance,Internal LMS,2026-01-08,2026-03-01,Dropped,52,2.2,No,Yes,Virtual Instructor-Led,1.8,MGR0017
+LRN00135,EMP00738,Product,L5,Cloud Fundamentals,Domain,Coursera,2023-02-22,2023-05-31,Not Started,86,12.4,No,Yes,In-Person,1.3,MGR0031
+LRN00136,EMP00996,Operations,L2,DEI in the Workplace,Compliance,Pluralsight,2023-07-25,2023-10-19,Dropped,72,16.2,No,Yes,Virtual Instructor-Led,3.1,MGR0050
+LRN00137,EMP01051,Data Science,L5,Machine Learning Basics,Compliance,Udemy,2026-07-18,2026-07-31,In Progress,77,19.9,No,No,Blended,1.2,MGR0006
+LRN00138,EMP00007,Sales,L2,Excel Advanced,Technical,Coursera,2026-02-14,2026-04-13,Dropped,72,31.5,No,Yes,Online Self-Paced,2.2,MGR0048
+LRN00139,EMP00440,Operations,L3,Machine Learning Basics,Compliance,Custom,2024-11-13,2025-02-09,Not Started,86,20.5,No,No,Virtual Instructor-Led,3.2,MGR0009
+LRN00140,EMP00309,Operations,L7,Agile & Scrum Certification,Leadership,LinkedIn Learning,2024-01-12,2024-04-30,In Progress,71,27.7,No,Yes,Online Self-Paced,2.4,MGR0032
+LRN00141,EMP00587,Legal,L4,Design Thinking,Technical,Custom,2023-02-05,2023-05-01,In Progress,97,10.6,Yes,No,Blended,4.1,MGR0027
+LRN00142,EMP00036,Customer Success,L1,Machine Learning Basics,Technical,LinkedIn Learning,2022-08-04,2022-09-30,Completed,60,7.6,Yes,Yes,Virtual Instructor-Led,3.3,MGR0024
+LRN00143,EMP00367,Sales,L7,Design Thinking,Soft Skills,Pluralsight,2022-08-07,2022-11-10,In Progress,58,8.0,No,No,Online Self-Paced,2.0,MGR0009
+LRN00144,EMP00839,HR,L6,Excel Advanced,Soft Skills,HarvardX,2022-12-03,2023-01-18,Completed,68,10.9,No,No,Online Self-Paced,2.3,MGR0003
+LRN00145,EMP00660,Sales,L7,DEI in the Workplace,Soft Skills,Udemy,2023-07-01,2023-10-08,Dropped,81,22.2,Yes,Yes,Online Self-Paced,3.6,MGR0049
+LRN00146,EMP00206,HR,L2,SQL Mastery,Domain,Internal LMS,2025-05-25,2025-07-17,In Progress,61,28.4,No,Yes,In-Person,2.4,MGR0018
+LRN00147,EMP00084,HR,L2,Financial Acumen,Soft Skills,Custom,2024-04-28,2024-08-08,In Progress,55,1.9,No,No,Online Self-Paced,3.3,MGR0016
+LRN00148,EMP00411,Design,L5,Leadership Foundations,Compliance,Internal LMS,2022-12-27,2023-03-10,Not Started,58,18.4,No,No,Virtual Instructor-Led,3.5,MGR0001
+LRN00149,EMP00441,Operations,L4,Agile & Scrum Certification,Technical,HarvardX,2023-01-09,2023-04-23,In Progress,50,25.1,No,Yes,In-Person,1.0,MGR0045
+LRN00150,EMP00895,Product,L5,SQL Mastery,Domain,Pluralsight,2025-02-22,2025-06-09,In Progress,92,21.2,Yes,Yes,In-Person,3.2,MGR0044
+LRN00151,EMP00559,Legal,L1,Excel Advanced,Leadership,HarvardX,2024-07-31,2024-09-09,Completed,52,6.1,Yes,No,In-Person,1.5,MGR0021
+LRN00152,EMP00812,HR,L4,Power BI Essentials,Compliance,Coursera,2024-11-30,2025-01-24,In Progress,80,1.9,No,No,Blended,3.0,MGR0035
+LRN00153,EMP01105,Design,L3,Power BI Essentials,Technical,LinkedIn Learning,2024-01-26,2024-04-14,In Progress,54,2.8,No,No,Online Self-Paced,2.2,MGR0040
+LRN00154,EMP00946,HR,L7,DEI in the Workplace,Soft Skills,HarvardX,2023-06-03,2023-08-18,Not Started,97,8.4,Yes,No,In-Person,2.8,MGR0005
+LRN00155,EMP00093,HR,L6,Python for Data Science,Leadership,Udemy,2025-09-19,2025-11-30,Dropped,52,22.5,No,No,Blended,3.4,MGR0022
+LRN00156,EMP00614,HR,L3,Cloud Fundamentals,Leadership,Coursera,2024-12-03,2025-01-14,Not Started,86,11.4,No,Yes,Online Self-Paced,1.7,MGR0046
+LRN00157,EMP00888,Engineering,L4,Excel Advanced,Technical,Custom,2025-01-27,2025-05-16,Completed,85,2.3,No,Yes,Online Self-Paced,2.3,MGR0020
+LRN00158,EMP00213,Finance,L1,Communication Skills,Technical,Pluralsight,2026-03-07,2026-05-20,Completed,92,3.6,No,No,Blended,3.5,MGR0046
+LRN00159,EMP00823,HR,L7,SQL Mastery,Compliance,LinkedIn Learning,2022-11-27,2023-01-19,In Progress,76,12.5,No,No,In-Person,3.8,MGR0045
+LRN00160,EMP00366,Finance,L3,Power BI Essentials,Domain,HarvardX,2025-03-23,2025-06-11,Completed,68,5.5,Yes,Yes,Blended,2.1,MGR0041
+LRN00161,EMP00284,Operations,L6,Power BI Essentials,Domain,HarvardX,2023-07-21,2023-11-17,Dropped,83,26.2,No,No,Blended,3.0,MGR0012
+LRN00162,EMP01165,Sales,L5,Machine Learning Basics,Domain,LinkedIn Learning,2022-02-09,2022-04-01,In Progress,69,31.4,No,No,Online Self-Paced,4.7,MGR0011
+LRN00163,EMP01100,Engineering,L5,Negotiation Skills,Soft Skills,LinkedIn Learning,2026-05-16,2026-07-05,Completed,88,30.6,No,Yes,Blended,3.7,MGR0023
+LRN00164,EMP00652,IT,L1,Leadership Foundations,Soft Skills,Internal LMS,2022-07-27,2022-11-17,In Progress,65,5.1,Yes,Yes,In-Person,4.6,MGR0016
+LRN00165,EMP00971,Engineering,L5,SQL Mastery,Technical,Internal LMS,2024-10-18,2025-02-07,In Progress,79,30.7,No,No,Virtual Instructor-Led,4.1,MGR0013
+LRN00166,EMP00177,Product,L2,Python for Data Science,Technical,Internal LMS,2024-08-14,2024-10-12,In Progress,64,1.5,No,Yes,In-Person,4.8,MGR0037
+LRN00167,EMP00852,Finance,L4,Negotiation Skills,Compliance,LinkedIn Learning,2026-07-13,2026-07-31,In Progress,54,37.0,No,Yes,Blended,3.0,MGR0040
+LRN00168,EMP01105,Design,L3,Excel Advanced,Leadership,Udemy,2023-08-19,2023-12-10,Dropped,62,3.9,No,Yes,Online Self-Paced,3.4,MGR0040
+LRN00169,EMP00423,Data Science,L6,Agile & Scrum Certification,Domain,LinkedIn Learning,2022-03-02,2022-05-02,Completed,72,32.9,No,Yes,Blended,2.7,MGR0006
+LRN00170,EMP00822,Finance,L4,Cloud Fundamentals,Leadership,Internal LMS,2023-03-01,2023-04-10,Not Started,70,7.2,No,Yes,Virtual Instructor-Led,4.5,MGR0044
+LRN00171,EMP00633,Customer Success,L6,Communication Skills,Leadership,Custom,2023-03-20,2023-07-04,Dropped,98,24.7,No,No,Blended,2.4,MGR0029
+LRN00172,EMP00646,Customer Success,L2,Machine Learning Basics,Leadership,Internal LMS,2024-07-23,2024-09-13,Completed,92,24.5,Yes,No,In-Person,1.0,MGR0028
+LRN00173,EMP00181,Marketing,L2,Cloud Fundamentals,Technical,Internal LMS,2023-08-14,2023-10-18,Completed,59,12.7,No,Yes,Online Self-Paced,4.5,MGR0029
+LRN00174,EMP00030,Sales,L4,Power BI Essentials,Leadership,Udemy,2023-11-16,2024-03-06,Completed,62,26.2,Yes,No,Online Self-Paced,4.5,MGR0044
+LRN00175,EMP00257,Legal,L5,Machine Learning Basics,Soft Skills,Coursera,2023-12-11,2024-03-02,Not Started,60,18.8,No,Yes,Virtual Instructor-Led,4.6,MGR0026
+LRN00176,EMP00642,Finance,L2,SQL Mastery,Soft Skills,Udemy,2023-06-20,2023-09-23,Dropped,89,38.3,No,No,Blended,2.9,MGR0012
+LRN00177,EMP01053,Legal,L6,Power BI Essentials,Technical,Custom,2024-03-02,2024-04-12,In Progress,63,9.2,No,Yes,Online Self-Paced,4.3,MGR0001
+LRN00178,EMP00855,Data Science,L7,Safety & Compliance,Technical,Pluralsight,2022-12-17,2023-03-29,Dropped,54,12.2,No,Yes,In-Person,1.5,MGR0048
+LRN00179,EMP00727,Legal,L1,SQL Mastery,Technical,Custom,2024-07-30,2024-09-24,Not Started,87,38.0,No,No,Online Self-Paced,4.3,MGR0033
+LRN00180,EMP00323,Customer Success,L4,DEI in the Workplace,Compliance,HarvardX,2023-01-12,2023-04-03,Completed,69,31.3,Yes,No,Blended,1.3,MGR0024
+LRN00181,EMP00348,IT,L2,Excel Advanced,Compliance,Udemy,2025-06-13,2025-09-18,Completed,85,20.4,Yes,No,Online Self-Paced,1.8,MGR0046
+LRN00182,EMP00456,Finance,L6,Financial Acumen,Soft Skills,HarvardX,2026-04-27,2026-06-05,Completed,61,2.4,No,Yes,Online Self-Paced,4.3,MGR0042
+LRN00183,EMP00480,Customer Success,L6,Design Thinking,Compliance,HarvardX,2022-10-12,2023-01-23,Not Started,94,35.0,Yes,Yes,Virtual Instructor-Led,4.9,MGR0003
+LRN00184,EMP00313,Marketing,L2,Python for Data Science,Leadership,Coursera,2024-08-09,2024-10-25,In Progress,64,9.4,No,Yes,Online Self-Paced,3.8,MGR0016
+LRN00185,EMP01194,Product,L7,Financial Acumen,Soft Skills,Custom,2025-07-07,2025-09-06,Dropped,88,6.7,No,No,Blended,4.8,MGR0011
+LRN00186,EMP00802,Engineering,L6,Project Management Professional,Compliance,Coursera,2023-05-19,2023-07-04,Dropped,98,34.0,No,No,Online Self-Paced,2.2,MGR0044
+LRN00187,EMP01043,Legal,L3,Safety & Compliance,Compliance,Coursera,2023-06-17,2023-07-20,Dropped,59,32.9,No,Yes,In-Person,3.7,MGR0036
+LRN00188,EMP00612,IT,L5,Machine Learning Basics,Technical,Pluralsight,2025-07-26,2025-10-28,Dropped,59,2.5,Yes,Yes,Virtual Instructor-Led,1.0,MGR0001
+LRN00189,EMP00557,HR,L6,Power BI Essentials,Domain,LinkedIn Learning,2024-11-26,2025-02-01,Completed,87,28.4,Yes,Yes,Blended,3.4,MGR0016
+LRN00190,EMP00044,Data Science,L3,Python for Data Science,Soft Skills,Custom,2023-02-04,2023-04-10,Not Started,53,34.8,No,Yes,Virtual Instructor-Led,2.8,MGR0038
+LRN00191,EMP01169,Customer Success,L6,Python for Data Science,Leadership,HarvardX,2022-12-07,2023-03-13,Not Started,91,10.9,Yes,No,Online Self-Paced,3.7,MGR0038
+LRN00192,EMP00837,Marketing,L3,Design Thinking,Technical,Pluralsight,2023-03-13,2023-06-18,Not Started,57,37.8,No,Yes,Virtual Instructor-Led,2.0,MGR0007
+LRN00193,EMP01004,Engineering,L6,Communication Skills,Soft Skills,HarvardX,2023-02-06,2023-06-01,Not Started,54,2.0,No,No,Virtual Instructor-Led,1.7,MGR0047
+LRN00194,EMP00549,Sales,L6,Communication Skills,Leadership,Internal LMS,2023-11-17,2024-02-23,In Progress,83,14.3,No,Yes,In-Person,3.0,MGR0005
+LRN00195,EMP00243,Legal,L3,Negotiation Skills,Compliance,HarvardX,2026-06-25,2026-07-31,Dropped,82,11.4,No,Yes,Virtual Instructor-Led,1.7,MGR0040
+LRN00196,EMP00206,Engineering,L2,Design Thinking,Domain,HarvardX,2022-05-01,2022-06-12,Not Started,83,31.0,No,Yes,Online Self-Paced,3.2,MGR0034
+LRN00197,EMP00248,Engineering,L1,Agile & Scrum Certification,Soft Skills,LinkedIn Learning,2022-06-16,2022-08-01,In Progress,99,29.9,No,No,Blended,3.0,MGR0033
+LRN00198,EMP00031,Sales,L7,Agile & Scrum Certification,Technical,Pluralsight,2025-04-27,2025-06-10,In Progress,94,10.1,No,Yes,Online Self-Paced,2.6,MGR0025
+LRN00199,EMP00101,Marketing,L4,Leadership Foundations,Soft Skills,Pluralsight,2024-03-20,2024-07-02,In Progress,79,21.4,No,No,Blended,4.8,MGR0035
+LRN00200,EMP00408,Customer Success,L2,Agile & Scrum Certification,Soft Skills,HarvardX,2022-06-07,2022-09-01,Completed,72,39.0,Yes,No,Blended,1.9,MGR0001
+LRN00201,EMP01137,Engineering,L2,Project Management Professional,Leadership,LinkedIn Learning,2025-07-08,2025-09-03,Completed,95,3.6,No,Yes,In-Person,3.5,MGR0006
+LRN00202,EMP00617,Design,L2,Python for Data Science,Compliance,Custom,2026-02-23,2026-05-01,Not Started,74,22.9,No,Yes,In-Person,3.3,MGR0015
+LRN00203,EMP01188,Engineering,L7,Python for Data Science,Technical,Pluralsight,2023-09-08,2023-12-04,Dropped,83,28.9,No,Yes,In-Person,2.4,MGR0004
+LRN00204,EMP00213,IT,L3,Leadership Foundations,Technical,Coursera,2023-06-14,2023-10-02,Completed,63,1.5,No,No,Online Self-Paced,2.9,MGR0025
+LRN00205,EMP00218,Legal,L6,Financial Acumen,Soft Skills,Pluralsight,2025-12-10,2026-02-12,Dropped,69,31.9,No,Yes,Blended,1.5,MGR0020
+LRN00206,EMP01072,Sales,L5,Leadership Foundations,Domain,Udemy,2026-04-23,2026-07-31,Dropped,88,6.0,No,No,In-Person,1.2,MGR0024
+LRN00207,EMP00292,Finance,L4,Negotiation Skills,Soft Skills,Coursera,2024-06-19,2024-07-29,In Progress,99,23.0,No,No,Virtual Instructor-Led,1.1,MGR0038
+LRN00208,EMP00836,Engineering,L6,Agile & Scrum Certification,Domain,HarvardX,2022-06-02,2022-08-08,Completed,80,29.6,No,Yes,Online Self-Paced,4.6,MGR0002
+LRN00209,EMP00899,Engineering,L6,Negotiation Skills,Soft Skills,Udemy,2022-05-09,2022-08-14,Dropped,65,32.8,No,Yes,In-Person,4.1,MGR0037
+LRN00210,EMP00709,Customer Success,L3,Financial Acumen,Technical,Custom,2023-03-18,2023-05-26,Dropped,52,31.3,No,No,Online Self-Paced,4.3,MGR0011
+LRN00211,EMP00651,Legal,L3,SQL Mastery,Compliance,LinkedIn Learning,2024-05-03,2024-08-28,Dropped,70,16.1,No,No,Online Self-Paced,2.3,MGR0050
+LRN00212,EMP00230,Sales,L7,Leadership Foundations,Leadership,LinkedIn Learning,2026-06-12,2026-07-31,Completed,56,21.1,Yes,No,Virtual Instructor-Led,4.1,MGR0037
+LRN00213,EMP01005,Data Science,L5,Negotiation Skills,Leadership,Custom,2024-05-15,2024-08-05,In Progress,73,29.0,No,Yes,In-Person,2.8,MGR0006
+LRN00214,EMP00058,Design,L6,Cloud Fundamentals,Leadership,Coursera,2023-12-17,2024-02-29,Not Started,84,2.4,No,Yes,Blended,3.7,MGR0043
+LRN00215,EMP01058,Design,L2,Negotiation Skills,Technical,Custom,2025-11-16,2026-01-17,In Progress,67,38.2,No,No,In-Person,1.9,MGR0008
+LRN00216,EMP00007,Sales,L6,Power BI Essentials,Leadership,Pluralsight,2025-11-16,2026-02-23,In Progress,50,22.8,No,Yes,Online Self-Paced,2.0,MGR0027
+LRN00217,EMP01135,Finance,L7,Financial Acumen,Domain,HarvardX,2023-12-07,2024-01-08,Completed,69,2.2,No,No,In-Person,3.9,MGR0010
+LRN00218,EMP00922,Customer Success,L4,Python for Data Science,Domain,LinkedIn Learning,2023-12-22,2024-04-08,Not Started,89,2.7,No,Yes,In-Person,2.6,MGR0026
+LRN00219,EMP00140,IT,L7,DEI in the Workplace,Technical,Pluralsight,2025-05-23,2025-07-16,Dropped,67,21.5,No,No,Virtual Instructor-Led,2.6,MGR0027
+LRN00220,EMP00846,Design,L2,SQL Mastery,Soft Skills,HarvardX,2022-06-12,2022-09-10,Completed,79,36.7,No,No,Virtual Instructor-Led,3.4,MGR0046
+LRN00221,EMP01169,Design,L3,Cloud Fundamentals,Leadership,HarvardX,2025-10-26,2026-01-13,Completed,72,34.3,No,Yes,In-Person,1.4,MGR0009
+LRN00222,EMP00672,Marketing,L7,Safety & Compliance,Soft Skills,LinkedIn Learning,2023-06-13,2023-08-28,Completed,100,21.6,No,No,In-Person,1.2,MGR0028
+LRN00223,EMP00544,Finance,L7,Design Thinking,Domain,LinkedIn Learning,2022-11-30,2023-03-09,Dropped,78,20.9,No,Yes,Online Self-Paced,1.9,MGR0037
+LRN00224,EMP01182,HR,L5,Safety & Compliance,Technical,Udemy,2022-08-20,2022-10-24,Completed,69,35.1,Yes,Yes,Virtual Instructor-Led,2.1,MGR0040
+LRN00225,EMP01102,Finance,L2,Project Management Professional,Leadership,Pluralsight,2026-07-29,2026-07-31,Completed,69,1.2,No,Yes,In-Person,2.9,MGR0028
+LRN00226,EMP00402,Operations,L7,Safety & Compliance,Leadership,Coursera,2025-11-08,2026-01-29,In Progress,80,36.7,No,Yes,Online Self-Paced,2.0,MGR0021
+LRN00227,EMP00608,Finance,L4,Machine Learning Basics,Domain,Internal LMS,2026-05-10,2026-07-10,In Progress,54,39.1,Yes,No,In-Person,4.8,MGR0025
+LRN00228,EMP00858,Sales,L4,Safety & Compliance,Leadership,LinkedIn Learning,2025-02-25,2025-05-26,Completed,86,25.0,No,No,Blended,2.7,MGR0030
+LRN00229,EMP01177,Operations,L1,Leadership Foundations,Technical,Coursera,2022-02-09,2022-04-24,Dropped,96,38.8,No,No,Blended,1.5,MGR0004
+LRN00230,EMP00069,Marketing,L5,Python for Data Science,Compliance,Udemy,2026-01-27,2026-05-12,Not Started,73,1.4,Yes,No,In-Person,2.1,MGR0023
+LRN00231,EMP00783,Data Science,L2,Python for Data Science,Compliance,HarvardX,2024-05-23,2024-08-18,In Progress,81,15.2,No,Yes,Online Self-Paced,1.7,MGR0029
+LRN00232,EMP01108,IT,L2,Design Thinking,Domain,Coursera,2023-10-16,2024-01-26,Completed,70,8.2,Yes,Yes,Virtual Instructor-Led,3.6,MGR0046
+LRN00233,EMP00060,Data Science,L4,Excel Advanced,Technical,HarvardX,2024-03-14,2024-05-10,In Progress,96,11.5,No,Yes,Virtual Instructor-Led,3.6,MGR0031
+LRN00234,EMP00862,Product,L4,DEI in the Workplace,Compliance,Udemy,2024-01-19,2024-04-07,Not Started,63,33.3,No,Yes,In-Person,3.0,MGR0010
+LRN00235,EMP01151,IT,L5,Project Management Professional,Technical,Udemy,2024-05-07,2024-08-01,Not Started,80,34.8,No,No,In-Person,3.1,MGR0044
+LRN00236,EMP00900,Customer Success,L3,SQL Mastery,Compliance,Internal LMS,2026-03-16,2026-04-26,In Progress,67,5.9,No,No,Blended,3.2,MGR0009
+LRN00237,EMP01146,Operations,L1,SQL Mastery,Compliance,Coursera,2025-08-29,2025-10-21,Dropped,63,13.4,Yes,No,Blended,3.1,MGR0016
+LRN00238,EMP00140,Finance,L3,Project Management Professional,Soft Skills,HarvardX,2023-06-16,2023-09-16,Dropped,69,18.1,No,Yes,Blended,3.6,MGR0005
+LRN00239,EMP00396,Sales,L5,Project Management Professional,Soft Skills,Custom,2022-02-07,2022-03-31,Dropped,81,35.0,No,Yes,Blended,3.7,MGR0033
+LRN00240,EMP01069,Data Science,L4,Safety & Compliance,Compliance,HarvardX,2026-06-16,2026-07-31,Completed,71,27.6,Yes,No,Blended,3.1,MGR0019
+LRN00241,EMP00360,Marketing,L7,Leadership Foundations,Soft Skills,Coursera,2024-04-06,2024-06-08,Dropped,71,4.2,No,No,Online Self-Paced,2.4,MGR0006
+LRN00242,EMP00131,Finance,L1,Machine Learning Basics,Leadership,HarvardX,2022-09-29,2023-01-03,In Progress,90,24.8,No,Yes,Blended,3.6,MGR0028
+LRN00243,EMP00222,Data Science,L3,SQL Mastery,Soft Skills,Custom,2023-10-07,2023-11-12,Completed,81,1.1,No,Yes,Blended,2.9,MGR0007
+LRN00244,EMP00686,Operations,L6,Design Thinking,Leadership,Coursera,2026-07-27,2026-07-31,Not Started,54,29.6,No,No,In-Person,2.3,MGR0045
+LRN00245,EMP00740,Design,L4,Project Management Professional,Soft Skills,Custom,2025-09-09,2025-11-03,Not Started,57,15.5,No,Yes,Online Self-Paced,4.8,MGR0012
+LRN00246,EMP00949,Design,L1,Leadership Foundations,Leadership,HarvardX,2022-11-22,2023-01-01,Completed,53,6.2,No,Yes,Online Self-Paced,3.9,MGR0035
+LRN00247,EMP00907,Data Science,L3,Design Thinking,Compliance,Internal LMS,2023-06-05,2023-08-31,Dropped,65,12.0,No,Yes,Virtual Instructor-Led,1.9,MGR0039
+LRN00248,EMP00386,Marketing,L6,Financial Acumen,Technical,Pluralsight,2022-05-20,2022-09-08,In Progress,76,15.9,No,Yes,In-Person,3.4,MGR0042
+LRN00249,EMP01074,Finance,L4,DEI in the Workplace,Domain,Custom,2022-01-21,2022-04-24,In Progress,58,23.3,No,No,In-Person,4.0,MGR0028
+LRN00250,EMP00972,Sales,L6,Power BI Essentials,Soft Skills,LinkedIn Learning,2022-10-18,2023-02-05,In Progress,66,36.6,No,No,In-Person,3.3,MGR0040
+LRN00251,EMP00060,IT,L1,SQL Mastery,Soft Skills,Custom,2026-01-27,2026-03-01,Not Started,79,21.2,Yes,No,Virtual Instructor-Led,4.7,MGR0028
+LRN00252,EMP00831,Design,L3,Project Management Professional,Domain,Pluralsight,2023-08-19,2023-12-02,Dropped,61,39.4,No,No,Blended,4.6,MGR0016
+LRN00253,EMP00292,Design,L5,Machine Learning Basics,Compliance,Custom,2022-06-18,2022-08-04,Completed,87,37.9,No,No,Virtual Instructor-Led,3.7,MGR0003
+LRN00254,EMP01057,Sales,L6,Leadership Foundations,Leadership,Coursera,2025-04-21,2025-05-25,In Progress,98,3.4,Yes,Yes,In-Person,1.3,MGR0025
+LRN00255,EMP00572,Engineering,L3,Agile & Scrum Certification,Technical,HarvardX,2024-11-09,2025-01-27,Not Started,60,39.9,No,Yes,Online Self-Paced,4.1,MGR0029
+LRN00256,EMP00976,Operations,L1,DEI in the Workplace,Technical,Custom,2024-10-17,2024-11-21,In Progress,61,6.8,No,Yes,Blended,2.0,MGR0049
+LRN00257,EMP01044,Design,L3,Power BI Essentials,Leadership,Udemy,2024-08-08,2024-11-05,Not Started,84,12.7,No,Yes,Online Self-Paced,4.1,MGR0014
+LRN00258,EMP00448,HR,L5,Cloud Fundamentals,Compliance,Custom,2022-10-15,2022-12-16,In Progress,78,28.8,No,Yes,Online Self-Paced,4.0,MGR0036
+LRN00259,EMP01102,Marketing,L1,DEI in the Workplace,Soft Skills,HarvardX,2023-12-04,2024-02-07,Not Started,88,38.4,No,Yes,Virtual Instructor-Led,2.1,MGR0006
+LRN00260,EMP00164,Marketing,L3,Communication Skills,Domain,Pluralsight,2022-10-06,2023-01-22,In Progress,97,24.9,No,Yes,Blended,3.2,MGR0018
+LRN00261,EMP00262,Operations,L4,Python for Data Science,Soft Skills,Udemy,2022-08-16,2022-09-22,Dropped,81,33.3,No,No,In-Person,4.6,MGR0022
+LRN00262,EMP00961,Operations,L6,DEI in the Workplace,Soft Skills,LinkedIn Learning,2023-09-08,2023-10-21,In Progress,57,15.3,No,No,Virtual Instructor-Led,1.5,MGR0003
+LRN00263,EMP00612,Marketing,L4,Negotiation Skills,Compliance,Internal LMS,2022-09-25,2023-01-09,Dropped,64,23.1,No,No,In-Person,2.5,MGR0014
+LRN00264,EMP00204,Engineering,L7,DEI in the Workplace,Technical,Coursera,2025-12-22,2026-03-06,Not Started,82,28.6,No,No,Virtual Instructor-Led,3.7,MGR0045
+LRN00265,EMP00970,Operations,L1,Design Thinking,Leadership,Udemy,2026-07-03,2026-07-31,Completed,88,6.6,No,Yes,Online Self-Paced,4.0,MGR0012
+LRN00266,EMP01126,Product,L7,Excel Advanced,Domain,Custom,2023-04-27,2023-08-05,Completed,81,10.4,No,No,Blended,1.2,MGR0042
+LRN00267,EMP00641,IT,L6,DEI in the Workplace,Technical,HarvardX,2025-07-03,2025-10-28,Completed,86,33.0,No,Yes,Virtual Instructor-Led,2.4,MGR0010
+LRN00268,EMP01191,Operations,L7,Python for Data Science,Leadership,LinkedIn Learning,2023-01-22,2023-03-02,Completed,82,19.1,Yes,Yes,Online Self-Paced,3.2,MGR0009
+LRN00269,EMP00262,Engineering,L3,Power BI Essentials,Leadership,HarvardX,2023-01-02,2023-02-22,Completed,84,23.7,No,No,Online Self-Paced,3.1,MGR0034
+LRN00270,EMP00597,Legal,L4,Leadership Foundations,Soft Skills,LinkedIn Learning,2022-03-04,2022-04-04,Completed,68,19.1,No,No,Blended,4.3,MGR0037
+LRN00271,EMP00205,Sales,L4,Power BI Essentials,Domain,LinkedIn Learning,2025-06-11,2025-08-30,Dropped,70,2.8,No,No,Blended,3.9,MGR0050
+LRN00272,EMP00375,Product,L2,Leadership Foundations,Soft Skills,LinkedIn Learning,2022-03-21,2022-05-20,Not Started,53,6.6,No,No,Online Self-Paced,2.6,MGR0013
+LRN00273,EMP00949,Engineering,L6,Financial Acumen,Compliance,Coursera,2022-09-17,2022-11-21,Completed,92,38.8,No,No,In-Person,2.7,MGR0020
+LRN00274,EMP01100,Legal,L4,Safety & Compliance,Soft Skills,Custom,2024-02-21,2024-06-11,Not Started,76,24.8,Yes,No,Virtual Instructor-Led,3.9,MGR0020
+LRN00275,EMP00036,Engineering,L7,Python for Data Science,Technical,Coursera,2022-01-18,2022-04-14,Not Started,62,18.2,No,No,Online Self-Paced,1.1,MGR0031
+LRN00276,EMP01040,Marketing,L2,Excel Advanced,Leadership,Internal LMS,2023-05-08,2023-08-30,In Progress,64,19.5,No,Yes,Virtual Instructor-Led,3.9,MGR0018
+LRN00277,EMP00091,Sales,L3,Agile & Scrum Certification,Technical,Udemy,2023-11-06,2024-02-07,Dropped,73,18.7,No,No,Online Self-Paced,1.2,MGR0042
+LRN00278,EMP00074,Engineering,L3,DEI in the Workplace,Technical,Custom,2022-04-14,2022-05-29,Dropped,60,25.9,No,No,Virtual Instructor-Led,3.5,MGR0041
+LRN00279,EMP00618,Customer Success,L6,DEI in the Workplace,Technical,Internal LMS,2023-02-27,2023-04-05,In Progress,75,38.8,No,Yes,Online Self-Paced,4.8,MGR0045
+LRN00280,EMP00719,Data Science,L5,Python for Data Science,Technical,Pluralsight,2023-12-13,2024-03-13,Not Started,81,31.0,No,No,Online Self-Paced,4.8,MGR0014
+LRN00281,EMP01043,HR,L6,Financial Acumen,Domain,Coursera,2022-08-13,2022-10-06,Dropped,53,26.8,No,No,In-Person,2.6,MGR0041
+LRN00282,EMP00034,Sales,L6,Power BI Essentials,Domain,LinkedIn Learning,2023-10-17,2023-12-17,Not Started,95,39.5,No,Yes,In-Person,1.7,MGR0015
+LRN00283,EMP00826,Design,L3,Communication Skills,Soft Skills,LinkedIn Learning,2022-11-26,2023-01-03,Dropped,78,10.4,No,Yes,Online Self-Paced,1.2,MGR0024
+LRN00284,EMP00823,Engineering,L3,Agile & Scrum Certification,Domain,Udemy,2023-01-30,2023-03-11,In Progress,80,23.3,Yes,Yes,Virtual Instructor-Led,4.5,MGR0011
+LRN00285,EMP00985,Product,L3,SQL Mastery,Domain,Pluralsight,2025-08-18,2025-12-16,Completed,77,28.0,No,Yes,Blended,3.5,MGR0025
+LRN00286,EMP00737,Legal,L4,Design Thinking,Technical,LinkedIn Learning,2022-01-22,2022-05-03,In Progress,85,23.3,Yes,Yes,Blended,2.3,MGR0028
+LRN00287,EMP00450,Operations,L5,Negotiation Skills,Leadership,LinkedIn Learning,2023-09-16,2023-12-29,Dropped,70,9.3,No,No,Virtual Instructor-Led,1.5,MGR0017
+LRN00288,EMP00276,Customer Success,L6,DEI in the Workplace,Soft Skills,Pluralsight,2025-03-30,2025-05-11,Dropped,57,26.5,No,No,Blended,1.9,MGR0021
+LRN00289,EMP00563,IT,L4,Cloud Fundamentals,Compliance,HarvardX,2025-09-12,2026-01-07,In Progress,61,1.6,No,No,In-Person,3.1,MGR0016
+LRN00290,EMP00023,HR,L7,Design Thinking,Compliance,Pluralsight,2022-04-22,2022-05-29,Dropped,73,16.5,No,No,In-Person,3.5,MGR0047
+LRN00291,EMP01039,Customer Success,L3,Design Thinking,Leadership,Internal LMS,2022-03-22,2022-07-01,In Progress,55,35.8,No,No,Virtual Instructor-Led,4.7,MGR0029
+LRN00292,EMP00430,Finance,L1,Safety & Compliance,Domain,Custom,2024-11-02,2025-02-27,In Progress,58,37.6,Yes,Yes,Blended,3.6,MGR0006
+LRN00293,EMP00926,Data Science,L1,Leadership Foundations,Technical,Coursera,2024-10-02,2024-12-07,Completed,61,2.6,No,Yes,Blended,1.3,MGR0020
+LRN00294,EMP00932,Finance,L1,Safety & Compliance,Domain,LinkedIn Learning,2023-10-17,2024-01-19,Not Started,90,21.4,Yes,Yes,Online Self-Paced,4.0,MGR0006
+LRN00295,EMP00490,Engineering,L7,Design Thinking,Leadership,HarvardX,2023-04-12,2023-05-27,Not Started,85,23.8,No,Yes,Online Self-Paced,1.4,MGR0016
+LRN00296,EMP01169,Marketing,L1,Communication Skills,Domain,Custom,2026-06-01,2026-07-10,In Progress,79,30.8,No,No,In-Person,2.0,MGR0029
+LRN00297,EMP00862,Finance,L3,SQL Mastery,Technical,Pluralsight,2025-12-26,2026-03-05,Dropped,85,23.1,Yes,No,Virtual Instructor-Led,1.8,MGR0026
+LRN00298,EMP00908,Finance,L4,Cloud Fundamentals,Technical,HarvardX,2023-11-04,2024-02-17,Completed,68,20.9,Yes,Yes,Online Self-Paced,4.5,MGR0015
+LRN00299,EMP01070,Marketing,L7,Financial Acumen,Soft Skills,Internal LMS,2023-04-02,2023-06-25,Completed,86,19.1,No,Yes,Virtual Instructor-Led,2.5,MGR0027
+LRN00300,EMP01189,Sales,L4,Financial Acumen,Domain,Custom,2025-10-31,2026-02-10,In Progress,96,28.8,No,No,Online Self-Paced,3.7,MGR0033
+LRN00301,EMP00870,Design,L7,SQL Mastery,Compliance,Udemy,2026-07-21,2026-07-31,Dropped,73,33.7,No,No,In-Person,3.4,MGR0030
+LRN00302,EMP00889,Product,L2,Financial Acumen,Domain,LinkedIn Learning,2024-10-01,2024-11-05,Dropped,70,1.8,No,Yes,Virtual Instructor-Led,3.6,MGR0016
+LRN00303,EMP00973,HR,L7,Cloud Fundamentals,Leadership,Pluralsight,2026-05-18,2026-07-17,Not Started,79,31.0,Yes,Yes,Blended,3.0,MGR0033
+LRN00304,EMP00692,Product,L1,Safety & Compliance,Leadership,HarvardX,2024-04-08,2024-07-16,Not Started,66,33.7,Yes,No,Virtual Instructor-Led,1.3,MGR0030
+LRN00305,EMP00278,Sales,L2,Power BI Essentials,Technical,HarvardX,2023-03-07,2023-05-18,Dropped,93,22.6,No,Yes,Virtual Instructor-Led,4.9,MGR0050
+LRN00306,EMP00321,IT,L6,Design Thinking,Compliance,Internal LMS,2025-10-16,2026-01-17,Dropped,89,30.4,Yes,Yes,Blended,4.3,MGR0003
+LRN00307,EMP01193,Design,L1,Design Thinking,Domain,Custom,2024-06-17,2024-07-18,Dropped,58,7.9,Yes,No,In-Person,1.9,MGR0020
+LRN00308,EMP00162,IT,L7,Safety & Compliance,Compliance,Custom,2023-08-25,2023-11-21,Completed,90,22.1,No,No,Blended,1.5,MGR0046
+LRN00309,EMP00325,Finance,L5,Project Management Professional,Compliance,Custom,2024-06-19,2024-10-01,Dropped,65,10.6,No,No,Online Self-Paced,4.9,MGR0017
+LRN00310,EMP00856,Marketing,L6,Financial Acumen,Soft Skills,Udemy,2022-08-02,2022-09-23,Not Started,50,20.5,No,Yes,Blended,1.2,MGR0046
+LRN00311,EMP00293,Sales,L3,Design Thinking,Soft Skills,Udemy,2023-05-21,2023-08-16,Completed,54,27.2,Yes,No,Online Self-Paced,2.9,MGR0001
+LRN00312,EMP00684,Design,L5,DEI in the Workplace,Domain,Coursera,2023-07-03,2023-08-07,Dropped,55,36.4,Yes,Yes,Virtual Instructor-Led,1.3,MGR0007
+LRN00313,EMP01194,Data Science,L4,Python for Data Science,Compliance,LinkedIn Learning,2025-02-11,2025-04-06,Not Started,74,4.8,Yes,No,Virtual Instructor-Led,2.2,MGR0031
+LRN00314,EMP00526,Sales,L3,SQL Mastery,Compliance,Internal LMS,2025-12-18,2026-02-24,Not Started,55,32.4,No,Yes,Virtual Instructor-Led,4.7,MGR0022
+LRN00315,EMP00154,Legal,L7,Negotiation Skills,Compliance,HarvardX,2024-01-16,2024-05-04,Completed,72,26.4,No,Yes,Online Self-Paced,3.8,MGR0025
+LRN00316,EMP00477,Customer Success,L4,Financial Acumen,Compliance,Pluralsight,2023-02-14,2023-05-06,Not Started,51,2.7,No,No,Virtual Instructor-Led,2.3,MGR0021
+LRN00317,EMP00003,Sales,L5,Leadership Foundations,Soft Skills,Internal LMS,2025-08-27,2025-10-25,Dropped,66,18.7,No,No,Blended,4.4,MGR0041
+LRN00318,EMP00983,Product,L5,Machine Learning Basics,Technical,Custom,2026-05-16,2026-07-11,Not Started,54,12.7,No,Yes,In-Person,4.8,MGR0018
+LRN00319,EMP00888,Finance,L7,DEI in the Workplace,Technical,HarvardX,2025-01-26,2025-04-06,In Progress,72,36.7,Yes,No,Virtual Instructor-Led,4.9,MGR0048
+LRN00320,EMP00156,Customer Success,L3,Python for Data Science,Soft Skills,Coursera,2026-03-31,2026-07-15,In Progress,88,28.6,No,No,Online Self-Paced,4.1,MGR0014
+LRN00321,EMP00934,Sales,L1,Python for Data Science,Compliance,Pluralsight,2022-10-24,2023-02-14,Completed,61,17.5,No,Yes,In-Person,4.0,MGR0046
+LRN00322,EMP01149,Sales,L5,Negotiation Skills,Leadership,HarvardX,2022-02-22,2022-03-26,Not Started,53,37.2,Yes,No,Virtual Instructor-Led,2.0,MGR0044
+LRN00323,EMP00311,Data Science,L2,Design Thinking,Soft Skills,Coursera,2026-02-13,2026-04-24,In Progress,58,34.9,No,No,Blended,4.0,MGR0008
+LRN00324,EMP00346,Design,L3,DEI in the Workplace,Technical,Coursera,2022-08-16,2022-11-19,In Progress,50,35.4,No,Yes,Virtual Instructor-Led,4.0,MGR0008
+LRN00325,EMP00434,Data Science,L5,Excel Advanced,Compliance,Internal LMS,2024-11-15,2024-12-29,Dropped,81,23.0,No,No,Blended,1.5,MGR0046
+LRN00326,EMP00895,Engineering,L4,DEI in the Workplace,Technical,LinkedIn Learning,2025-03-19,2025-06-17,In Progress,89,38.0,No,Yes,Virtual Instructor-Led,4.8,MGR0046
+LRN00327,EMP01158,Sales,L2,Financial Acumen,Leadership,Internal LMS,2023-10-31,2023-12-26,Completed,73,10.3,No,Yes,Blended,3.9,MGR0046
+LRN00328,EMP00726,Design,L7,Machine Learning Basics,Technical,Custom,2023-09-30,2023-12-03,Completed,86,10.5,No,No,Blended,1.4,MGR0028
+LRN00329,EMP00340,Customer Success,L6,DEI in the Workplace,Domain,Coursera,2025-02-01,2025-03-12,In Progress,68,11.8,No,Yes,Blended,1.8,MGR0009
+LRN00330,EMP01000,Engineering,L2,Project Management Professional,Soft Skills,Custom,2025-05-09,2025-08-29,Not Started,91,34.7,No,Yes,Virtual Instructor-Led,4.9,MGR0011
+LRN00331,EMP00285,Marketing,L3,Excel Advanced,Soft Skills,Coursera,2023-03-22,2023-06-17,In Progress,75,20.7,Yes,Yes,In-Person,2.0,MGR0019
+LRN00332,EMP00280,Customer Success,L7,Safety & Compliance,Domain,Internal LMS,2023-12-03,2024-03-03,Not Started,89,0.8,No,No,In-Person,3.8,MGR0029
+LRN00333,EMP00640,HR,L3,Agile & Scrum Certification,Technical,LinkedIn Learning,2024-05-18,2024-07-31,Dropped,87,12.3,Yes,No,In-Person,1.7,MGR0023
+LRN00334,EMP00362,IT,L2,Machine Learning Basics,Leadership,Internal LMS,2023-03-21,2023-05-28,Not Started,92,21.7,No,No,In-Person,1.5,MGR0038
+LRN00335,EMP00654,Engineering,L7,Project Management Professional,Domain,Udemy,2024-01-26,2024-04-26,Not Started,66,20.0,Yes,No,Blended,1.1,MGR0028
+LRN00336,EMP00365,Operations,L7,Financial Acumen,Technical,LinkedIn Learning,2024-05-17,2024-09-14,Dropped,61,7.9,No,Yes,Blended,2.8,MGR0008
+LRN00337,EMP00585,Customer Success,L4,Excel Advanced,Compliance,Pluralsight,2023-06-15,2023-08-16,In Progress,77,5.1,No,Yes,Online Self-Paced,2.3,MGR0028
+LRN00338,EMP00274,Design,L1,Design Thinking,Domain,Custom,2025-01-30,2025-03-07,In Progress,51,29.1,Yes,Yes,Virtual Instructor-Led,5.0,MGR0038
+LRN00339,EMP00730,Marketing,L6,Leadership Foundations,Technical,HarvardX,2022-09-22,2023-01-20,Not Started,99,6.2,No,No,Blended,3.3,MGR0014
+LRN00340,EMP00322,Product,L7,Negotiation Skills,Domain,Coursera,2022-04-12,2022-07-26,Completed,60,12.9,Yes,Yes,Virtual Instructor-Led,1.7,MGR0039
+LRN00341,EMP00279,Operations,L7,Safety & Compliance,Domain,Custom,2025-02-23,2025-06-06,In Progress,71,31.7,No,Yes,Virtual Instructor-Led,2.7,MGR0003
+LRN00342,EMP00365,Marketing,L3,Python for Data Science,Domain,LinkedIn Learning,2023-04-21,2023-08-12,Dropped,80,25.9,Yes,Yes,Blended,4.1,MGR0007
+LRN00343,EMP00217,Operations,L1,Cloud Fundamentals,Soft Skills,Pluralsight,2024-10-01,2024-12-11,In Progress,68,15.6,No,Yes,Online Self-Paced,3.2,MGR0008
+LRN00344,EMP00173,Marketing,L2,Machine Learning Basics,Domain,Udemy,2024-01-04,2024-03-23,Completed,51,38.6,No,No,In-Person,4.7,MGR0007
+LRN00345,EMP00906,Sales,L3,DEI in the Workplace,Technical,Coursera,2026-05-15,2026-07-31,Not Started,82,29.0,No,No,Virtual Instructor-Led,3.8,MGR0040
+LRN00346,EMP00044,Sales,L2,Communication Skills,Domain,Pluralsight,2025-10-10,2026-01-02,Not Started,83,27.7,No,Yes,Virtual Instructor-Led,4.9,MGR0044
+LRN00347,EMP00905,Customer Success,L6,SQL Mastery,Soft Skills,LinkedIn Learning,2025-11-09,2026-01-20,Not Started,92,34.5,No,No,Blended,1.3,MGR0038
+LRN00348,EMP00900,Data Science,L7,Machine Learning Basics,Soft Skills,LinkedIn Learning,2023-09-11,2023-10-16,Dropped,55,24.2,Yes,Yes,Virtual Instructor-Led,2.5,MGR0015
+LRN00349,EMP00457,Operations,L5,Excel Advanced,Technical,HarvardX,2024-04-02,2024-07-01,In Progress,62,11.0,No,Yes,In-Person,2.3,MGR0047
+LRN00350,EMP00889,Legal,L2,Design Thinking,Technical,HarvardX,2025-01-17,2025-05-10,Not Started,92,9.2,No,Yes,Blended,1.4,MGR0022
+LRN00351,EMP00299,Sales,L1,Design Thinking,Domain,Custom,2023-09-15,2023-12-18,Not Started,89,10.6,Yes,Yes,Blended,2.3,MGR0038
+LRN00352,EMP00241,Product,L2,Power BI Essentials,Soft Skills,HarvardX,2023-11-19,2024-02-06,Dropped,69,22.2,No,Yes,Online Self-Paced,1.9,MGR0029
+LRN00353,EMP00048,Design,L1,Financial Acumen,Technical,Pluralsight,2023-06-25,2023-10-02,Completed,57,33.1,Yes,No,Virtual Instructor-Led,3.2,MGR0012
+LRN00354,EMP00556,HR,L2,SQL Mastery,Compliance,Custom,2023-07-15,2023-09-16,Not Started,55,26.8,Yes,No,In-Person,4.4,MGR0005
+LRN00355,EMP00231,Operations,L3,Design Thinking,Leadership,Udemy,2024-07-10,2024-10-22,Completed,91,36.0,No,No,In-Person,3.1,MGR0039
+LRN00356,EMP00059,Finance,L5,Agile & Scrum Certification,Technical,Pluralsight,2023-02-24,2023-03-31,Completed,52,38.3,No,No,Blended,3.5,MGR0006
+LRN00357,EMP01098,Design,L2,Power BI Essentials,Leadership,LinkedIn Learning,2025-05-19,2025-08-07,Dropped,87,38.4,No,No,Blended,2.2,MGR0049
+LRN00358,EMP00487,Design,L1,Safety & Compliance,Compliance,LinkedIn Learning,2025-12-04,2026-02-15,Completed,91,37.9,No,Yes,Online Self-Paced,1.2,MGR0029
+LRN00359,EMP00118,IT,L1,Safety & Compliance,Domain,Udemy,2022-08-14,2022-10-30,Completed,51,32.3,No,Yes,Online Self-Paced,3.2,MGR0022
+LRN00360,EMP01022,Finance,L5,Agile & Scrum Certification,Compliance,HarvardX,2023-03-17,2023-05-31,In Progress,88,7.9,No,No,Blended,3.9,MGR0022
+LRN00361,EMP01157,HR,L3,Cloud Fundamentals,Soft Skills,Pluralsight,2023-06-09,2023-07-22,In Progress,99,39.6,Yes,Yes,Blended,3.5,MGR0041
+LRN00362,EMP01143,Legal,L6,Machine Learning Basics,Leadership,Coursera,2026-02-27,2026-04-05,Completed,88,18.8,No,Yes,Blended,3.5,MGR0034
+LRN00363,EMP00951,Design,L4,Excel Advanced,Leadership,HarvardX,2022-09-05,2022-10-27,Not Started,71,36.8,Yes,Yes,Online Self-Paced,1.7,MGR0029
+LRN00364,EMP00858,Sales,L3,Design Thinking,Technical,Pluralsight,2024-08-06,2024-09-08,Dropped,82,34.5,No,Yes,In-Person,2.6,MGR0028
+LRN00365,EMP00040,Engineering,L3,Design Thinking,Leadership,Custom,2026-05-23,2026-07-31,Dropped,76,13.0,Yes,Yes,In-Person,2.0,MGR0023
+LRN00366,EMP00618,Product,L5,Machine Learning Basics,Compliance,LinkedIn Learning,2025-01-21,2025-05-07,Dropped,54,10.5,Yes,Yes,In-Person,1.1,MGR0038
+LRN00367,EMP00686,Finance,L6,Agile & Scrum Certification,Compliance,Custom,2022-02-13,2022-05-27,Dropped,60,26.1,No,Yes,Online Self-Paced,2.7,MGR0016
+LRN00368,EMP00936,Design,L2,Negotiation Skills,Domain,Custom,2025-02-03,2025-05-30,Completed,79,36.1,No,No,Blended,2.4,MGR0010
+LRN00369,EMP00610,Marketing,L1,Design Thinking,Leadership,LinkedIn Learning,2023-06-10,2023-08-20,Dropped,87,24.0,Yes,No,In-Person,4.1,MGR0005
+LRN00370,EMP00269,Finance,L3,Negotiation Skills,Technical,Custom,2022-07-29,2022-10-27,Dropped,85,9.7,No,No,Online Self-Paced,3.7,MGR0040
+LRN00371,EMP01048,Engineering,L7,Leadership Foundations,Domain,Coursera,2024-05-13,2024-06-30,Dropped,57,30.7,No,No,Virtual Instructor-Led,1.8,MGR0039
+LRN00372,EMP00469,Operations,L2,Cloud Fundamentals,Soft Skills,LinkedIn Learning,2025-08-16,2025-09-25,Dropped,90,38.3,No,No,In-Person,2.3,MGR0005
+LRN00373,EMP00261,Legal,L1,Power BI Essentials,Compliance,HarvardX,2023-02-22,2023-04-26,In Progress,78,36.9,Yes,Yes,Virtual Instructor-Led,1.9,MGR0042
+LRN00374,EMP00272,Data Science,L6,Cloud Fundamentals,Technical,LinkedIn Learning,2026-05-06,2026-06-26,Not Started,93,9.3,No,No,Blended,3.9,MGR0002
+LRN00375,EMP00929,Sales,L5,Cloud Fundamentals,Compliance,Coursera,2026-05-19,2026-07-17,Completed,98,3.6,No,No,Virtual Instructor-Led,2.3,MGR0027
+LRN00376,EMP01138,Product,L3,Power BI Essentials,Technical,Custom,2022-12-30,2023-04-04,Not Started,84,37.4,No,Yes,Blended,2.2,MGR0010
+LRN00377,EMP00706,Marketing,L7,Financial Acumen,Domain,Udemy,2022-08-15,2022-10-16,Not Started,83,18.9,Yes,No,Blended,1.8,MGR0040
+LRN00378,EMP00097,HR,L2,Excel Advanced,Technical,Udemy,2023-03-05,2023-06-13,Completed,79,0.6,No,Yes,In-Person,2.3,MGR0017
+LRN00379,EMP00180,Marketing,L7,Negotiation Skills,Compliance,LinkedIn Learning,2026-07-22,2026-07-31,Completed,84,22.1,No,No,Online Self-Paced,4.4,MGR0005
+LRN00380,EMP01178,Design,L1,DEI in the Workplace,Compliance,Internal LMS,2024-08-18,2024-12-15,Not Started,90,14.9,No,No,Blended,4.7,MGR0049
+LRN00381,EMP00772,Marketing,L3,Power BI Essentials,Soft Skills,Udemy,2025-12-27,2026-02-08,Completed,81,5.4,No,Yes,Virtual Instructor-Led,2.2,MGR0024
+LRN00382,EMP00983,Design,L3,Leadership Foundations,Soft Skills,Internal LMS,2025-11-14,2026-01-31,Not Started,89,29.0,No,Yes,Online Self-Paced,1.2,MGR0009
+LRN00383,EMP00600,Marketing,L2,Power BI Essentials,Soft Skills,LinkedIn Learning,2023-01-14,2023-04-05,Dropped,69,9.5,No,Yes,In-Person,4.7,MGR0039
+LRN00384,EMP00925,Data Science,L6,Excel Advanced,Technical,LinkedIn Learning,2025-06-29,2025-08-06,Not Started,58,38.4,No,No,Online Self-Paced,4.4,MGR0040
+LRN00385,EMP01185,HR,L6,Python for Data Science,Soft Skills,Custom,2025-10-27,2026-01-25,Dropped,90,10.6,Yes,Yes,Online Self-Paced,3.0,MGR0049
+LRN00386,EMP00503,Sales,L1,Leadership Foundations,Technical,Pluralsight,2025-11-21,2026-01-04,Completed,93,30.8,No,Yes,Online Self-Paced,4.3,MGR0012
+LRN00387,EMP00096,Finance,L5,Communication Skills,Soft Skills,Udemy,2025-08-20,2025-11-26,Dropped,95,14.2,Yes,Yes,In-Person,1.8,MGR0044
+LRN00388,EMP00372,Marketing,L4,Negotiation Skills,Domain,Coursera,2025-07-20,2025-10-31,In Progress,97,24.2,No,No,Virtual Instructor-Led,1.7,MGR0018
+LRN00389,EMP01114,Customer Success,L7,Cloud Fundamentals,Technical,Udemy,2024-12-18,2025-03-10,Dropped,72,18.8,No,No,In-Person,1.9,MGR0023
+LRN00390,EMP00337,Customer Success,L5,Leadership Foundations,Compliance,Udemy,2025-05-05,2025-07-04,Completed,60,35.0,No,No,Virtual Instructor-Led,2.0,MGR0017
+LRN00391,EMP00135,Sales,L4,Python for Data Science,Domain,Internal LMS,2025-04-06,2025-07-31,Dropped,84,27.4,Yes,Yes,Virtual Instructor-Led,1.7,MGR0042
+LRN00392,EMP00546,Data Science,L3,Machine Learning Basics,Domain,Custom,2026-01-01,2026-03-09,Not Started,79,31.7,No,No,In-Person,4.1,MGR0026
+LRN00393,EMP00636,Finance,L3,Leadership Foundations,Compliance,Coursera,2026-05-13,2026-06-27,Not Started,79,6.0,Yes,No,Virtual Instructor-Led,2.5,MGR0004
+LRN00394,EMP00132,HR,L2,Negotiation Skills,Domain,LinkedIn Learning,2024-09-09,2024-11-12,In Progress,84,5.6,No,No,Blended,1.5,MGR0050
+LRN00395,EMP00434,Design,L5,Communication Skills,Compliance,Internal LMS,2022-09-28,2022-12-13,In Progress,71,29.1,Yes,Yes,Blended,1.7,MGR0001
+LRN00396,EMP00960,Product,L6,Design Thinking,Leadership,LinkedIn Learning,2024-04-26,2024-08-13,Dropped,85,1.5,No,No,Blended,3.2,MGR0011
+LRN00397,EMP00981,Operations,L2,DEI in the Workplace,Technical,Custom,2022-04-15,2022-07-30,Completed,98,26.5,No,Yes,Online Self-Paced,3.0,MGR0047
+LRN00398,EMP00657,Engineering,L4,Power BI Essentials,Domain,Pluralsight,2023-03-08,2023-05-15,Not Started,71,0.9,Yes,No,Online Self-Paced,2.4,MGR0044
+LRN00399,EMP00543,Legal,L2,Safety & Compliance,Domain,Internal LMS,2022-06-27,2022-09-15,Dropped,60,3.3,No,Yes,Blended,4.5,MGR0012
+LRN00400,EMP00472,Customer Success,L7,Leadership Foundations,Compliance,Internal LMS,2023-09-27,2023-12-12,Dropped,72,3.8,No,No,In-Person,1.8,MGR0003
+LRN00401,EMP00607,Finance,L4,Financial Acumen,Leadership,Coursera,2022-05-23,2022-08-30,Not Started,70,13.3,No,Yes,Online Self-Paced,1.5,MGR0010
+LRN00402,EMP00151,IT,L6,Negotiation Skills,Domain,HarvardX,2022-10-14,2023-01-16,Not Started,85,4.5,Yes,Yes,Online Self-Paced,4.8,MGR0039
+LRN00403,EMP00115,Customer Success,L5,Project Management Professional,Domain,HarvardX,2023-05-17,2023-07-15,Completed,86,28.2,No,Yes,Online Self-Paced,1.7,MGR0020
+LRN00404,EMP01024,Legal,L4,Cloud Fundamentals,Domain,Udemy,2022-05-22,2022-06-26,Dropped,83,8.5,No,Yes,Blended,3.8,MGR0029
+LRN00405,EMP00124,Data Science,L1,Machine Learning Basics,Technical,Pluralsight,2023-08-16,2023-12-08,Dropped,81,9.2,No,No,Virtual Instructor-Led,2.5,MGR0039
+LRN00406,EMP00038,Design,L1,Excel Advanced,Technical,Coursera,2023-12-18,2024-03-03,Not Started,62,2.5,No,No,Virtual Instructor-Led,2.0,MGR0013
+LRN00407,EMP00530,Legal,L4,DEI in the Workplace,Leadership,Udemy,2024-06-03,2024-07-10,Dropped,80,25.6,No,No,In-Person,1.1,MGR0041
+LRN00408,EMP00549,Customer Success,L2,Excel Advanced,Technical,LinkedIn Learning,2022-06-26,2022-10-13,Not Started,71,38.1,No,Yes,Online Self-Paced,4.6,MGR0023
+LRN00409,EMP00656,HR,L2,Leadership Foundations,Soft Skills,Custom,2024-02-07,2024-05-30,Not Started,72,13.0,No,No,In-Person,4.2,MGR0001
+LRN00410,EMP01071,HR,L6,SQL Mastery,Technical,Udemy,2023-12-24,2024-02-12,In Progress,85,20.4,No,Yes,Blended,4.5,MGR0033
+LRN00411,EMP01083,Engineering,L1,Python for Data Science,Soft Skills,HarvardX,2025-03-30,2025-07-24,Not Started,99,35.6,No,No,In-Person,4.8,MGR0047
+LRN00412,EMP00066,Operations,L2,Machine Learning Basics,Leadership,HarvardX,2023-02-05,2023-04-30,Completed,66,34.8,Yes,No,Virtual Instructor-Led,3.6,MGR0002
+LRN00413,EMP00332,Product,L3,Financial Acumen,Leadership,LinkedIn Learning,2024-08-01,2024-09-05,Not Started,53,7.7,No,Yes,Blended,3.3,MGR0015
+LRN00414,EMP00907,Product,L6,Project Management Professional,Domain,Custom,2025-05-18,2025-06-27,Completed,66,20.6,Yes,No,Online Self-Paced,4.0,MGR0017
+LRN00415,EMP00607,Customer Success,L7,Safety & Compliance,Domain,Internal LMS,2022-12-16,2023-04-06,Completed,69,4.6,No,No,Online Self-Paced,2.0,MGR0044
+LRN00416,EMP01062,Product,L4,Design Thinking,Domain,Custom,2024-11-15,2025-01-28,Completed,70,28.1,No,Yes,Virtual Instructor-Led,3.4,MGR0042
+LRN00417,EMP00935,Data Science,L7,DEI in the Workplace,Technical,HarvardX,2023-02-13,2023-03-23,Dropped,85,21.2,Yes,No,Blended,4.4,MGR0045
+LRN00418,EMP00471,Engineering,L7,DEI in the Workplace,Domain,Internal LMS,2023-04-28,2023-07-27,Completed,69,4.5,No,Yes,In-Person,1.6,MGR0025
+LRN00419,EMP00936,Finance,L1,SQL Mastery,Compliance,Coursera,2024-10-01,2024-12-26,Not Started,76,29.5,No,No,Blended,1.8,MGR0029
+LRN00420,EMP00774,Finance,L2,SQL Mastery,Technical,HarvardX,2022-07-27,2022-11-24,Completed,56,38.3,No,No,Virtual Instructor-Led,2.2,MGR0032
+LRN00421,EMP00882,Customer Success,L4,Agile & Scrum Certification,Soft Skills,Pluralsight,2022-08-29,2022-10-18,Not Started,76,25.7,No,Yes,Virtual Instructor-Led,2.3,MGR0001
+LRN00422,EMP00168,Engineering,L2,Machine Learning Basics,Domain,Pluralsight,2022-09-09,2022-11-03,Completed,100,11.1,Yes,No,Online Self-Paced,1.2,MGR0006
+LRN00423,EMP00265,Engineering,L7,Leadership Foundations,Soft Skills,Custom,2026-02-27,2026-05-07,Dropped,66,28.2,Yes,No,Blended,3.3,MGR0007
+LRN00424,EMP00562,Marketing,L2,Negotiation Skills,Domain,LinkedIn Learning,2025-04-19,2025-06-11,Completed,61,10.7,No,No,Blended,4.0,MGR0033
+LRN00425,EMP01021,Engineering,L5,Excel Advanced,Soft Skills,Pluralsight,2022-02-21,2022-06-13,Not Started,78,11.1,No,No,In-Person,1.7,MGR0018
+LRN00426,EMP00635,Data Science,L4,Python for Data Science,Leadership,Udemy,2023-01-01,2023-04-20,Completed,90,13.1,No,No,Blended,2.7,MGR0041
+LRN00427,EMP00004,Product,L7,Financial Acumen,Leadership,Pluralsight,2022-09-27,2022-12-24,In Progress,58,31.5,No,Yes,Blended,4.9,MGR0033
+LRN00428,EMP00494,HR,L7,Agile & Scrum Certification,Compliance,Internal LMS,2024-04-20,2024-06-18,Dropped,73,35.0,Yes,Yes,Online Self-Paced,3.8,MGR0033
+LRN00429,EMP00660,Legal,L6,Design Thinking,Domain,Pluralsight,2026-01-13,2026-02-17,In Progress,85,12.5,Yes,Yes,Blended,3.1,MGR0027
+LRN00430,EMP00271,Data Science,L4,Project Management Professional,Compliance,Pluralsight,2025-11-18,2026-01-24,Completed,93,35.1,No,No,Online Self-Paced,2.1,MGR0030
+LRN00431,EMP00168,Operations,L2,Cloud Fundamentals,Soft Skills,HarvardX,2023-10-31,2024-02-15,In Progress,75,35.8,Yes,No,Online Self-Paced,4.6,MGR0050
+LRN00432,EMP00265,HR,L6,Project Management Professional,Leadership,LinkedIn Learning,2026-06-26,2026-07-31,Completed,50,27.4,No,No,Online Self-Paced,2.7,MGR0031
+LRN00433,EMP01132,Marketing,L6,Agile & Scrum Certification,Soft Skills,Internal LMS,2026-02-05,2026-05-26,Not Started,62,0.7,No,Yes,Virtual Instructor-Led,4.8,MGR0008
+LRN00434,EMP01053,Customer Success,L1,SQL Mastery,Domain,LinkedIn Learning,2022-09-19,2022-11-14,Not Started,84,32.9,No,Yes,Virtual Instructor-Led,1.7,MGR0010
+LRN00435,EMP00625,Finance,L2,Agile & Scrum Certification,Technical,Custom,2023-04-07,2023-06-26,Completed,83,9.0,Yes,No,In-Person,3.2,MGR0043
+LRN00436,EMP00337,HR,L6,Power BI Essentials,Leadership,Coursera,2022-12-08,2023-03-12,Not Started,77,30.3,No,Yes,Blended,1.3,MGR0033
+LRN00437,EMP00193,Customer Success,L4,Power BI Essentials,Leadership,LinkedIn Learning,2025-12-19,2026-02-17,In Progress,78,37.5,No,Yes,Online Self-Paced,4.1,MGR0023
+LRN00438,EMP00732,Finance,L3,Safety & Compliance,Leadership,Coursera,2025-09-17,2025-12-17,Completed,95,2.5,No,No,In-Person,4.1,MGR0011
+LRN00439,EMP00703,IT,L6,Design Thinking,Soft Skills,Coursera,2022-12-25,2023-01-28,In Progress,81,10.5,No,Yes,Virtual Instructor-Led,4.1,MGR0029
+LRN00440,EMP00456,Marketing,L6,Python for Data Science,Technical,Udemy,2023-07-05,2023-10-27,Completed,91,31.4,No,Yes,Blended,3.0,MGR0028
+LRN00441,EMP00782,Product,L7,Communication Skills,Domain,Internal LMS,2026-03-10,2026-06-22,Dropped,81,38.2,No,No,Virtual Instructor-Led,1.9,MGR0022
+LRN00442,EMP01028,HR,L4,Negotiation Skills,Domain,LinkedIn Learning,2023-04-01,2023-05-24,In Progress,84,29.1,No,Yes,In-Person,2.7,MGR0047
+LRN00443,EMP00940,Legal,L7,Leadership Foundations,Domain,Coursera,2023-08-16,2023-11-13,Completed,59,29.9,Yes,No,Blended,1.6,MGR0035
+LRN00444,EMP01177,IT,L3,Excel Advanced,Leadership,Internal LMS,2022-03-15,2022-07-07,In Progress,98,18.5,No,Yes,Blended,3.9,MGR0029
+LRN00445,EMP00112,Sales,L4,Design Thinking,Technical,LinkedIn Learning,2022-11-06,2022-12-20,Dropped,70,25.7,No,No,Blended,2.8,MGR0019
+LRN00446,EMP00508,Operations,L1,Python for Data Science,Soft Skills,Udemy,2024-09-09,2024-11-16,Not Started,66,27.8,Yes,No,Online Self-Paced,3.8,MGR0032
+LRN00447,EMP01007,Customer Success,L7,Financial Acumen,Domain,LinkedIn Learning,2025-07-09,2025-09-07,Completed,60,39.1,No,Yes,Online Self-Paced,4.9,MGR0001
+LRN00448,EMP00440,HR,L3,Leadership Foundations,Domain,Udemy,2025-02-21,2025-04-07,Not Started,95,12.9,Yes,Yes,Virtual Instructor-Led,1.2,MGR0015
+LRN00449,EMP00021,HR,L7,Communication Skills,Compliance,Coursera,2024-11-09,2024-12-22,In Progress,78,29.6,Yes,Yes,In-Person,4.2,MGR0002
+LRN00450,EMP00555,Customer Success,L5,Machine Learning Basics,Domain,LinkedIn Learning,2026-06-16,2026-07-31,Dropped,94,14.9,No,Yes,Virtual Instructor-Led,3.8,MGR0042
+LRN00451,EMP00273,Product,L5,Python for Data Science,Domain,Pluralsight,2025-04-09,2025-05-27,In Progress,94,26.7,No,Yes,Online Self-Paced,3.5,MGR0027
+LRN00452,EMP00064,Finance,L4,Design Thinking,Soft Skills,Pluralsight,2023-01-01,2023-03-25,In Progress,52,30.9,Yes,No,Online Self-Paced,4.7,MGR0049
+LRN00453,EMP01117,Legal,L4,Python for Data Science,Soft Skills,HarvardX,2023-06-12,2023-08-29,Dropped,66,11.3,No,Yes,Online Self-Paced,3.2,MGR0006
+LRN00454,EMP00217,Operations,L3,Machine Learning Basics,Leadership,Udemy,2022-03-28,2022-05-19,Not Started,71,35.6,No,Yes,Online Self-Paced,5.0,MGR0048
+LRN00455,EMP01077,Product,L2,Communication Skills,Domain,Internal LMS,2022-04-06,2022-05-28,In Progress,51,5.7,No,Yes,Blended,3.8,MGR0024
+LRN00456,EMP00235,Data Science,L3,Design Thinking,Leadership,Udemy,2022-11-21,2023-03-16,In Progress,65,3.2,Yes,No,Virtual Instructor-Led,2.1,MGR0047
+LRN00457,EMP00786,HR,L5,Excel Advanced,Soft Skills,Udemy,2024-03-01,2024-05-26,Not Started,100,23.5,No,No,Blended,2.9,MGR0042
+LRN00458,EMP01043,Design,L3,SQL Mastery,Technical,Internal LMS,2025-03-17,2025-05-10,Not Started,75,36.8,No,No,In-Person,4.6,MGR0049
+LRN00459,EMP00781,Customer Success,L2,Agile & Scrum Certification,Domain,Udemy,2022-05-05,2022-08-23,Dropped,56,17.4,No,No,Virtual Instructor-Led,3.5,MGR0037
+LRN00460,EMP01019,Product,L7,Power BI Essentials,Soft Skills,Custom,2022-07-11,2022-08-12,Not Started,65,30.4,Yes,Yes,Online Self-Paced,4.1,MGR0002
+LRN00461,EMP00988,Design,L4,Project Management Professional,Leadership,LinkedIn Learning,2022-03-07,2022-06-11,In Progress,96,16.6,No,No,Online Self-Paced,3.3,MGR0032
+LRN00462,EMP00098,HR,L2,Excel Advanced,Compliance,LinkedIn Learning,2025-10-22,2026-01-25,Completed,89,8.4,No,Yes,Blended,4.9,MGR0017
+LRN00463,EMP00597,Operations,L3,Machine Learning Basics,Compliance,HarvardX,2025-08-21,2025-10-26,Not Started,80,37.9,No,No,Virtual Instructor-Led,2.2,MGR0029
+LRN00464,EMP00942,Sales,L4,Agile & Scrum Certification,Technical,Udemy,2026-07-31,2026-07-31,Dropped,78,23.0,No,Yes,Online Self-Paced,3.7,MGR0025
+LRN00465,EMP00448,Product,L4,DEI in the Workplace,Domain,Custom,2022-09-05,2022-10-26,In Progress,78,15.3,No,No,Virtual Instructor-Led,4.6,MGR0035
+LRN00466,EMP01061,Product,L5,Python for Data Science,Domain,LinkedIn Learning,2024-10-05,2024-11-26,Completed,61,37.9,No,No,Virtual Instructor-Led,2.3,MGR0046
+LRN00467,EMP01138,Sales,L3,SQL Mastery,Soft Skills,LinkedIn Learning,2026-06-02,2026-07-06,In Progress,74,7.3,No,Yes,Virtual Instructor-Led,1.8,MGR0027
+LRN00468,EMP01040,Finance,L3,Power BI Essentials,Soft Skills,HarvardX,2022-09-25,2022-11-17,In Progress,82,10.5,Yes,Yes,In-Person,4.5,MGR0009
+LRN00469,EMP00089,Finance,L2,Excel Advanced,Technical,Pluralsight,2022-04-30,2022-06-07,In Progress,82,30.6,Yes,Yes,In-Person,2.9,MGR0040
+LRN00470,EMP00858,Legal,L7,Machine Learning Basics,Soft Skills,Pluralsight,2024-03-24,2024-05-19,Completed,62,38.9,No,Yes,In-Person,1.2,MGR0040
+LRN00471,EMP00974,Operations,L1,Power BI Essentials,Soft Skills,Udemy,2023-03-19,2023-07-14,Not Started,83,4.9,Yes,No,Blended,3.3,MGR0007
+LRN00472,EMP00596,Operations,L1,DEI in the Workplace,Leadership,LinkedIn Learning,2025-02-13,2025-05-19,Not Started,89,30.1,No,Yes,In-Person,1.4,MGR0037
+LRN00473,EMP00081,Operations,L4,Project Management Professional,Compliance,Custom,2023-06-22,2023-10-17,Not Started,90,32.4,No,No,Online Self-Paced,4.7,MGR0007
+LRN00474,EMP00946,Operations,L7,Excel Advanced,Domain,Udemy,2022-04-07,2022-08-05,Dropped,60,6.0,No,No,In-Person,1.2,MGR0012
+LRN00475,EMP00509,Design,L7,Leadership Foundations,Leadership,Custom,2023-11-20,2024-01-12,Dropped,60,15.2,No,No,In-Person,3.5,MGR0016
+LRN00476,EMP00028,Product,L5,Communication Skills,Domain,Coursera,2025-10-26,2026-01-06,Not Started,100,17.4,No,Yes,Virtual Instructor-Led,3.5,MGR0029
+LRN00477,EMP00994,Customer Success,L2,DEI in the Workplace,Technical,Udemy,2025-09-27,2025-12-06,Completed,76,8.5,Yes,No,Blended,1.7,MGR0049
+LRN00478,EMP00613,Engineering,L5,Financial Acumen,Domain,Custom,2024-09-15,2024-10-19,Dropped,63,18.9,No,Yes,Online Self-Paced,3.0,MGR0018
+LRN00479,EMP00031,HR,L4,Leadership Foundations,Compliance,HarvardX,2024-12-27,2025-04-21,Not Started,69,10.4,No,Yes,In-Person,2.5,MGR0002
+LRN00480,EMP00666,Design,L5,Agile & Scrum Certification,Domain,Internal LMS,2025-09-24,2025-11-02,Not Started,86,7.6,No,Yes,In-Person,3.9,MGR0003
+LRN00481,EMP00274,Marketing,L7,DEI in the Workplace,Leadership,Internal LMS,2025-12-23,2026-01-30,Completed,92,19.8,No,No,Virtual Instructor-Led,2.7,MGR0016
+LRN00482,EMP00095,Operations,L5,Agile & Scrum Certification,Soft Skills,LinkedIn Learning,2025-01-11,2025-04-11,Completed,92,37.9,No,Yes,In-Person,3.7,MGR0007
+LRN00483,EMP00768,IT,L2,Leadership Foundations,Soft Skills,Coursera,2024-09-24,2024-12-17,Completed,52,21.9,No,No,Blended,1.8,MGR0042
+LRN00484,EMP00514,Product,L6,DEI in the Workplace,Soft Skills,LinkedIn Learning,2022-06-06,2022-07-28,Dropped,71,2.5,No,No,In-Person,3.0,MGR0021
+LRN00485,EMP00969,IT,L5,Machine Learning Basics,Soft Skills,Pluralsight,2023-02-03,2023-05-09,Completed,77,28.6,Yes,No,In-Person,1.3,MGR0037
+LRN00486,EMP01040,Customer Success,L4,Agile & Scrum Certification,Compliance,HarvardX,2025-01-29,2025-04-29,In Progress,100,7.6,No,No,In-Person,2.2,MGR0030
+LRN00487,EMP00977,Data Science,L4,Python for Data Science,Soft Skills,LinkedIn Learning,2023-08-08,2023-11-12,Not Started,97,13.9,No,No,In-Person,4.4,MGR0019
+LRN00488,EMP00475,Marketing,L7,Safety & Compliance,Compliance,Internal LMS,2026-03-22,2026-05-01,Completed,96,33.1,No,No,Virtual Instructor-Led,2.9,MGR0004
+LRN00489,EMP00706,Legal,L2,SQL Mastery,Soft Skills,Custom,2022-06-22,2022-10-09,Completed,84,2.7,No,Yes,Blended,4.9,MGR0038
+LRN00490,EMP00055,Engineering,L5,Communication Skills,Compliance,Udemy,2022-11-03,2023-01-02,Completed,77,28.9,No,No,Online Self-Paced,2.6,MGR0044
+LRN00491,EMP00633,IT,L7,Power BI Essentials,Leadership,Coursera,2024-04-02,2024-07-03,Not Started,71,27.9,No,Yes,Virtual Instructor-Led,1.9,MGR0006
+LRN00492,EMP01191,HR,L6,Excel Advanced,Compliance,Custom,2023-06-24,2023-08-29,Not Started,86,27.6,No,Yes,Blended,2.7,MGR0021
+LRN00493,EMP00530,Product,L5,Safety & Compliance,Technical,LinkedIn Learning,2023-03-02,2023-06-12,Completed,51,6.5,Yes,Yes,Online Self-Paced,1.1,MGR0011
+LRN00494,EMP00857,Legal,L4,Design Thinking,Technical,Udemy,2026-03-11,2026-06-20,Completed,82,28.8,No,No,In-Person,3.8,MGR0046
+LRN00495,EMP00143,Legal,L2,Safety & Compliance,Soft Skills,Custom,2025-04-03,2025-06-24,Not Started,50,6.3,No,Yes,In-Person,1.2,MGR0006
+LRN00496,EMP00273,IT,L1,Communication Skills,Leadership,Internal LMS,2022-11-12,2023-01-06,Dropped,70,39.5,No,No,Online Self-Paced,4.8,MGR0030
+LRN00497,EMP00808,Sales,L4,Excel Advanced,Compliance,Coursera,2024-03-20,2024-07-05,In Progress,63,21.5,Yes,Yes,Blended,4.5,MGR0003
+LRN00498,EMP00899,Product,L7,Cloud Fundamentals,Compliance,Internal LMS,2022-08-25,2022-11-13,Completed,84,9.2,No,No,Online Self-Paced,2.9,MGR0021
+LRN00499,EMP00934,Customer Success,L7,Design Thinking,Leadership,LinkedIn Learning,2022-01-20,2022-03-07,In Progress,64,5.1,No,Yes,In-Person,3.4,MGR0025
+LRN00500,EMP00212,Product,L3,Leadership Foundations,Technical,Custom,2022-12-21,2023-04-11,In Progress,78,14.3,No,Yes,Blended,2.1,MGR0047
+LRN00501,EMP00837,Design,L4,Project Management Professional,Domain,Pluralsight,2026-02-17,2026-04-11,In Progress,89,28.9,No,Yes,Blended,3.1,MGR0003
+LRN00502,EMP01077,Finance,L6,DEI in the Workplace,Soft Skills,Coursera,2022-11-23,2023-02-07,Not Started,72,26.4,Yes,Yes,Virtual Instructor-Led,1.3,MGR0039
+LRN00503,EMP01161,Sales,L3,Cloud Fundamentals,Domain,HarvardX,2025-10-05,2026-01-18,Not Started,58,13.2,No,No,Virtual Instructor-Led,4.8,MGR0006
+LRN00504,EMP01173,Legal,L3,Agile & Scrum Certification,Domain,HarvardX,2026-05-04,2026-07-31,Completed,71,31.8,No,No,In-Person,3.7,MGR0038
+LRN00505,EMP00206,Finance,L3,Excel Advanced,Technical,LinkedIn Learning,2025-03-08,2025-04-24,Completed,90,30.6,No,Yes,Blended,1.3,MGR0048
+LRN00506,EMP00880,Engineering,L7,Agile & Scrum Certification,Leadership,LinkedIn Learning,2025-07-24,2025-09-10,Completed,50,1.8,No,No,Blended,2.4,MGR0006
+LRN00507,EMP00124,Customer Success,L3,Project Management Professional,Soft Skills,Internal LMS,2022-03-24,2022-05-31,In Progress,72,27.3,No,No,Blended,4.3,MGR0012
+LRN00508,EMP00113,Design,L6,Communication Skills,Compliance,Internal LMS,2022-12-05,2023-01-16,Dropped,55,1.2,No,No,Virtual Instructor-Led,3.4,MGR0010
+LRN00509,EMP00444,Design,L7,Negotiation Skills,Soft Skills,Custom,2025-06-23,2025-10-04,Completed,79,39.6,No,No,Blended,1.6,MGR0016
+LRN00510,EMP01075,Design,L2,Project Management Professional,Domain,HarvardX,2023-11-16,2024-03-09,Not Started,55,18.8,No,Yes,Online Self-Paced,2.2,MGR0031
+LRN00511,EMP00082,Finance,L5,Power BI Essentials,Technical,HarvardX,2022-02-17,2022-05-15,Dropped,58,18.8,No,Yes,In-Person,2.4,MGR0035
+LRN00512,EMP00943,Design,L3,Power BI Essentials,Domain,Coursera,2022-11-19,2023-01-07,Dropped,98,32.0,No,No,Online Self-Paced,2.7,MGR0014
+LRN00513,EMP01085,HR,L4,Power BI Essentials,Leadership,Coursera,2023-09-15,2023-10-15,Completed,66,35.9,No,No,Blended,2.9,MGR0050
+LRN00514,EMP00510,Customer Success,L1,Negotiation Skills,Domain,Internal LMS,2022-03-03,2022-05-09,Completed,84,13.0,No,Yes,Virtual Instructor-Led,3.3,MGR0007
+LRN00515,EMP00248,Design,L1,Agile & Scrum Certification,Compliance,Coursera,2022-03-31,2022-05-27,Completed,73,30.7,Yes,Yes,In-Person,1.2,MGR0038
+LRN00516,EMP00041,Engineering,L6,Project Management Professional,Soft Skills,Udemy,2024-04-17,2024-07-20,Not Started,92,21.3,No,No,In-Person,1.6,MGR0023
+LRN00517,EMP00952,Product,L4,Project Management Professional,Compliance,Udemy,2023-01-15,2023-03-28,Not Started,94,17.7,No,No,Virtual Instructor-Led,3.3,MGR0032
+LRN00518,EMP00699,Engineering,L1,DEI in the Workplace,Leadership,Coursera,2024-10-08,2024-12-23,In Progress,95,16.6,No,No,In-Person,1.6,MGR0012
+LRN00519,EMP00355,Sales,L4,SQL Mastery,Technical,Pluralsight,2026-04-12,2026-06-26,In Progress,62,20.6,Yes,No,Blended,1.3,MGR0019
+LRN00520,EMP00045,Design,L6,Power BI Essentials,Compliance,Udemy,2023-01-07,2023-04-10,Dropped,89,9.2,No,No,Online Self-Paced,2.2,MGR0016
+LRN00521,EMP00785,Design,L2,SQL Mastery,Leadership,Custom,2024-11-25,2025-01-23,Completed,81,13.8,No,Yes,Virtual Instructor-Led,3.9,MGR0013
+LRN00522,EMP00610,Product,L4,Machine Learning Basics,Soft Skills,Coursera,2025-07-17,2025-08-23,Dropped,70,39.1,No,Yes,Blended,4.5,MGR0028
+LRN00523,EMP00615,Data Science,L7,SQL Mastery,Domain,Pluralsight,2023-12-31,2024-02-07,Not Started,93,25.7,No,Yes,Online Self-Paced,3.6,MGR0046
+LRN00524,EMP01045,Operations,L5,Cloud Fundamentals,Technical,Internal LMS,2024-10-03,2025-01-26,Not Started,90,34.6,No,No,Blended,2.6,MGR0040
+LRN00525,EMP00943,Operations,L1,Communication Skills,Soft Skills,LinkedIn Learning,2022-02-13,2022-03-27,Not Started,99,14.4,Yes,Yes,Blended,4.7,MGR0039
+LRN00526,EMP01117,Sales,L5,Project Management Professional,Soft Skills,Custom,2025-07-05,2025-10-20,Dropped,56,3.9,Yes,Yes,Blended,1.3,MGR0033
+LRN00527,EMP00259,IT,L4,Cloud Fundamentals,Technical,Custom,2024-06-16,2024-07-26,In Progress,76,20.5,Yes,No,Blended,1.7,MGR0017
+LRN00528,EMP00124,Legal,L1,Communication Skills,Technical,Custom,2023-01-17,2023-02-28,Dropped,89,30.8,No,No,Online Self-Paced,2.4,MGR0016
+LRN00529,EMP00312,Legal,L5,Negotiation Skills,Leadership,HarvardX,2023-11-15,2023-12-23,Not Started,95,18.2,Yes,Yes,Virtual Instructor-Led,1.7,MGR0046
+LRN00530,EMP00066,Design,L4,Negotiation Skills,Leadership,Coursera,2022-08-04,2022-10-16,Dropped,73,25.1,No,Yes,Virtual Instructor-Led,2.0,MGR0003
+LRN00531,EMP00416,Finance,L5,DEI in the Workplace,Domain,Custom,2026-07-11,2026-07-31,Completed,70,16.7,No,Yes,Online Self-Paced,2.8,MGR0050
+LRN00532,EMP00118,Data Science,L6,Agile & Scrum Certification,Soft Skills,Coursera,2022-06-11,2022-07-19,Completed,83,27.8,No,Yes,Online Self-Paced,3.3,MGR0032
+LRN00533,EMP00429,Operations,L1,Machine Learning Basics,Compliance,Internal LMS,2024-12-30,2025-03-07,Not Started,89,8.0,Yes,Yes,Online Self-Paced,1.6,MGR0019
+LRN00534,EMP00008,IT,L5,Safety & Compliance,Leadership,Internal LMS,2024-06-26,2024-08-08,In Progress,72,26.2,Yes,No,In-Person,3.8,MGR0029
+LRN00535,EMP00521,Product,L1,Machine Learning Basics,Domain,Custom,2024-04-23,2024-08-18,Dropped,94,5.6,No,Yes,Blended,3.2,MGR0008
+LRN00536,EMP00181,Finance,L3,Cloud Fundamentals,Leadership,Custom,2023-01-24,2023-05-12,Not Started,85,26.2,No,Yes,Online Self-Paced,4.3,MGR0029
+LRN00537,EMP01090,Finance,L6,Cloud Fundamentals,Compliance,HarvardX,2026-04-15,2026-07-20,Not Started,71,21.7,Yes,Yes,Virtual Instructor-Led,1.6,MGR0047
+LRN00538,EMP00776,Data Science,L1,Excel Advanced,Technical,Pluralsight,2024-09-17,2024-10-23,Dropped,98,17.6,No,Yes,In-Person,1.7,MGR0038
+LRN00539,EMP00582,Finance,L3,Communication Skills,Technical,HarvardX,2023-01-29,2023-05-14,Completed,75,17.9,No,Yes,Online Self-Paced,3.9,MGR0001
+LRN00540,EMP01141,HR,L1,SQL Mastery,Leadership,HarvardX,2026-04-02,2026-06-06,Not Started,62,33.5,No,Yes,Online Self-Paced,3.7,MGR0034
+LRN00541,EMP00343,Operations,L4,Cloud Fundamentals,Compliance,Internal LMS,2023-06-09,2023-08-01,In Progress,79,39.3,No,Yes,In-Person,3.3,MGR0030
+LRN00542,EMP00638,Customer Success,L4,Project Management Professional,Domain,Pluralsight,2022-09-15,2023-01-06,In Progress,60,6.9,No,Yes,In-Person,1.1,MGR0012
+LRN00543,EMP00914,Finance,L6,SQL Mastery,Domain,LinkedIn Learning,2024-07-05,2024-08-28,In Progress,83,10.6,Yes,Yes,Blended,4.5,MGR0022
+LRN00544,EMP01012,Data Science,L6,Safety & Compliance,Compliance,Coursera,2024-12-17,2025-02-05,In Progress,100,3.8,No,Yes,Online Self-Paced,3.9,MGR0001
+LRN00545,EMP00308,HR,L6,Agile & Scrum Certification,Leadership,LinkedIn Learning,2025-07-22,2025-09-14,In Progress,93,33.2,No,Yes,In-Person,2.5,MGR0050
+LRN00546,EMP00736,Engineering,L7,Python for Data Science,Leadership,LinkedIn Learning,2023-03-07,2023-05-16,Dropped,65,22.0,No,No,Blended,3.3,MGR0041
+LRN00547,EMP00387,Legal,L7,Communication Skills,Domain,Udemy,2026-03-28,2026-07-15,Not Started,89,3.3,No,No,Online Self-Paced,4.4,MGR0046
+LRN00548,EMP00635,Finance,L7,Communication Skills,Compliance,Coursera,2025-08-10,2025-12-07,In Progress,88,15.9,No,Yes,Blended,4.4,MGR0038
+LRN00549,EMP00320,Customer Success,L2,Leadership Foundations,Domain,HarvardX,2023-10-01,2024-01-08,Dropped,56,16.2,No,No,Virtual Instructor-Led,2.0,MGR0020
+LRN00550,EMP01049,Engineering,L5,Leadership Foundations,Technical,Internal LMS,2023-01-14,2023-03-18,Completed,74,20.7,No,No,Blended,1.0,MGR0023
+LRN00551,EMP00531,Data Science,L5,Leadership Foundations,Technical,HarvardX,2025-10-19,2026-02-12,Not Started,52,37.8,No,No,In-Person,4.9,MGR0026
+LRN00552,EMP00196,Marketing,L4,Safety & Compliance,Compliance,Pluralsight,2023-12-25,2024-01-26,Dropped,72,32.2,No,Yes,Virtual Instructor-Led,3.1,MGR0017
+LRN00553,EMP00847,Marketing,L7,DEI in the Workplace,Leadership,Coursera,2024-01-19,2024-03-27,Not Started,77,33.9,Yes,No,Virtual Instructor-Led,1.6,MGR0014
+LRN00554,EMP00614,Product,L4,Python for Data Science,Compliance,Pluralsight,2022-04-18,2022-07-11,Dropped,76,39.2,No,No,Online Self-Paced,1.7,MGR0037
+LRN00555,EMP00448,HR,L7,Cloud Fundamentals,Compliance,Internal LMS,2025-01-27,2025-03-10,Not Started,74,19.7,No,Yes,Virtual Instructor-Led,2.5,MGR0011
+LRN00556,EMP00207,Finance,L6,DEI in the Workplace,Leadership,Udemy,2025-06-13,2025-08-09,Not Started,90,26.3,No,Yes,Virtual Instructor-Led,1.3,MGR0047
+LRN00557,EMP00801,Design,L6,Project Management Professional,Soft Skills,Udemy,2022-06-14,2022-10-10,Not Started,66,31.3,No,No,Blended,1.8,MGR0001
+LRN00558,EMP00130,Customer Success,L1,Leadership Foundations,Soft Skills,Pluralsight,2024-07-25,2024-09-25,Not Started,57,26.7,No,No,Blended,4.8,MGR0043
+LRN00559,EMP01033,Design,L7,Safety & Compliance,Technical,HarvardX,2022-06-18,2022-08-01,Not Started,64,28.9,No,No,Online Self-Paced,2.4,MGR0018
+LRN00560,EMP01184,Sales,L5,Negotiation Skills,Domain,Pluralsight,2022-06-08,2022-08-15,Not Started,92,31.6,Yes,No,In-Person,1.7,MGR0006
+LRN00561,EMP00269,Marketing,L4,Agile & Scrum Certification,Technical,Internal LMS,2023-09-30,2023-12-14,Completed,60,33.5,No,Yes,Blended,1.1,MGR0008
+LRN00562,EMP00484,Operations,L4,Machine Learning Basics,Compliance,Coursera,2022-04-12,2022-05-23,Completed,52,1.7,No,No,Blended,1.1,MGR0049
+LRN00563,EMP00309,Customer Success,L6,Communication Skills,Compliance,HarvardX,2022-09-04,2022-12-26,Dropped,61,16.3,No,Yes,In-Person,1.2,MGR0005
+LRN00564,EMP01134,Legal,L4,Safety & Compliance,Technical,Internal LMS,2022-01-17,2022-05-13,In Progress,97,23.3,No,Yes,Virtual Instructor-Led,2.3,MGR0043
+LRN00565,EMP00794,Finance,L2,Financial Acumen,Domain,Coursera,2022-04-05,2022-06-02,Not Started,86,34.0,No,No,Blended,4.8,MGR0043
+LRN00566,EMP01102,Design,L7,SQL Mastery,Compliance,Custom,2022-06-11,2022-09-15,Not Started,54,39.6,Yes,Yes,Virtual Instructor-Led,2.1,MGR0025
+LRN00567,EMP00718,IT,L6,Power BI Essentials,Soft Skills,LinkedIn Learning,2022-03-13,2022-07-11,Dropped,59,18.8,No,No,Virtual Instructor-Led,2.6,MGR0046
+LRN00568,EMP00430,Legal,L1,Leadership Foundations,Leadership,Custom,2026-06-08,2026-07-31,Dropped,53,28.4,No,Yes,Blended,1.6,MGR0040
+LRN00569,EMP00574,Product,L6,Communication Skills,Compliance,Pluralsight,2024-11-04,2025-02-05,Completed,97,32.1,No,No,Blended,1.5,MGR0025
+LRN00570,EMP00573,Customer Success,L2,Negotiation Skills,Domain,Custom,2025-03-20,2025-07-08,Not Started,75,29.0,Yes,No,Blended,3.0,MGR0036
+LRN00571,EMP00848,Product,L7,Safety & Compliance,Domain,Pluralsight,2026-04-08,2026-06-19,In Progress,96,5.9,No,No,Virtual Instructor-Led,3.5,MGR0003
+LRN00572,EMP00801,Sales,L7,DEI in the Workplace,Domain,Pluralsight,2023-04-10,2023-06-05,In Progress,74,29.4,No,No,Online Self-Paced,3.5,MGR0047
+LRN00573,EMP00585,Marketing,L7,Design Thinking,Leadership,Custom,2024-06-16,2024-09-04,In Progress,78,29.6,Yes,Yes,Blended,1.3,MGR0005
+LRN00574,EMP00888,Operations,L5,Cloud Fundamentals,Domain,LinkedIn Learning,2025-01-31,2025-04-29,Not Started,75,31.4,No,Yes,In-Person,4.3,MGR0022
+LRN00575,EMP00669,Legal,L3,SQL Mastery,Soft Skills,Coursera,2023-09-12,2024-01-08,Dropped,97,30.3,No,Yes,Online Self-Paced,1.8,MGR0040
+LRN00576,EMP00288,Marketing,L2,Design Thinking,Technical,Internal LMS,2022-10-20,2022-12-12,Completed,53,9.6,No,Yes,In-Person,3.6,MGR0029
+LRN00577,EMP00441,Product,L6,Python for Data Science,Technical,Coursera,2025-02-26,2025-04-26,In Progress,71,31.0,No,No,Blended,3.8,MGR0023
+LRN00578,EMP00015,Sales,L2,DEI in the Workplace,Leadership,Pluralsight,2025-05-07,2025-09-01,In Progress,89,6.6,Yes,Yes,Virtual Instructor-Led,1.8,MGR0001
+LRN00579,EMP00586,Operations,L4,Cloud Fundamentals,Compliance,HarvardX,2026-03-05,2026-04-04,Not Started,53,37.0,No,No,Online Self-Paced,4.7,MGR0006
+LRN00580,EMP00319,Customer Success,L2,Power BI Essentials,Soft Skills,Pluralsight,2023-04-08,2023-07-01,Not Started,89,10.0,No,No,Virtual Instructor-Led,1.4,MGR0036
+LRN00581,EMP00040,Design,L6,Power BI Essentials,Leadership,Pluralsight,2022-01-29,2022-03-25,In Progress,77,30.1,No,No,Online Self-Paced,2.2,MGR0004
+LRN00582,EMP01022,Data Science,L4,Leadership Foundations,Domain,Internal LMS,2023-08-05,2023-10-20,Dropped,55,36.3,No,Yes,Online Self-Paced,3.6,MGR0001
+LRN00583,EMP00591,Data Science,L2,Negotiation Skills,Domain,Coursera,2024-03-26,2024-05-16,In Progress,54,29.8,No,No,Virtual Instructor-Led,3.6,MGR0010
+LRN00584,EMP00132,Engineering,L6,Project Management Professional,Domain,Custom,2022-03-27,2022-07-01,Completed,50,19.5,No,Yes,Virtual Instructor-Led,3.6,MGR0044
+LRN00585,EMP00615,Design,L4,Project Management Professional,Leadership,Custom,2024-10-16,2024-11-19,Completed,89,35.7,No,No,Online Self-Paced,1.0,MGR0035
+LRN00586,EMP00629,Finance,L3,Excel Advanced,Compliance,Coursera,2023-02-21,2023-05-24,Not Started,58,11.0,No,Yes,Blended,3.0,MGR0036
+LRN00587,EMP00974,Design,L4,Python for Data Science,Leadership,Coursera,2023-06-23,2023-10-05,In Progress,82,27.0,No,Yes,Online Self-Paced,3.4,MGR0024
+LRN00588,EMP00141,IT,L7,Leadership Foundations,Technical,Internal LMS,2024-06-18,2024-10-08,In Progress,97,23.9,No,Yes,In-Person,4.6,MGR0002
+LRN00589,EMP00313,Finance,L2,Communication Skills,Technical,Internal LMS,2025-10-03,2026-01-18,Dropped,63,4.7,No,Yes,Blended,4.4,MGR0019
+LRN00590,EMP00136,Customer Success,L4,Negotiation Skills,Soft Skills,Custom,2023-07-31,2023-10-24,Dropped,55,27.7,No,No,Virtual Instructor-Led,3.3,MGR0027
+LRN00591,EMP00041,Finance,L2,Negotiation Skills,Domain,Udemy,2022-09-14,2022-11-29,Completed,53,38.0,No,Yes,Online Self-Paced,3.9,MGR0034
+LRN00592,EMP00308,Operations,L5,Machine Learning Basics,Leadership,Coursera,2026-01-29,2026-03-06,Dropped,72,4.3,No,No,Virtual Instructor-Led,4.4,MGR0021
+LRN00593,EMP00656,Marketing,L7,Design Thinking,Domain,Pluralsight,2022-09-01,2022-10-04,Completed,69,24.6,No,Yes,In-Person,2.1,MGR0037
+LRN00594,EMP00765,Engineering,L5,Agile & Scrum Certification,Domain,HarvardX,2022-02-19,2022-05-02,Completed,80,30.1,Yes,No,Virtual Instructor-Led,4.2,MGR0049
+LRN00595,EMP00982,HR,L7,Python for Data Science,Domain,Custom,2023-08-03,2023-10-28,Dropped,71,37.2,No,Yes,Virtual Instructor-Led,1.7,MGR0048
+LRN00596,EMP00521,Finance,L1,Power BI Essentials,Leadership,HarvardX,2024-12-05,2025-01-28,Not Started,85,26.3,No,Yes,Online Self-Paced,1.9,MGR0048
+LRN00597,EMP00031,Engineering,L2,Power BI Essentials,Leadership,Internal LMS,2024-09-03,2024-12-11,In Progress,62,13.6,Yes,No,Virtual Instructor-Led,2.9,MGR0043
+LRN00598,EMP00758,Product,L1,Cloud Fundamentals,Domain,Custom,2022-06-19,2022-09-24,In Progress,60,20.5,No,Yes,In-Person,1.4,MGR0007
+LRN00599,EMP00461,Operations,L7,Agile & Scrum Certification,Leadership,Custom,2023-10-01,2023-12-08,Completed,95,30.2,No,No,In-Person,3.7,MGR0029
+LRN00600,EMP00587,Data Science,L4,Machine Learning Basics,Compliance,HarvardX,2026-02-02,2026-04-02,In Progress,64,2.7,Yes,Yes,Online Self-Paced,3.7,MGR0045
+LRN00601,EMP01122,Sales,L5,Leadership Foundations,Compliance,HarvardX,2023-11-26,2024-02-29,Not Started,65,14.1,No,Yes,Virtual Instructor-Led,2.4,MGR0035
+LRN00602,EMP00069,Design,L6,DEI in the Workplace,Domain,Internal LMS,2025-09-20,2026-01-06,Completed,86,26.4,No,Yes,Blended,4.7,MGR0016
+LRN00603,EMP00138,Marketing,L7,Design Thinking,Domain,Custom,2023-03-14,2023-05-09,Dropped,97,34.5,No,No,Blended,4.1,MGR0022
+LRN00604,EMP00122,Marketing,L2,Python for Data Science,Domain,LinkedIn Learning,2025-09-08,2025-11-24,In Progress,84,28.4,No,Yes,Blended,3.4,MGR0005
+LRN00605,EMP00378,Design,L3,SQL Mastery,Compliance,LinkedIn Learning,2023-03-11,2023-06-18,In Progress,93,15.1,Yes,No,Blended,1.5,MGR0011
+LRN00606,EMP00235,Design,L3,Python for Data Science,Soft Skills,Pluralsight,2022-04-02,2022-07-05,In Progress,67,1.2,No,No,Online Self-Paced,4.2,MGR0042
+LRN00607,EMP00123,Sales,L6,Python for Data Science,Domain,HarvardX,2024-05-12,2024-07-09,Completed,78,32.3,No,No,Virtual Instructor-Led,1.7,MGR0024
+LRN00608,EMP00454,Data Science,L7,Power BI Essentials,Domain,Custom,2024-01-07,2024-04-05,Not Started,62,4.5,No,Yes,Blended,1.4,MGR0012
+LRN00609,EMP00325,Finance,L1,Cloud Fundamentals,Technical,LinkedIn Learning,2025-09-15,2025-11-01,Not Started,86,8.3,No,Yes,Virtual Instructor-Led,2.4,MGR0041
+LRN00610,EMP00379,Marketing,L5,Safety & Compliance,Compliance,LinkedIn Learning,2022-04-03,2022-07-27,Dropped,73,39.2,No,No,Virtual Instructor-Led,4.7,MGR0023
+LRN00611,EMP01150,Data Science,L1,Financial Acumen,Leadership,Custom,2022-06-16,2022-09-09,Not Started,61,4.9,No,Yes,In-Person,1.3,MGR0047
+LRN00612,EMP00571,Finance,L4,Safety & Compliance,Domain,Coursera,2023-04-22,2023-07-23,Dropped,89,31.6,No,Yes,Online Self-Paced,2.4,MGR0006
+LRN00613,EMP00752,Design,L6,Safety & Compliance,Technical,Custom,2026-06-28,2026-07-31,Not Started,95,8.0,No,Yes,In-Person,1.9,MGR0040
+LRN00614,EMP01138,Sales,L3,Cloud Fundamentals,Domain,Pluralsight,2023-07-12,2023-10-15,In Progress,94,15.9,No,No,In-Person,1.9,MGR0044
+LRN00615,EMP00423,Sales,L3,Machine Learning Basics,Technical,Coursera,2024-10-05,2025-01-20,Completed,64,39.2,Yes,Yes,Online Self-Paced,1.9,MGR0006
+LRN00616,EMP00238,Data Science,L3,Python for Data Science,Soft Skills,Internal LMS,2022-05-24,2022-08-09,Dropped,84,31.8,No,Yes,Blended,4.6,MGR0017
+LRN00617,EMP00626,Design,L6,Agile & Scrum Certification,Leadership,LinkedIn Learning,2024-11-02,2025-01-13,In Progress,69,37.1,No,No,In-Person,1.1,MGR0033
+LRN00618,EMP00470,Customer Success,L2,Project Management Professional,Domain,Pluralsight,2022-10-30,2022-12-11,Dropped,55,9.7,No,Yes,In-Person,3.7,MGR0035
+LRN00619,EMP00060,Product,L2,Negotiation Skills,Leadership,Udemy,2026-05-03,2026-06-17,Not Started,74,9.3,No,No,Virtual Instructor-Led,3.1,MGR0028
+LRN00620,EMP01065,Legal,L2,Negotiation Skills,Domain,Udemy,2026-07-27,2026-07-31,Completed,63,38.3,No,Yes,Virtual Instructor-Led,4.1,MGR0049
+LRN00621,EMP00987,Engineering,L3,DEI in the Workplace,Compliance,Coursera,2022-09-17,2022-11-03,Dropped,94,12.1,No,No,In-Person,2.4,MGR0021
+LRN00622,EMP00370,Finance,L3,Project Management Professional,Technical,Coursera,2025-06-17,2025-08-16,In Progress,57,1.7,Yes,No,In-Person,3.9,MGR0047
+LRN00623,EMP00668,Design,L6,Negotiation Skills,Technical,Internal LMS,2022-02-18,2022-04-19,In Progress,80,9.4,No,Yes,In-Person,3.6,MGR0032
+LRN00624,EMP01094,Data Science,L7,Cloud Fundamentals,Technical,HarvardX,2022-07-06,2022-08-30,In Progress,68,30.5,No,Yes,Online Self-Paced,3.9,MGR0027
+LRN00625,EMP00476,HR,L3,Agile & Scrum Certification,Soft Skills,Coursera,2022-07-14,2022-09-13,Dropped,53,7.2,No,No,In-Person,4.0,MGR0049
+LRN00626,EMP00801,HR,L3,Machine Learning Basics,Domain,LinkedIn Learning,2025-11-13,2026-01-15,Completed,91,14.5,No,Yes,Online Self-Paced,4.0,MGR0017
+LRN00627,EMP00277,Marketing,L7,Machine Learning Basics,Leadership,Pluralsight,2025-03-02,2025-05-25,Dropped,73,5.9,No,Yes,In-Person,1.4,MGR0001
+LRN00628,EMP00370,Product,L3,Communication Skills,Soft Skills,Internal LMS,2024-11-15,2025-01-31,Dropped,72,34.3,No,No,Online Self-Paced,3.0,MGR0013
+LRN00629,EMP00973,Design,L7,Power BI Essentials,Soft Skills,Internal LMS,2023-04-10,2023-06-04,Not Started,98,37.9,No,Yes,Virtual Instructor-Led,1.4,MGR0026
+LRN00630,EMP00109,Product,L1,Machine Learning Basics,Technical,Pluralsight,2023-05-15,2023-07-26,In Progress,51,10.7,No,Yes,Virtual Instructor-Led,2.0,MGR0004
+LRN00631,EMP00827,Operations,L6,Communication Skills,Soft Skills,Internal LMS,2022-12-29,2023-03-30,Not Started,93,12.0,No,No,Blended,3.0,MGR0021
+LRN00632,EMP00204,Legal,L1,Project Management Professional,Leadership,Internal LMS,2022-10-22,2022-11-26,In Progress,82,23.9,No,Yes,Virtual Instructor-Led,4.1,MGR0044
+LRN00633,EMP00417,Finance,L5,Financial Acumen,Soft Skills,Internal LMS,2025-04-13,2025-07-12,In Progress,73,9.1,No,No,Virtual Instructor-Led,4.2,MGR0048
+LRN00634,EMP00597,Marketing,L6,Negotiation Skills,Soft Skills,Coursera,2023-10-27,2024-01-17,Dropped,55,38.2,No,No,Blended,1.2,MGR0014
+LRN00635,EMP00134,IT,L1,SQL Mastery,Soft Skills,Udemy,2024-06-01,2024-07-29,In Progress,100,6.1,No,No,In-Person,3.4,MGR0005
+LRN00636,EMP00544,Product,L4,Financial Acumen,Leadership,LinkedIn Learning,2023-09-04,2023-11-08,Not Started,64,35.7,No,No,Blended,3.4,MGR0045
+LRN00637,EMP00282,Product,L4,Excel Advanced,Compliance,Coursera,2024-06-10,2024-09-21,Dropped,92,36.3,No,Yes,Online Self-Paced,1.2,MGR0030
+LRN00638,EMP01087,Marketing,L2,Financial Acumen,Leadership,HarvardX,2025-04-22,2025-08-01,Completed,80,20.3,No,No,Blended,1.9,MGR0012
+LRN00639,EMP00223,Customer Success,L4,Project Management Professional,Technical,HarvardX,2022-06-02,2022-08-20,In Progress,74,25.9,No,No,Virtual Instructor-Led,2.3,MGR0044
+LRN00640,EMP00099,Operations,L7,Machine Learning Basics,Domain,Udemy,2022-08-28,2022-10-24,Not Started,69,31.3,No,No,Online Self-Paced,1.1,MGR0019
+LRN00641,EMP00535,Product,L7,Machine Learning Basics,Domain,Coursera,2024-07-07,2024-10-19,In Progress,91,16.2,Yes,No,Blended,4.5,MGR0047
+LRN00642,EMP00084,Customer Success,L4,DEI in the Workplace,Leadership,Pluralsight,2025-12-09,2026-02-27,Dropped,64,26.1,No,No,Blended,4.3,MGR0015
+LRN00643,EMP00769,Legal,L2,Design Thinking,Compliance,Coursera,2025-06-30,2025-09-28,In Progress,75,1.0,No,No,In-Person,1.0,MGR0001
+LRN00644,EMP01145,Finance,L1,Financial Acumen,Leadership,Pluralsight,2025-08-26,2025-10-24,Completed,56,3.1,No,Yes,Virtual Instructor-Led,1.0,MGR0042
+LRN00645,EMP00025,Product,L4,Design Thinking,Domain,HarvardX,2024-08-18,2024-11-20,Dropped,57,36.7,No,No,Blended,3.8,MGR0027
+LRN00646,EMP00535,Engineering,L2,Project Management Professional,Technical,Coursera,2024-05-23,2024-09-01,Completed,59,7.2,No,No,In-Person,4.4,MGR0028
+LRN00647,EMP00847,Operations,L1,Safety & Compliance,Compliance,Pluralsight,2022-06-20,2022-09-13,Dropped,76,39.7,No,No,Blended,4.3,MGR0020
+LRN00648,EMP01116,Customer Success,L2,Power BI Essentials,Domain,Coursera,2023-03-24,2023-05-18,Not Started,51,25.1,Yes,Yes,Blended,4.6,MGR0005
+LRN00649,EMP00830,Finance,L5,Project Management Professional,Compliance,Udemy,2024-07-21,2024-10-15,Not Started,60,18.0,No,No,Online Self-Paced,3.7,MGR0044
+LRN00650,EMP00053,Design,L7,Cloud Fundamentals,Compliance,Internal LMS,2024-07-24,2024-10-21,In Progress,53,30.2,No,No,In-Person,4.4,MGR0025
+LRN00651,EMP00671,Marketing,L5,SQL Mastery,Soft Skills,HarvardX,2025-11-09,2026-02-23,Not Started,80,4.9,Yes,No,Blended,3.2,MGR0032
+LRN00652,EMP00235,Design,L1,Python for Data Science,Technical,Udemy,2023-04-21,2023-08-01,Dropped,80,16.4,Yes,Yes,Virtual Instructor-Led,1.6,MGR0002
+LRN00653,EMP00512,Design,L6,SQL Mastery,Compliance,Custom,2025-08-20,2025-10-05,In Progress,82,7.1,No,No,In-Person,1.7,MGR0002
+LRN00654,EMP00637,Sales,L2,Agile & Scrum Certification,Compliance,HarvardX,2025-05-18,2025-09-15,Dropped,61,25.5,Yes,Yes,Online Self-Paced,1.7,MGR0017
+LRN00655,EMP00054,IT,L3,Leadership Foundations,Technical,Coursera,2026-07-24,2026-07-31,Dropped,71,10.8,No,No,In-Person,1.4,MGR0050
+LRN00656,EMP00655,Legal,L6,DEI in the Workplace,Domain,Coursera,2024-03-08,2024-05-30,Not Started,88,37.6,Yes,Yes,Blended,1.6,MGR0040
+LRN00657,EMP00988,Operations,L6,Safety & Compliance,Leadership,LinkedIn Learning,2026-07-15,2026-07-31,In Progress,95,36.0,No,Yes,Online Self-Paced,2.6,MGR0020
+LRN00658,EMP00364,Customer Success,L5,Communication Skills,Domain,Pluralsight,2023-04-30,2023-08-17,Not Started,78,2.0,Yes,No,Online Self-Paced,3.2,MGR0009
+LRN00659,EMP00968,Sales,L1,Agile & Scrum Certification,Compliance,Pluralsight,2023-04-02,2023-05-09,Dropped,56,26.4,No,No,In-Person,2.7,MGR0040
+LRN00660,EMP00789,Design,L5,Cloud Fundamentals,Domain,Udemy,2022-04-21,2022-07-25,Not Started,84,37.2,No,Yes,Virtual Instructor-Led,3.6,MGR0030
+LRN00661,EMP00992,IT,L7,Python for Data Science,Compliance,Coursera,2026-06-19,2026-07-31,Dropped,71,3.5,No,Yes,In-Person,4.8,MGR0037
+LRN00662,EMP00111,HR,L5,Financial Acumen,Soft Skills,HarvardX,2024-07-13,2024-10-14,In Progress,64,37.7,Yes,Yes,In-Person,4.6,MGR0017
+LRN00663,EMP00397,Marketing,L6,Cloud Fundamentals,Soft Skills,HarvardX,2025-09-29,2026-01-24,Not Started,90,12.4,Yes,No,Virtual Instructor-Led,4.8,MGR0010
+LRN00664,EMP00069,Design,L7,Machine Learning Basics,Domain,Udemy,2022-01-29,2022-04-15,Dropped,61,28.0,No,Yes,In-Person,3.2,MGR0034
+LRN00665,EMP00470,Finance,L7,Excel Advanced,Technical,LinkedIn Learning,2022-05-18,2022-07-23,Dropped,91,11.7,No,No,Blended,1.9,MGR0045
+LRN00666,EMP00174,Design,L6,Agile & Scrum Certification,Technical,Internal LMS,2023-10-11,2024-01-02,Completed,79,37.2,Yes,Yes,In-Person,1.9,MGR0008
+LRN00667,EMP01191,Product,L5,Excel Advanced,Compliance,Udemy,2026-02-02,2026-06-01,Dropped,57,18.8,Yes,Yes,In-Person,3.5,MGR0014
+LRN00668,EMP00077,Engineering,L7,Communication Skills,Soft Skills,Pluralsight,2025-12-20,2026-02-22,Completed,78,6.7,No,No,Online Self-Paced,2.6,MGR0032
+LRN00669,EMP00676,Finance,L1,Power BI Essentials,Leadership,Udemy,2026-07-17,2026-07-31,Completed,92,37.4,No,Yes,Virtual Instructor-Led,1.5,MGR0033
+LRN00670,EMP00092,IT,L2,Excel Advanced,Technical,Custom,2023-02-18,2023-04-17,In Progress,79,1.7,No,Yes,Virtual Instructor-Led,3.6,MGR0033
+LRN00671,EMP00033,Product,L2,DEI in the Workplace,Compliance,Coursera,2024-04-18,2024-05-22,Dropped,58,20.4,No,No,In-Person,1.5,MGR0037
+LRN00672,EMP00240,IT,L4,Machine Learning Basics,Leadership,Pluralsight,2024-01-27,2024-04-08,Not Started,84,15.7,No,Yes,Blended,4.6,MGR0003
+LRN00673,EMP00317,Product,L5,SQL Mastery,Leadership,HarvardX,2025-08-14,2025-10-20,Dropped,76,31.2,No,No,Online Self-Paced,1.5,MGR0004
+LRN00674,EMP00714,Operations,L7,Negotiation Skills,Leadership,LinkedIn Learning,2024-04-16,2024-05-29,Completed,94,33.0,No,Yes,Online Self-Paced,2.6,MGR0008
+LRN00675,EMP00784,Legal,L4,Financial Acumen,Domain,HarvardX,2023-11-16,2024-01-28,Dropped,98,4.6,No,Yes,Online Self-Paced,5.0,MGR0009
+LRN00676,EMP00302,Data Science,L5,Machine Learning Basics,Domain,LinkedIn Learning,2025-05-29,2025-06-29,Not Started,60,34.1,No,Yes,In-Person,2.8,MGR0026
+LRN00677,EMP00733,Finance,L3,Python for Data Science,Domain,Internal LMS,2023-10-17,2023-12-27,Not Started,84,20.9,No,Yes,Blended,3.3,MGR0020
+LRN00678,EMP01187,Customer Success,L4,Project Management Professional,Domain,Pluralsight,2023-05-08,2023-08-23,Not Started,89,25.8,No,No,Online Self-Paced,2.6,MGR0010
+LRN00679,EMP00795,IT,L7,Cloud Fundamentals,Technical,Pluralsight,2026-06-03,2026-07-31,Not Started,88,12.6,No,Yes,Online Self-Paced,4.9,MGR0034
+LRN00680,EMP00038,Marketing,L1,Negotiation Skills,Soft Skills,Udemy,2025-03-21,2025-06-22,In Progress,53,21.6,Yes,No,Virtual Instructor-Led,1.1,MGR0038
+LRN00681,EMP00424,HR,L4,Negotiation Skills,Soft Skills,Udemy,2023-03-28,2023-05-04,Not Started,59,22.8,No,No,Virtual Instructor-Led,3.2,MGR0007
+LRN00682,EMP00296,Design,L4,DEI in the Workplace,Technical,Custom,2025-12-15,2026-02-11,In Progress,73,9.2,No,Yes,In-Person,3.1,MGR0036
+LRN00683,EMP00533,Data Science,L7,Financial Acumen,Technical,Internal LMS,2024-11-08,2024-12-18,Dropped,61,19.7,No,Yes,Online Self-Paced,1.5,MGR0008
+LRN00684,EMP00668,Finance,L6,Agile & Scrum Certification,Compliance,HarvardX,2022-06-30,2022-10-03,Not Started,50,6.3,No,No,Online Self-Paced,1.1,MGR0045
+LRN00685,EMP00797,Customer Success,L1,Cloud Fundamentals,Technical,Udemy,2022-05-25,2022-07-07,In Progress,80,19.6,No,Yes,Online Self-Paced,4.8,MGR0041
+LRN00686,EMP00686,Sales,L6,Agile & Scrum Certification,Soft Skills,LinkedIn Learning,2025-07-15,2025-10-10,In Progress,81,7.3,No,Yes,Virtual Instructor-Led,3.5,MGR0044
+LRN00687,EMP00612,Engineering,L3,Agile & Scrum Certification,Technical,LinkedIn Learning,2026-06-04,2026-07-24,Completed,78,22.5,No,Yes,In-Person,1.8,MGR0005
+LRN00688,EMP00691,Operations,L7,Python for Data Science,Technical,Coursera,2023-07-15,2023-10-29,Completed,66,9.9,No,No,Blended,2.7,MGR0029
+LRN00689,EMP00786,Finance,L4,Cloud Fundamentals,Domain,Custom,2023-12-09,2024-03-12,In Progress,74,10.1,No,Yes,In-Person,3.1,MGR0007
+LRN00690,EMP01040,Operations,L2,Leadership Foundations,Domain,Pluralsight,2024-04-12,2024-08-04,Completed,94,21.2,Yes,Yes,In-Person,2.5,MGR0033
+LRN00691,EMP00117,Data Science,L6,Excel Advanced,Soft Skills,HarvardX,2024-08-19,2024-10-17,In Progress,67,32.1,No,Yes,Online Self-Paced,2.2,MGR0045
+LRN00692,EMP00795,Finance,L2,Communication Skills,Technical,Pluralsight,2026-05-23,2026-07-31,In Progress,65,6.1,No,Yes,Blended,4.3,MGR0028
+LRN00693,EMP00625,Design,L6,Safety & Compliance,Soft Skills,Coursera,2025-07-07,2025-08-25,In Progress,81,6.7,No,Yes,Online Self-Paced,2.0,MGR0009
+LRN00694,EMP00011,Legal,L1,Project Management Professional,Soft Skills,HarvardX,2023-09-19,2024-01-05,Not Started,75,1.3,No,Yes,Blended,2.0,MGR0024
+LRN00695,EMP00751,Design,L6,SQL Mastery,Domain,Internal LMS,2022-02-25,2022-06-20,In Progress,74,3.8,No,Yes,Virtual Instructor-Led,2.1,MGR0015
+LRN00696,EMP01070,Data Science,L7,Leadership Foundations,Leadership,Custom,2025-07-11,2025-09-22,Completed,61,13.1,No,Yes,Online Self-Paced,3.4,MGR0018
+LRN00697,EMP00893,Engineering,L3,Financial Acumen,Compliance,LinkedIn Learning,2024-08-31,2024-11-07,In Progress,67,4.8,No,No,In-Person,2.5,MGR0028
+LRN00698,EMP00810,Engineering,L3,SQL Mastery,Compliance,Coursera,2022-05-25,2022-06-27,Completed,78,6.8,No,No,Blended,4.9,MGR0001
+LRN00699,EMP00447,Sales,L7,Power BI Essentials,Domain,HarvardX,2024-01-02,2024-04-02,In Progress,79,11.7,No,No,Virtual Instructor-Led,3.0,MGR0047
+LRN00700,EMP00380,Finance,L7,Financial Acumen,Leadership,Internal LMS,2024-09-13,2024-11-03,Dropped,82,12.8,Yes,Yes,Blended,3.6,MGR0050
+LRN00701,EMP00218,Marketing,L7,Financial Acumen,Domain,Coursera,2026-05-27,2026-07-31,Completed,60,11.5,No,No,In-Person,3.6,MGR0033
+LRN00702,EMP01194,Finance,L6,Design Thinking,Technical,Udemy,2022-05-31,2022-09-28,Completed,61,34.0,No,No,Online Self-Paced,3.9,MGR0019
+LRN00703,EMP01145,Legal,L4,Design Thinking,Leadership,Coursera,2022-03-17,2022-05-27,Dropped,82,38.5,Yes,Yes,Blended,4.4,MGR0018
+LRN00704,EMP00153,Legal,L3,Cloud Fundamentals,Soft Skills,Pluralsight,2024-07-31,2024-09-23,Dropped,70,3.2,No,Yes,In-Person,2.1,MGR0023
+LRN00705,EMP00264,Customer Success,L1,Financial Acumen,Soft Skills,Pluralsight,2026-06-10,2026-07-31,Not Started,79,30.8,Yes,Yes,Blended,4.8,MGR0025
+LRN00706,EMP00034,Design,L2,Machine Learning Basics,Leadership,Coursera,2022-10-11,2022-12-28,In Progress,81,39.7,No,No,Virtual Instructor-Led,3.7,MGR0005
+LRN00707,EMP00968,Customer Success,L5,Communication Skills,Soft Skills,HarvardX,2023-03-03,2023-04-19,In Progress,70,12.1,No,No,Online Self-Paced,1.7,MGR0002
+LRN00708,EMP00737,Customer Success,L7,DEI in the Workplace,Soft Skills,Coursera,2023-09-30,2024-01-28,Not Started,88,37.2,No,No,Online Self-Paced,2.4,MGR0003
+LRN00709,EMP00569,Operations,L7,Leadership Foundations,Technical,HarvardX,2022-04-28,2022-07-18,Dropped,98,16.6,No,Yes,In-Person,3.3,MGR0042
+LRN00710,EMP00433,IT,L6,Machine Learning Basics,Domain,LinkedIn Learning,2023-06-19,2023-08-31,In Progress,60,6.6,No,No,Online Self-Paced,1.7,MGR0007
+LRN00711,EMP01112,Design,L4,SQL Mastery,Technical,Coursera,2024-04-23,2024-07-30,In Progress,83,35.2,Yes,No,Blended,4.6,MGR0028
+LRN00712,EMP00194,Design,L4,Project Management Professional,Technical,Custom,2025-09-07,2025-11-22,Not Started,93,30.1,No,No,Online Self-Paced,4.0,MGR0005
+LRN00713,EMP00495,Customer Success,L2,Power BI Essentials,Soft Skills,Udemy,2023-10-10,2024-01-29,Not Started,68,23.8,No,No,In-Person,1.9,MGR0015
+LRN00714,EMP00291,Legal,L4,Project Management Professional,Compliance,Custom,2023-08-27,2023-11-08,Dropped,77,29.4,Yes,Yes,In-Person,4.7,MGR0026
+LRN00715,EMP00158,Legal,L1,DEI in the Workplace,Soft Skills,Internal LMS,2025-02-25,2025-06-20,Completed,73,17.8,No,No,Blended,1.1,MGR0050
+LRN00716,EMP00156,Product,L5,Excel Advanced,Domain,Udemy,2026-02-08,2026-03-22,Not Started,97,25.3,No,Yes,Blended,2.2,MGR0035
+LRN00717,EMP00059,Marketing,L4,DEI in the Workplace,Soft Skills,HarvardX,2026-01-13,2026-05-12,In Progress,81,8.5,Yes,No,In-Person,2.6,MGR0024
+LRN00718,EMP00313,Sales,L4,Agile & Scrum Certification,Compliance,HarvardX,2026-06-17,2026-07-31,Not Started,85,23.5,No,Yes,Blended,3.2,MGR0020
+LRN00719,EMP01142,Engineering,L6,SQL Mastery,Domain,Internal LMS,2023-04-09,2023-05-22,Not Started,73,18.9,No,No,Blended,1.8,MGR0005
+LRN00720,EMP00869,Design,L4,DEI in the Workplace,Domain,Udemy,2023-12-03,2024-03-24,In Progress,83,3.7,No,Yes,Virtual Instructor-Led,3.6,MGR0009
+LRN00721,EMP00465,Marketing,L7,Safety & Compliance,Soft Skills,Coursera,2026-06-06,2026-07-31,Completed,75,28.6,No,No,Virtual Instructor-Led,4.9,MGR0037
+LRN00722,EMP00806,Customer Success,L4,Machine Learning Basics,Soft Skills,Internal LMS,2024-07-12,2024-10-24,Dropped,68,39.4,No,Yes,Online Self-Paced,3.7,MGR0031
+LRN00723,EMP00465,Finance,L1,DEI in the Workplace,Soft Skills,LinkedIn Learning,2023-12-31,2024-04-20,Dropped,99,25.4,No,Yes,Online Self-Paced,4.2,MGR0021
+LRN00724,EMP00447,Finance,L7,Agile & Scrum Certification,Technical,Udemy,2024-05-08,2024-06-13,In Progress,57,1.9,Yes,No,Virtual Instructor-Led,2.7,MGR0027
+LRN00725,EMP00860,Product,L2,Negotiation Skills,Soft Skills,Custom,2025-06-25,2025-09-27,In Progress,63,7.4,No,No,Virtual Instructor-Led,4.9,MGR0013
+LRN00726,EMP01157,Legal,L7,Project Management Professional,Leadership,Internal LMS,2022-05-14,2022-07-07,Dropped,87,20.3,Yes,Yes,Online Self-Paced,1.2,MGR0031
+LRN00727,EMP00920,Marketing,L4,Safety & Compliance,Technical,Internal LMS,2025-02-13,2025-05-08,Completed,90,12.4,No,Yes,Online Self-Paced,1.6,MGR0035
+LRN00728,EMP00524,Data Science,L3,Agile & Scrum Certification,Technical,Custom,2023-03-09,2023-05-26,Not Started,74,1.6,Yes,No,Online Self-Paced,1.0,MGR0041
+LRN00729,EMP00806,Operations,L2,Project Management Professional,Compliance,Coursera,2025-11-24,2025-12-30,Completed,66,13.4,No,No,In-Person,3.5,MGR0010
+LRN00730,EMP00259,Design,L1,Python for Data Science,Soft Skills,Custom,2022-11-07,2023-01-20,Dropped,91,18.3,Yes,No,In-Person,1.5,MGR0004
+LRN00731,EMP01040,Data Science,L1,Power BI Essentials,Compliance,Coursera,2022-06-19,2022-07-19,Dropped,96,37.2,No,Yes,Online Self-Paced,4.7,MGR0002
+LRN00732,EMP00879,Legal,L5,Safety & Compliance,Technical,HarvardX,2023-07-29,2023-11-21,Completed,81,24.6,No,Yes,Online Self-Paced,4.8,MGR0031
+LRN00733,EMP00301,HR,L1,Agile & Scrum Certification,Soft Skills,HarvardX,2022-08-11,2022-10-23,In Progress,75,32.4,Yes,Yes,Blended,3.7,MGR0023
+LRN00734,EMP00209,HR,L4,Negotiation Skills,Soft Skills,HarvardX,2025-01-22,2025-03-13,In Progress,98,38.4,Yes,No,Online Self-Paced,3.7,MGR0009
+LRN00735,EMP00487,Engineering,L6,Financial Acumen,Compliance,LinkedIn Learning,2022-07-25,2022-11-05,Dropped,65,24.3,No,No,Virtual Instructor-Led,4.6,MGR0034
+LRN00736,EMP00148,Design,L3,SQL Mastery,Technical,Custom,2025-01-25,2025-05-21,In Progress,66,28.0,No,Yes,Blended,3.3,MGR0020
+LRN00737,EMP00637,Finance,L3,Negotiation Skills,Technical,HarvardX,2023-03-02,2023-05-30,Not Started,74,17.5,No,Yes,Blended,1.7,MGR0015
+LRN00738,EMP00483,IT,L2,DEI in the Workplace,Compliance,LinkedIn Learning,2022-12-15,2023-01-28,Dropped,74,3.7,No,Yes,Online Self-Paced,2.6,MGR0033
+LRN00739,EMP00010,Customer Success,L4,Excel Advanced,Soft Skills,HarvardX,2025-12-17,2026-03-17,Completed,94,13.6,Yes,Yes,Virtual Instructor-Led,4.4,MGR0035
+LRN00740,EMP00127,IT,L1,Agile & Scrum Certification,Compliance,HarvardX,2023-03-15,2023-06-18,Completed,75,26.8,No,Yes,Online Self-Paced,3.4,MGR0016
+LRN00741,EMP00556,Marketing,L7,Python for Data Science,Technical,Pluralsight,2022-01-21,2022-04-07,Completed,99,14.3,No,Yes,Online Self-Paced,1.3,MGR0036
+LRN00742,EMP00807,Operations,L7,SQL Mastery,Soft Skills,Coursera,2024-06-17,2024-08-09,Not Started,56,6.7,No,No,Online Self-Paced,3.8,MGR0034
+LRN00743,EMP00256,Engineering,L1,Machine Learning Basics,Domain,Internal LMS,2023-10-02,2024-01-14,In Progress,60,7.7,No,No,In-Person,4.2,MGR0017
+LRN00744,EMP00820,Legal,L1,Design Thinking,Compliance,Pluralsight,2022-02-26,2022-06-16,In Progress,94,5.6,Yes,No,Blended,3.8,MGR0018
+LRN00745,EMP00792,Sales,L5,Power BI Essentials,Domain,Coursera,2025-01-11,2025-03-26,Not Started,94,23.7,No,Yes,Virtual Instructor-Led,4.2,MGR0008
+LRN00746,EMP00989,Marketing,L3,Communication Skills,Soft Skills,HarvardX,2025-12-21,2026-01-27,Not Started,54,20.7,Yes,Yes,Blended,1.5,MGR0029
+LRN00747,EMP00005,Customer Success,L4,Cloud Fundamentals,Technical,Coursera,2024-11-17,2025-01-29,In Progress,83,28.9,No,Yes,Virtual Instructor-Led,4.9,MGR0010
+LRN00748,EMP00734,Product,L1,Financial Acumen,Leadership,Udemy,2022-05-02,2022-07-17,Not Started,87,7.9,No,Yes,Blended,3.9,MGR0031
+LRN00749,EMP01179,Marketing,L5,Python for Data Science,Compliance,HarvardX,2025-09-01,2025-11-25,Completed,54,29.3,No,Yes,Virtual Instructor-Led,2.9,MGR0012
+LRN00750,EMP00883,Design,L1,SQL Mastery,Soft Skills,LinkedIn Learning,2025-12-09,2026-02-26,Dropped,61,32.8,Yes,Yes,Virtual Instructor-Led,3.9,MGR0006
+LRN00751,EMP00340,Legal,L2,Leadership Foundations,Technical,Pluralsight,2022-03-19,2022-05-14,Completed,85,8.7,No,Yes,Online Self-Paced,2.2,MGR0015
+LRN00752,EMP00251,IT,L2,Project Management Professional,Compliance,Custom,2025-07-29,2025-09-05,Not Started,65,39.6,Yes,Yes,Virtual Instructor-Led,1.2,MGR0015
+LRN00753,EMP00472,IT,L4,Excel Advanced,Domain,Pluralsight,2022-06-13,2022-09-17,Dropped,61,21.4,No,Yes,Virtual Instructor-Led,4.7,MGR0048
+LRN00754,EMP00620,Marketing,L7,Power BI Essentials,Domain,Udemy,2022-03-25,2022-07-18,Dropped,82,35.9,Yes,Yes,Blended,4.3,MGR0048
+LRN00755,EMP00875,Finance,L2,Financial Acumen,Soft Skills,Udemy,2024-07-28,2024-08-31,Dropped,83,31.4,No,No,Virtual Instructor-Led,4.4,MGR0050
+LRN00756,EMP00135,HR,L5,Communication Skills,Compliance,LinkedIn Learning,2025-04-17,2025-06-14,Completed,95,18.7,No,No,In-Person,4.2,MGR0008
+LRN00757,EMP01193,Operations,L3,Agile & Scrum Certification,Leadership,HarvardX,2026-06-17,2026-07-31,In Progress,66,10.6,No,No,In-Person,4.2,MGR0005
+LRN00758,EMP01077,Customer Success,L5,Excel Advanced,Technical,Udemy,2022-01-20,2022-03-03,Completed,83,26.7,No,No,Virtual Instructor-Led,1.3,MGR0039
+LRN00759,EMP00888,Finance,L6,Design Thinking,Soft Skills,HarvardX,2025-07-16,2025-08-16,Dropped,93,5.8,No,No,Blended,4.5,MGR0032
+LRN00760,EMP00484,Customer Success,L7,Project Management Professional,Technical,HarvardX,2023-11-09,2024-02-04,Dropped,84,9.4,No,Yes,In-Person,2.9,MGR0006
+LRN00761,EMP00230,Engineering,L7,Cloud Fundamentals,Technical,Custom,2026-07-13,2026-07-31,In Progress,57,39.0,No,No,In-Person,2.7,MGR0050
+LRN00762,EMP00185,Legal,L5,Financial Acumen,Technical,Custom,2023-02-17,2023-06-16,Not Started,93,27.2,No,No,Online Self-Paced,3.9,MGR0002
+LRN00763,EMP00097,Data Science,L3,Cloud Fundamentals,Compliance,Internal LMS,2024-10-07,2024-11-20,Dropped,68,33.4,No,Yes,Online Self-Paced,2.5,MGR0028
+LRN00764,EMP00029,Sales,L4,Machine Learning Basics,Compliance,Custom,2022-05-14,2022-08-18,Not Started,60,38.8,No,No,Blended,4.4,MGR0030
+LRN00765,EMP00447,Engineering,L4,Financial Acumen,Compliance,Custom,2022-09-02,2022-12-03,In Progress,94,23.4,No,No,Virtual Instructor-Led,2.4,MGR0042
+LRN00766,EMP01147,HR,L2,Financial Acumen,Compliance,Coursera,2025-03-01,2025-05-12,Not Started,57,9.8,No,Yes,Blended,4.0,MGR0024
+LRN00767,EMP00403,Marketing,L2,Excel Advanced,Compliance,Udemy,2023-07-04,2023-10-14,In Progress,72,14.6,No,No,Virtual Instructor-Led,3.6,MGR0032
+LRN00768,EMP00970,Product,L7,Excel Advanced,Technical,Internal LMS,2026-07-22,2026-07-31,Dropped,57,20.3,No,Yes,Blended,4.4,MGR0048
+LRN00769,EMP00872,Operations,L4,Agile & Scrum Certification,Compliance,Internal LMS,2024-02-09,2024-04-06,In Progress,83,10.8,No,No,Blended,2.7,MGR0039
+LRN00770,EMP00614,Design,L3,Financial Acumen,Compliance,Custom,2024-04-02,2024-06-10,Completed,76,16.0,No,Yes,In-Person,1.9,MGR0033
+LRN00771,EMP00813,IT,L2,Python for Data Science,Domain,LinkedIn Learning,2023-01-22,2023-03-02,Completed,91,26.9,No,Yes,Online Self-Paced,3.6,MGR0037
+LRN00772,EMP00388,Design,L1,Cloud Fundamentals,Leadership,LinkedIn Learning,2025-01-18,2025-05-16,Completed,72,38.7,No,No,Virtual Instructor-Led,3.7,MGR0035
+LRN00773,EMP00253,Legal,L6,Python for Data Science,Technical,Pluralsight,2024-05-28,2024-08-20,Completed,87,4.8,No,No,In-Person,4.9,MGR0045
+LRN00774,EMP00682,Customer Success,L1,Negotiation Skills,Compliance,HarvardX,2024-04-26,2024-06-04,Not Started,52,12.2,No,No,Virtual Instructor-Led,2.4,MGR0016
+LRN00775,EMP00248,Customer Success,L7,Project Management Professional,Compliance,Pluralsight,2026-07-12,2026-07-31,Not Started,54,15.8,No,Yes,In-Person,2.4,MGR0015
+LRN00776,EMP00866,Legal,L7,Design Thinking,Technical,Custom,2023-04-17,2023-06-09,In Progress,71,6.3,Yes,No,Virtual Instructor-Led,5.0,MGR0007
+LRN00777,EMP01144,Marketing,L5,DEI in the Workplace,Technical,Coursera,2022-08-30,2022-10-02,Not Started,54,1.3,No,Yes,Online Self-Paced,2.4,MGR0042
+LRN00778,EMP00180,Finance,L4,Design Thinking,Domain,Udemy,2024-12-02,2025-03-27,Completed,95,13.6,No,Yes,Virtual Instructor-Led,1.1,MGR0017
+LRN00779,EMP01182,Design,L6,Safety & Compliance,Soft Skills,Pluralsight,2024-07-28,2024-11-02,Not Started,96,11.0,No,No,In-Person,2.3,MGR0010
+LRN00780,EMP00664,Finance,L4,Design Thinking,Leadership,Custom,2025-06-04,2025-09-03,In Progress,65,9.2,Yes,Yes,Virtual Instructor-Led,3.9,MGR0018
+LRN00781,EMP00203,Legal,L6,SQL Mastery,Leadership,Coursera,2024-07-23,2024-09-27,In Progress,73,10.3,Yes,Yes,Virtual Instructor-Led,3.5,MGR0041
+LRN00782,EMP00183,IT,L3,Python for Data Science,Technical,LinkedIn Learning,2026-07-05,2026-07-31,In Progress,87,14.1,Yes,No,Online Self-Paced,3.1,MGR0047
+LRN00783,EMP00599,Sales,L3,SQL Mastery,Compliance,Udemy,2025-09-06,2025-11-28,In Progress,78,2.3,Yes,No,Virtual Instructor-Led,3.6,MGR0031
+LRN00784,EMP00934,Design,L3,Leadership Foundations,Compliance,Coursera,2023-02-04,2023-04-22,In Progress,70,14.4,No,No,Virtual Instructor-Led,1.5,MGR0044
+LRN00785,EMP00616,Product,L7,Cloud Fundamentals,Soft Skills,Udemy,2025-01-01,2025-02-04,Completed,89,19.7,Yes,Yes,Virtual Instructor-Led,2.5,MGR0039
+LRN00786,EMP00765,Customer Success,L1,Communication Skills,Technical,Internal LMS,2023-04-09,2023-05-21,Not Started,89,33.1,No,Yes,Online Self-Paced,2.2,MGR0033
+LRN00787,EMP00823,Operations,L4,Python for Data Science,Domain,Internal LMS,2025-05-24,2025-08-11,Not Started,67,27.0,No,No,Blended,4.8,MGR0024
+LRN00788,EMP00878,Sales,L2,Power BI Essentials,Compliance,LinkedIn Learning,2024-01-25,2024-02-29,Completed,98,28.1,No,Yes,Online Self-Paced,4.5,MGR0002
+LRN00789,EMP00184,Operations,L1,Safety & Compliance,Soft Skills,Coursera,2025-07-12,2025-10-25,Not Started,60,1.4,No,Yes,Blended,1.5,MGR0012
+LRN00790,EMP00616,HR,L3,Excel Advanced,Leadership,LinkedIn Learning,2022-03-28,2022-07-02,In Progress,69,38.6,Yes,No,Blended,2.8,MGR0033
+LRN00791,EMP00433,Finance,L1,Machine Learning Basics,Leadership,Udemy,2024-08-30,2024-10-18,In Progress,52,28.8,No,Yes,In-Person,3.0,MGR0041
+LRN00792,EMP00800,Design,L1,Project Management Professional,Soft Skills,Udemy,2023-03-11,2023-05-12,Dropped,82,36.4,No,Yes,In-Person,4.6,MGR0011
+LRN00793,EMP01093,Operations,L7,Power BI Essentials,Compliance,Internal LMS,2023-10-20,2024-02-08,Not Started,57,12.9,Yes,No,Virtual Instructor-Led,2.7,MGR0004
+LRN00794,EMP00492,Customer Success,L4,Excel Advanced,Compliance,Coursera,2023-08-15,2023-09-14,Not Started,85,30.4,Yes,No,In-Person,3.6,MGR0020
+LRN00795,EMP00316,Operations,L6,Negotiation Skills,Technical,Pluralsight,2023-09-07,2024-01-01,Dropped,87,8.1,No,No,Blended,3.3,MGR0004
+LRN00796,EMP00669,Operations,L1,Project Management Professional,Domain,LinkedIn Learning,2022-07-26,2022-10-18,In Progress,86,13.9,No,No,In-Person,2.4,MGR0041
+LRN00797,EMP00371,IT,L4,Communication Skills,Leadership,Udemy,2023-10-19,2023-11-23,Not Started,80,16.7,Yes,No,Blended,3.2,MGR0021
+LRN00798,EMP00728,Sales,L7,Project Management Professional,Leadership,Internal LMS,2022-04-22,2022-06-30,Completed,61,18.6,No,No,Blended,3.7,MGR0008
+LRN00799,EMP00364,IT,L3,Python for Data Science,Leadership,HarvardX,2023-07-20,2023-09-13,Dropped,86,10.2,No,No,Online Self-Paced,1.6,MGR0007
+LRN00800,EMP00060,Finance,L3,Agile & Scrum Certification,Domain,Pluralsight,2022-09-10,2022-10-15,Not Started,74,1.5,No,Yes,In-Person,3.5,MGR0014
+LRN00801,EMP00867,Legal,L7,SQL Mastery,Leadership,Internal LMS,2022-02-12,2022-05-30,Completed,76,15.4,Yes,No,In-Person,3.0,MGR0013
+LRN00802,EMP01178,Engineering,L3,Communication Skills,Compliance,HarvardX,2026-01-17,2026-03-25,In Progress,76,40.0,No,Yes,Online Self-Paced,3.4,MGR0041
+LRN00803,EMP00434,Sales,L6,Excel Advanced,Technical,HarvardX,2026-05-25,2026-06-29,Completed,57,27.4,Yes,Yes,Blended,2.9,MGR0047
+LRN00804,EMP00054,Engineering,L4,Financial Acumen,Soft Skills,Custom,2025-01-27,2025-05-08,Completed,86,27.8,No,Yes,Blended,4.4,MGR0028
+LRN00805,EMP01039,Finance,L2,Design Thinking,Leadership,LinkedIn Learning,2024-11-09,2025-02-02,Not Started,52,24.1,No,Yes,Online Self-Paced,3.7,MGR0032
+LRN00806,EMP00601,IT,L6,Python for Data Science,Technical,Custom,2022-10-15,2022-12-18,Completed,73,12.5,No,No,Blended,4.9,MGR0034
+LRN00807,EMP01068,Finance,L4,Machine Learning Basics,Leadership,Pluralsight,2025-05-16,2025-07-21,In Progress,87,13.0,No,No,Virtual Instructor-Led,4.9,MGR0047
+LRN00808,EMP00026,Sales,L7,Cloud Fundamentals,Compliance,Custom,2024-11-25,2025-01-23,Not Started,83,11.6,No,Yes,Online Self-Paced,1.1,MGR0012
+LRN00809,EMP00073,Marketing,L1,Leadership Foundations,Domain,Coursera,2023-04-06,2023-06-23,Dropped,53,33.9,No,Yes,In-Person,2.3,MGR0024
+LRN00810,EMP00725,Engineering,L3,Leadership Foundations,Domain,LinkedIn Learning,2024-01-15,2024-05-14,Dropped,93,37.0,Yes,No,Virtual Instructor-Led,2.5,MGR0027
+LRN00811,EMP00606,Finance,L2,SQL Mastery,Soft Skills,Udemy,2022-10-11,2023-02-08,Completed,66,25.4,Yes,Yes,Online Self-Paced,3.0,MGR0004
+LRN00812,EMP00366,Data Science,L7,SQL Mastery,Compliance,Pluralsight,2025-07-17,2025-08-29,In Progress,70,26.4,No,No,In-Person,4.8,MGR0018
+LRN00813,EMP00762,Marketing,L4,Communication Skills,Leadership,LinkedIn Learning,2022-10-14,2023-01-08,Dropped,98,23.6,Yes,Yes,In-Person,4.1,MGR0029
+LRN00814,EMP00734,Legal,L3,SQL Mastery,Leadership,Coursera,2022-12-25,2023-03-28,In Progress,66,8.1,No,Yes,Online Self-Paced,1.1,MGR0049
+LRN00815,EMP00051,Marketing,L3,Excel Advanced,Technical,Custom,2022-03-05,2022-04-13,In Progress,78,18.8,Yes,No,Blended,5.0,MGR0009
+LRN00816,EMP01193,Operations,L7,Safety & Compliance,Domain,Udemy,2024-02-04,2024-04-11,Not Started,57,4.3,No,No,Virtual Instructor-Led,1.4,MGR0048
+LRN00817,EMP00996,Finance,L7,Cloud Fundamentals,Leadership,LinkedIn Learning,2022-12-26,2023-04-25,Not Started,53,26.5,No,No,Online Self-Paced,1.8,MGR0031
+LRN00818,EMP00895,Sales,L6,SQL Mastery,Domain,Internal LMS,2022-08-15,2022-11-28,Completed,90,6.5,No,Yes,Blended,4.5,MGR0020
+LRN00819,EMP00628,Operations,L6,Cloud Fundamentals,Compliance,LinkedIn Learning,2022-06-27,2022-10-10,Dropped,65,35.0,No,Yes,Online Self-Paced,3.4,MGR0034
+LRN00820,EMP00096,HR,L7,Cloud Fundamentals,Domain,Coursera,2024-09-03,2025-01-01,Not Started,60,36.5,No,Yes,Blended,1.2,MGR0040
+LRN00821,EMP00474,Finance,L3,Cloud Fundamentals,Compliance,Custom,2024-07-02,2024-09-19,In Progress,92,12.1,No,No,In-Person,3.3,MGR0022
+LRN00822,EMP00249,HR,L1,Leadership Foundations,Technical,LinkedIn Learning,2025-03-08,2025-05-24,In Progress,60,28.9,Yes,No,In-Person,4.8,MGR0035
+LRN00823,EMP00336,HR,L4,Negotiation Skills,Domain,Pluralsight,2022-05-28,2022-08-18,Dropped,52,20.6,No,Yes,Virtual Instructor-Led,1.9,MGR0024
+LRN00824,EMP00147,HR,L6,DEI in the Workplace,Compliance,HarvardX,2022-07-27,2022-09-16,In Progress,70,28.9,No,No,Blended,1.1,MGR0006
+LRN00825,EMP00824,Customer Success,L6,Leadership Foundations,Technical,Custom,2024-08-19,2024-09-29,In Progress,60,11.5,Yes,No,Virtual Instructor-Led,1.2,MGR0007
+LRN00826,EMP00162,Finance,L2,Power BI Essentials,Soft Skills,Internal LMS,2023-08-23,2023-11-17,Not Started,95,14.1,No,No,Online Self-Paced,5.0,MGR0029
+LRN00827,EMP00475,Data Science,L2,Python for Data Science,Technical,Udemy,2026-04-05,2026-06-17,Not Started,82,18.5,No,No,Online Self-Paced,4.8,MGR0024
+LRN00828,EMP01154,Sales,L4,SQL Mastery,Compliance,Internal LMS,2026-02-17,2026-06-08,Completed,100,17.8,No,No,Virtual Instructor-Led,1.3,MGR0014
+LRN00829,EMP00109,Sales,L4,Design Thinking,Technical,Internal LMS,2024-06-08,2024-09-07,In Progress,61,32.7,No,No,In-Person,1.8,MGR0007
+LRN00830,EMP00831,Design,L7,Communication Skills,Technical,Udemy,2025-03-01,2025-05-06,Not Started,56,22.1,Yes,No,In-Person,4.4,MGR0002
+LRN00831,EMP00666,Design,L2,Project Management Professional,Technical,HarvardX,2024-11-28,2025-03-22,Not Started,99,6.8,No,No,Online Self-Paced,3.8,MGR0038
+LRN00832,EMP00949,IT,L5,Negotiation Skills,Domain,Udemy,2022-03-18,2022-05-29,Completed,64,4.5,No,Yes,Blended,3.1,MGR0005
+LRN00833,EMP00917,Finance,L6,DEI in the Workplace,Technical,Udemy,2023-11-14,2024-02-14,Completed,77,35.3,No,No,Online Self-Paced,3.7,MGR0034
+LRN00834,EMP00882,Product,L7,Design Thinking,Domain,Pluralsight,2024-05-30,2024-08-10,Completed,96,17.3,No,Yes,Virtual Instructor-Led,4.9,MGR0024
+LRN00835,EMP01057,Operations,L4,DEI in the Workplace,Compliance,Custom,2022-10-26,2022-12-02,Completed,71,37.9,No,Yes,In-Person,4.8,MGR0026
+LRN00836,EMP01199,Customer Success,L3,Leadership Foundations,Technical,Pluralsight,2024-11-19,2025-02-27,Completed,55,15.5,No,No,Virtual Instructor-Led,2.1,MGR0004
+LRN00837,EMP00657,Sales,L6,Agile & Scrum Certification,Domain,Udemy,2025-02-19,2025-05-12,Dropped,73,18.6,Yes,No,In-Person,2.2,MGR0009
+LRN00838,EMP00193,HR,L7,Financial Acumen,Compliance,Coursera,2023-01-29,2023-05-26,Dropped,85,8.3,No,No,Blended,1.4,MGR0015
+LRN00839,EMP00724,Product,L1,Python for Data Science,Technical,Udemy,2026-07-24,2026-07-31,Not Started,72,3.1,No,Yes,In-Person,4.5,MGR0004
+LRN00840,EMP00453,Customer Success,L7,Safety & Compliance,Domain,Pluralsight,2022-12-23,2023-04-18,In Progress,52,8.5,Yes,No,Blended,2.6,MGR0004
+LRN00841,EMP00006,IT,L4,Design Thinking,Leadership,HarvardX,2023-07-18,2023-10-10,In Progress,86,38.5,No,No,In-Person,1.8,MGR0028
+LRN00842,EMP00244,Engineering,L6,DEI in the Workplace,Domain,Custom,2022-12-11,2023-02-25,In Progress,61,28.8,No,No,Virtual Instructor-Led,4.2,MGR0003
+LRN00843,EMP00813,Product,L3,Agile & Scrum Certification,Domain,HarvardX,2024-06-04,2024-07-05,Not Started,86,20.2,Yes,Yes,Blended,2.3,MGR0016
+LRN00844,EMP00524,Operations,L7,Design Thinking,Technical,Pluralsight,2024-08-25,2024-12-23,In Progress,50,28.9,No,No,Online Self-Paced,4.4,MGR0004
+LRN00845,EMP01186,Design,L4,Safety & Compliance,Leadership,Pluralsight,2023-07-24,2023-09-30,In Progress,78,28.9,Yes,Yes,Blended,4.6,MGR0014
+LRN00846,EMP01072,Engineering,L1,Agile & Scrum Certification,Soft Skills,Coursera,2024-07-14,2024-08-13,In Progress,94,29.3,No,Yes,Blended,3.3,MGR0032
+LRN00847,EMP01150,Product,L4,Python for Data Science,Technical,Internal LMS,2022-01-06,2022-05-01,In Progress,97,12.4,No,No,In-Person,2.0,MGR0003
+LRN00848,EMP01175,HR,L7,Excel Advanced,Technical,LinkedIn Learning,2022-09-16,2022-11-12,Dropped,80,26.3,No,Yes,Online Self-Paced,3.4,MGR0047
+LRN00849,EMP00540,Marketing,L4,Python for Data Science,Domain,Pluralsight,2023-11-29,2024-01-25,Completed,94,34.6,Yes,Yes,Virtual Instructor-Led,4.1,MGR0013
+LRN00850,EMP00936,Sales,L3,Design Thinking,Domain,Custom,2022-03-02,2022-06-10,In Progress,52,37.3,No,No,Online Self-Paced,4.2,MGR0036
+LRN00851,EMP01012,Data Science,L3,Machine Learning Basics,Domain,Pluralsight,2022-09-28,2023-01-26,Dropped,83,15.1,Yes,No,In-Person,3.0,MGR0044
+LRN00852,EMP00613,Legal,L6,Safety & Compliance,Compliance,Pluralsight,2025-12-07,2026-01-25,In Progress,62,7.3,No,No,Virtual Instructor-Led,4.3,MGR0001
+LRN00853,EMP00835,Finance,L4,Leadership Foundations,Soft Skills,Internal LMS,2023-09-13,2023-10-30,Dropped,73,32.7,No,Yes,Blended,2.7,MGR0006
+LRN00854,EMP00553,Operations,L1,Leadership Foundations,Technical,Udemy,2022-11-04,2023-02-27,Completed,56,6.7,No,Yes,Online Self-Paced,1.4,MGR0027
+LRN00855,EMP00935,Legal,L2,Financial Acumen,Technical,LinkedIn Learning,2022-04-19,2022-08-01,Dropped,89,26.1,No,No,Virtual Instructor-Led,1.4,MGR0036
+LRN00856,EMP00961,Marketing,L6,Python for Data Science,Leadership,LinkedIn Learning,2023-07-10,2023-09-26,In Progress,54,31.5,Yes,Yes,Virtual Instructor-Led,2.1,MGR0014
+LRN00857,EMP01199,Operations,L6,Cloud Fundamentals,Compliance,LinkedIn Learning,2023-01-08,2023-05-03,Not Started,77,34.4,No,No,Virtual Instructor-Led,4.8,MGR0026
+LRN00858,EMP00253,Design,L4,Excel Advanced,Compliance,Custom,2026-03-06,2026-06-02,In Progress,81,27.2,Yes,No,Online Self-Paced,2.7,MGR0004
+LRN00859,EMP00548,Legal,L2,Python for Data Science,Leadership,Udemy,2023-09-25,2023-11-30,Not Started,96,14.5,Yes,Yes,Blended,3.7,MGR0013
+LRN00860,EMP00304,Data Science,L1,Agile & Scrum Certification,Leadership,LinkedIn Learning,2023-07-31,2023-09-11,Not Started,51,18.8,Yes,Yes,Blended,3.7,MGR0020
+LRN00861,EMP00271,IT,L1,Safety & Compliance,Technical,Coursera,2025-05-08,2025-08-12,In Progress,86,12.0,No,Yes,Virtual Instructor-Led,3.9,MGR0010
+LRN00862,EMP01003,Engineering,L4,Machine Learning Basics,Compliance,HarvardX,2023-09-02,2023-12-26,In Progress,58,33.3,No,No,Online Self-Paced,2.7,MGR0019
+LRN00863,EMP00058,Finance,L7,Project Management Professional,Domain,Internal LMS,2022-04-12,2022-06-01,Not Started,57,11.0,No,No,Blended,2.2,MGR0026
+LRN00864,EMP00986,Sales,L7,Project Management Professional,Technical,Custom,2023-03-23,2023-05-03,In Progress,96,36.9,No,Yes,Virtual Instructor-Led,2.4,MGR0032
+LRN00865,EMP01185,IT,L6,Safety & Compliance,Domain,Internal LMS,2024-01-01,2024-04-16,Dropped,70,35.8,No,No,Blended,2.1,MGR0043
+LRN00866,EMP01016,Legal,L4,Cloud Fundamentals,Soft Skills,Custom,2024-05-14,2024-07-15,Completed,64,12.5,Yes,No,In-Person,4.6,MGR0014
+LRN00867,EMP00618,Marketing,L2,Leadership Foundations,Soft Skills,HarvardX,2022-12-07,2023-02-07,Not Started,62,28.2,No,No,Virtual Instructor-Led,1.5,MGR0026
+LRN00868,EMP00028,Engineering,L3,DEI in the Workplace,Domain,Coursera,2022-07-14,2022-09-22,Completed,53,13.7,Yes,Yes,Blended,2.5,MGR0049
+LRN00869,EMP00820,IT,L1,Communication Skills,Domain,HarvardX,2023-08-23,2023-10-02,In Progress,80,16.8,No,No,Online Self-Paced,1.1,MGR0030
+LRN00870,EMP00444,Finance,L1,Python for Data Science,Domain,LinkedIn Learning,2025-01-08,2025-04-11,Not Started,52,38.8,No,Yes,Virtual Instructor-Led,5.0,MGR0018
+LRN00871,EMP00230,HR,L4,Agile & Scrum Certification,Technical,Coursera,2024-02-02,2024-05-31,Not Started,61,38.8,No,Yes,In-Person,3.3,MGR0001
+LRN00872,EMP00205,Marketing,L7,Negotiation Skills,Technical,Internal LMS,2023-01-27,2023-04-10,Not Started,86,24.8,No,Yes,In-Person,1.3,MGR0045
+LRN00873,EMP00228,Legal,L4,Communication Skills,Compliance,Custom,2024-06-18,2024-08-14,Dropped,52,5.2,Yes,Yes,Blended,4.1,MGR0014
+LRN00874,EMP01123,Engineering,L6,Power BI Essentials,Leadership,HarvardX,2022-09-23,2022-12-07,In Progress,84,8.4,Yes,No,In-Person,4.9,MGR0045
+LRN00875,EMP00249,Product,L5,Excel Advanced,Technical,HarvardX,2025-12-22,2026-03-15,Not Started,54,12.8,Yes,Yes,Online Self-Paced,4.5,MGR0019
+LRN00876,EMP01133,Product,L2,SQL Mastery,Technical,LinkedIn Learning,2024-04-16,2024-07-18,In Progress,80,1.1,Yes,No,Virtual Instructor-Led,3.2,MGR0049
+LRN00877,EMP00717,Engineering,L7,Power BI Essentials,Compliance,Internal LMS,2023-06-12,2023-09-30,Dropped,79,9.3,No,Yes,Virtual Instructor-Led,1.5,MGR0050
+LRN00878,EMP00379,Finance,L2,Agile & Scrum Certification,Soft Skills,Udemy,2022-06-02,2022-09-29,Dropped,58,33.2,Yes,Yes,Blended,4.9,MGR0006
+LRN00879,EMP00465,IT,L3,Design Thinking,Compliance,LinkedIn Learning,2023-11-17,2024-02-04,Completed,54,33.7,No,No,Online Self-Paced,3.8,MGR0001
+LRN00880,EMP01133,Finance,L5,Project Management Professional,Compliance,Internal LMS,2023-12-04,2024-02-29,Not Started,64,25.0,No,Yes,Online Self-Paced,2.9,MGR0034
+LRN00881,EMP00414,Data Science,L2,Communication Skills,Leadership,Coursera,2022-08-12,2022-12-08,In Progress,77,36.4,No,Yes,Blended,2.4,MGR0033
+LRN00882,EMP00007,Product,L6,Communication Skills,Soft Skills,Internal LMS,2022-03-02,2022-06-08,In Progress,71,38.4,No,Yes,Blended,3.2,MGR0025
+LRN00883,EMP00289,HR,L6,Communication Skills,Domain,Udemy,2022-06-30,2022-10-16,Completed,71,0.7,No,Yes,Online Self-Paced,2.9,MGR0009
+LRN00884,EMP00513,Data Science,L6,Project Management Professional,Compliance,Udemy,2025-03-04,2025-05-04,Dropped,77,16.5,No,Yes,Virtual Instructor-Led,4.0,MGR0048
+LRN00885,EMP00366,Design,L5,SQL Mastery,Leadership,Coursera,2024-04-08,2024-07-16,Dropped,71,12.7,Yes,Yes,Online Self-Paced,1.7,MGR0019
+LRN00886,EMP00735,IT,L7,Negotiation Skills,Leadership,Pluralsight,2023-02-08,2023-04-08,Not Started,60,36.0,No,Yes,Online Self-Paced,4.1,MGR0027
+LRN00887,EMP00783,Engineering,L3,Python for Data Science,Leadership,Pluralsight,2024-01-24,2024-05-17,Dropped,68,12.5,No,Yes,Blended,2.1,MGR0006
+LRN00888,EMP00491,Operations,L4,Project Management Professional,Leadership,Pluralsight,2023-02-26,2023-06-11,In Progress,67,34.7,No,Yes,Virtual Instructor-Led,4.6,MGR0050
+LRN00889,EMP00832,Customer Success,L5,Agile & Scrum Certification,Leadership,Custom,2022-04-01,2022-07-15,In Progress,87,32.1,No,Yes,Blended,3.8,MGR0028
+LRN00890,EMP01112,Design,L2,Power BI Essentials,Domain,LinkedIn Learning,2023-02-07,2023-05-24,In Progress,87,12.2,No,No,In-Person,4.2,MGR0024
+LRN00891,EMP00031,HR,L6,Leadership Foundations,Domain,Udemy,2024-05-09,2024-08-11,Dropped,73,23.5,No,No,Online Self-Paced,4.3,MGR0012
+LRN00892,EMP00845,Finance,L3,Cloud Fundamentals,Compliance,Pluralsight,2025-05-26,2025-07-11,Dropped,81,5.4,No,Yes,Online Self-Paced,3.5,MGR0038
+LRN00893,EMP00227,Design,L2,SQL Mastery,Compliance,Internal LMS,2023-06-24,2023-10-18,Dropped,80,6.9,Yes,Yes,In-Person,4.5,MGR0003
+LRN00894,EMP00239,Finance,L4,Negotiation Skills,Technical,Pluralsight,2026-02-11,2026-04-04,In Progress,55,27.5,No,Yes,Blended,3.6,MGR0023
+LRN00895,EMP01119,Marketing,L6,Machine Learning Basics,Domain,Internal LMS,2024-11-14,2025-03-12,Not Started,96,7.2,No,Yes,Online Self-Paced,2.1,MGR0021
+LRN00896,EMP00188,Marketing,L5,Design Thinking,Domain,Pluralsight,2025-06-07,2025-08-23,Completed,60,4.8,No,No,In-Person,4.2,MGR0024
+LRN00897,EMP00470,Legal,L3,Leadership Foundations,Domain,Coursera,2024-05-17,2024-08-15,Completed,69,18.6,No,Yes,Blended,4.1,MGR0042
+LRN00898,EMP00334,Operations,L1,SQL Mastery,Domain,Coursera,2025-11-10,2025-12-24,In Progress,50,37.1,No,No,Online Self-Paced,4.1,MGR0050
+LRN00899,EMP00911,IT,L6,Communication Skills,Technical,Pluralsight,2025-06-17,2025-10-12,Dropped,90,7.7,No,No,Virtual Instructor-Led,2.1,MGR0024
+LRN00900,EMP01038,IT,L4,Excel Advanced,Leadership,Custom,2024-01-12,2024-03-28,Completed,100,36.9,No,No,Virtual Instructor-Led,4.4,MGR0039
+LRN00901,EMP00899,Product,L7,Python for Data Science,Leadership,Internal LMS,2022-11-16,2023-03-06,Not Started,72,22.6,No,No,In-Person,1.5,MGR0003
+LRN00902,EMP00603,Design,L5,Financial Acumen,Soft Skills,Coursera,2023-10-21,2024-02-01,Completed,61,24.2,No,No,Virtual Instructor-Led,2.0,MGR0024
+LRN00903,EMP00483,Product,L1,Design Thinking,Soft Skills,HarvardX,2025-10-16,2025-12-12,In Progress,63,2.5,Yes,No,Online Self-Paced,3.4,MGR0048
+LRN00904,EMP00730,Product,L7,SQL Mastery,Leadership,Coursera,2023-12-26,2024-04-10,Not Started,91,33.3,No,No,Virtual Instructor-Led,1.3,MGR0023
+LRN00905,EMP00867,Data Science,L7,Design Thinking,Soft Skills,Internal LMS,2025-11-15,2026-02-24,Dropped,63,20.1,No,Yes,Virtual Instructor-Led,3.6,MGR0014
+LRN00906,EMP00806,HR,L7,Project Management Professional,Soft Skills,HarvardX,2024-04-27,2024-08-25,Completed,58,15.7,No,Yes,Blended,2.3,MGR0033
+LRN00907,EMP00041,Operations,L2,Negotiation Skills,Technical,Pluralsight,2023-06-13,2023-10-01,Dropped,71,22.1,No,Yes,Blended,2.6,MGR0008
+LRN00908,EMP00322,Product,L3,Cloud Fundamentals,Soft Skills,LinkedIn Learning,2024-07-02,2024-08-02,In Progress,68,4.1,No,Yes,Blended,1.1,MGR0016
+LRN00909,EMP00182,Product,L1,DEI in the Workplace,Domain,Internal LMS,2024-02-03,2024-05-28,Dropped,66,13.9,Yes,No,Online Self-Paced,2.7,MGR0043
+LRN00910,EMP00104,Design,L4,Machine Learning Basics,Technical,HarvardX,2023-06-13,2023-08-04,Not Started,64,32.1,No,Yes,Online Self-Paced,2.3,MGR0022
+LRN00911,EMP00685,Marketing,L7,Cloud Fundamentals,Compliance,HarvardX,2025-07-05,2025-08-07,In Progress,78,22.6,No,Yes,Online Self-Paced,2.4,MGR0005
+LRN00912,EMP00470,Engineering,L5,Machine Learning Basics,Leadership,Pluralsight,2022-08-23,2022-11-05,In Progress,57,3.4,No,No,Online Self-Paced,2.4,MGR0009
+LRN00913,EMP00421,Finance,L3,Negotiation Skills,Technical,Custom,2022-10-28,2023-02-05,Dropped,51,27.6,No,Yes,Virtual Instructor-Led,3.0,MGR0050
+LRN00914,EMP00785,Product,L1,Machine Learning Basics,Domain,LinkedIn Learning,2024-02-25,2024-05-14,Completed,77,2.6,No,Yes,Blended,2.2,MGR0023
+LRN00915,EMP00181,Customer Success,L2,Excel Advanced,Domain,HarvardX,2022-07-15,2022-09-18,Completed,94,29.9,No,No,Online Self-Paced,2.8,MGR0002
+LRN00916,EMP00414,Customer Success,L5,Cloud Fundamentals,Leadership,Internal LMS,2023-07-14,2023-09-10,Completed,79,8.0,No,No,Blended,1.4,MGR0043
+LRN00917,EMP00321,Marketing,L3,Machine Learning Basics,Technical,LinkedIn Learning,2024-01-04,2024-03-05,Not Started,55,12.1,Yes,Yes,Blended,3.9,MGR0037
+LRN00918,EMP00788,Operations,L5,Financial Acumen,Leadership,Internal LMS,2022-09-30,2023-01-19,In Progress,80,10.0,No,No,In-Person,2.6,MGR0046
+LRN00919,EMP00550,Operations,L7,SQL Mastery,Domain,HarvardX,2024-04-18,2024-06-22,Dropped,53,38.5,No,Yes,In-Person,3.0,MGR0043
+LRN00920,EMP00879,Operations,L5,Leadership Foundations,Leadership,HarvardX,2025-04-22,2025-06-22,Not Started,66,32.8,No,Yes,Online Self-Paced,2.9,MGR0045
+LRN00921,EMP00633,Operations,L4,Design Thinking,Domain,Internal LMS,2025-02-06,2025-04-09,Completed,97,32.3,No,Yes,Blended,4.3,MGR0031
+LRN00922,EMP00635,Data Science,L4,Design Thinking,Compliance,HarvardX,2022-08-23,2022-09-26,In Progress,85,17.2,Yes,Yes,Virtual Instructor-Led,2.8,MGR0040
+LRN00923,EMP00065,Customer Success,L1,Negotiation Skills,Domain,HarvardX,2022-05-18,2022-09-01,Completed,94,26.1,No,No,Online Self-Paced,1.5,MGR0003
+LRN00924,EMP00941,Engineering,L5,Machine Learning Basics,Compliance,Internal LMS,2023-08-07,2023-12-04,Not Started,66,13.0,No,Yes,In-Person,2.6,MGR0009
+LRN00925,EMP00132,IT,L6,Negotiation Skills,Compliance,LinkedIn Learning,2022-07-03,2022-08-13,Completed,86,11.3,No,No,In-Person,4.6,MGR0034
+LRN00926,EMP00272,Sales,L4,Communication Skills,Compliance,LinkedIn Learning,2025-08-03,2025-10-10,Dropped,61,27.4,Yes,Yes,Online Self-Paced,3.1,MGR0033
+LRN00927,EMP01068,Data Science,L4,Machine Learning Basics,Soft Skills,Internal LMS,2025-01-15,2025-02-27,Not Started,65,18.6,No,Yes,Virtual Instructor-Led,1.7,MGR0024
+LRN00928,EMP00880,IT,L6,Machine Learning Basics,Leadership,LinkedIn Learning,2023-10-30,2024-01-03,In Progress,72,11.8,Yes,Yes,Blended,1.8,MGR0030
+LRN00929,EMP00148,IT,L6,DEI in the Workplace,Technical,Coursera,2024-05-02,2024-07-28,Dropped,78,10.3,Yes,Yes,Virtual Instructor-Led,4.3,MGR0021
+LRN00930,EMP00396,Product,L6,Communication Skills,Domain,Coursera,2025-11-14,2026-01-09,Not Started,84,12.9,No,Yes,In-Person,3.3,MGR0003
+LRN00931,EMP00041,Product,L3,Cloud Fundamentals,Soft Skills,Custom,2025-09-22,2025-12-21,In Progress,64,23.7,Yes,Yes,Virtual Instructor-Led,1.4,MGR0048
+LRN00932,EMP00097,Product,L4,Design Thinking,Technical,Internal LMS,2026-03-18,2026-07-11,Not Started,70,21.6,No,Yes,In-Person,1.6,MGR0015
+LRN00933,EMP00898,Product,L4,DEI in the Workplace,Soft Skills,Udemy,2025-11-18,2026-01-18,In Progress,73,35.6,No,No,Online Self-Paced,4.6,MGR0032
+LRN00934,EMP00016,Marketing,L5,Machine Learning Basics,Soft Skills,Coursera,2026-05-27,2026-07-31,In Progress,63,22.2,No,No,Online Self-Paced,4.9,MGR0008
+LRN00935,EMP00893,Marketing,L5,SQL Mastery,Soft Skills,Pluralsight,2024-04-05,2024-07-24,In Progress,80,9.5,No,Yes,In-Person,1.7,MGR0035
+LRN00936,EMP00597,Finance,L4,Design Thinking,Technical,HarvardX,2023-10-27,2024-02-17,Dropped,82,21.3,No,Yes,Virtual Instructor-Led,1.3,MGR0005
+LRN00937,EMP00470,HR,L6,Python for Data Science,Compliance,Internal LMS,2025-10-06,2025-11-21,Completed,80,24.4,No,No,In-Person,2.7,MGR0023
+LRN00938,EMP00029,Finance,L3,SQL Mastery,Leadership,Internal LMS,2026-03-13,2026-04-15,Not Started,93,30.8,No,Yes,Blended,4.7,MGR0006
+LRN00939,EMP00792,Finance,L7,Leadership Foundations,Soft Skills,LinkedIn Learning,2024-05-19,2024-06-24,Completed,64,9.1,Yes,No,Blended,2.1,MGR0009
+LRN00940,EMP00272,Design,L1,SQL Mastery,Soft Skills,LinkedIn Learning,2022-08-28,2022-11-13,Completed,94,33.4,No,No,Online Self-Paced,4.0,MGR0047
+LRN00941,EMP01191,Sales,L6,Safety & Compliance,Technical,Pluralsight,2025-02-19,2025-05-24,Completed,78,32.5,No,Yes,Online Self-Paced,2.9,MGR0016
+LRN00942,EMP01150,Design,L4,Design Thinking,Soft Skills,Coursera,2022-02-06,2022-03-27,Dropped,88,17.2,No,No,Virtual Instructor-Led,2.1,MGR0021
+LRN00943,EMP00894,Engineering,L1,Financial Acumen,Compliance,HarvardX,2024-12-05,2025-01-08,Completed,83,15.2,No,No,Online Self-Paced,3.8,MGR0045
+LRN00944,EMP00718,Sales,L4,Cloud Fundamentals,Soft Skills,Custom,2024-03-07,2024-06-19,In Progress,57,6.1,Yes,No,Virtual Instructor-Led,2.6,MGR0031
+LRN00945,EMP01052,Legal,L4,Python for Data Science,Domain,Udemy,2022-09-09,2022-12-12,In Progress,94,28.7,No,Yes,Online Self-Paced,5.0,MGR0050
+LRN00946,EMP00523,Customer Success,L6,Cloud Fundamentals,Compliance,Internal LMS,2024-06-14,2024-09-11,Completed,65,9.1,No,Yes,Blended,1.8,MGR0036
+LRN00947,EMP00468,Engineering,L7,Python for Data Science,Compliance,HarvardX,2022-07-04,2022-09-02,Dropped,59,39.1,No,Yes,In-Person,2.0,MGR0048
+LRN00948,EMP00491,Engineering,L3,Project Management Professional,Technical,Pluralsight,2025-08-10,2025-11-11,Dropped,60,36.8,Yes,No,Blended,2.5,MGR0002
+LRN00949,EMP00072,Legal,L6,Cloud Fundamentals,Technical,Pluralsight,2022-05-11,2022-07-24,Completed,100,15.3,No,Yes,Blended,2.3,MGR0028
+LRN00950,EMP00232,Finance,L3,Python for Data Science,Technical,Pluralsight,2024-02-28,2024-04-07,Dropped,85,14.8,Yes,Yes,Blended,2.2,MGR0046
+LRN00951,EMP00789,Data Science,L1,Excel Advanced,Compliance,LinkedIn Learning,2023-02-20,2023-04-27,In Progress,98,26.6,No,Yes,Online Self-Paced,1.5,MGR0005
+LRN00952,EMP00328,Sales,L2,Leadership Foundations,Domain,Coursera,2023-11-03,2023-12-30,Dropped,63,1.2,No,Yes,Virtual Instructor-Led,3.6,MGR0033
+LRN00953,EMP00910,IT,L7,Financial Acumen,Compliance,Udemy,2025-04-22,2025-06-20,Dropped,97,38.8,No,No,In-Person,3.6,MGR0002
+LRN00954,EMP00631,Operations,L2,Python for Data Science,Soft Skills,Coursera,2025-01-31,2025-04-14,Not Started,97,0.7,No,No,In-Person,3.3,MGR0045
+LRN00955,EMP00396,HR,L1,Cloud Fundamentals,Domain,Pluralsight,2022-06-13,2022-08-14,Not Started,73,6.7,No,No,In-Person,2.2,MGR0040
+LRN00956,EMP00524,Marketing,L2,Project Management Professional,Compliance,Custom,2025-12-17,2026-01-25,Not Started,55,35.8,No,Yes,Virtual Instructor-Led,2.4,MGR0021
+LRN00957,EMP00884,Sales,L2,Power BI Essentials,Leadership,HarvardX,2024-12-17,2025-02-12,Completed,72,17.4,No,Yes,Online Self-Paced,1.5,MGR0042
+LRN00958,EMP00500,Product,L2,Power BI Essentials,Soft Skills,Udemy,2025-12-03,2026-03-31,Completed,82,7.6,Yes,Yes,In-Person,3.9,MGR0012
+LRN00959,EMP00311,Sales,L7,Leadership Foundations,Technical,LinkedIn Learning,2026-02-24,2026-05-31,Completed,86,22.2,Yes,No,Virtual Instructor-Led,4.5,MGR0014
+LRN00960,EMP00130,HR,L5,Negotiation Skills,Domain,LinkedIn Learning,2022-04-06,2022-07-25,Dropped,51,6.9,No,No,Online Self-Paced,3.2,MGR0018
+LRN00961,EMP00418,Operations,L6,Negotiation Skills,Domain,Udemy,2023-04-29,2023-06-20,In Progress,73,20.5,Yes,No,Blended,2.9,MGR0038
+LRN00962,EMP01025,Engineering,L4,SQL Mastery,Domain,Udemy,2024-06-11,2024-09-21,Completed,61,11.5,No,No,In-Person,1.6,MGR0013
+LRN00963,EMP00706,IT,L5,Financial Acumen,Soft Skills,Internal LMS,2025-09-05,2025-12-09,Not Started,51,27.8,No,No,Online Self-Paced,4.5,MGR0037
+LRN00964,EMP00993,Operations,L3,Excel Advanced,Leadership,HarvardX,2022-03-24,2022-05-26,Completed,55,12.4,No,Yes,Blended,1.8,MGR0044
+LRN00965,EMP00221,Operations,L5,SQL Mastery,Compliance,Custom,2025-05-27,2025-08-30,Dropped,76,27.2,Yes,No,Online Self-Paced,4.1,MGR0018
+LRN00966,EMP00517,Operations,L3,Communication Skills,Leadership,Udemy,2025-01-08,2025-04-06,In Progress,91,30.3,No,Yes,Virtual Instructor-Led,2.0,MGR0044
+LRN00967,EMP00120,Customer Success,L6,Leadership Foundations,Technical,Udemy,2024-06-30,2024-09-13,Dropped,76,32.3,No,No,Blended,2.6,MGR0034
+LRN00968,EMP00550,IT,L1,Project Management Professional,Domain,Custom,2025-09-28,2025-12-11,Dropped,57,2.4,Yes,No,Online Self-Paced,1.4,MGR0001
+LRN00969,EMP00342,Data Science,L2,Design Thinking,Compliance,Custom,2022-12-27,2023-04-11,Dropped,50,15.4,No,No,In-Person,1.7,MGR0049
+LRN00970,EMP00742,Engineering,L5,Machine Learning Basics,Compliance,Internal LMS,2025-04-17,2025-06-13,Dropped,51,32.2,No,No,Blended,3.9,MGR0005
+LRN00971,EMP00224,Product,L3,Communication Skills,Soft Skills,HarvardX,2024-12-27,2025-03-07,Dropped,75,21.2,No,No,Virtual Instructor-Led,4.2,MGR0039
+LRN00972,EMP00025,Data Science,L1,Cloud Fundamentals,Domain,Pluralsight,2025-11-30,2026-03-24,Dropped,64,26.1,Yes,Yes,Blended,2.4,MGR0040
+LRN00973,EMP00072,Product,L4,Agile & Scrum Certification,Soft Skills,Udemy,2025-12-04,2026-02-04,In Progress,62,12.2,Yes,No,Online Self-Paced,2.3,MGR0022
+LRN00974,EMP00061,Sales,L6,Machine Learning Basics,Leadership,Coursera,2026-06-05,2026-07-29,Not Started,64,30.0,No,Yes,Blended,3.8,MGR0040
+LRN00975,EMP00459,Sales,L5,Project Management Professional,Compliance,Coursera,2024-05-15,2024-07-16,Completed,98,6.2,Yes,Yes,Online Self-Paced,2.3,MGR0034
+LRN00976,EMP00312,Legal,L2,Cloud Fundamentals,Leadership,Coursera,2023-10-18,2023-11-27,Completed,78,28.3,No,No,Blended,3.1,MGR0036
+LRN00977,EMP00858,Marketing,L1,Communication Skills,Compliance,Coursera,2023-07-31,2023-09-01,Completed,55,21.0,No,Yes,Blended,1.7,MGR0015
+LRN00978,EMP00622,Engineering,L1,Negotiation Skills,Domain,Pluralsight,2026-03-02,2026-04-12,Not Started,86,17.8,No,No,Online Self-Paced,3.2,MGR0005
+LRN00979,EMP00259,Product,L1,Machine Learning Basics,Compliance,Custom,2024-10-27,2024-12-09,In Progress,98,4.8,No,Yes,Virtual Instructor-Led,2.9,MGR0045
+LRN00980,EMP00554,HR,L7,DEI in the Workplace,Compliance,Udemy,2023-03-25,2023-05-23,Not Started,78,29.5,No,Yes,In-Person,5.0,MGR0031
+LRN00981,EMP00956,Finance,L3,Safety & Compliance,Technical,Internal LMS,2023-04-18,2023-08-14,Dropped,61,18.2,No,Yes,Online Self-Paced,4.5,MGR0042
+LRN00982,EMP01106,Engineering,L4,Leadership Foundations,Leadership,Coursera,2025-05-13,2025-07-06,Dropped,78,20.8,No,Yes,In-Person,2.4,MGR0049
+LRN00983,EMP00450,Product,L2,DEI in the Workplace,Domain,Udemy,2022-11-24,2023-02-19,Completed,67,27.3,No,No,Blended,1.3,MGR0026
+LRN00984,EMP00399,Marketing,L2,Communication Skills,Domain,Custom,2023-07-07,2023-08-10,Dropped,65,5.5,No,No,In-Person,4.0,MGR0017
+LRN00985,EMP01027,Finance,L1,Design Thinking,Technical,Internal LMS,2026-01-13,2026-03-03,Completed,50,39.1,No,No,Blended,2.6,MGR0001
+LRN00986,EMP01171,Legal,L6,SQL Mastery,Soft Skills,HarvardX,2022-05-22,2022-08-16,In Progress,87,22.9,No,No,Virtual Instructor-Led,2.6,MGR0046
+LRN00987,EMP01012,IT,L5,DEI in the Workplace,Technical,HarvardX,2022-03-07,2022-06-17,Dropped,97,27.4,No,Yes,Blended,3.6,MGR0047
+LRN00988,EMP01048,HR,L6,Power BI Essentials,Domain,LinkedIn Learning,2025-03-26,2025-04-26,Completed,98,8.0,No,No,Online Self-Paced,3.0,MGR0013
+LRN00989,EMP00685,Data Science,L2,Financial Acumen,Soft Skills,Internal LMS,2022-06-17,2022-09-05,Dropped,68,35.1,No,No,Virtual Instructor-Led,3.9,MGR0012
+LRN00990,EMP00674,Engineering,L3,Agile & Scrum Certification,Soft Skills,Udemy,2022-10-24,2023-01-28,Not Started,82,35.0,Yes,No,In-Person,2.0,MGR0019
+LRN00991,EMP00016,Engineering,L2,Project Management Professional,Domain,HarvardX,2023-01-06,2023-02-24,In Progress,69,32.0,No,No,Online Self-Paced,4.9,MGR0012
+LRN00992,EMP00583,HR,L6,Project Management Professional,Domain,LinkedIn Learning,2025-12-20,2026-02-03,In Progress,96,18.7,No,No,Virtual Instructor-Led,3.1,MGR0019
+LRN00993,EMP01171,Legal,L5,Negotiation Skills,Soft Skills,Internal LMS,2022-03-07,2022-06-07,In Progress,83,27.6,No,Yes,Blended,2.3,MGR0007
+LRN00994,EMP00310,Engineering,L4,Excel Advanced,Technical,Custom,2022-12-27,2023-03-07,Completed,71,15.7,No,Yes,Virtual Instructor-Led,2.1,MGR0042
+LRN00995,EMP00473,Marketing,L6,Cloud Fundamentals,Technical,Coursera,2022-03-14,2022-05-07,Dropped,84,35.1,Yes,Yes,Blended,3.1,MGR0001
+LRN00996,EMP00838,Finance,L2,DEI in the Workplace,Leadership,Pluralsight,2025-06-15,2025-08-30,Not Started,73,2.1,No,Yes,Online Self-Paced,1.2,MGR0046
+LRN00997,EMP01086,Marketing,L6,Excel Advanced,Compliance,Internal LMS,2026-02-04,2026-06-01,Completed,64,2.1,No,Yes,Online Self-Paced,3.0,MGR0021
+LRN00998,EMP00996,Engineering,L3,Leadership Foundations,Domain,Coursera,2025-09-06,2025-11-27,Not Started,50,32.5,No,No,Online Self-Paced,2.5,MGR0007
+LRN00999,EMP01043,Marketing,L2,Excel Advanced,Compliance,LinkedIn Learning,2022-09-11,2022-11-08,In Progress,97,29.5,No,Yes,Online Self-Paced,1.1,MGR0016
+LRN01000,EMP00399,Design,L2,Financial Acumen,Technical,Coursera,2023-01-02,2023-04-14,In Progress,95,21.8,Yes,No,Virtual Instructor-Led,3.0,MGR0021

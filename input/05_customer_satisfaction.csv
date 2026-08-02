@@ -1,0 +1,801 @@
+interaction_id,employee_id,department,customer_id,interaction_date,channel,product_service,csat_score,nps_score,resolution_time_hrs,first_contact_resolution,escalated,sentiment,feedback_category,region,repeat_contact
+INT00001,EMP00075,Sales,CUST28022,2022-07-24,Chat,Enterprise Plan,1.3,1,3.9,Yes,No,Positive,Accuracy,North America,Yes
+INT00002,EMP00674,Operations,CUST75851,2025-08-06,Chat,Starter Plan,4.2,10,38.9,Yes,No,Negative,Courtesy,North America,No
+INT00003,EMP00624,Customer Success,CUST91898,2025-03-15,In-Person,Enterprise Plan,4.2,1,35.0,Yes,Yes,Negative,Speed,North America,Yes
+INT00004,EMP00713,Support,CUST37394,2026-02-07,Phone,Service Package 1,3.8,0,5.7,Yes,Yes,Positive,Courtesy,EMEA,Yes
+INT00005,EMP00833,Support,CUST97099,2023-12-14,In-Person,Product B,3.6,0,45.4,Yes,No,Negative,Knowledge,EMEA,No
+INT00006,EMP00754,Sales,CUST94950,2025-11-13,Self-Service Portal,Product B,3.4,2,26.9,Yes,Yes,Negative,Courtesy,LATAM,No
+INT00007,EMP00844,Operations,CUST91114,2026-01-07,Phone,Service Package 1,2.8,1,64.3,Yes,No,Negative,Courtesy,APAC,No
+INT00008,EMP00039,Customer Success,CUST39921,2022-02-14,Chat,Enterprise Plan,2.8,5,57.5,Yes,No,Neutral,Follow-Up,LATAM,Yes
+INT00009,EMP00939,Sales,CUST12142,2024-03-22,Self-Service Portal,Service Package 1,4.5,8,34.1,No,Yes,Negative,Accuracy,North America,No
+INT00010,EMP00280,Sales,CUST81187,2025-12-07,Chat,Product C,1.2,0,10.3,Yes,No,Neutral,Follow-Up,APAC,No
+INT00011,EMP00125,Customer Success,CUST51846,2026-06-20,In-Person,Starter Plan,3.6,2,24.7,Yes,Yes,Negative,Speed,LATAM,Yes
+INT00012,EMP00595,Support,CUST94526,2026-03-13,Self-Service Portal,Enterprise Plan,1.7,7,39.6,Yes,No,Positive,Courtesy,LATAM,No
+INT00013,EMP00945,Customer Success,CUST73404,2022-10-26,Self-Service Portal,Product A,1.7,9,37.0,Yes,No,Positive,Courtesy,APAC,Yes
+INT00014,EMP00394,Support,CUST37313,2022-02-12,Self-Service Portal,Starter Plan,1.6,9,32.7,Yes,No,Positive,Speed,EMEA,Yes
+INT00015,EMP01031,Support,CUST30021,2022-03-30,Chat,Service Package 1,2.0,9,37.7,Yes,No,Neutral,Speed,APAC,No
+INT00016,EMP00734,Operations,CUST56721,2026-02-12,Self-Service Portal,Product C,1.3,7,53.8,Yes,No,Positive,Courtesy,APAC,No
+INT00017,EMP00617,Sales,CUST99953,2022-02-05,Self-Service Portal,Product C,2.1,5,19.5,Yes,No,Negative,Accuracy,North America,Yes
+INT00018,EMP00928,Support,CUST86502,2023-08-25,Chat,Product B,1.7,8,17.1,Yes,No,Neutral,Accuracy,LATAM,No
+INT00019,EMP00841,Sales,CUST10460,2023-07-24,Self-Service Portal,Product C,4.3,5,1.8,Yes,No,Negative,Knowledge,APAC,Yes
+INT00020,EMP00890,Sales,CUST81608,2025-02-06,Email,Enterprise Plan,3.7,1,1.1,Yes,No,Neutral,Speed,EMEA,Yes
+INT00021,EMP00247,Support,CUST59957,2022-11-23,Email,Product A,4.8,6,70.4,No,No,Neutral,Knowledge,EMEA,No
+INT00022,EMP00873,Sales,CUST10060,2022-04-10,Chat,Starter Plan,4.3,3,23.1,Yes,Yes,Neutral,Knowledge,APAC,Yes
+INT00023,EMP00939,Support,CUST53190,2026-01-10,In-Person,Enterprise Plan,2.1,1,19.1,No,No,Positive,Courtesy,EMEA,No
+INT00024,EMP01034,Sales,CUST99056,2025-06-14,In-Person,Product B,2.5,7,62.7,Yes,Yes,Negative,Knowledge,North America,No
+INT00025,EMP00746,Operations,CUST61548,2026-03-19,Chat,Service Package 1,2.6,0,28.7,Yes,No,Neutral,Courtesy,LATAM,Yes
+INT00026,EMP00917,Customer Success,CUST21040,2022-04-25,In-Person,Enterprise Plan,4.3,7,41.1,Yes,No,Neutral,Follow-Up,LATAM,Yes
+INT00027,EMP00465,Support,CUST47143,2023-02-16,In-Person,Enterprise Plan,4.7,8,65.4,Yes,No,Neutral,Accuracy,EMEA,No
+INT00028,EMP00583,Operations,CUST68633,2025-07-15,Chat,Product A,3.0,3,16.2,Yes,No,Negative,Speed,North America,Yes
+INT00029,EMP00963,Operations,CUST72634,2024-02-24,Phone,Product C,1.9,5,2.7,Yes,Yes,Neutral,Courtesy,APAC,No
+INT00030,EMP01107,Customer Success,CUST92268,2025-10-20,In-Person,Product A,3.0,4,27.6,No,No,Positive,Follow-Up,APAC,No
+INT00031,EMP00802,Support,CUST66242,2026-06-25,Phone,Product B,4.4,3,47.6,Yes,No,Negative,Knowledge,LATAM,Yes
+INT00032,EMP00295,Operations,CUST22909,2025-06-27,Email,Product A,2.8,6,27.9,Yes,No,Neutral,Knowledge,EMEA,No
+INT00033,EMP00115,Operations,CUST99162,2026-05-09,Phone,Service Package 1,4.6,7,49.0,Yes,No,Neutral,Courtesy,LATAM,No
+INT00034,EMP00154,Support,CUST70232,2025-12-01,In-Person,Service Package 1,2.4,7,45.3,No,No,Positive,Accuracy,EMEA,No
+INT00035,EMP00226,Sales,CUST35660,2023-06-08,Self-Service Portal,Starter Plan,2.0,5,52.4,Yes,No,Negative,Courtesy,North America,No
+INT00036,EMP00882,Support,CUST80519,2026-01-10,Email,Service Package 1,1.4,8,45.9,Yes,No,Negative,Knowledge,North America,No
+INT00037,EMP00501,Sales,CUST78075,2025-07-30,Phone,Service Package 1,5.0,3,45.5,Yes,No,Neutral,Knowledge,LATAM,Yes
+INT00038,EMP00697,Sales,CUST42564,2025-08-18,Phone,Enterprise Plan,4.1,1,43.2,Yes,No,Positive,Knowledge,LATAM,No
+INT00039,EMP00375,Support,CUST90980,2025-01-26,Self-Service Portal,Product C,2.7,9,6.3,Yes,No,Positive,Follow-Up,LATAM,No
+INT00040,EMP01082,Operations,CUST37906,2025-02-11,Phone,Product C,1.2,4,55.4,Yes,No,Positive,Knowledge,LATAM,No
+INT00041,EMP00201,Sales,CUST10468,2024-03-24,Email,Product C,2.1,5,14.0,No,Yes,Negative,Speed,APAC,No
+INT00042,EMP00041,Customer Success,CUST51219,2025-08-29,In-Person,Product C,5.0,10,42.0,No,No,Negative,Courtesy,North America,Yes
+INT00043,EMP00615,Sales,CUST75758,2024-07-30,Phone,Product B,3.2,9,54.6,No,No,Neutral,Courtesy,APAC,No
+INT00044,EMP00551,Support,CUST80965,2026-03-14,Self-Service Portal,Product A,2.4,7,65.3,Yes,Yes,Positive,Follow-Up,APAC,Yes
+INT00045,EMP00811,Customer Success,CUST46339,2025-12-04,Chat,Starter Plan,2.8,8,12.4,Yes,No,Negative,Knowledge,LATAM,Yes
+INT00046,EMP00890,Sales,CUST16160,2024-01-05,Phone,Product B,3.1,1,29.7,No,No,Positive,Speed,LATAM,Yes
+INT00047,EMP00404,Sales,CUST83384,2023-12-23,In-Person,Enterprise Plan,3.5,6,41.2,Yes,No,Positive,Speed,North America,No
+INT00048,EMP00070,Sales,CUST45450,2023-02-23,Phone,Service Package 1,1.6,2,14.6,Yes,No,Positive,Speed,EMEA,No
+INT00049,EMP00399,Sales,CUST58448,2024-07-04,Phone,Product B,1.1,5,35.1,Yes,Yes,Positive,Follow-Up,LATAM,Yes
+INT00050,EMP00779,Sales,CUST79567,2025-06-06,In-Person,Product B,4.2,10,36.9,Yes,No,Neutral,Courtesy,LATAM,No
+INT00051,EMP00671,Sales,CUST25622,2025-10-15,Phone,Service Package 1,2.6,9,50.6,No,Yes,Positive,Follow-Up,LATAM,Yes
+INT00052,EMP01125,Operations,CUST70931,2023-09-19,Chat,Product B,3.6,5,70.8,Yes,No,Neutral,Knowledge,North America,No
+INT00053,EMP00232,Support,CUST95236,2025-08-10,In-Person,Product B,2.0,0,29.4,Yes,Yes,Negative,Speed,EMEA,No
+INT00054,EMP00336,Sales,CUST19114,2023-01-04,Email,Product A,1.9,6,35.8,No,No,Neutral,Accuracy,North America,No
+INT00055,EMP00177,Operations,CUST87941,2022-03-28,Email,Product C,1.1,4,69.8,Yes,No,Positive,Follow-Up,APAC,No
+INT00056,EMP01080,Customer Success,CUST45986,2022-10-07,Chat,Enterprise Plan,2.3,1,45.3,No,No,Negative,Accuracy,North America,Yes
+INT00057,EMP00640,Sales,CUST92986,2024-02-13,In-Person,Enterprise Plan,2.4,7,16.9,Yes,No,Neutral,Knowledge,LATAM,No
+INT00058,EMP00818,Sales,CUST90706,2023-03-02,Phone,Product A,4.0,3,34.0,Yes,No,Neutral,Courtesy,LATAM,No
+INT00059,EMP00476,Support,CUST12209,2024-12-10,Self-Service Portal,Product B,2.5,7,2.3,Yes,No,Neutral,Courtesy,EMEA,No
+INT00060,EMP00504,Support,CUST93057,2024-11-14,Self-Service Portal,Service Package 1,3.5,2,7.1,Yes,No,Negative,Speed,APAC,No
+INT00061,EMP00933,Support,CUST76965,2025-04-23,Self-Service Portal,Product B,1.0,1,37.6,No,Yes,Negative,Speed,LATAM,No
+INT00062,EMP00451,Sales,CUST96457,2025-12-11,Self-Service Portal,Enterprise Plan,4.5,6,32.6,No,Yes,Positive,Courtesy,EMEA,No
+INT00063,EMP00082,Sales,CUST88942,2024-04-22,Chat,Product C,3.9,8,63.2,Yes,No,Negative,Accuracy,North America,No
+INT00064,EMP00752,Sales,CUST63869,2023-04-19,Chat,Service Package 1,4.2,10,5.8,No,No,Negative,Speed,APAC,No
+INT00065,EMP01135,Customer Success,CUST55182,2025-07-14,Chat,Product C,2.4,2,42.2,Yes,No,Neutral,Follow-Up,North America,No
+INT00066,EMP01119,Customer Success,CUST83194,2024-07-06,Chat,Product C,3.3,1,46.9,Yes,Yes,Negative,Speed,APAC,No
+INT00067,EMP00985,Operations,CUST78229,2024-03-29,Self-Service Portal,Starter Plan,2.0,6,4.8,Yes,Yes,Neutral,Courtesy,LATAM,Yes
+INT00068,EMP00533,Customer Success,CUST96757,2024-10-18,Self-Service Portal,Starter Plan,2.8,4,69.5,Yes,Yes,Neutral,Knowledge,LATAM,Yes
+INT00069,EMP00266,Operations,CUST33363,2023-07-21,In-Person,Product B,4.7,0,13.1,Yes,No,Negative,Knowledge,APAC,Yes
+INT00070,EMP00687,Operations,CUST82304,2024-02-25,In-Person,Service Package 1,2.8,3,30.8,Yes,No,Positive,Speed,North America,No
+INT00071,EMP00341,Support,CUST52145,2025-02-24,In-Person,Product A,2.4,4,34.8,Yes,No,Negative,Speed,APAC,Yes
+INT00072,EMP00842,Sales,CUST30798,2024-09-11,In-Person,Product B,4.2,8,42.4,Yes,No,Positive,Knowledge,North America,Yes
+INT00073,EMP00766,Operations,CUST11475,2022-12-03,Email,Product B,3.8,8,1.6,No,No,Positive,Knowledge,EMEA,Yes
+INT00074,EMP00559,Sales,CUST74151,2023-10-09,Self-Service Portal,Starter Plan,3.9,1,7.5,Yes,No,Negative,Knowledge,LATAM,Yes
+INT00075,EMP01032,Support,CUST19241,2022-09-01,Chat,Starter Plan,4.6,7,31.8,Yes,No,Positive,Speed,APAC,No
+INT00076,EMP00407,Customer Success,CUST87846,2026-06-15,In-Person,Product B,3.6,7,36.9,No,Yes,Positive,Follow-Up,North America,No
+INT00077,EMP00338,Sales,CUST99953,2026-01-04,Chat,Starter Plan,3.7,0,60.3,No,Yes,Negative,Follow-Up,EMEA,No
+INT00078,EMP01138,Operations,CUST46974,2025-07-22,Email,Product C,3.6,0,61.3,Yes,No,Positive,Speed,APAC,No
+INT00079,EMP00743,Support,CUST90837,2023-01-02,Self-Service Portal,Service Package 1,2.6,7,48.3,No,No,Neutral,Accuracy,LATAM,No
+INT00080,EMP01148,Customer Success,CUST50878,2023-12-03,Email,Enterprise Plan,4.3,10,22.2,Yes,No,Negative,Accuracy,LATAM,Yes
+INT00081,EMP00386,Sales,CUST61807,2025-09-11,Chat,Product A,3.1,9,45.8,Yes,No,Negative,Follow-Up,North America,Yes
+INT00082,EMP00049,Support,CUST28412,2026-06-19,In-Person,Product B,2.4,9,7.9,Yes,Yes,Neutral,Knowledge,LATAM,No
+INT00083,EMP00566,Sales,CUST83872,2024-06-06,Phone,Product B,1.1,5,10.8,No,Yes,Positive,Speed,North America,No
+INT00084,EMP00324,Support,CUST65928,2026-03-22,Chat,Product B,4.6,1,45.3,Yes,No,Neutral,Knowledge,EMEA,No
+INT00085,EMP00595,Sales,CUST70438,2024-04-29,Email,Enterprise Plan,4.8,0,30.6,Yes,No,Neutral,Knowledge,LATAM,No
+INT00086,EMP00111,Sales,CUST67721,2022-04-09,In-Person,Product A,1.3,0,40.8,Yes,No,Neutral,Courtesy,EMEA,No
+INT00087,EMP01083,Sales,CUST54914,2026-05-07,In-Person,Enterprise Plan,2.0,3,33.1,Yes,No,Negative,Speed,APAC,No
+INT00088,EMP00827,Customer Success,CUST18202,2026-01-10,In-Person,Enterprise Plan,1.3,8,35.2,Yes,Yes,Neutral,Follow-Up,North America,No
+INT00089,EMP00880,Sales,CUST40913,2025-05-17,Email,Service Package 1,3.1,0,36.3,No,Yes,Negative,Courtesy,LATAM,Yes
+INT00090,EMP00706,Operations,CUST33176,2026-04-09,Phone,Product A,4.8,0,18.7,No,Yes,Negative,Courtesy,North America,No
+INT00091,EMP00673,Operations,CUST77621,2023-11-26,Self-Service Portal,Product A,4.2,3,64.9,Yes,No,Positive,Courtesy,LATAM,Yes
+INT00092,EMP00169,Customer Success,CUST28576,2026-06-07,In-Person,Starter Plan,2.2,3,34.0,Yes,No,Negative,Knowledge,EMEA,Yes
+INT00093,EMP00227,Support,CUST71827,2022-01-09,Phone,Product B,2.6,0,53.9,No,No,Negative,Accuracy,LATAM,No
+INT00094,EMP00333,Sales,CUST60819,2022-10-02,Phone,Product A,5.0,3,20.9,Yes,No,Negative,Follow-Up,LATAM,No
+INT00095,EMP00470,Customer Success,CUST29298,2025-12-14,Self-Service Portal,Enterprise Plan,2.6,2,71.6,Yes,Yes,Negative,Speed,EMEA,Yes
+INT00096,EMP00801,Support,CUST35178,2024-01-17,Self-Service Portal,Product A,1.8,5,66.7,Yes,No,Positive,Knowledge,APAC,No
+INT00097,EMP01076,Sales,CUST48930,2023-11-10,Self-Service Portal,Product A,3.4,7,38.5,Yes,No,Negative,Speed,LATAM,Yes
+INT00098,EMP00405,Sales,CUST82565,2024-11-28,Email,Starter Plan,4.0,9,13.3,No,No,Neutral,Speed,EMEA,No
+INT00099,EMP00968,Customer Success,CUST58818,2023-10-16,Chat,Product C,1.1,5,49.7,No,No,Neutral,Accuracy,EMEA,No
+INT00100,EMP00231,Sales,CUST65183,2025-06-22,Phone,Service Package 1,1.1,2,52.2,Yes,Yes,Neutral,Speed,North America,No
+INT00101,EMP00963,Customer Success,CUST71862,2025-02-02,In-Person,Enterprise Plan,3.3,7,54.1,Yes,No,Positive,Speed,APAC,No
+INT00102,EMP00623,Support,CUST75287,2025-05-27,Chat,Product B,3.0,5,16.7,Yes,No,Positive,Accuracy,LATAM,No
+INT00103,EMP01179,Support,CUST36361,2024-07-12,Email,Product C,2.2,9,68.4,Yes,No,Positive,Knowledge,APAC,Yes
+INT00104,EMP00595,Sales,CUST64570,2025-05-08,Email,Product A,1.2,1,55.9,Yes,No,Positive,Courtesy,North America,Yes
+INT00105,EMP00993,Customer Success,CUST76585,2025-03-25,Chat,Product B,3.0,9,34.0,No,No,Positive,Speed,EMEA,No
+INT00106,EMP00552,Operations,CUST75504,2025-02-14,Email,Service Package 1,4.3,7,27.4,Yes,No,Neutral,Speed,North America,No
+INT00107,EMP01171,Sales,CUST24638,2025-01-22,Phone,Product C,3.7,7,43.9,Yes,No,Positive,Courtesy,North America,No
+INT00108,EMP01199,Support,CUST89306,2022-01-27,In-Person,Product A,2.0,5,30.3,Yes,No,Positive,Knowledge,North America,Yes
+INT00109,EMP00742,Customer Success,CUST17628,2026-04-28,Self-Service Portal,Product A,2.9,1,70.1,Yes,No,Neutral,Accuracy,North America,No
+INT00110,EMP00990,Support,CUST10797,2025-02-16,Self-Service Portal,Enterprise Plan,3.1,7,41.6,Yes,No,Positive,Speed,APAC,No
+INT00111,EMP00595,Support,CUST18399,2024-05-12,Chat,Product B,4.0,10,42.5,Yes,No,Neutral,Knowledge,North America,Yes
+INT00112,EMP00933,Support,CUST23768,2026-07-30,Self-Service Portal,Enterprise Plan,2.7,2,55.4,No,No,Neutral,Speed,LATAM,Yes
+INT00113,EMP00397,Customer Success,CUST67559,2023-11-30,Chat,Service Package 1,4.3,6,59.5,Yes,No,Neutral,Follow-Up,APAC,Yes
+INT00114,EMP00403,Customer Success,CUST14851,2026-02-08,Self-Service Portal,Product B,4.7,2,1.7,Yes,No,Positive,Speed,LATAM,No
+INT00115,EMP00877,Operations,CUST32542,2025-06-15,Self-Service Portal,Product B,2.7,1,42.7,Yes,Yes,Negative,Speed,EMEA,No
+INT00116,EMP00364,Operations,CUST36377,2026-01-18,Self-Service Portal,Starter Plan,1.0,6,22.5,Yes,Yes,Positive,Speed,APAC,Yes
+INT00117,EMP00331,Sales,CUST66469,2023-10-08,Self-Service Portal,Product A,3.8,7,33.4,Yes,No,Neutral,Follow-Up,EMEA,No
+INT00118,EMP00480,Operations,CUST79627,2022-08-08,Email,Product B,1.1,3,10.8,Yes,No,Neutral,Speed,North America,Yes
+INT00119,EMP00182,Customer Success,CUST34266,2023-05-16,Phone,Service Package 1,1.8,8,67.6,Yes,Yes,Negative,Accuracy,EMEA,Yes
+INT00120,EMP00279,Support,CUST91991,2023-02-12,In-Person,Product C,4.8,1,4.4,Yes,No,Negative,Courtesy,APAC,Yes
+INT00121,EMP00097,Support,CUST16714,2022-03-12,Self-Service Portal,Enterprise Plan,1.3,9,45.3,No,Yes,Neutral,Follow-Up,North America,No
+INT00122,EMP00761,Customer Success,CUST20919,2025-11-21,Phone,Product C,1.1,4,7.8,Yes,No,Positive,Speed,North America,Yes
+INT00123,EMP01032,Operations,CUST53450,2022-05-03,Self-Service Portal,Product B,2.6,0,14.1,Yes,No,Positive,Follow-Up,North America,No
+INT00124,EMP00194,Support,CUST89318,2023-05-08,In-Person,Product A,3.4,0,19.9,Yes,No,Positive,Courtesy,LATAM,No
+INT00125,EMP01102,Customer Success,CUST74856,2023-10-14,In-Person,Product A,1.2,5,40.0,Yes,No,Neutral,Follow-Up,North America,Yes
+INT00126,EMP00958,Support,CUST39863,2024-05-04,Email,Product C,4.7,7,44.3,Yes,No,Positive,Accuracy,EMEA,No
+INT00127,EMP00631,Operations,CUST54249,2022-01-28,Self-Service Portal,Product A,4.6,8,14.0,No,No,Negative,Knowledge,APAC,Yes
+INT00128,EMP00756,Support,CUST76321,2025-02-05,Phone,Product A,3.2,5,32.5,Yes,No,Positive,Knowledge,LATAM,No
+INT00129,EMP00968,Operations,CUST66807,2022-09-27,In-Person,Product A,1.2,6,7.5,Yes,No,Positive,Speed,EMEA,Yes
+INT00130,EMP00969,Sales,CUST55732,2023-04-25,Self-Service Portal,Service Package 1,3.1,8,4.8,No,Yes,Positive,Knowledge,LATAM,Yes
+INT00131,EMP00879,Customer Success,CUST18139,2024-12-02,Chat,Product B,2.0,7,23.6,Yes,No,Neutral,Follow-Up,North America,No
+INT00132,EMP00613,Support,CUST41061,2026-04-12,Self-Service Portal,Product C,2.1,9,12.2,No,No,Neutral,Accuracy,APAC,Yes
+INT00133,EMP01199,Customer Success,CUST39916,2024-12-30,Email,Product B,2.1,9,46.5,Yes,No,Neutral,Accuracy,EMEA,No
+INT00134,EMP00945,Operations,CUST98868,2024-07-18,Phone,Product B,2.5,9,43.6,No,Yes,Neutral,Speed,North America,Yes
+INT00135,EMP00420,Customer Success,CUST25277,2023-05-12,In-Person,Enterprise Plan,2.8,8,34.0,No,No,Negative,Accuracy,North America,No
+INT00136,EMP00118,Operations,CUST71860,2022-10-16,Chat,Enterprise Plan,2.2,0,43.7,Yes,No,Positive,Courtesy,North America,No
+INT00137,EMP00557,Operations,CUST60355,2025-09-27,In-Person,Product A,2.3,0,30.0,Yes,No,Neutral,Courtesy,EMEA,No
+INT00138,EMP01067,Operations,CUST35901,2024-07-31,Self-Service Portal,Product C,1.1,10,0.9,Yes,Yes,Positive,Courtesy,North America,No
+INT00139,EMP00214,Operations,CUST68692,2022-10-07,Email,Service Package 1,3.3,7,54.8,Yes,Yes,Neutral,Accuracy,EMEA,Yes
+INT00140,EMP00238,Sales,CUST53215,2022-09-12,Self-Service Portal,Service Package 1,2.1,0,18.7,Yes,No,Positive,Accuracy,EMEA,Yes
+INT00141,EMP00509,Operations,CUST48502,2025-12-23,Chat,Service Package 1,1.5,5,65.7,Yes,Yes,Positive,Knowledge,North America,No
+INT00142,EMP00064,Customer Success,CUST73466,2023-06-10,Self-Service Portal,Enterprise Plan,1.9,8,10.8,Yes,Yes,Positive,Accuracy,North America,Yes
+INT00143,EMP00221,Support,CUST28780,2024-04-08,Email,Product A,2.9,10,56.0,No,No,Negative,Knowledge,APAC,No
+INT00144,EMP00948,Customer Success,CUST76264,2024-06-06,Self-Service Portal,Service Package 1,1.6,0,58.1,No,No,Positive,Knowledge,APAC,No
+INT00145,EMP00919,Support,CUST87259,2025-11-27,Email,Starter Plan,1.8,10,25.0,Yes,Yes,Negative,Follow-Up,North America,No
+INT00146,EMP01050,Sales,CUST20266,2023-04-13,Chat,Service Package 1,1.3,9,4.3,Yes,No,Neutral,Speed,LATAM,No
+INT00147,EMP00739,Customer Success,CUST78920,2026-05-22,Self-Service Portal,Product B,4.2,6,70.4,No,Yes,Negative,Knowledge,North America,Yes
+INT00148,EMP00728,Support,CUST17251,2024-07-12,Chat,Enterprise Plan,2.1,3,43.9,No,No,Neutral,Courtesy,North America,No
+INT00149,EMP00404,Support,CUST96698,2023-07-14,Chat,Product B,2.1,2,63.8,Yes,No,Negative,Follow-Up,North America,Yes
+INT00150,EMP01047,Operations,CUST69315,2022-08-10,In-Person,Product C,4.3,6,52.4,Yes,No,Neutral,Follow-Up,North America,Yes
+INT00151,EMP01040,Customer Success,CUST80643,2024-05-18,Self-Service Portal,Product B,1.6,0,33.7,Yes,No,Neutral,Courtesy,EMEA,No
+INT00152,EMP00007,Customer Success,CUST26059,2022-09-28,In-Person,Enterprise Plan,3.3,8,43.9,Yes,No,Neutral,Follow-Up,LATAM,No
+INT00153,EMP00185,Sales,CUST50670,2026-07-29,Self-Service Portal,Service Package 1,2.9,10,27.5,Yes,No,Positive,Speed,LATAM,Yes
+INT00154,EMP00535,Support,CUST35862,2022-06-12,Phone,Product C,4.0,1,39.3,Yes,No,Neutral,Accuracy,EMEA,No
+INT00155,EMP00240,Customer Success,CUST62750,2024-12-21,Chat,Service Package 1,2.7,6,25.8,No,No,Negative,Courtesy,North America,No
+INT00156,EMP00377,Customer Success,CUST94480,2022-05-08,Email,Service Package 1,2.1,7,14.0,Yes,No,Neutral,Knowledge,North America,Yes
+INT00157,EMP00162,Sales,CUST49242,2025-05-30,Self-Service Portal,Starter Plan,4.4,6,46.1,Yes,Yes,Neutral,Courtesy,LATAM,No
+INT00158,EMP00279,Customer Success,CUST98925,2023-05-23,Phone,Starter Plan,4.9,1,17.9,No,No,Negative,Speed,EMEA,No
+INT00159,EMP00328,Operations,CUST66756,2024-09-21,Email,Product B,4.1,7,58.3,Yes,Yes,Positive,Courtesy,North America,No
+INT00160,EMP00466,Sales,CUST63319,2024-04-25,Self-Service Portal,Enterprise Plan,2.1,9,20.8,Yes,No,Negative,Accuracy,LATAM,No
+INT00161,EMP00986,Support,CUST48846,2024-10-01,Email,Product B,4.8,5,32.6,Yes,No,Neutral,Follow-Up,LATAM,No
+INT00162,EMP00519,Operations,CUST30620,2024-07-24,In-Person,Product A,2.0,2,64.8,Yes,No,Neutral,Speed,LATAM,Yes
+INT00163,EMP00789,Support,CUST45610,2023-09-27,Email,Starter Plan,4.8,3,42.0,Yes,No,Neutral,Knowledge,North America,Yes
+INT00164,EMP00636,Sales,CUST86667,2025-10-27,Chat,Product C,4.8,4,71.4,No,Yes,Positive,Speed,North America,No
+INT00165,EMP00476,Customer Success,CUST60183,2025-02-11,Phone,Enterprise Plan,1.2,8,13.1,Yes,No,Negative,Follow-Up,LATAM,No
+INT00166,EMP00897,Operations,CUST73160,2023-10-18,Email,Product B,4.8,9,40.8,Yes,Yes,Negative,Knowledge,APAC,No
+INT00167,EMP01175,Customer Success,CUST57520,2024-10-25,Self-Service Portal,Product C,4.8,9,54.9,Yes,No,Neutral,Knowledge,APAC,No
+INT00168,EMP00237,Customer Success,CUST79335,2024-12-04,Phone,Product B,3.9,6,32.6,Yes,No,Positive,Knowledge,EMEA,No
+INT00169,EMP00544,Operations,CUST41265,2024-11-12,Phone,Product A,4.0,6,17.7,Yes,No,Positive,Speed,APAC,Yes
+INT00170,EMP01149,Sales,CUST27940,2024-03-16,Phone,Service Package 1,2.0,0,24.8,No,No,Negative,Follow-Up,APAC,No
+INT00171,EMP00042,Customer Success,CUST72395,2023-12-13,Email,Product C,1.2,0,5.3,Yes,No,Positive,Courtesy,EMEA,No
+INT00172,EMP00922,Customer Success,CUST47816,2022-07-11,Email,Service Package 1,4.8,0,5.5,Yes,No,Positive,Follow-Up,LATAM,No
+INT00173,EMP00277,Sales,CUST86838,2022-12-11,Self-Service Portal,Product A,4.6,3,36.2,Yes,Yes,Negative,Follow-Up,LATAM,No
+INT00174,EMP00093,Customer Success,CUST74977,2023-06-01,Email,Product B,2.5,8,65.0,Yes,No,Positive,Accuracy,LATAM,No
+INT00175,EMP00085,Sales,CUST51872,2024-02-12,In-Person,Product B,3.4,4,65.2,Yes,No,Positive,Accuracy,EMEA,No
+INT00176,EMP00587,Operations,CUST29560,2024-10-24,Email,Starter Plan,2.0,4,53.8,Yes,No,Positive,Accuracy,EMEA,Yes
+INT00177,EMP00308,Operations,CUST53295,2024-02-08,Phone,Service Package 1,3.6,5,38.0,Yes,No,Negative,Speed,LATAM,Yes
+INT00178,EMP00052,Customer Success,CUST77573,2026-03-20,Phone,Starter Plan,4.0,2,20.9,Yes,No,Positive,Accuracy,LATAM,Yes
+INT00179,EMP00730,Operations,CUST58562,2022-11-26,Email,Enterprise Plan,3.8,3,10.8,Yes,No,Neutral,Follow-Up,North America,Yes
+INT00180,EMP00361,Sales,CUST63412,2024-06-25,In-Person,Enterprise Plan,2.5,1,19.9,Yes,No,Neutral,Follow-Up,APAC,No
+INT00181,EMP00560,Support,CUST28466,2026-05-27,Self-Service Portal,Starter Plan,2.9,3,35.3,No,No,Positive,Accuracy,EMEA,No
+INT00182,EMP01092,Sales,CUST36582,2024-09-20,Chat,Product C,5.0,7,46.0,Yes,No,Negative,Courtesy,North America,Yes
+INT00183,EMP00402,Customer Success,CUST24038,2024-03-08,Chat,Product B,1.5,6,18.2,No,No,Neutral,Courtesy,LATAM,Yes
+INT00184,EMP00726,Operations,CUST24034,2024-09-07,Phone,Product C,3.5,1,47.0,Yes,No,Positive,Accuracy,APAC,No
+INT00185,EMP00342,Support,CUST54140,2022-02-05,Phone,Product B,2.3,8,22.0,Yes,No,Negative,Courtesy,North America,Yes
+INT00186,EMP00478,Operations,CUST35239,2025-09-17,Email,Product A,4.7,10,47.2,Yes,Yes,Positive,Knowledge,EMEA,No
+INT00187,EMP00359,Sales,CUST92671,2024-05-30,Phone,Service Package 1,3.2,10,70.5,No,No,Positive,Speed,LATAM,Yes
+INT00188,EMP00847,Support,CUST81294,2025-01-10,In-Person,Product B,4.7,9,36.7,No,No,Neutral,Follow-Up,North America,No
+INT00189,EMP00347,Support,CUST85255,2026-05-20,Phone,Product A,4.9,2,44.6,Yes,No,Negative,Accuracy,APAC,Yes
+INT00190,EMP01165,Sales,CUST29187,2024-06-26,Chat,Product B,1.5,6,43.7,No,No,Negative,Accuracy,North America,No
+INT00191,EMP00168,Sales,CUST11713,2024-03-22,Chat,Product B,1.8,3,43.3,No,Yes,Positive,Follow-Up,LATAM,No
+INT00192,EMP00634,Customer Success,CUST19686,2023-11-26,Phone,Starter Plan,2.5,10,59.2,No,No,Negative,Accuracy,EMEA,No
+INT00193,EMP00851,Support,CUST87977,2024-08-25,Self-Service Portal,Product B,2.7,0,3.8,Yes,Yes,Neutral,Knowledge,North America,Yes
+INT00194,EMP00384,Sales,CUST64552,2022-03-24,Phone,Enterprise Plan,3.0,8,22.1,Yes,Yes,Positive,Courtesy,LATAM,Yes
+INT00195,EMP00242,Customer Success,CUST57858,2023-03-12,Self-Service Portal,Enterprise Plan,3.1,10,43.3,Yes,No,Negative,Speed,APAC,No
+INT00196,EMP00558,Sales,CUST75913,2022-10-24,Email,Starter Plan,2.7,6,2.5,Yes,Yes,Negative,Follow-Up,LATAM,Yes
+INT00197,EMP01145,Sales,CUST79682,2022-12-18,Phone,Product B,4.4,10,6.9,Yes,No,Positive,Speed,LATAM,Yes
+INT00198,EMP01004,Support,CUST83842,2024-09-14,Phone,Product C,4.8,10,11.2,Yes,No,Negative,Knowledge,LATAM,No
+INT00199,EMP00494,Customer Success,CUST14345,2022-04-14,Self-Service Portal,Product C,2.3,1,43.0,Yes,No,Positive,Accuracy,LATAM,No
+INT00200,EMP00489,Sales,CUST71976,2022-06-12,Chat,Service Package 1,4.1,2,46.4,Yes,Yes,Neutral,Knowledge,EMEA,Yes
+INT00201,EMP00468,Sales,CUST70075,2024-02-02,Phone,Enterprise Plan,3.6,4,58.9,Yes,No,Positive,Knowledge,APAC,No
+INT00202,EMP01191,Sales,CUST64419,2022-01-19,Phone,Service Package 1,1.3,8,34.2,No,No,Negative,Speed,LATAM,Yes
+INT00203,EMP00953,Sales,CUST29922,2025-09-08,Chat,Service Package 1,2.5,4,38.3,No,No,Negative,Speed,LATAM,Yes
+INT00204,EMP00210,Sales,CUST77284,2025-06-12,Self-Service Portal,Enterprise Plan,1.4,2,41.0,No,No,Positive,Accuracy,EMEA,No
+INT00205,EMP00690,Operations,CUST27862,2023-03-15,Chat,Product B,3.6,3,59.4,Yes,No,Neutral,Courtesy,North America,Yes
+INT00206,EMP00250,Support,CUST93348,2023-07-17,Email,Product B,4.6,5,27.5,No,No,Neutral,Knowledge,LATAM,Yes
+INT00207,EMP00828,Customer Success,CUST92875,2025-07-30,Email,Product C,4.9,7,18.7,Yes,No,Positive,Speed,APAC,Yes
+INT00208,EMP01099,Sales,CUST84331,2022-02-24,Email,Starter Plan,1.4,9,29.7,No,No,Negative,Speed,EMEA,No
+INT00209,EMP01137,Operations,CUST48268,2026-03-02,Self-Service Portal,Product C,1.4,10,7.5,No,No,Positive,Accuracy,APAC,No
+INT00210,EMP00770,Support,CUST86772,2024-07-23,In-Person,Service Package 1,2.2,6,40.6,No,No,Negative,Speed,EMEA,No
+INT00211,EMP00328,Operations,CUST69630,2025-12-01,Chat,Service Package 1,3.5,4,71.5,Yes,No,Negative,Courtesy,APAC,No
+INT00212,EMP00777,Sales,CUST48592,2023-08-27,In-Person,Starter Plan,3.2,2,3.0,Yes,No,Neutral,Knowledge,EMEA,No
+INT00213,EMP00327,Customer Success,CUST40740,2024-09-20,Email,Starter Plan,2.1,0,68.3,No,No,Positive,Courtesy,EMEA,Yes
+INT00214,EMP01009,Customer Success,CUST54231,2026-07-17,In-Person,Product B,2.5,7,32.8,Yes,Yes,Positive,Accuracy,North America,Yes
+INT00215,EMP00079,Support,CUST35017,2023-02-16,Phone,Service Package 1,2.9,0,52.0,Yes,No,Positive,Courtesy,EMEA,Yes
+INT00216,EMP00505,Support,CUST18169,2025-03-13,Self-Service Portal,Product C,2.5,0,66.9,No,No,Neutral,Speed,North America,Yes
+INT00217,EMP00787,Sales,CUST19284,2025-05-05,Self-Service Portal,Product C,2.1,8,4.0,No,No,Negative,Knowledge,APAC,No
+INT00218,EMP00887,Sales,CUST93411,2025-06-07,Phone,Starter Plan,4.5,6,23.3,No,No,Positive,Accuracy,LATAM,No
+INT00219,EMP00513,Operations,CUST35812,2024-09-15,Phone,Product C,1.7,10,4.7,Yes,Yes,Neutral,Accuracy,EMEA,No
+INT00220,EMP00922,Operations,CUST79284,2024-10-06,Phone,Product A,1.0,8,24.6,Yes,Yes,Neutral,Follow-Up,EMEA,No
+INT00221,EMP00973,Operations,CUST41482,2025-09-30,Email,Enterprise Plan,4.4,1,13.5,Yes,No,Negative,Accuracy,EMEA,No
+INT00222,EMP00096,Operations,CUST30260,2022-01-12,Email,Service Package 1,4.9,0,9.4,Yes,No,Positive,Knowledge,EMEA,No
+INT00223,EMP00487,Operations,CUST64954,2025-01-04,Phone,Product B,1.4,9,46.3,No,Yes,Neutral,Follow-Up,North America,No
+INT00224,EMP00788,Operations,CUST12858,2022-04-01,Chat,Product C,3.4,3,53.3,Yes,No,Neutral,Courtesy,North America,No
+INT00225,EMP00797,Customer Success,CUST57708,2025-06-18,Phone,Product B,4.2,7,43.9,Yes,No,Negative,Accuracy,EMEA,No
+INT00226,EMP00689,Support,CUST68387,2023-09-16,Phone,Enterprise Plan,4.6,5,71.8,Yes,Yes,Neutral,Knowledge,North America,Yes
+INT00227,EMP00852,Sales,CUST44818,2022-01-28,Self-Service Portal,Starter Plan,1.4,6,63.2,Yes,No,Negative,Accuracy,North America,Yes
+INT00228,EMP00405,Sales,CUST59504,2023-02-16,Chat,Product C,4.2,2,38.5,Yes,No,Positive,Accuracy,LATAM,No
+INT00229,EMP00569,Support,CUST59085,2026-05-24,Self-Service Portal,Product A,2.6,9,70.1,No,Yes,Neutral,Accuracy,LATAM,No
+INT00230,EMP00233,Support,CUST90242,2022-08-12,Chat,Service Package 1,2.9,10,54.1,No,No,Negative,Speed,LATAM,No
+INT00231,EMP00060,Operations,CUST12151,2025-10-02,Self-Service Portal,Product A,1.6,7,61.6,No,Yes,Positive,Follow-Up,EMEA,Yes
+INT00232,EMP00544,Operations,CUST18772,2023-10-02,In-Person,Product A,5.0,7,25.2,No,No,Positive,Speed,North America,Yes
+INT00233,EMP00232,Operations,CUST91331,2024-07-01,In-Person,Product C,4.2,7,0.6,Yes,No,Negative,Speed,North America,No
+INT00234,EMP00699,Operations,CUST19089,2022-10-18,Chat,Service Package 1,2.6,5,29.7,Yes,Yes,Positive,Courtesy,North America,No
+INT00235,EMP00278,Customer Success,CUST32940,2024-02-22,Phone,Product C,1.7,2,58.6,Yes,No,Neutral,Knowledge,LATAM,No
+INT00236,EMP00705,Customer Success,CUST37585,2024-05-14,Self-Service Portal,Product A,3.4,8,1.7,Yes,No,Negative,Knowledge,EMEA,No
+INT00237,EMP01127,Customer Success,CUST15579,2026-03-07,Email,Service Package 1,4.8,2,44.0,No,Yes,Neutral,Speed,North America,Yes
+INT00238,EMP00224,Sales,CUST89964,2022-03-25,Chat,Enterprise Plan,3.0,8,21.0,Yes,No,Negative,Accuracy,LATAM,No
+INT00239,EMP00431,Customer Success,CUST39045,2025-11-09,Chat,Enterprise Plan,2.0,0,33.6,Yes,No,Negative,Courtesy,EMEA,Yes
+INT00240,EMP00484,Support,CUST31458,2022-10-02,Email,Enterprise Plan,1.9,1,22.5,Yes,No,Positive,Speed,APAC,No
+INT00241,EMP00990,Operations,CUST92563,2026-02-02,Phone,Product C,4.5,10,49.5,Yes,Yes,Negative,Accuracy,North America,No
+INT00242,EMP00073,Support,CUST40145,2025-04-08,Chat,Product C,2.0,2,65.1,Yes,No,Negative,Speed,EMEA,No
+INT00243,EMP01155,Sales,CUST80221,2024-07-27,Self-Service Portal,Enterprise Plan,2.1,1,0.3,Yes,Yes,Neutral,Follow-Up,LATAM,No
+INT00244,EMP00576,Sales,CUST67913,2023-03-21,Phone,Product A,3.3,0,60.0,Yes,No,Positive,Knowledge,EMEA,Yes
+INT00245,EMP01169,Sales,CUST45607,2022-04-25,Phone,Product A,2.5,8,67.0,Yes,No,Negative,Speed,LATAM,Yes
+INT00246,EMP00352,Customer Success,CUST85265,2024-08-07,Chat,Starter Plan,3.6,0,32.8,Yes,Yes,Negative,Follow-Up,North America,No
+INT00247,EMP00859,Support,CUST94281,2022-04-25,Chat,Service Package 1,2.4,5,16.9,Yes,Yes,Positive,Knowledge,LATAM,Yes
+INT00248,EMP00844,Customer Success,CUST69585,2022-10-04,In-Person,Service Package 1,2.3,10,44.0,Yes,No,Positive,Speed,LATAM,Yes
+INT00249,EMP00151,Operations,CUST87398,2024-11-25,Phone,Product C,4.1,2,47.0,Yes,No,Negative,Accuracy,EMEA,Yes
+INT00250,EMP00052,Support,CUST98609,2023-07-17,Self-Service Portal,Product B,1.6,9,19.3,No,No,Negative,Speed,LATAM,No
+INT00251,EMP00256,Customer Success,CUST80187,2024-02-02,In-Person,Product A,4.0,1,59.8,Yes,Yes,Neutral,Accuracy,LATAM,No
+INT00252,EMP00895,Operations,CUST52154,2024-01-06,In-Person,Product A,3.4,5,34.8,Yes,No,Neutral,Speed,EMEA,No
+INT00253,EMP00857,Support,CUST19412,2024-08-08,In-Person,Service Package 1,4.9,10,68.1,Yes,No,Positive,Knowledge,EMEA,No
+INT00254,EMP00059,Operations,CUST35078,2023-12-07,Self-Service Portal,Starter Plan,1.9,2,55.6,Yes,Yes,Negative,Speed,North America,No
+INT00255,EMP00222,Sales,CUST91878,2025-04-22,Self-Service Portal,Product B,4.9,4,37.7,No,Yes,Positive,Speed,North America,Yes
+INT00256,EMP00390,Support,CUST78139,2022-02-23,In-Person,Service Package 1,4.5,1,4.2,Yes,No,Positive,Courtesy,APAC,No
+INT00257,EMP01189,Sales,CUST77028,2024-09-01,Self-Service Portal,Product C,3.4,6,16.3,Yes,No,Positive,Courtesy,APAC,No
+INT00258,EMP01120,Customer Success,CUST91248,2024-05-04,In-Person,Product B,4.3,10,3.5,Yes,No,Positive,Knowledge,EMEA,No
+INT00259,EMP00705,Operations,CUST14694,2024-11-27,Phone,Product C,1.3,8,59.7,Yes,No,Neutral,Follow-Up,EMEA,Yes
+INT00260,EMP00875,Sales,CUST63801,2022-05-11,Chat,Starter Plan,4.4,4,28.6,Yes,No,Neutral,Courtesy,EMEA,Yes
+INT00261,EMP00127,Customer Success,CUST27815,2024-04-20,In-Person,Enterprise Plan,3.4,7,22.4,Yes,No,Neutral,Knowledge,North America,No
+INT00262,EMP01072,Customer Success,CUST33059,2024-02-03,Chat,Product B,3.5,10,29.3,Yes,No,Negative,Courtesy,APAC,No
+INT00263,EMP00516,Customer Success,CUST18612,2025-09-27,Chat,Enterprise Plan,3.6,6,37.9,Yes,No,Neutral,Accuracy,APAC,No
+INT00264,EMP00678,Sales,CUST79434,2023-01-23,Email,Product C,1.1,2,13.6,Yes,No,Positive,Follow-Up,APAC,Yes
+INT00265,EMP00902,Customer Success,CUST51020,2022-03-16,Phone,Product A,1.6,10,17.8,Yes,Yes,Neutral,Accuracy,North America,Yes
+INT00266,EMP01165,Support,CUST15304,2022-09-06,In-Person,Service Package 1,4.3,4,45.0,Yes,No,Negative,Accuracy,EMEA,No
+INT00267,EMP01160,Support,CUST22696,2022-08-18,Phone,Enterprise Plan,3.9,7,2.3,Yes,No,Negative,Speed,North America,No
+INT00268,EMP01184,Sales,CUST49128,2026-01-17,In-Person,Starter Plan,3.2,7,33.4,Yes,No,Neutral,Knowledge,LATAM,No
+INT00269,EMP00428,Customer Success,CUST70530,2022-10-28,Phone,Starter Plan,4.6,8,12.7,Yes,No,Negative,Speed,North America,No
+INT00270,EMP01051,Support,CUST61579,2023-08-19,Email,Enterprise Plan,3.0,3,21.7,No,No,Positive,Courtesy,LATAM,Yes
+INT00271,EMP00199,Customer Success,CUST21196,2023-03-17,Chat,Product C,3.9,2,22.6,No,No,Neutral,Courtesy,LATAM,No
+INT00272,EMP00640,Sales,CUST25712,2023-02-25,Email,Enterprise Plan,1.4,5,67.1,Yes,No,Neutral,Follow-Up,EMEA,Yes
+INT00273,EMP00483,Sales,CUST91620,2025-12-26,Phone,Starter Plan,2.2,6,0.4,Yes,No,Negative,Knowledge,APAC,Yes
+INT00274,EMP00963,Sales,CUST47719,2026-07-24,Self-Service Portal,Product A,4.0,1,37.0,No,Yes,Neutral,Follow-Up,North America,No
+INT00275,EMP00521,Customer Success,CUST51770,2025-12-02,Email,Service Package 1,2.8,1,5.3,Yes,No,Neutral,Speed,LATAM,No
+INT00276,EMP00419,Operations,CUST20855,2023-05-05,Email,Product A,2.2,6,60.6,Yes,No,Positive,Knowledge,EMEA,No
+INT00277,EMP01038,Customer Success,CUST94173,2025-12-28,Self-Service Portal,Service Package 1,3.3,1,57.6,Yes,No,Positive,Knowledge,EMEA,No
+INT00278,EMP00794,Customer Success,CUST88590,2025-12-13,In-Person,Service Package 1,4.6,9,31.7,No,No,Negative,Speed,LATAM,Yes
+INT00279,EMP00822,Operations,CUST74181,2022-07-13,Chat,Product A,2.7,8,12.6,Yes,No,Positive,Speed,LATAM,Yes
+INT00280,EMP00331,Customer Success,CUST28094,2024-07-14,Phone,Starter Plan,3.9,2,6.2,Yes,Yes,Negative,Knowledge,North America,No
+INT00281,EMP00826,Sales,CUST70122,2023-03-25,Phone,Service Package 1,2.9,4,69.4,Yes,No,Positive,Knowledge,LATAM,No
+INT00282,EMP00849,Customer Success,CUST68655,2024-10-21,Chat,Product A,2.3,8,25.2,Yes,No,Positive,Knowledge,North America,Yes
+INT00283,EMP00774,Operations,CUST42629,2024-08-20,Phone,Product A,2.1,9,48.8,No,No,Positive,Courtesy,EMEA,No
+INT00284,EMP01137,Customer Success,CUST29043,2025-11-08,Chat,Enterprise Plan,3.0,3,51.7,Yes,No,Negative,Follow-Up,EMEA,No
+INT00285,EMP01028,Operations,CUST44859,2022-11-22,Phone,Product C,1.3,2,50.9,No,Yes,Positive,Follow-Up,North America,No
+INT00286,EMP00277,Sales,CUST72810,2024-09-24,Chat,Service Package 1,3.6,5,13.8,Yes,No,Neutral,Knowledge,EMEA,Yes
+INT00287,EMP00864,Support,CUST31230,2024-06-11,In-Person,Service Package 1,2.8,0,6.4,Yes,No,Neutral,Accuracy,LATAM,No
+INT00288,EMP00549,Sales,CUST47045,2022-03-18,In-Person,Product A,3.8,6,10.3,No,No,Neutral,Courtesy,LATAM,No
+INT00289,EMP00630,Operations,CUST13689,2025-08-05,Chat,Service Package 1,2.0,1,16.6,Yes,No,Neutral,Knowledge,North America,No
+INT00290,EMP00315,Operations,CUST28813,2025-06-14,Chat,Product C,1.5,5,62.7,Yes,Yes,Positive,Courtesy,North America,No
+INT00291,EMP01136,Customer Success,CUST17673,2024-05-28,Chat,Enterprise Plan,4.3,5,49.5,Yes,No,Positive,Accuracy,LATAM,Yes
+INT00292,EMP00465,Operations,CUST52254,2022-02-14,Chat,Starter Plan,4.4,4,15.2,Yes,No,Positive,Accuracy,LATAM,No
+INT00293,EMP00562,Operations,CUST33897,2023-08-04,Phone,Service Package 1,4.6,8,14.8,No,No,Negative,Courtesy,APAC,No
+INT00294,EMP00990,Customer Success,CUST28905,2023-03-14,Phone,Service Package 1,3.6,1,3.2,Yes,No,Neutral,Speed,North America,No
+INT00295,EMP00922,Support,CUST23890,2024-02-03,Self-Service Portal,Service Package 1,3.0,5,48.5,Yes,Yes,Negative,Follow-Up,LATAM,No
+INT00296,EMP00560,Customer Success,CUST51426,2026-03-28,Chat,Product A,2.8,7,70.0,Yes,No,Negative,Knowledge,EMEA,No
+INT00297,EMP00375,Customer Success,CUST49869,2025-02-10,Phone,Enterprise Plan,2.6,2,61.1,Yes,No,Positive,Knowledge,APAC,No
+INT00298,EMP00663,Customer Success,CUST87438,2022-06-02,In-Person,Product A,1.2,2,51.0,Yes,No,Negative,Courtesy,LATAM,No
+INT00299,EMP00322,Operations,CUST59208,2022-10-03,Chat,Product B,4.4,1,64.1,Yes,No,Negative,Speed,LATAM,No
+INT00300,EMP01144,Operations,CUST23545,2023-09-04,In-Person,Enterprise Plan,1.6,1,49.9,Yes,No,Negative,Knowledge,APAC,No
+INT00301,EMP00564,Customer Success,CUST32337,2022-12-22,Self-Service Portal,Service Package 1,2.7,0,48.9,Yes,No,Neutral,Speed,LATAM,No
+INT00302,EMP00608,Customer Success,CUST39814,2025-05-19,Phone,Product C,1.1,0,36.6,No,No,Negative,Follow-Up,EMEA,No
+INT00303,EMP00671,Operations,CUST23237,2023-07-31,Email,Service Package 1,1.1,3,66.5,Yes,No,Negative,Speed,EMEA,No
+INT00304,EMP01194,Support,CUST40037,2023-11-18,Email,Starter Plan,1.5,4,8.7,No,No,Neutral,Accuracy,North America,No
+INT00305,EMP01151,Support,CUST61383,2024-04-24,Phone,Enterprise Plan,1.0,2,37.1,Yes,No,Positive,Speed,North America,No
+INT00306,EMP00244,Sales,CUST13776,2022-07-04,Chat,Product A,1.6,6,63.2,Yes,No,Neutral,Accuracy,LATAM,No
+INT00307,EMP00914,Customer Success,CUST94622,2023-07-14,Phone,Product A,2.2,5,9.9,No,No,Neutral,Knowledge,North America,No
+INT00308,EMP00052,Support,CUST91792,2025-11-21,Chat,Product B,2.5,5,50.7,Yes,No,Neutral,Knowledge,APAC,Yes
+INT00309,EMP00414,Operations,CUST29040,2026-07-28,Self-Service Portal,Product A,1.4,2,15.1,Yes,No,Negative,Follow-Up,LATAM,Yes
+INT00310,EMP00851,Operations,CUST76086,2022-03-09,Email,Enterprise Plan,2.3,4,66.3,Yes,No,Neutral,Accuracy,LATAM,No
+INT00311,EMP01002,Customer Success,CUST17441,2023-12-11,In-Person,Product B,3.1,4,20.5,Yes,No,Negative,Speed,North America,No
+INT00312,EMP00191,Operations,CUST15687,2025-12-31,Self-Service Portal,Service Package 1,1.7,10,17.8,Yes,No,Positive,Accuracy,LATAM,Yes
+INT00313,EMP00665,Customer Success,CUST11105,2026-04-23,Phone,Product B,3.0,10,45.7,Yes,Yes,Positive,Speed,LATAM,No
+INT00314,EMP01050,Operations,CUST14769,2022-04-11,In-Person,Service Package 1,4.4,5,32.3,Yes,No,Neutral,Courtesy,LATAM,Yes
+INT00315,EMP00386,Support,CUST75107,2024-05-02,Chat,Service Package 1,4.4,9,4.6,Yes,No,Neutral,Follow-Up,APAC,No
+INT00316,EMP00015,Support,CUST25741,2025-05-18,Self-Service Portal,Product A,3.3,9,44.6,Yes,No,Neutral,Speed,EMEA,Yes
+INT00317,EMP00799,Operations,CUST27565,2026-01-30,Chat,Starter Plan,1.4,3,7.1,Yes,Yes,Negative,Knowledge,North America,Yes
+INT00318,EMP00465,Customer Success,CUST31263,2023-07-20,In-Person,Service Package 1,4.7,6,47.9,No,No,Negative,Speed,LATAM,No
+INT00319,EMP00184,Customer Success,CUST76579,2022-04-20,Self-Service Portal,Starter Plan,4.8,0,33.9,Yes,No,Neutral,Accuracy,EMEA,No
+INT00320,EMP01080,Support,CUST56042,2022-08-25,Chat,Starter Plan,2.8,3,18.7,Yes,Yes,Neutral,Speed,North America,Yes
+INT00321,EMP00478,Support,CUST74532,2025-07-05,Phone,Product C,4.5,3,47.0,Yes,No,Positive,Knowledge,APAC,No
+INT00322,EMP00768,Customer Success,CUST66311,2023-03-03,In-Person,Enterprise Plan,4.8,3,40.6,Yes,No,Negative,Accuracy,LATAM,No
+INT00323,EMP00477,Support,CUST98370,2022-06-13,Phone,Product C,1.5,6,19.4,Yes,No,Neutral,Speed,LATAM,No
+INT00324,EMP00434,Sales,CUST13378,2023-12-09,Chat,Product A,4.0,6,41.1,Yes,Yes,Neutral,Follow-Up,EMEA,No
+INT00325,EMP01143,Sales,CUST69780,2022-10-17,Chat,Service Package 1,4.0,3,66.0,Yes,Yes,Positive,Follow-Up,EMEA,No
+INT00326,EMP00318,Support,CUST19514,2022-07-07,In-Person,Service Package 1,1.5,5,50.7,No,No,Positive,Speed,LATAM,No
+INT00327,EMP00322,Customer Success,CUST23656,2023-12-02,Email,Product A,4.1,9,66.4,Yes,No,Negative,Follow-Up,EMEA,No
+INT00328,EMP00015,Operations,CUST15169,2024-08-20,Email,Enterprise Plan,3.5,5,7.3,Yes,Yes,Positive,Follow-Up,LATAM,No
+INT00329,EMP01066,Operations,CUST35492,2023-11-13,Self-Service Portal,Product C,1.4,3,0.8,No,No,Neutral,Knowledge,APAC,No
+INT00330,EMP00511,Operations,CUST74154,2022-03-15,Self-Service Portal,Service Package 1,2.0,2,9.9,No,No,Negative,Courtesy,North America,No
+INT00331,EMP00059,Sales,CUST24350,2022-11-13,Phone,Enterprise Plan,5.0,4,19.1,Yes,Yes,Neutral,Courtesy,APAC,Yes
+INT00332,EMP00502,Sales,CUST72500,2026-01-03,Chat,Product A,2.4,6,18.2,Yes,No,Neutral,Follow-Up,EMEA,Yes
+INT00333,EMP01023,Customer Success,CUST91750,2023-01-11,Phone,Service Package 1,2.2,1,48.3,Yes,No,Positive,Follow-Up,LATAM,No
+INT00334,EMP00388,Sales,CUST93568,2024-10-29,Chat,Product C,1.8,1,54.6,Yes,No,Neutral,Speed,APAC,No
+INT00335,EMP00025,Customer Success,CUST85966,2025-02-15,Self-Service Portal,Product B,3.9,8,52.9,Yes,Yes,Neutral,Accuracy,North America,No
+INT00336,EMP00178,Support,CUST94712,2026-06-17,In-Person,Product C,2.0,0,4.6,Yes,No,Negative,Accuracy,North America,No
+INT00337,EMP00332,Sales,CUST31411,2025-12-30,In-Person,Product C,3.3,2,16.0,No,No,Neutral,Courtesy,APAC,Yes
+INT00338,EMP00455,Sales,CUST49927,2024-09-12,In-Person,Starter Plan,2.1,9,42.1,Yes,No,Positive,Courtesy,EMEA,No
+INT00339,EMP00969,Operations,CUST94621,2023-08-30,Email,Product B,3.6,7,4.6,Yes,No,Positive,Courtesy,North America,No
+INT00340,EMP00736,Support,CUST98211,2024-04-08,Email,Service Package 1,1.2,5,16.5,Yes,No,Neutral,Follow-Up,APAC,No
+INT00341,EMP00202,Customer Success,CUST38800,2023-07-03,In-Person,Service Package 1,3.7,4,19.8,Yes,No,Positive,Follow-Up,North America,Yes
+INT00342,EMP00144,Sales,CUST17164,2026-07-07,Self-Service Portal,Product B,1.6,1,64.8,Yes,No,Positive,Knowledge,LATAM,Yes
+INT00343,EMP00731,Customer Success,CUST85321,2024-07-22,Email,Starter Plan,1.4,0,10.7,Yes,No,Positive,Accuracy,LATAM,No
+INT00344,EMP00290,Customer Success,CUST10223,2022-04-24,In-Person,Product C,4.2,9,39.4,No,Yes,Positive,Courtesy,APAC,No
+INT00345,EMP00598,Customer Success,CUST45910,2026-05-24,Email,Enterprise Plan,4.5,0,39.1,No,No,Neutral,Courtesy,North America,No
+INT00346,EMP00428,Sales,CUST59548,2022-11-15,Email,Product B,4.1,9,70.3,No,No,Neutral,Follow-Up,APAC,No
+INT00347,EMP01163,Support,CUST66484,2024-01-07,Self-Service Portal,Product B,1.1,4,37.7,Yes,Yes,Neutral,Accuracy,EMEA,No
+INT00348,EMP00949,Customer Success,CUST63575,2023-01-14,Self-Service Portal,Starter Plan,1.2,7,64.8,Yes,No,Negative,Accuracy,APAC,Yes
+INT00349,EMP00431,Sales,CUST15215,2025-05-17,Self-Service Portal,Starter Plan,2.6,2,32.6,Yes,No,Positive,Knowledge,North America,Yes
+INT00350,EMP00278,Customer Success,CUST11638,2025-01-31,Chat,Product A,2.9,8,36.9,Yes,No,Neutral,Accuracy,APAC,No
+INT00351,EMP00658,Sales,CUST18298,2024-10-10,Self-Service Portal,Product C,3.0,8,59.2,No,No,Neutral,Speed,APAC,Yes
+INT00352,EMP01107,Operations,CUST72832,2025-11-21,In-Person,Service Package 1,2.8,0,48.7,No,No,Neutral,Follow-Up,LATAM,No
+INT00353,EMP00290,Customer Success,CUST36594,2024-04-17,In-Person,Product A,3.8,9,66.6,Yes,No,Negative,Courtesy,North America,Yes
+INT00354,EMP00382,Sales,CUST54110,2024-09-16,Self-Service Portal,Product B,4.8,3,46.1,Yes,No,Positive,Follow-Up,EMEA,No
+INT00355,EMP00100,Operations,CUST29889,2024-02-10,Email,Enterprise Plan,2.5,3,28.6,Yes,Yes,Neutral,Follow-Up,LATAM,No
+INT00356,EMP00902,Support,CUST54401,2025-03-13,Self-Service Portal,Product C,1.5,8,16.5,Yes,Yes,Negative,Accuracy,EMEA,Yes
+INT00357,EMP00899,Operations,CUST47372,2023-08-22,Self-Service Portal,Product A,2.9,5,68.5,Yes,No,Neutral,Accuracy,North America,No
+INT00358,EMP00374,Support,CUST52144,2022-10-11,Chat,Product A,4.6,3,3.8,No,No,Negative,Knowledge,LATAM,Yes
+INT00359,EMP00358,Operations,CUST77942,2024-08-28,Phone,Product B,4.8,3,9.7,Yes,No,Negative,Accuracy,LATAM,Yes
+INT00360,EMP00082,Sales,CUST91787,2022-09-15,Self-Service Portal,Product C,3.1,6,33.6,Yes,No,Negative,Knowledge,North America,No
+INT00361,EMP01032,Sales,CUST41630,2024-03-14,Email,Starter Plan,3.2,10,8.3,No,No,Positive,Knowledge,North America,No
+INT00362,EMP00602,Operations,CUST18533,2024-12-30,Self-Service Portal,Enterprise Plan,1.1,10,28.1,Yes,Yes,Positive,Speed,North America,No
+INT00363,EMP00335,Operations,CUST68726,2023-02-15,Phone,Service Package 1,2.0,8,52.4,Yes,No,Neutral,Knowledge,North America,Yes
+INT00364,EMP00934,Customer Success,CUST32517,2024-07-13,In-Person,Enterprise Plan,2.0,1,34.0,Yes,No,Negative,Follow-Up,EMEA,Yes
+INT00365,EMP00134,Operations,CUST29003,2024-09-15,Phone,Product C,3.5,4,68.8,Yes,No,Neutral,Accuracy,EMEA,Yes
+INT00366,EMP00423,Sales,CUST24401,2024-04-02,In-Person,Product B,3.3,0,17.0,Yes,No,Negative,Knowledge,North America,No
+INT00367,EMP01198,Support,CUST25610,2026-01-25,Self-Service Portal,Product C,4.9,3,3.9,Yes,No,Neutral,Accuracy,North America,No
+INT00368,EMP00017,Sales,CUST55968,2025-06-11,Email,Starter Plan,1.1,5,65.4,Yes,No,Negative,Accuracy,EMEA,No
+INT00369,EMP00496,Customer Success,CUST36971,2022-04-21,In-Person,Enterprise Plan,4.4,3,45.1,Yes,No,Neutral,Accuracy,APAC,No
+INT00370,EMP00825,Customer Success,CUST29202,2025-07-15,Chat,Starter Plan,4.2,9,63.2,Yes,No,Positive,Accuracy,North America,No
+INT00371,EMP00864,Customer Success,CUST36106,2022-04-16,Self-Service Portal,Starter Plan,3.4,2,48.9,Yes,No,Positive,Speed,North America,No
+INT00372,EMP00045,Sales,CUST22353,2023-12-18,Email,Product A,5.0,0,58.2,Yes,No,Neutral,Knowledge,North America,No
+INT00373,EMP01002,Customer Success,CUST32115,2025-11-16,Self-Service Portal,Enterprise Plan,2.0,2,15.9,Yes,No,Positive,Accuracy,EMEA,No
+INT00374,EMP00175,Operations,CUST99180,2024-10-19,Self-Service Portal,Product A,4.7,2,57.6,Yes,No,Neutral,Knowledge,APAC,No
+INT00375,EMP00885,Support,CUST67406,2022-02-14,In-Person,Service Package 1,1.6,4,63.5,No,No,Neutral,Speed,EMEA,Yes
+INT00376,EMP00582,Sales,CUST20802,2022-02-16,In-Person,Starter Plan,1.5,4,63.1,Yes,No,Neutral,Courtesy,APAC,No
+INT00377,EMP00382,Customer Success,CUST13252,2025-10-30,Self-Service Portal,Product C,4.0,2,56.7,Yes,No,Positive,Knowledge,North America,No
+INT00378,EMP00630,Operations,CUST53597,2023-05-22,In-Person,Product A,3.5,3,53.7,No,No,Positive,Accuracy,EMEA,No
+INT00379,EMP00500,Operations,CUST67808,2024-06-19,Phone,Enterprise Plan,3.2,5,14.7,Yes,No,Neutral,Speed,LATAM,Yes
+INT00380,EMP00250,Sales,CUST51523,2024-10-22,Self-Service Portal,Product A,3.7,1,26.9,Yes,No,Neutral,Follow-Up,EMEA,Yes
+INT00381,EMP01035,Operations,CUST26149,2023-02-22,Phone,Product A,2.6,8,37.7,Yes,No,Positive,Speed,EMEA,Yes
+INT00382,EMP00268,Operations,CUST26069,2022-04-13,Self-Service Portal,Starter Plan,3.8,0,30.7,Yes,Yes,Negative,Accuracy,LATAM,No
+INT00383,EMP00548,Operations,CUST87881,2024-08-19,In-Person,Enterprise Plan,1.1,4,41.2,Yes,Yes,Neutral,Accuracy,EMEA,No
+INT00384,EMP00623,Sales,CUST58029,2024-01-14,In-Person,Product C,3.3,8,24.7,Yes,No,Positive,Knowledge,LATAM,Yes
+INT00385,EMP00655,Support,CUST63732,2023-08-21,Self-Service Portal,Enterprise Plan,3.8,4,17.0,Yes,No,Neutral,Follow-Up,LATAM,Yes
+INT00386,EMP00219,Customer Success,CUST52636,2024-12-27,Self-Service Portal,Enterprise Plan,2.7,9,44.4,Yes,No,Positive,Courtesy,EMEA,Yes
+INT00387,EMP00307,Operations,CUST30640,2022-02-09,Chat,Enterprise Plan,1.5,0,8.1,Yes,No,Positive,Knowledge,EMEA,No
+INT00388,EMP00226,Customer Success,CUST18840,2025-09-11,Self-Service Portal,Enterprise Plan,4.9,3,53.4,Yes,No,Neutral,Speed,APAC,No
+INT00389,EMP00333,Support,CUST83015,2025-04-13,Self-Service Portal,Enterprise Plan,3.8,6,55.3,Yes,Yes,Positive,Speed,LATAM,No
+INT00390,EMP00913,Sales,CUST78179,2022-07-29,Self-Service Portal,Enterprise Plan,2.5,8,18.1,No,No,Neutral,Accuracy,North America,No
+INT00391,EMP00042,Support,CUST92277,2024-07-06,Email,Product C,2.6,8,63.3,No,No,Neutral,Follow-Up,LATAM,Yes
+INT00392,EMP00191,Support,CUST47592,2022-11-08,Email,Starter Plan,3.5,0,44.7,Yes,No,Neutral,Knowledge,EMEA,Yes
+INT00393,EMP00097,Support,CUST40714,2024-04-29,Self-Service Portal,Enterprise Plan,3.9,9,3.9,No,No,Positive,Courtesy,EMEA,No
+INT00394,EMP00361,Customer Success,CUST23413,2025-01-09,In-Person,Service Package 1,2.7,1,11.9,Yes,No,Negative,Speed,North America,No
+INT00395,EMP00453,Customer Success,CUST90692,2022-08-09,Email,Starter Plan,3.0,0,58.0,Yes,No,Neutral,Accuracy,North America,No
+INT00396,EMP00310,Operations,CUST26384,2023-06-14,Chat,Service Package 1,4.7,9,41.9,No,No,Neutral,Courtesy,North America,No
+INT00397,EMP00133,Operations,CUST29024,2023-04-22,Self-Service Portal,Product B,4.6,5,9.7,Yes,No,Neutral,Knowledge,APAC,No
+INT00398,EMP00836,Customer Success,CUST24534,2022-11-30,Phone,Product A,4.5,6,60.5,Yes,No,Positive,Speed,APAC,Yes
+INT00399,EMP00988,Support,CUST36110,2025-07-08,Self-Service Portal,Product B,3.1,2,63.8,No,Yes,Neutral,Courtesy,EMEA,Yes
+INT00400,EMP00721,Sales,CUST47488,2022-12-09,Email,Enterprise Plan,2.2,8,64.9,Yes,No,Negative,Accuracy,North America,Yes
+INT00401,EMP00966,Customer Success,CUST14808,2024-03-23,Email,Service Package 1,3.1,1,49.7,Yes,No,Negative,Follow-Up,EMEA,No
+INT00402,EMP00433,Support,CUST44139,2023-01-27,Chat,Starter Plan,2.3,7,50.1,Yes,No,Negative,Courtesy,North America,Yes
+INT00403,EMP01039,Support,CUST18139,2024-01-24,Self-Service Portal,Enterprise Plan,2.9,0,18.2,Yes,No,Positive,Follow-Up,LATAM,Yes
+INT00404,EMP00266,Sales,CUST35180,2023-11-01,Phone,Enterprise Plan,4.7,0,44.3,Yes,No,Positive,Courtesy,APAC,Yes
+INT00405,EMP00746,Sales,CUST82477,2026-02-07,Self-Service Portal,Enterprise Plan,1.9,3,15.2,No,No,Negative,Accuracy,APAC,No
+INT00406,EMP01074,Customer Success,CUST52768,2025-01-30,Email,Enterprise Plan,3.5,9,67.3,Yes,Yes,Neutral,Follow-Up,North America,No
+INT00407,EMP00685,Customer Success,CUST55874,2023-12-02,In-Person,Service Package 1,2.1,4,9.7,Yes,No,Positive,Speed,North America,No
+INT00408,EMP00491,Operations,CUST48408,2024-08-06,Phone,Product C,4.2,7,4.4,Yes,Yes,Neutral,Follow-Up,North America,No
+INT00409,EMP00289,Support,CUST92501,2023-07-08,In-Person,Service Package 1,1.9,10,47.5,No,No,Negative,Speed,APAC,No
+INT00410,EMP00084,Customer Success,CUST41947,2022-01-19,Email,Service Package 1,2.7,0,66.0,Yes,Yes,Negative,Knowledge,LATAM,Yes
+INT00411,EMP00680,Operations,CUST85965,2025-10-13,In-Person,Product B,1.4,8,3.9,Yes,No,Negative,Speed,EMEA,No
+INT00412,EMP00341,Sales,CUST51627,2024-01-23,In-Person,Enterprise Plan,2.1,9,0.8,Yes,No,Positive,Speed,North America,Yes
+INT00413,EMP01039,Operations,CUST90770,2025-08-05,Phone,Enterprise Plan,2.6,0,63.4,Yes,No,Positive,Follow-Up,APAC,No
+INT00414,EMP00327,Support,CUST21628,2024-04-21,Self-Service Portal,Product C,4.0,10,45.9,Yes,No,Negative,Knowledge,North America,No
+INT00415,EMP00080,Support,CUST36166,2026-02-03,Chat,Product A,2.5,4,35.8,Yes,No,Negative,Accuracy,North America,No
+INT00416,EMP01106,Customer Success,CUST16579,2024-08-22,Self-Service Portal,Enterprise Plan,4.6,3,19.5,No,No,Positive,Accuracy,North America,No
+INT00417,EMP00346,Operations,CUST69601,2023-09-08,Chat,Product B,3.9,9,27.1,Yes,Yes,Neutral,Follow-Up,North America,No
+INT00418,EMP00374,Operations,CUST22900,2023-10-12,Email,Product B,2.8,7,61.6,Yes,No,Neutral,Accuracy,LATAM,Yes
+INT00419,EMP00959,Customer Success,CUST59848,2025-02-25,Phone,Product B,4.0,8,60.1,Yes,Yes,Neutral,Follow-Up,North America,Yes
+INT00420,EMP00736,Sales,CUST49070,2025-08-11,Chat,Product A,1.8,7,67.7,Yes,No,Neutral,Accuracy,North America,Yes
+INT00421,EMP00410,Support,CUST72054,2025-06-20,In-Person,Product A,2.2,4,21.4,Yes,No,Neutral,Follow-Up,LATAM,No
+INT00422,EMP01124,Support,CUST38912,2022-06-19,Chat,Product B,1.7,9,6.2,Yes,No,Neutral,Knowledge,APAC,No
+INT00423,EMP00083,Operations,CUST58429,2026-04-13,Email,Product A,1.7,0,1.9,No,No,Negative,Accuracy,EMEA,Yes
+INT00424,EMP00104,Support,CUST27817,2022-02-15,Chat,Product B,1.6,4,33.5,Yes,No,Positive,Follow-Up,APAC,No
+INT00425,EMP00648,Customer Success,CUST19871,2023-02-16,In-Person,Service Package 1,1.6,5,1.5,Yes,No,Negative,Speed,North America,No
+INT00426,EMP00650,Operations,CUST52341,2022-10-24,Phone,Enterprise Plan,1.9,6,43.7,Yes,No,Neutral,Accuracy,North America,Yes
+INT00427,EMP00258,Customer Success,CUST27649,2022-02-25,Self-Service Portal,Service Package 1,2.7,5,66.1,Yes,No,Neutral,Speed,LATAM,No
+INT00428,EMP00868,Sales,CUST11685,2024-12-02,Self-Service Portal,Product B,2.8,9,35.7,Yes,No,Negative,Accuracy,EMEA,No
+INT00429,EMP00517,Customer Success,CUST74537,2023-06-28,Email,Service Package 1,3.0,0,8.7,Yes,Yes,Positive,Knowledge,LATAM,No
+INT00430,EMP00569,Operations,CUST55584,2022-03-08,Email,Starter Plan,1.3,6,63.7,Yes,No,Neutral,Accuracy,LATAM,No
+INT00431,EMP00638,Customer Success,CUST97745,2025-06-01,In-Person,Enterprise Plan,1.0,2,2.0,Yes,Yes,Negative,Speed,LATAM,No
+INT00432,EMP00118,Support,CUST68072,2024-04-11,Chat,Enterprise Plan,2.3,4,64.5,Yes,Yes,Positive,Knowledge,EMEA,Yes
+INT00433,EMP01175,Sales,CUST13547,2023-09-21,Phone,Enterprise Plan,4.2,8,47.1,Yes,No,Positive,Courtesy,LATAM,Yes
+INT00434,EMP00115,Operations,CUST40401,2025-02-01,Chat,Product B,1.6,1,26.4,No,No,Neutral,Accuracy,LATAM,No
+INT00435,EMP01032,Sales,CUST92369,2023-12-19,Email,Product B,3.0,5,55.2,No,No,Positive,Accuracy,APAC,No
+INT00436,EMP00917,Support,CUST51015,2023-05-03,Self-Service Portal,Product B,2.4,6,65.5,Yes,Yes,Positive,Follow-Up,North America,No
+INT00437,EMP00562,Support,CUST42553,2022-09-19,Self-Service Portal,Service Package 1,3.3,0,13.5,Yes,No,Positive,Accuracy,EMEA,No
+INT00438,EMP00928,Customer Success,CUST96154,2023-04-16,Email,Starter Plan,4.3,2,37.9,No,Yes,Negative,Accuracy,LATAM,Yes
+INT00439,EMP00119,Support,CUST28211,2022-05-06,In-Person,Product A,1.1,8,20.8,Yes,No,Negative,Knowledge,LATAM,No
+INT00440,EMP00947,Support,CUST34658,2022-10-13,Email,Enterprise Plan,2.6,10,46.1,No,No,Neutral,Courtesy,EMEA,Yes
+INT00441,EMP00906,Support,CUST96621,2024-08-23,Email,Product B,3.1,10,67.8,Yes,No,Neutral,Follow-Up,North America,No
+INT00442,EMP00604,Sales,CUST37782,2025-02-09,Phone,Starter Plan,3.1,9,63.6,Yes,Yes,Negative,Follow-Up,North America,No
+INT00443,EMP00614,Support,CUST53137,2025-12-08,Email,Starter Plan,2.8,5,46.0,No,Yes,Positive,Courtesy,North America,Yes
+INT00444,EMP00355,Sales,CUST38732,2024-03-02,Email,Enterprise Plan,2.5,1,5.0,Yes,No,Neutral,Speed,EMEA,No
+INT00445,EMP00477,Customer Success,CUST97841,2023-04-04,In-Person,Starter Plan,2.0,0,58.0,No,No,Neutral,Speed,LATAM,No
+INT00446,EMP01064,Operations,CUST29358,2025-04-23,Email,Product A,3.4,1,2.9,Yes,No,Neutral,Courtesy,North America,No
+INT00447,EMP00994,Support,CUST47548,2024-11-22,In-Person,Product A,4.5,8,6.3,No,Yes,Neutral,Courtesy,LATAM,No
+INT00448,EMP00046,Operations,CUST90280,2023-01-09,Email,Product B,3.1,3,17.0,No,No,Neutral,Accuracy,EMEA,Yes
+INT00449,EMP00678,Operations,CUST62598,2022-11-06,Phone,Starter Plan,4.4,2,27.8,No,No,Positive,Follow-Up,APAC,No
+INT00450,EMP00696,Sales,CUST95290,2022-07-27,Self-Service Portal,Service Package 1,1.6,3,43.3,No,No,Negative,Courtesy,LATAM,No
+INT00451,EMP00381,Sales,CUST43331,2023-02-22,Chat,Enterprise Plan,1.2,3,57.5,Yes,No,Negative,Accuracy,LATAM,Yes
+INT00452,EMP00629,Support,CUST49257,2025-02-22,Email,Product A,2.0,0,61.0,Yes,No,Negative,Follow-Up,LATAM,Yes
+INT00453,EMP00144,Sales,CUST93480,2024-07-17,In-Person,Product B,3.2,7,22.9,No,No,Negative,Follow-Up,North America,No
+INT00454,EMP00399,Support,CUST54362,2025-11-27,In-Person,Product A,1.1,1,33.0,Yes,No,Neutral,Courtesy,North America,Yes
+INT00455,EMP00876,Support,CUST72432,2022-10-02,Email,Product B,1.3,6,49.1,Yes,Yes,Positive,Speed,LATAM,No
+INT00456,EMP00734,Operations,CUST85184,2024-05-31,In-Person,Service Package 1,2.4,1,49.8,Yes,No,Neutral,Courtesy,LATAM,No
+INT00457,EMP00779,Sales,CUST40393,2024-03-23,Self-Service Portal,Service Package 1,2.6,3,32.2,No,Yes,Positive,Speed,APAC,No
+INT00458,EMP01011,Operations,CUST63745,2024-09-13,Chat,Product A,2.0,5,65.9,Yes,No,Negative,Follow-Up,EMEA,No
+INT00459,EMP00175,Customer Success,CUST21383,2023-12-12,Chat,Service Package 1,2.4,2,44.4,Yes,No,Negative,Follow-Up,North America,No
+INT00460,EMP00389,Operations,CUST28845,2023-06-14,Self-Service Portal,Product A,4.1,4,31.3,No,No,Positive,Follow-Up,EMEA,No
+INT00461,EMP00696,Customer Success,CUST29787,2025-07-04,In-Person,Enterprise Plan,2.5,10,68.6,No,No,Negative,Speed,APAC,Yes
+INT00462,EMP00468,Support,CUST14462,2023-01-31,Self-Service Portal,Service Package 1,3.1,5,6.0,Yes,No,Positive,Speed,North America,No
+INT00463,EMP00050,Operations,CUST74708,2024-09-23,Email,Service Package 1,3.2,2,48.8,No,No,Neutral,Knowledge,North America,Yes
+INT00464,EMP00685,Support,CUST79657,2026-02-12,Chat,Enterprise Plan,4.8,7,55.3,Yes,Yes,Positive,Follow-Up,North America,Yes
+INT00465,EMP00128,Support,CUST28506,2022-07-06,Email,Product C,1.1,7,30.5,No,No,Negative,Knowledge,North America,No
+INT00466,EMP01089,Operations,CUST59976,2023-08-17,Chat,Product B,2.0,3,32.9,Yes,Yes,Positive,Knowledge,APAC,No
+INT00467,EMP00820,Customer Success,CUST35311,2022-06-26,Phone,Service Package 1,2.8,3,46.5,Yes,No,Negative,Knowledge,APAC,Yes
+INT00468,EMP00554,Support,CUST21861,2022-12-04,In-Person,Product C,2.9,9,38.6,Yes,No,Neutral,Accuracy,North America,No
+INT00469,EMP00404,Support,CUST31488,2024-01-17,Phone,Product B,1.0,9,38.2,Yes,No,Neutral,Knowledge,LATAM,No
+INT00470,EMP00116,Customer Success,CUST47512,2024-08-30,Chat,Starter Plan,3.2,0,59.1,Yes,No,Negative,Follow-Up,North America,No
+INT00471,EMP00940,Customer Success,CUST35115,2023-07-16,Phone,Product A,2.6,8,30.2,Yes,Yes,Positive,Follow-Up,EMEA,Yes
+INT00472,EMP00212,Support,CUST35416,2023-12-04,Email,Service Package 1,4.9,0,3.4,Yes,No,Positive,Follow-Up,LATAM,Yes
+INT00473,EMP01143,Support,CUST21214,2025-05-16,In-Person,Product B,4.5,4,58.4,Yes,No,Neutral,Courtesy,LATAM,No
+INT00474,EMP00060,Support,CUST74956,2025-04-01,Email,Product B,1.7,1,55.5,Yes,No,Neutral,Knowledge,APAC,Yes
+INT00475,EMP01084,Sales,CUST34855,2023-11-02,In-Person,Product B,3.8,1,43.8,Yes,No,Negative,Knowledge,EMEA,Yes
+INT00476,EMP01114,Sales,CUST70672,2024-11-27,In-Person,Enterprise Plan,4.1,10,26.4,No,No,Negative,Knowledge,EMEA,No
+INT00477,EMP00743,Operations,CUST80050,2024-12-02,Phone,Starter Plan,4.8,5,53.2,No,No,Neutral,Accuracy,North America,No
+INT00478,EMP00448,Support,CUST78905,2024-09-01,Self-Service Portal,Service Package 1,4.0,8,1.8,Yes,No,Positive,Speed,APAC,Yes
+INT00479,EMP00769,Support,CUST26209,2026-02-26,Phone,Product B,1.6,0,26.4,Yes,No,Negative,Courtesy,LATAM,No
+INT00480,EMP01072,Customer Success,CUST79848,2023-04-03,Chat,Product B,2.5,2,52.3,No,No,Negative,Follow-Up,EMEA,No
+INT00481,EMP00812,Customer Success,CUST67188,2025-12-25,In-Person,Product A,2.6,5,71.8,Yes,No,Negative,Follow-Up,EMEA,No
+INT00482,EMP00202,Customer Success,CUST91035,2025-12-19,Self-Service Portal,Starter Plan,4.8,9,57.4,No,Yes,Neutral,Follow-Up,EMEA,No
+INT00483,EMP00371,Sales,CUST28151,2026-02-15,Email,Service Package 1,3.0,3,28.8,Yes,No,Negative,Speed,North America,No
+INT00484,EMP00977,Sales,CUST25639,2022-05-23,Phone,Product B,1.1,2,62.7,Yes,No,Positive,Knowledge,EMEA,Yes
+INT00485,EMP01001,Support,CUST97676,2025-10-18,Phone,Enterprise Plan,3.4,3,71.9,Yes,No,Positive,Accuracy,APAC,Yes
+INT00486,EMP00688,Operations,CUST42035,2023-10-18,Chat,Service Package 1,3.3,3,56.3,No,No,Positive,Courtesy,EMEA,No
+INT00487,EMP00870,Operations,CUST39224,2025-04-25,Phone,Service Package 1,2.1,10,27.8,Yes,No,Negative,Follow-Up,North America,Yes
+INT00488,EMP00304,Customer Success,CUST11218,2023-01-15,Email,Starter Plan,2.9,10,55.8,No,Yes,Negative,Accuracy,North America,No
+INT00489,EMP00136,Operations,CUST97726,2023-05-18,Email,Service Package 1,1.5,3,42.4,Yes,Yes,Negative,Follow-Up,APAC,No
+INT00490,EMP00573,Operations,CUST56042,2022-06-16,Chat,Product B,2.0,8,49.1,No,No,Neutral,Speed,LATAM,No
+INT00491,EMP00156,Sales,CUST28574,2022-09-30,Email,Service Package 1,4.3,0,41.8,Yes,Yes,Positive,Courtesy,LATAM,No
+INT00492,EMP00598,Sales,CUST89118,2022-01-21,Phone,Product C,3.7,3,16.0,Yes,No,Positive,Accuracy,LATAM,No
+INT00493,EMP00081,Customer Success,CUST25481,2022-12-24,Self-Service Portal,Product A,3.0,10,56.6,Yes,No,Neutral,Courtesy,North America,Yes
+INT00494,EMP00107,Customer Success,CUST60784,2024-08-11,Self-Service Portal,Enterprise Plan,1.3,3,20.5,Yes,No,Negative,Speed,LATAM,No
+INT00495,EMP00811,Customer Success,CUST28970,2022-08-18,In-Person,Product C,2.9,6,35.0,Yes,No,Positive,Knowledge,LATAM,No
+INT00496,EMP00306,Operations,CUST54360,2025-08-04,Email,Enterprise Plan,2.7,8,42.9,No,Yes,Neutral,Accuracy,APAC,No
+INT00497,EMP00257,Customer Success,CUST80439,2022-02-03,Self-Service Portal,Enterprise Plan,3.7,3,7.9,Yes,No,Negative,Knowledge,APAC,Yes
+INT00498,EMP00618,Sales,CUST99112,2025-07-24,Phone,Product C,2.6,8,1.8,No,No,Neutral,Accuracy,LATAM,No
+INT00499,EMP00650,Operations,CUST56209,2022-12-28,Self-Service Portal,Starter Plan,3.8,0,27.0,Yes,No,Neutral,Speed,North America,Yes
+INT00500,EMP00551,Operations,CUST92936,2022-02-11,Chat,Product A,1.0,0,7.1,Yes,Yes,Positive,Follow-Up,LATAM,Yes
+INT00501,EMP00810,Support,CUST64848,2022-10-21,In-Person,Product A,2.7,7,25.3,Yes,Yes,Neutral,Follow-Up,EMEA,No
+INT00502,EMP00683,Support,CUST20263,2024-01-27,In-Person,Starter Plan,1.6,9,35.8,Yes,No,Neutral,Courtesy,EMEA,No
+INT00503,EMP00667,Customer Success,CUST91827,2025-04-05,Chat,Enterprise Plan,4.6,7,54.3,No,No,Positive,Follow-Up,APAC,No
+INT00504,EMP00767,Operations,CUST37689,2026-03-04,Phone,Service Package 1,1.1,3,13.4,Yes,No,Negative,Follow-Up,APAC,Yes
+INT00505,EMP01012,Sales,CUST66432,2026-04-16,Email,Starter Plan,3.8,2,37.4,Yes,Yes,Negative,Follow-Up,EMEA,Yes
+INT00506,EMP00200,Support,CUST35242,2025-09-18,Phone,Starter Plan,4.9,5,10.8,Yes,No,Negative,Follow-Up,North America,No
+INT00507,EMP00332,Operations,CUST85221,2025-11-24,Self-Service Portal,Product A,3.2,8,12.6,Yes,No,Neutral,Knowledge,LATAM,No
+INT00508,EMP00001,Operations,CUST96650,2024-10-29,Chat,Starter Plan,1.1,6,5.2,Yes,No,Positive,Accuracy,North America,No
+INT00509,EMP01081,Customer Success,CUST66956,2025-08-15,Email,Service Package 1,2.7,6,44.1,No,No,Positive,Accuracy,EMEA,Yes
+INT00510,EMP01086,Support,CUST49915,2023-10-01,In-Person,Product A,1.4,9,52.6,Yes,No,Negative,Courtesy,LATAM,Yes
+INT00511,EMP00171,Operations,CUST11370,2023-08-27,Self-Service Portal,Product C,3.6,4,46.8,Yes,No,Positive,Knowledge,North America,No
+INT00512,EMP00686,Customer Success,CUST97157,2025-08-07,Self-Service Portal,Product B,1.3,3,11.0,Yes,No,Neutral,Speed,APAC,No
+INT00513,EMP00213,Support,CUST61534,2022-08-11,Phone,Product A,4.7,2,31.1,No,No,Negative,Courtesy,North America,No
+INT00514,EMP00597,Customer Success,CUST93991,2024-05-20,Chat,Product A,5.0,0,24.3,Yes,No,Neutral,Speed,EMEA,No
+INT00515,EMP00351,Operations,CUST28366,2025-06-27,Chat,Product B,4.6,9,39.2,Yes,No,Neutral,Courtesy,LATAM,Yes
+INT00516,EMP00553,Sales,CUST30303,2023-10-09,Self-Service Portal,Product C,3.0,8,26.4,Yes,No,Positive,Knowledge,APAC,No
+INT00517,EMP01185,Sales,CUST39306,2023-06-08,Chat,Enterprise Plan,1.7,3,39.5,Yes,No,Positive,Knowledge,APAC,No
+INT00518,EMP00900,Support,CUST66672,2025-02-24,Self-Service Portal,Starter Plan,4.0,9,45.3,Yes,No,Negative,Knowledge,LATAM,No
+INT00519,EMP00066,Operations,CUST27853,2023-11-07,In-Person,Starter Plan,3.3,5,60.6,Yes,No,Positive,Courtesy,APAC,No
+INT00520,EMP00385,Operations,CUST75363,2025-09-04,In-Person,Product B,1.4,10,31.3,Yes,No,Positive,Follow-Up,APAC,No
+INT00521,EMP00565,Support,CUST70960,2025-07-09,Email,Service Package 1,1.5,5,23.3,No,No,Negative,Follow-Up,LATAM,No
+INT00522,EMP00138,Customer Success,CUST91834,2023-08-08,Self-Service Portal,Enterprise Plan,4.4,10,14.6,Yes,No,Positive,Follow-Up,LATAM,Yes
+INT00523,EMP00138,Support,CUST45609,2024-10-05,Phone,Product C,4.8,9,41.3,No,No,Negative,Speed,APAC,No
+INT00524,EMP00560,Support,CUST91622,2024-01-16,Self-Service Portal,Service Package 1,1.3,0,63.1,No,No,Neutral,Speed,APAC,Yes
+INT00525,EMP00292,Operations,CUST43035,2022-03-01,Chat,Product B,4.9,2,70.5,Yes,No,Positive,Knowledge,LATAM,No
+INT00526,EMP00995,Sales,CUST96155,2022-05-01,Chat,Service Package 1,1.7,8,31.1,Yes,No,Positive,Knowledge,North America,No
+INT00527,EMP00157,Operations,CUST43774,2025-03-18,Self-Service Portal,Product B,3.6,9,20.1,Yes,No,Neutral,Follow-Up,North America,No
+INT00528,EMP00023,Support,CUST51165,2026-05-29,Chat,Service Package 1,1.2,6,66.7,No,No,Negative,Speed,EMEA,No
+INT00529,EMP00855,Sales,CUST13263,2026-07-30,Chat,Starter Plan,2.6,3,16.8,No,No,Positive,Follow-Up,LATAM,No
+INT00530,EMP00301,Sales,CUST68102,2022-06-24,Email,Starter Plan,4.2,8,12.8,No,No,Positive,Speed,LATAM,No
+INT00531,EMP00934,Sales,CUST59000,2023-09-06,Phone,Service Package 1,3.0,4,38.9,Yes,No,Negative,Accuracy,North America,No
+INT00532,EMP00443,Sales,CUST78010,2022-07-07,Email,Service Package 1,2.9,1,54.5,No,No,Negative,Accuracy,LATAM,No
+INT00533,EMP00543,Sales,CUST72677,2025-01-20,Self-Service Portal,Service Package 1,1.6,2,33.3,Yes,No,Positive,Knowledge,APAC,Yes
+INT00534,EMP00679,Customer Success,CUST84928,2025-07-31,Chat,Product B,1.4,4,31.8,Yes,No,Negative,Follow-Up,LATAM,No
+INT00535,EMP00392,Support,CUST14705,2024-09-16,Email,Product B,3.2,4,24.9,Yes,No,Positive,Follow-Up,North America,No
+INT00536,EMP00983,Customer Success,CUST14639,2025-01-28,Email,Product B,4.7,8,8.7,Yes,Yes,Positive,Accuracy,APAC,No
+INT00537,EMP00984,Operations,CUST57013,2025-07-30,Self-Service Portal,Product B,1.8,7,56.1,Yes,No,Negative,Follow-Up,APAC,No
+INT00538,EMP00561,Customer Success,CUST98165,2025-01-19,In-Person,Service Package 1,3.5,8,6.9,Yes,No,Negative,Speed,North America,No
+INT00539,EMP00835,Operations,CUST62092,2025-10-07,Chat,Service Package 1,2.3,8,53.4,Yes,No,Neutral,Knowledge,LATAM,Yes
+INT00540,EMP01062,Sales,CUST76870,2022-12-05,Email,Service Package 1,1.0,6,67.1,No,No,Neutral,Knowledge,EMEA,Yes
+INT00541,EMP01091,Support,CUST33632,2025-03-31,Self-Service Portal,Product C,4.6,7,59.8,Yes,No,Positive,Knowledge,North America,No
+INT00542,EMP00110,Support,CUST65411,2026-05-26,Email,Service Package 1,3.7,2,53.6,Yes,No,Neutral,Knowledge,North America,Yes
+INT00543,EMP00149,Support,CUST86860,2022-07-06,Email,Starter Plan,1.7,10,45.8,No,No,Positive,Follow-Up,APAC,No
+INT00544,EMP00248,Support,CUST85251,2022-11-02,In-Person,Starter Plan,3.7,10,7.6,Yes,Yes,Positive,Speed,EMEA,No
+INT00545,EMP00436,Customer Success,CUST52482,2025-07-16,Email,Product A,3.7,10,39.4,No,Yes,Positive,Courtesy,EMEA,Yes
+INT00546,EMP00230,Support,CUST40331,2023-10-27,Self-Service Portal,Service Package 1,4.1,0,55.6,Yes,No,Neutral,Knowledge,EMEA,No
+INT00547,EMP00387,Customer Success,CUST23553,2024-05-02,Chat,Enterprise Plan,2.2,5,30.2,Yes,No,Neutral,Courtesy,North America,No
+INT00548,EMP00737,Sales,CUST66639,2022-01-02,In-Person,Product C,2.7,1,54.2,Yes,Yes,Negative,Follow-Up,APAC,No
+INT00549,EMP00323,Customer Success,CUST69013,2025-12-11,In-Person,Product B,3.5,9,31.5,Yes,No,Positive,Courtesy,LATAM,No
+INT00550,EMP00220,Support,CUST45672,2024-05-03,Phone,Starter Plan,2.8,2,32.6,Yes,Yes,Negative,Knowledge,LATAM,No
+INT00551,EMP00787,Operations,CUST95689,2023-06-01,Phone,Product A,1.4,8,51.9,Yes,No,Negative,Knowledge,LATAM,No
+INT00552,EMP00749,Sales,CUST55141,2025-03-17,In-Person,Product A,2.8,1,10.6,Yes,No,Negative,Knowledge,LATAM,No
+INT00553,EMP00317,Customer Success,CUST98547,2023-12-12,In-Person,Product B,1.7,4,54.9,Yes,Yes,Positive,Follow-Up,North America,No
+INT00554,EMP00596,Sales,CUST69805,2022-07-31,Phone,Product C,3.9,5,46.3,Yes,No,Positive,Follow-Up,LATAM,No
+INT00555,EMP00074,Customer Success,CUST69617,2023-10-08,Phone,Service Package 1,3.8,9,32.7,Yes,No,Positive,Knowledge,North America,No
+INT00556,EMP00839,Operations,CUST68181,2023-09-16,Self-Service Portal,Product A,3.0,3,0.9,Yes,No,Positive,Knowledge,APAC,Yes
+INT00557,EMP00870,Sales,CUST37767,2024-06-14,Phone,Enterprise Plan,4.4,1,70.2,Yes,No,Negative,Knowledge,APAC,No
+INT00558,EMP00333,Operations,CUST28968,2025-01-31,In-Person,Enterprise Plan,1.4,8,56.9,Yes,Yes,Negative,Courtesy,LATAM,No
+INT00559,EMP00379,Sales,CUST76759,2022-03-17,Email,Service Package 1,4.3,7,4.3,Yes,No,Positive,Follow-Up,LATAM,No
+INT00560,EMP00991,Customer Success,CUST63357,2026-04-17,Chat,Product A,3.1,4,66.2,Yes,No,Negative,Follow-Up,North America,Yes
+INT00561,EMP00456,Operations,CUST36224,2026-04-26,Email,Product B,3.1,10,12.1,No,Yes,Positive,Accuracy,APAC,No
+INT00562,EMP00310,Customer Success,CUST84027,2024-06-07,In-Person,Product B,3.2,6,27.9,Yes,Yes,Negative,Knowledge,APAC,Yes
+INT00563,EMP00909,Operations,CUST69944,2022-02-21,Email,Enterprise Plan,4.5,2,34.7,Yes,No,Positive,Follow-Up,EMEA,No
+INT00564,EMP00907,Support,CUST10112,2023-12-04,Email,Product A,3.2,10,13.9,No,Yes,Positive,Courtesy,LATAM,No
+INT00565,EMP00230,Support,CUST19927,2022-06-19,Self-Service Portal,Starter Plan,3.2,8,64.3,Yes,No,Positive,Accuracy,EMEA,No
+INT00566,EMP00348,Support,CUST76287,2025-06-07,Phone,Product B,2.5,4,63.9,No,No,Neutral,Courtesy,LATAM,No
+INT00567,EMP00810,Operations,CUST42412,2025-03-12,Chat,Product A,3.1,9,69.4,No,No,Negative,Courtesy,EMEA,No
+INT00568,EMP00903,Support,CUST87707,2023-09-14,In-Person,Enterprise Plan,1.7,2,33.5,Yes,Yes,Negative,Accuracy,APAC,No
+INT00569,EMP00769,Operations,CUST56532,2025-06-07,Chat,Service Package 1,4.3,10,27.6,Yes,No,Positive,Speed,EMEA,No
+INT00570,EMP00243,Operations,CUST14023,2025-02-05,In-Person,Product A,2.7,0,38.1,Yes,No,Positive,Accuracy,LATAM,No
+INT00571,EMP00140,Sales,CUST52880,2022-11-30,Chat,Product B,3.2,1,30.9,Yes,No,Positive,Follow-Up,APAC,No
+INT00572,EMP00704,Support,CUST31265,2025-07-25,In-Person,Product B,2.1,10,62.4,Yes,No,Negative,Follow-Up,LATAM,No
+INT00573,EMP01194,Sales,CUST96618,2022-03-11,Phone,Product C,4.6,8,10.8,Yes,No,Neutral,Follow-Up,EMEA,No
+INT00574,EMP01173,Operations,CUST79955,2024-04-20,Chat,Product A,2.5,0,8.8,Yes,No,Neutral,Courtesy,LATAM,No
+INT00575,EMP00194,Customer Success,CUST55385,2022-03-01,Email,Product C,2.5,8,7.5,Yes,Yes,Neutral,Knowledge,North America,No
+INT00576,EMP00868,Operations,CUST72921,2025-09-10,Email,Starter Plan,1.4,6,1.4,Yes,No,Negative,Speed,North America,No
+INT00577,EMP00871,Sales,CUST89810,2025-05-19,Email,Service Package 1,3.1,3,30.4,Yes,Yes,Negative,Follow-Up,LATAM,No
+INT00578,EMP01080,Operations,CUST32136,2022-05-13,Self-Service Portal,Product A,4.2,3,48.3,Yes,No,Neutral,Speed,LATAM,No
+INT00579,EMP00086,Customer Success,CUST45363,2024-09-13,Email,Product A,2.3,5,34.0,Yes,Yes,Negative,Accuracy,APAC,No
+INT00580,EMP00922,Customer Success,CUST73544,2022-05-01,Email,Product A,1.2,5,67.6,Yes,Yes,Negative,Speed,LATAM,No
+INT00581,EMP01186,Customer Success,CUST17466,2025-08-29,Chat,Product B,3.4,4,10.5,Yes,No,Neutral,Courtesy,EMEA,No
+INT00582,EMP00404,Support,CUST89843,2022-12-17,Email,Product B,3.6,1,66.4,Yes,No,Positive,Accuracy,APAC,No
+INT00583,EMP00416,Sales,CUST12175,2023-03-23,In-Person,Starter Plan,1.3,2,10.1,No,No,Negative,Follow-Up,North America,No
+INT00584,EMP00991,Support,CUST49072,2024-10-13,Email,Product A,3.4,8,7.4,Yes,No,Negative,Follow-Up,North America,No
+INT00585,EMP01144,Operations,CUST64946,2024-02-19,In-Person,Enterprise Plan,2.2,3,71.1,Yes,No,Negative,Accuracy,EMEA,No
+INT00586,EMP00943,Support,CUST38718,2024-07-22,Phone,Product A,3.7,8,54.7,Yes,No,Positive,Knowledge,North America,Yes
+INT00587,EMP00803,Sales,CUST73020,2025-12-15,Chat,Product A,2.7,5,4.4,Yes,No,Positive,Speed,LATAM,Yes
+INT00588,EMP00981,Support,CUST56383,2025-10-25,In-Person,Starter Plan,4.8,6,58.5,Yes,No,Positive,Speed,EMEA,No
+INT00589,EMP00258,Operations,CUST10488,2022-12-12,In-Person,Product B,1.7,2,29.0,Yes,No,Positive,Follow-Up,LATAM,Yes
+INT00590,EMP00267,Sales,CUST89200,2023-09-12,Phone,Product A,3.3,7,23.8,Yes,Yes,Positive,Follow-Up,EMEA,No
+INT00591,EMP00542,Customer Success,CUST85335,2026-05-14,Self-Service Portal,Service Package 1,2.4,7,61.5,Yes,No,Neutral,Courtesy,North America,No
+INT00592,EMP00132,Sales,CUST14942,2023-04-01,Email,Enterprise Plan,1.6,8,21.1,Yes,No,Positive,Accuracy,APAC,No
+INT00593,EMP00418,Sales,CUST26750,2022-07-11,Email,Product B,4.1,0,46.6,Yes,No,Negative,Courtesy,LATAM,Yes
+INT00594,EMP00389,Customer Success,CUST26913,2025-05-06,Email,Starter Plan,1.0,5,62.7,No,No,Positive,Accuracy,North America,No
+INT00595,EMP00729,Sales,CUST16581,2022-02-10,Email,Product C,2.4,9,15.3,No,Yes,Neutral,Accuracy,EMEA,No
+INT00596,EMP00240,Support,CUST41691,2024-12-14,In-Person,Product C,2.2,7,61.3,Yes,No,Positive,Courtesy,LATAM,Yes
+INT00597,EMP01000,Operations,CUST40964,2022-01-30,Phone,Starter Plan,3.3,7,27.6,Yes,No,Neutral,Accuracy,LATAM,No
+INT00598,EMP00501,Operations,CUST60560,2024-09-21,Chat,Enterprise Plan,3.2,3,68.3,Yes,No,Positive,Speed,EMEA,No
+INT00599,EMP00743,Operations,CUST90734,2023-09-28,Phone,Product C,2.0,4,2.2,Yes,No,Negative,Follow-Up,APAC,Yes
+INT00600,EMP00754,Sales,CUST36493,2026-01-15,In-Person,Product A,3.1,9,18.5,Yes,No,Positive,Follow-Up,APAC,No
+INT00601,EMP00455,Customer Success,CUST33992,2025-09-11,Self-Service Portal,Product C,1.6,2,54.7,Yes,No,Negative,Speed,LATAM,No
+INT00602,EMP01136,Support,CUST22183,2024-01-24,Chat,Enterprise Plan,4.4,4,39.0,No,Yes,Positive,Accuracy,North America,No
+INT00603,EMP00949,Customer Success,CUST41321,2025-06-10,Chat,Starter Plan,1.2,10,39.5,Yes,No,Positive,Courtesy,APAC,Yes
+INT00604,EMP00277,Customer Success,CUST63978,2025-03-24,Self-Service Portal,Starter Plan,1.2,6,39.8,Yes,No,Negative,Knowledge,EMEA,No
+INT00605,EMP00787,Sales,CUST28720,2023-07-08,Chat,Service Package 1,4.1,6,24.1,No,Yes,Neutral,Knowledge,LATAM,Yes
+INT00606,EMP00470,Support,CUST96410,2023-12-07,Phone,Service Package 1,1.5,4,68.5,Yes,No,Negative,Accuracy,LATAM,Yes
+INT00607,EMP00724,Support,CUST46466,2024-02-13,Phone,Service Package 1,1.9,3,29.0,No,No,Neutral,Knowledge,North America,No
+INT00608,EMP01003,Support,CUST10621,2025-05-31,Phone,Starter Plan,1.6,0,11.1,No,Yes,Positive,Knowledge,North America,Yes
+INT00609,EMP00053,Operations,CUST48833,2024-11-07,Phone,Product B,4.1,2,68.2,No,Yes,Positive,Follow-Up,North America,No
+INT00610,EMP01076,Support,CUST80917,2025-07-25,Self-Service Portal,Product C,2.5,5,18.9,Yes,No,Neutral,Accuracy,EMEA,No
+INT00611,EMP00843,Customer Success,CUST65639,2026-04-18,Self-Service Portal,Product A,2.0,8,13.1,Yes,No,Negative,Accuracy,APAC,Yes
+INT00612,EMP00159,Operations,CUST66437,2024-06-27,Self-Service Portal,Product B,1.8,10,41.8,No,No,Neutral,Knowledge,LATAM,No
+INT00613,EMP00760,Support,CUST99766,2025-02-13,In-Person,Product B,2.8,7,59.3,Yes,No,Negative,Knowledge,North America,Yes
+INT00614,EMP01069,Operations,CUST27162,2023-08-02,Self-Service Portal,Product A,3.1,7,1.4,No,No,Positive,Knowledge,LATAM,No
+INT00615,EMP00911,Sales,CUST63970,2026-04-21,In-Person,Starter Plan,1.8,6,53.8,Yes,No,Neutral,Speed,APAC,No
+INT00616,EMP00456,Operations,CUST50439,2022-04-08,In-Person,Starter Plan,2.6,0,50.4,Yes,No,Negative,Speed,LATAM,No
+INT00617,EMP00660,Operations,CUST33804,2026-02-26,Chat,Product A,3.6,2,20.2,Yes,No,Positive,Speed,APAC,No
+INT00618,EMP00172,Support,CUST32200,2022-06-17,Chat,Enterprise Plan,1.6,4,68.9,Yes,Yes,Neutral,Accuracy,APAC,Yes
+INT00619,EMP01110,Sales,CUST55260,2022-05-05,Phone,Enterprise Plan,4.7,6,68.2,Yes,Yes,Neutral,Speed,North America,Yes
+INT00620,EMP00515,Customer Success,CUST57162,2025-04-27,Chat,Enterprise Plan,4.1,10,54.9,Yes,No,Negative,Courtesy,EMEA,No
+INT00621,EMP00506,Support,CUST27754,2024-06-25,Phone,Service Package 1,1.0,7,46.6,Yes,No,Negative,Knowledge,LATAM,No
+INT00622,EMP00293,Sales,CUST61859,2025-06-09,Phone,Service Package 1,4.5,10,3.4,Yes,No,Positive,Accuracy,EMEA,No
+INT00623,EMP00143,Operations,CUST95737,2024-07-25,Self-Service Portal,Starter Plan,4.9,2,55.0,Yes,Yes,Neutral,Speed,North America,No
+INT00624,EMP00334,Support,CUST51186,2025-06-27,In-Person,Product A,3.5,1,11.6,No,Yes,Neutral,Accuracy,North America,No
+INT00625,EMP01102,Support,CUST12119,2022-11-17,In-Person,Product A,3.6,9,19.6,Yes,No,Positive,Speed,North America,No
+INT00626,EMP01004,Customer Success,CUST71894,2024-12-06,In-Person,Starter Plan,1.7,10,70.0,Yes,No,Neutral,Accuracy,LATAM,No
+INT00627,EMP01112,Operations,CUST45740,2025-10-02,In-Person,Starter Plan,3.7,10,1.4,Yes,No,Negative,Knowledge,North America,No
+INT00628,EMP00850,Sales,CUST77871,2023-12-19,Email,Service Package 1,5.0,10,47.5,No,No,Negative,Accuracy,North America,No
+INT00629,EMP00963,Customer Success,CUST19659,2026-07-28,Email,Starter Plan,2.6,5,55.5,Yes,Yes,Positive,Accuracy,North America,Yes
+INT00630,EMP00290,Operations,CUST16816,2024-06-13,Chat,Product C,2.2,8,56.8,Yes,Yes,Neutral,Follow-Up,LATAM,No
+INT00631,EMP00184,Customer Success,CUST41333,2022-03-23,Email,Product B,4.3,9,43.9,No,Yes,Negative,Courtesy,North America,Yes
+INT00632,EMP00948,Operations,CUST67551,2022-04-18,In-Person,Product C,2.1,0,43.1,Yes,No,Neutral,Knowledge,LATAM,No
+INT00633,EMP00178,Support,CUST11615,2024-02-24,Self-Service Portal,Starter Plan,1.6,0,3.2,Yes,No,Negative,Knowledge,EMEA,No
+INT00634,EMP01001,Support,CUST15019,2026-07-31,Self-Service Portal,Enterprise Plan,4.4,5,7.8,Yes,No,Neutral,Courtesy,North America,Yes
+INT00635,EMP01080,Sales,CUST51417,2025-01-12,Email,Starter Plan,2.0,10,25.4,Yes,No,Positive,Knowledge,EMEA,Yes
+INT00636,EMP01097,Customer Success,CUST60244,2026-04-15,Phone,Service Package 1,2.9,9,36.9,Yes,No,Positive,Follow-Up,North America,Yes
+INT00637,EMP00022,Operations,CUST38275,2022-08-09,Phone,Product C,4.8,10,53.1,Yes,Yes,Neutral,Knowledge,North America,No
+INT00638,EMP00010,Support,CUST77455,2024-05-28,Self-Service Portal,Service Package 1,1.5,10,31.3,Yes,No,Positive,Accuracy,EMEA,Yes
+INT00639,EMP00117,Sales,CUST16991,2022-04-05,Self-Service Portal,Product A,1.5,9,52.0,Yes,Yes,Negative,Knowledge,APAC,Yes
+INT00640,EMP01176,Support,CUST70664,2025-06-28,Email,Enterprise Plan,3.1,10,15.9,No,No,Neutral,Follow-Up,North America,No
+INT00641,EMP00864,Customer Success,CUST11831,2025-06-09,In-Person,Product A,1.9,3,37.5,Yes,No,Negative,Accuracy,EMEA,Yes
+INT00642,EMP00491,Support,CUST37773,2024-07-27,Chat,Product C,3.7,2,33.5,Yes,No,Negative,Accuracy,APAC,Yes
+INT00643,EMP00133,Operations,CUST29875,2022-04-05,In-Person,Enterprise Plan,2.6,7,35.8,No,No,Negative,Follow-Up,LATAM,Yes
+INT00644,EMP00389,Customer Success,CUST77159,2025-07-07,Chat,Enterprise Plan,1.8,7,9.5,Yes,No,Negative,Knowledge,EMEA,Yes
+INT00645,EMP00686,Operations,CUST76600,2025-02-27,Self-Service Portal,Service Package 1,2.4,4,36.1,Yes,No,Neutral,Speed,LATAM,No
+INT00646,EMP00135,Operations,CUST56927,2022-01-17,Phone,Product B,3.1,4,46.7,Yes,No,Negative,Follow-Up,North America,Yes
+INT00647,EMP00725,Sales,CUST19190,2023-12-25,Phone,Product A,4.0,8,15.2,Yes,No,Negative,Follow-Up,APAC,No
+INT00648,EMP01137,Support,CUST34110,2023-11-08,Chat,Service Package 1,1.3,1,71.8,No,No,Positive,Knowledge,LATAM,Yes
+INT00649,EMP00201,Sales,CUST34499,2026-05-15,Chat,Service Package 1,3.7,8,69.8,No,No,Negative,Accuracy,APAC,Yes
+INT00650,EMP00535,Operations,CUST87754,2023-01-25,In-Person,Product A,2.0,2,23.7,Yes,No,Negative,Speed,North America,No
+INT00651,EMP00496,Support,CUST83410,2025-03-22,Self-Service Portal,Product A,3.8,8,52.4,Yes,No,Neutral,Courtesy,APAC,No
+INT00652,EMP00637,Sales,CUST50891,2025-08-22,Email,Product C,3.4,10,5.5,Yes,No,Negative,Courtesy,EMEA,No
+INT00653,EMP00455,Sales,CUST23504,2022-04-11,In-Person,Product B,3.2,8,57.1,Yes,Yes,Negative,Speed,North America,No
+INT00654,EMP00937,Sales,CUST54064,2025-05-06,Phone,Product A,1.8,10,25.4,No,Yes,Negative,Courtesy,APAC,Yes
+INT00655,EMP00532,Sales,CUST29469,2023-07-26,Email,Product A,1.7,5,44.3,Yes,No,Neutral,Accuracy,EMEA,No
+INT00656,EMP01001,Support,CUST32053,2025-08-03,In-Person,Product A,3.2,5,3.3,No,No,Neutral,Follow-Up,North America,No
+INT00657,EMP00487,Support,CUST38537,2026-06-06,Self-Service Portal,Product C,4.8,5,29.4,Yes,No,Positive,Speed,LATAM,Yes
+INT00658,EMP00507,Operations,CUST73689,2025-06-20,Self-Service Portal,Enterprise Plan,3.4,3,34.2,No,No,Positive,Speed,APAC,No
+INT00659,EMP00376,Operations,CUST73351,2023-02-16,In-Person,Product C,3.9,1,8.9,Yes,No,Negative,Knowledge,North America,No
+INT00660,EMP00308,Customer Success,CUST81130,2023-08-05,Chat,Product A,3.3,0,61.2,Yes,No,Neutral,Follow-Up,LATAM,No
+INT00661,EMP00313,Support,CUST70753,2023-02-12,Phone,Product B,1.1,2,62.3,Yes,No,Neutral,Accuracy,APAC,No
+INT00662,EMP00087,Support,CUST93900,2023-04-22,Email,Starter Plan,3.7,0,57.8,Yes,No,Neutral,Knowledge,APAC,No
+INT00663,EMP00125,Operations,CUST14106,2025-07-02,Email,Product B,3.0,9,38.6,Yes,No,Positive,Speed,EMEA,No
+INT00664,EMP00143,Support,CUST62520,2023-10-23,Chat,Enterprise Plan,4.6,9,58.2,Yes,No,Positive,Speed,LATAM,Yes
+INT00665,EMP00723,Sales,CUST99708,2023-10-11,Phone,Product A,3.4,1,31.6,No,No,Positive,Courtesy,LATAM,No
+INT00666,EMP00065,Customer Success,CUST62479,2023-01-11,Email,Product C,4.3,0,5.6,No,No,Neutral,Follow-Up,North America,No
+INT00667,EMP00578,Customer Success,CUST88659,2022-12-31,Email,Enterprise Plan,4.1,3,29.5,Yes,No,Negative,Courtesy,LATAM,Yes
+INT00668,EMP00951,Customer Success,CUST64978,2024-06-06,Phone,Starter Plan,2.4,9,27.4,Yes,No,Neutral,Accuracy,EMEA,Yes
+INT00669,EMP00196,Sales,CUST52636,2025-04-28,Self-Service Portal,Product B,1.6,1,37.2,No,Yes,Positive,Knowledge,EMEA,No
+INT00670,EMP00597,Support,CUST45209,2023-12-06,Phone,Service Package 1,3.4,6,6.0,No,Yes,Positive,Courtesy,North America,No
+INT00671,EMP00577,Operations,CUST78272,2023-10-24,Email,Product A,2.3,0,57.7,Yes,No,Negative,Courtesy,EMEA,No
+INT00672,EMP00500,Customer Success,CUST83736,2022-07-27,In-Person,Product C,2.1,9,20.3,Yes,No,Positive,Speed,APAC,Yes
+INT00673,EMP01014,Support,CUST75596,2025-07-22,In-Person,Product A,2.8,5,4.5,Yes,No,Negative,Accuracy,North America,Yes
+INT00674,EMP00103,Operations,CUST81685,2023-01-16,Email,Product A,2.3,8,20.4,Yes,Yes,Positive,Courtesy,LATAM,No
+INT00675,EMP00649,Operations,CUST51781,2022-11-03,Email,Product B,2.5,1,70.3,Yes,No,Positive,Speed,LATAM,Yes
+INT00676,EMP00016,Support,CUST15643,2025-10-08,Email,Product C,4.2,5,4.8,Yes,No,Positive,Follow-Up,APAC,Yes
+INT00677,EMP00835,Support,CUST94265,2025-06-08,In-Person,Service Package 1,1.1,0,15.8,Yes,No,Positive,Speed,APAC,No
+INT00678,EMP00677,Sales,CUST73570,2023-06-09,Email,Product A,2.6,1,42.1,Yes,No,Neutral,Follow-Up,APAC,Yes
+INT00679,EMP01164,Customer Success,CUST42883,2023-10-23,Chat,Enterprise Plan,1.2,5,21.7,No,No,Negative,Accuracy,APAC,Yes
+INT00680,EMP01028,Operations,CUST66039,2024-04-05,Phone,Starter Plan,1.4,8,62.5,No,Yes,Positive,Knowledge,APAC,No
+INT00681,EMP01136,Customer Success,CUST11755,2024-05-01,Phone,Enterprise Plan,1.2,0,65.8,Yes,No,Neutral,Knowledge,LATAM,No
+INT00682,EMP00650,Sales,CUST25097,2024-04-21,Email,Product C,3.5,2,45.1,Yes,No,Neutral,Speed,LATAM,No
+INT00683,EMP00662,Support,CUST69832,2024-12-17,Self-Service Portal,Enterprise Plan,1.4,5,57.1,Yes,No,Neutral,Courtesy,North America,No
+INT00684,EMP00274,Support,CUST75552,2022-02-13,In-Person,Starter Plan,2.2,2,8.3,Yes,No,Neutral,Accuracy,LATAM,Yes
+INT00685,EMP00023,Customer Success,CUST49580,2023-10-22,Email,Product B,1.7,2,54.9,Yes,No,Positive,Speed,APAC,Yes
+INT00686,EMP00999,Sales,CUST85061,2023-11-03,Email,Enterprise Plan,2.2,0,63.2,Yes,No,Neutral,Knowledge,North America,No
+INT00687,EMP00053,Sales,CUST53302,2022-08-14,Chat,Enterprise Plan,1.2,3,15.8,Yes,Yes,Positive,Follow-Up,EMEA,No
+INT00688,EMP00073,Support,CUST72030,2022-10-31,Phone,Starter Plan,2.8,1,5.2,No,No,Neutral,Accuracy,EMEA,No
+INT00689,EMP00876,Support,CUST79725,2022-09-29,In-Person,Product B,4.8,1,51.0,Yes,Yes,Positive,Speed,EMEA,No
+INT00690,EMP00897,Support,CUST30662,2024-03-25,Email,Starter Plan,4.7,0,52.7,Yes,No,Neutral,Courtesy,North America,No
+INT00691,EMP00824,Sales,CUST30527,2023-01-19,Self-Service Portal,Enterprise Plan,1.3,8,64.3,Yes,Yes,Negative,Speed,North America,No
+INT00692,EMP00963,Customer Success,CUST20501,2025-03-24,Self-Service Portal,Product B,4.3,7,46.6,Yes,No,Negative,Courtesy,LATAM,No
+INT00693,EMP01063,Support,CUST93051,2025-02-22,In-Person,Service Package 1,2.7,2,5.9,No,No,Negative,Courtesy,APAC,No
+INT00694,EMP00222,Support,CUST59492,2024-01-08,In-Person,Product C,1.9,7,64.3,Yes,No,Neutral,Follow-Up,North America,Yes
+INT00695,EMP00298,Customer Success,CUST76288,2022-01-29,Phone,Product B,3.5,5,25.4,Yes,No,Neutral,Knowledge,EMEA,No
+INT00696,EMP00341,Operations,CUST44551,2022-03-13,In-Person,Product A,3.8,4,61.3,Yes,No,Positive,Speed,APAC,No
+INT00697,EMP00762,Sales,CUST75318,2023-09-30,Phone,Starter Plan,2.0,6,18.2,Yes,No,Positive,Accuracy,North America,Yes
+INT00698,EMP01082,Sales,CUST65351,2023-10-16,Phone,Product B,4.0,4,32.5,Yes,No,Positive,Accuracy,LATAM,Yes
+INT00699,EMP00069,Support,CUST25890,2022-05-23,Email,Starter Plan,3.4,1,48.9,Yes,No,Positive,Knowledge,LATAM,Yes
+INT00700,EMP00720,Support,CUST29827,2023-12-12,Phone,Product A,4.6,8,54.1,No,No,Positive,Accuracy,EMEA,Yes
+INT00701,EMP01148,Support,CUST76489,2023-03-19,Phone,Starter Plan,4.0,2,44.9,Yes,No,Positive,Accuracy,APAC,Yes
+INT00702,EMP00907,Customer Success,CUST80181,2022-07-11,Chat,Enterprise Plan,2.5,3,68.3,Yes,No,Negative,Courtesy,North America,No
+INT00703,EMP00952,Sales,CUST25200,2024-09-07,Self-Service Portal,Product C,1.5,7,31.2,Yes,No,Negative,Knowledge,APAC,Yes
+INT00704,EMP00314,Operations,CUST18621,2024-09-25,Chat,Starter Plan,3.2,6,59.9,Yes,No,Negative,Courtesy,EMEA,No
+INT00705,EMP00103,Customer Success,CUST39425,2025-06-23,Phone,Service Package 1,1.5,2,36.9,Yes,Yes,Positive,Knowledge,North America,No
+INT00706,EMP00042,Support,CUST75067,2025-01-19,In-Person,Product B,2.9,8,3.6,Yes,Yes,Negative,Knowledge,North America,Yes
+INT00707,EMP00096,Operations,CUST41715,2025-03-03,In-Person,Product A,3.5,6,48.9,Yes,No,Positive,Follow-Up,APAC,No
+INT00708,EMP00134,Customer Success,CUST69174,2024-09-07,Phone,Enterprise Plan,2.6,7,31.3,Yes,Yes,Negative,Knowledge,LATAM,Yes
+INT00709,EMP00830,Support,CUST81847,2023-11-24,Self-Service Portal,Starter Plan,4.3,8,39.0,Yes,No,Neutral,Accuracy,APAC,No
+INT00710,EMP00120,Support,CUST90820,2026-03-10,Self-Service Portal,Enterprise Plan,2.6,5,16.1,No,No,Neutral,Speed,EMEA,No
+INT00711,EMP00676,Sales,CUST74679,2024-05-01,In-Person,Service Package 1,4.8,3,68.3,Yes,No,Positive,Courtesy,APAC,Yes
+INT00712,EMP00955,Sales,CUST33927,2022-07-01,Phone,Product B,2.5,8,68.6,No,No,Positive,Knowledge,EMEA,No
+INT00713,EMP00668,Support,CUST64620,2026-03-10,Self-Service Portal,Service Package 1,4.7,1,0.2,Yes,No,Negative,Follow-Up,EMEA,No
+INT00714,EMP00484,Support,CUST33144,2026-07-31,Chat,Product B,1.8,9,13.4,No,Yes,Positive,Courtesy,EMEA,No
+INT00715,EMP00169,Sales,CUST61686,2023-01-08,In-Person,Product B,2.3,6,8.5,Yes,Yes,Positive,Courtesy,North America,No
+INT00716,EMP01124,Support,CUST75729,2024-08-14,Chat,Product B,2.7,5,45.5,Yes,No,Positive,Accuracy,North America,No
+INT00717,EMP00770,Sales,CUST71892,2024-02-06,In-Person,Starter Plan,1.8,2,70.3,Yes,No,Positive,Speed,EMEA,No
+INT00718,EMP01134,Support,CUST30376,2025-06-10,In-Person,Product C,4.9,8,0.8,Yes,No,Negative,Courtesy,EMEA,Yes
+INT00719,EMP00654,Support,CUST99339,2024-02-05,Self-Service Portal,Service Package 1,1.9,8,15.5,Yes,No,Positive,Knowledge,APAC,No
+INT00720,EMP00145,Operations,CUST90060,2024-12-05,Phone,Product C,2.3,6,7.4,No,Yes,Negative,Courtesy,LATAM,No
+INT00721,EMP00663,Customer Success,CUST93062,2022-01-14,Chat,Product B,2.1,2,23.1,Yes,No,Neutral,Follow-Up,EMEA,Yes
+INT00722,EMP00501,Support,CUST72503,2022-07-09,In-Person,Service Package 1,3.2,5,13.9,Yes,No,Positive,Follow-Up,APAC,No
+INT00723,EMP00927,Operations,CUST29354,2024-08-18,Self-Service Portal,Service Package 1,1.6,0,44.7,Yes,No,Neutral,Speed,APAC,Yes
+INT00724,EMP00050,Support,CUST59400,2023-06-10,Phone,Enterprise Plan,3.0,8,7.3,No,No,Neutral,Speed,APAC,No
+INT00725,EMP00704,Sales,CUST45468,2024-01-15,Email,Product A,2.6,2,46.7,Yes,Yes,Negative,Follow-Up,North America,No
+INT00726,EMP00346,Support,CUST43029,2025-07-15,Self-Service Portal,Starter Plan,2.3,1,52.7,Yes,No,Positive,Courtesy,APAC,No
+INT00727,EMP00504,Sales,CUST42410,2025-02-25,Phone,Starter Plan,2.9,9,48.3,Yes,No,Neutral,Knowledge,North America,Yes
+INT00728,EMP00957,Operations,CUST13407,2024-02-08,Self-Service Portal,Starter Plan,1.2,5,67.5,Yes,No,Positive,Speed,EMEA,No
+INT00729,EMP00466,Operations,CUST54459,2022-05-09,Chat,Starter Plan,4.6,3,29.4,No,No,Negative,Knowledge,North America,No
+INT00730,EMP00640,Support,CUST33613,2022-06-02,Self-Service Portal,Product A,4.1,2,28.5,Yes,No,Neutral,Follow-Up,APAC,Yes
+INT00731,EMP00605,Operations,CUST64360,2026-07-18,Phone,Enterprise Plan,4.9,3,58.4,Yes,No,Positive,Courtesy,APAC,No
+INT00732,EMP00099,Customer Success,CUST73938,2025-04-05,In-Person,Starter Plan,2.0,10,61.9,No,No,Negative,Courtesy,LATAM,No
+INT00733,EMP00529,Sales,CUST51035,2026-06-15,Chat,Enterprise Plan,1.9,4,38.4,No,No,Neutral,Knowledge,North America,Yes
+INT00734,EMP00257,Sales,CUST11938,2025-09-24,Self-Service Portal,Service Package 1,2.7,6,26.2,Yes,No,Negative,Courtesy,APAC,No
+INT00735,EMP00858,Sales,CUST99973,2025-10-06,In-Person,Product C,1.5,3,16.8,Yes,No,Negative,Accuracy,APAC,Yes
+INT00736,EMP00964,Customer Success,CUST41609,2024-08-02,Chat,Product B,2.6,9,58.3,Yes,No,Neutral,Accuracy,North America,No
+INT00737,EMP00213,Sales,CUST91473,2023-06-23,In-Person,Enterprise Plan,4.1,3,17.0,No,No,Neutral,Speed,LATAM,Yes
+INT00738,EMP01028,Support,CUST78614,2022-08-02,Phone,Service Package 1,1.6,2,24.4,Yes,No,Neutral,Courtesy,North America,No
+INT00739,EMP00428,Sales,CUST50324,2024-06-05,Phone,Starter Plan,2.5,3,43.6,Yes,Yes,Negative,Courtesy,APAC,No
+INT00740,EMP00353,Customer Success,CUST61319,2022-01-05,Self-Service Portal,Starter Plan,3.4,3,44.0,No,Yes,Positive,Knowledge,APAC,No
+INT00741,EMP00440,Support,CUST10860,2024-04-01,Phone,Service Package 1,2.8,3,64.5,Yes,Yes,Neutral,Courtesy,North America,Yes
+INT00742,EMP00491,Support,CUST83333,2026-05-07,In-Person,Product C,4.9,9,30.2,Yes,Yes,Positive,Accuracy,North America,Yes
+INT00743,EMP00335,Support,CUST10393,2022-07-22,In-Person,Product B,3.7,8,6.1,Yes,No,Positive,Speed,EMEA,No
+INT00744,EMP00836,Operations,CUST42796,2022-01-20,Phone,Enterprise Plan,2.2,4,17.6,Yes,No,Positive,Speed,APAC,No
+INT00745,EMP00957,Sales,CUST64967,2022-04-13,In-Person,Starter Plan,4.5,3,19.1,Yes,Yes,Positive,Speed,North America,No
+INT00746,EMP00948,Sales,CUST40540,2025-03-03,Chat,Product B,1.7,9,8.3,Yes,No,Positive,Speed,LATAM,No
+INT00747,EMP00244,Operations,CUST27957,2025-05-09,Self-Service Portal,Service Package 1,4.9,8,4.8,No,No,Neutral,Follow-Up,North America,No
+INT00748,EMP00604,Sales,CUST95160,2026-01-05,Email,Product B,2.4,2,48.0,Yes,No,Positive,Accuracy,EMEA,No
+INT00749,EMP00345,Support,CUST74982,2023-09-20,In-Person,Enterprise Plan,4.8,7,69.9,Yes,No,Positive,Follow-Up,APAC,No
+INT00750,EMP00147,Sales,CUST71224,2022-04-22,Email,Starter Plan,2.4,9,32.6,No,Yes,Negative,Knowledge,APAC,Yes
+INT00751,EMP00938,Operations,CUST71773,2025-06-18,Email,Enterprise Plan,4.1,3,31.4,Yes,No,Negative,Follow-Up,APAC,No
+INT00752,EMP00380,Customer Success,CUST27196,2022-04-16,Email,Product C,1.7,0,21.8,Yes,Yes,Neutral,Knowledge,North America,Yes
+INT00753,EMP01094,Sales,CUST41959,2022-05-31,Email,Enterprise Plan,2.7,10,68.5,Yes,No,Positive,Courtesy,EMEA,No
+INT00754,EMP00571,Sales,CUST73917,2026-03-12,Phone,Product A,4.6,1,33.5,Yes,No,Negative,Speed,North America,Yes
+INT00755,EMP00014,Customer Success,CUST63971,2023-07-16,Phone,Starter Plan,2.1,3,70.9,No,No,Positive,Speed,North America,No
+INT00756,EMP01139,Customer Success,CUST67244,2025-06-09,Phone,Product C,2.0,8,42.4,Yes,No,Negative,Follow-Up,EMEA,Yes
+INT00757,EMP01181,Customer Success,CUST32230,2022-01-01,In-Person,Product B,4.3,4,67.1,Yes,No,Positive,Speed,LATAM,No
+INT00758,EMP00598,Customer Success,CUST54556,2022-02-07,Self-Service Portal,Enterprise Plan,2.5,7,53.4,Yes,No,Negative,Speed,North America,No
+INT00759,EMP00469,Support,CUST39113,2022-06-07,Chat,Product B,4.3,9,16.1,Yes,No,Negative,Accuracy,EMEA,No
+INT00760,EMP01060,Sales,CUST30484,2023-03-02,Chat,Starter Plan,3.4,6,17.5,No,No,Neutral,Accuracy,APAC,No
+INT00761,EMP00214,Sales,CUST84941,2022-07-13,In-Person,Product C,4.6,2,32.0,No,No,Positive,Follow-Up,LATAM,No
+INT00762,EMP00277,Support,CUST11330,2023-04-24,In-Person,Product C,3.1,0,1.0,Yes,No,Negative,Courtesy,North America,No
+INT00763,EMP00552,Operations,CUST97723,2024-07-17,In-Person,Product C,4.8,7,10.6,No,No,Positive,Accuracy,North America,Yes
+INT00764,EMP00417,Operations,CUST52530,2026-02-15,Chat,Service Package 1,2.2,1,18.8,Yes,Yes,Positive,Speed,APAC,No
+INT00765,EMP00003,Sales,CUST83435,2023-01-09,Chat,Product A,2.0,9,11.9,Yes,No,Positive,Knowledge,APAC,No
+INT00766,EMP00757,Operations,CUST65658,2023-02-15,Phone,Enterprise Plan,4.2,10,3.3,No,No,Negative,Speed,APAC,No
+INT00767,EMP00555,Customer Success,CUST61293,2024-04-12,Chat,Product C,2.6,5,4.9,No,Yes,Neutral,Follow-Up,EMEA,No
+INT00768,EMP00475,Customer Success,CUST11657,2022-10-08,Self-Service Portal,Enterprise Plan,1.8,4,41.7,Yes,No,Neutral,Courtesy,APAC,Yes
+INT00769,EMP00974,Support,CUST94538,2026-07-27,Email,Enterprise Plan,3.7,2,62.8,Yes,No,Negative,Knowledge,APAC,No
+INT00770,EMP00062,Customer Success,CUST11330,2022-05-13,Phone,Product C,2.7,9,67.2,No,Yes,Positive,Knowledge,APAC,No
+INT00771,EMP00772,Support,CUST49514,2022-10-03,Email,Product A,4.3,9,29.3,Yes,No,Negative,Knowledge,LATAM,No
+INT00772,EMP00480,Support,CUST75538,2023-10-17,Self-Service Portal,Service Package 1,4.9,3,61.4,No,No,Positive,Accuracy,North America,No
+INT00773,EMP00260,Operations,CUST14368,2024-01-08,In-Person,Enterprise Plan,2.1,1,22.6,Yes,Yes,Positive,Speed,North America,No
+INT00774,EMP00756,Support,CUST50423,2024-07-29,Chat,Product A,1.7,5,35.3,No,No,Negative,Speed,North America,Yes
+INT00775,EMP00009,Sales,CUST32030,2024-11-27,In-Person,Starter Plan,4.0,7,68.2,No,Yes,Neutral,Follow-Up,EMEA,Yes
+INT00776,EMP00273,Support,CUST97214,2022-04-29,Self-Service Portal,Starter Plan,1.4,5,51.9,Yes,No,Positive,Accuracy,EMEA,Yes
+INT00777,EMP00378,Sales,CUST27684,2024-04-02,Phone,Product A,2.8,5,20.7,No,No,Positive,Speed,North America,Yes
+INT00778,EMP00559,Sales,CUST37299,2023-09-29,Self-Service Portal,Product B,3.6,10,54.6,Yes,No,Positive,Follow-Up,APAC,No
+INT00779,EMP00831,Operations,CUST28831,2024-06-16,Self-Service Portal,Product C,2.9,0,9.7,Yes,No,Negative,Courtesy,LATAM,No
+INT00780,EMP00906,Customer Success,CUST45213,2024-03-17,In-Person,Product B,1.8,9,52.3,Yes,No,Positive,Accuracy,LATAM,Yes
+INT00781,EMP00231,Sales,CUST30488,2024-09-21,Chat,Product A,4.6,3,70.2,No,No,Negative,Knowledge,APAC,Yes
+INT00782,EMP00534,Customer Success,CUST80540,2024-12-22,Phone,Product C,4.5,7,47.0,Yes,Yes,Neutral,Speed,EMEA,Yes
+INT00783,EMP01048,Operations,CUST44174,2023-11-29,Self-Service Portal,Enterprise Plan,1.6,9,21.9,Yes,Yes,Neutral,Knowledge,EMEA,No
+INT00784,EMP00837,Customer Success,CUST82328,2025-09-01,Self-Service Portal,Product A,3.2,4,66.2,Yes,Yes,Positive,Accuracy,APAC,Yes
+INT00785,EMP00758,Support,CUST53254,2025-04-23,Self-Service Portal,Starter Plan,2.4,9,32.4,Yes,No,Neutral,Speed,North America,No
+INT00786,EMP00856,Support,CUST28350,2022-01-05,Self-Service Portal,Product B,4.4,5,40.9,Yes,No,Neutral,Speed,LATAM,Yes
+INT00787,EMP00088,Operations,CUST12891,2022-07-24,Phone,Starter Plan,1.9,0,16.2,Yes,No,Negative,Accuracy,EMEA,No
+INT00788,EMP00625,Sales,CUST36059,2025-11-10,In-Person,Starter Plan,4.6,5,15.0,No,No,Neutral,Speed,EMEA,No
+INT00789,EMP00974,Support,CUST23086,2022-12-19,Phone,Service Package 1,1.9,8,12.0,Yes,No,Positive,Accuracy,EMEA,No
+INT00790,EMP00999,Sales,CUST46485,2025-11-14,Self-Service Portal,Product C,1.9,6,52.1,Yes,No,Negative,Speed,LATAM,No
+INT00791,EMP00390,Customer Success,CUST10534,2023-12-18,Phone,Product C,3.5,7,5.1,Yes,Yes,Neutral,Courtesy,EMEA,No
+INT00792,EMP00700,Support,CUST96581,2022-05-10,Chat,Starter Plan,4.8,10,61.4,Yes,No,Negative,Accuracy,APAC,Yes
+INT00793,EMP00558,Sales,CUST95263,2023-07-18,Self-Service Portal,Product C,1.0,1,23.1,Yes,Yes,Positive,Knowledge,APAC,No
+INT00794,EMP00838,Customer Success,CUST92026,2023-10-05,In-Person,Starter Plan,2.8,9,41.9,Yes,No,Neutral,Follow-Up,LATAM,No
+INT00795,EMP00545,Sales,CUST78586,2025-04-21,In-Person,Product B,4.1,9,46.8,No,Yes,Positive,Accuracy,LATAM,No
+INT00796,EMP01168,Sales,CUST17099,2022-03-11,Chat,Product C,2.8,4,69.7,Yes,No,Negative,Courtesy,APAC,Yes
+INT00797,EMP01152,Sales,CUST80795,2022-07-05,Self-Service Portal,Product B,1.6,5,6.0,Yes,No,Neutral,Follow-Up,North America,No
+INT00798,EMP01100,Sales,CUST67533,2022-11-18,Self-Service Portal,Service Package 1,4.5,1,17.3,Yes,No,Neutral,Speed,EMEA,Yes
+INT00799,EMP00824,Sales,CUST19712,2024-04-20,Chat,Product A,1.5,2,19.9,Yes,No,Negative,Speed,EMEA,No
+INT00800,EMP00199,Operations,CUST64751,2022-01-09,Self-Service Portal,Service Package 1,1.5,7,34.4,Yes,No,Neutral,Speed,APAC,No

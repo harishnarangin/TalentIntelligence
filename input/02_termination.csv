@@ -1,0 +1,601 @@
+employee_id,full_name,department,job_level,location,hire_date,termination_date,tenure_at_exit_years,termination_reason,termination_type,exit_survey_score,flight_risk_flag,regrettable_loss,last_performance_rating,rehire_eligible,manager_id,country
+EMP01116,Hannah Clark,Product,L3,Denver,2022-06-14,2022-12-29,2.52,Abandonment,Involuntary,1.2,Low,No,Partially Meets,Conditional,MGR0015,India
+EMP00659,Tariq Ivanov,Product,L1,San Francisco,2017-11-15,2018-08-15,5.28,Resignation,Voluntary,1.3,High,No,Partially Meets,Conditional,MGR0017,UK
+EMP00882,Soren Robinson,Marketing,L1,Chicago,2018-08-16,2019-07-01,6.4,Abandonment,Involuntary,4.2,Low,Yes,Exceeds,No,MGR0014,UK
+EMP00186,Raj Ahmed,Engineering,L4,Boston,2021-07-21,2022-12-22,3.81,Performance,Involuntary,3.3,Low,Yes,Partially Meets,Conditional,MGR0046,UK
+EMP00752,Amir Okafor,Design,L1,San Francisco,2022-09-06,2025-01-11,0.68,Retirement,Voluntary,1.6,Low,No,Exceeds,Yes,MGR0046,Germany
+EMP00598,Hassan Okafor,Marketing,L6,Chicago,2023-03-18,2023-10-21,5.18,Mutual Agreement,Involuntary,3.4,Medium,Yes,Meets,No,MGR0010,USA
+EMP00923,David Harris,Finance,L6,Boston,2018-12-15,2020-12-23,9.06,End of Contract,Involuntary,2.9,Medium,No,Meets,No,MGR0020,India
+EMP00505,Elena Johnson,Engineering,L3,San Francisco,2023-06-09,2024-10-06,1.68,Performance,Involuntary,1.4,Low,Yes,Partially Meets,Yes,MGR0036,USA
+EMP00177,Chris Nguyen,Data Science,L3,Boston,2020-09-13,2023-02-17,5.69,Resignation,Voluntary,2.1,Medium,Yes,Exceeds,Yes,MGR0030,Germany
+EMP00685,Rohan Clark,Legal,L1,New York,2014-12-10,2016-04-01,0.94,Resignation,Voluntary,3.2,Low,Yes,Does Not Meet,Yes,MGR0002,USA
+EMP00791,Arjun Brown,IT,L6,Denver,2021-02-11,2025-05-18,0.78,Layoff,Involuntary,1.4,High,No,Partially Meets,Conditional,MGR0046,UK
+EMP00770,Chloe Clark,Operations,L2,Seattle,2013-02-17,2016-01-02,3.19,Mutual Agreement,Involuntary,3.9,Medium,No,Meets,Yes,MGR0029,Canada
+EMP00491,Amara Jackson,Engineering,L1,Remote,2015-06-16,2020-04-25,0.97,Mutual Agreement,Involuntary,1.9,Medium,Yes,Meets,Conditional,MGR0020,Canada
+EMP00999,Isabella Hernandez,Customer Success,L4,San Francisco,2022-06-25,2023-05-25,4.96,Performance,Involuntary,2.6,High,Yes,Partially Meets,Yes,MGR0048,Australia
+EMP01164,Kevin Nguyen,Legal,L4,New York,2014-06-01,2019-02-16,5.14,Retirement,Voluntary,4.4,Low,Yes,Partially Meets,Conditional,MGR0026,India
+EMP00381,David Adams,Product,L4,Dallas,2022-08-07,2023-05-30,4.48,Performance,Involuntary,4.4,Medium,No,Partially Meets,No,MGR0030,USA
+EMP00732,Maria Baker,HR,L3,New York,2020-06-06,2021-05-28,0.46,End of Contract,Involuntary,4.9,High,No,Partially Meets,Conditional,MGR0037,Canada
+EMP00711,Isabella Sharma,Finance,L7,Chicago,2016-05-19,2017-04-12,3.15,Layoff,Involuntary,2.2,Medium,No,Does Not Meet,Conditional,MGR0010,USA
+EMP00237,Chris Clark,Finance,L5,Boston,2014-09-10,2015-04-05,1.72,Performance,Involuntary,2.0,High,Yes,Does Not Meet,Conditional,MGR0045,UK
+EMP00208,Aisha Kim,Sales,L6,Remote,2021-12-26,2023-08-27,4.98,Mutual Agreement,Involuntary,1.8,Low,Yes,Meets,No,MGR0016,USA
+EMP00778,Noah Robinson,HR,L3,Remote,2022-08-12,2026-06-11,7.91,Retirement,Voluntary,3.0,Low,Yes,Exceeds,Conditional,MGR0034,UK
+EMP00595,Ryan Johnson,Legal,L4,Seattle,2019-08-01,2024-02-27,8.68,Retirement,Voluntary,1.1,High,Yes,Exceeds,Yes,MGR0006,India
+EMP01193,Arjun Carter,Design,L3,San Francisco,2022-02-21,2024-04-20,8.04,Performance,Involuntary,1.7,High,Yes,Does Not Meet,Yes,MGR0020,Germany
+EMP00805,Aarav Ivanov,Product,L2,San Francisco,2021-05-06,2024-05-21,7.16,Retirement,Voluntary,3.6,Low,Yes,Exceeds,Yes,MGR0013,India
+EMP00088,Carlos Green,Product,L5,Remote,2013-09-13,2017-09-13,6.27,Layoff,Involuntary,4.6,High,Yes,Exceeds,No,MGR0003,USA
+EMP00275,Emma Ivanov,Sales,L7,Atlanta,2015-05-10,2017-02-07,7.5,Retirement,Voluntary,3.4,Medium,No,Does Not Meet,Yes,MGR0050,Australia
+EMP01041,Jake Okafor,Operations,L6,Remote,2014-03-06,2017-10-16,9.78,Abandonment,Involuntary,5.0,Low,No,Partially Meets,Yes,MGR0038,Australia
+EMP00492,Elena Hall,Operations,L7,Boston,2016-03-12,2021-01-06,9.22,Mutual Agreement,Involuntary,3.5,High,Yes,Does Not Meet,No,MGR0015,UK
+EMP00966,Emma Johnson,Product,L2,Dallas,2018-12-12,2019-12-16,5.33,Mutual Agreement,Involuntary,4.5,Medium,No,Exceeds,No,MGR0009,Canada
+EMP00996,Ingrid Müller,Product,L1,Denver,2019-09-19,2024-01-23,1.15,Resignation,Voluntary,1.1,Low,No,Exceeds,Conditional,MGR0031,India
+EMP00373,Diego Scott,Data Science,L4,Seattle,2014-06-16,2015-09-04,4.86,Mutual Agreement,Involuntary,4.1,Low,Yes,Does Not Meet,No,MGR0015,USA
+EMP00936,Carlos Singh,Marketing,L7,Seattle,2018-01-07,2020-06-13,5.52,End of Contract,Involuntary,3.7,Low,No,Partially Meets,No,MGR0030,Germany
+EMP00058,Ananya Nakamura,Data Science,L7,Seattle,2013-05-09,2013-07-08,2.02,Layoff,Involuntary,4.1,High,Yes,Meets,Yes,MGR0008,Canada
+EMP00325,Jake Green,Data Science,L7,Denver,2019-07-25,2019-11-09,5.56,Abandonment,Involuntary,4.4,Medium,Yes,Does Not Meet,Yes,MGR0025,Canada
+EMP01200,David Clark,IT,L6,San Francisco,2020-08-26,2024-07-24,2.53,Performance,Involuntary,4.4,Medium,No,Meets,Yes,MGR0021,USA
+EMP00864,Raj Robinson,Marketing,L4,San Francisco,2021-04-02,2021-12-24,0.14,Abandonment,Involuntary,4.7,High,Yes,Partially Meets,Yes,MGR0042,Germany
+EMP00775,Liam Costa,HR,L6,San Francisco,2021-08-07,2023-02-16,6.24,Abandonment,Involuntary,4.5,Low,Yes,Partially Meets,Conditional,MGR0019,Germany
+EMP00840,Aarav Robinson,Sales,L6,Denver,2013-09-28,2015-01-22,6.05,Resignation,Voluntary,4.2,High,Yes,Meets,Yes,MGR0010,USA
+EMP00010,Tyler Turner,Operations,L7,Dallas,2017-02-17,2017-08-11,9.89,Retirement,Voluntary,3.8,Medium,No,Meets,Yes,MGR0043,Germany
+EMP00703,Amara King,Sales,L1,New York,2022-09-03,2024-08-08,3.33,Layoff,Involuntary,4.3,Medium,Yes,Does Not Meet,No,MGR0050,India
+EMP00511,Nadia Clark,Sales,L3,Atlanta,2018-07-03,2021-06-02,2.54,Abandonment,Involuntary,2.3,Low,Yes,Meets,Conditional,MGR0050,USA
+EMP00605,Mei Patel,Marketing,L2,Remote,2023-02-28,2025-10-04,3.78,Retirement,Voluntary,3.3,Low,Yes,Partially Meets,No,MGR0017,India
+EMP00363,James Carter,IT,L4,Austin,2017-03-22,2022-02-03,2.35,Mutual Agreement,Involuntary,2.5,High,Yes,Partially Meets,No,MGR0049,Australia
+EMP01068,Olivia Clark,Product,L4,Austin,2022-06-14,2024-08-09,0.46,Abandonment,Involuntary,1.3,High,Yes,Does Not Meet,Yes,MGR0004,Germany
+EMP00169,Jake Nakamura,Data Science,L4,Dallas,2018-03-15,2018-12-20,9.95,Performance,Involuntary,4.0,Medium,No,Exceeds,Yes,MGR0007,Canada
+EMP00774,Layla Johnson,Marketing,L4,Seattle,2016-07-26,2018-05-15,8.23,Layoff,Involuntary,4.4,Low,Yes,Does Not Meet,Conditional,MGR0012,Canada
+EMP00523,Sophia Taylor,Finance,L7,Denver,2013-07-24,2014-07-20,6.88,End of Contract,Involuntary,2.6,High,Yes,Meets,Conditional,MGR0034,UK
+EMP00526,Chloe Nakamura,Marketing,L1,Atlanta,2013-07-07,2016-02-10,6.56,Retirement,Voluntary,2.5,High,Yes,Does Not Meet,Yes,MGR0046,India
+EMP00141,Tariq King,Legal,L4,Denver,2023-07-30,2025-07-21,6.95,Layoff,Involuntary,2.4,High,Yes,Does Not Meet,Conditional,MGR0033,Canada
+EMP00845,Kevin Perez,Engineering,L7,Seattle,2019-10-24,2020-03-08,5.22,Retirement,Voluntary,4.7,Medium,No,Meets,Yes,MGR0004,Australia
+EMP00157,Jasmine Ivanov,Finance,L1,Boston,2016-10-02,2021-03-17,7.9,Performance,Involuntary,3.7,Low,Yes,Does Not Meet,Yes,MGR0037,Canada
+EMP00072,Diego Wilson,Legal,L3,New York,2021-04-29,2021-11-16,3.21,Performance,Involuntary,3.7,Low,Yes,Does Not Meet,No,MGR0004,Australia
+EMP00215,Elena Harris,Design,L3,Boston,2018-04-25,2021-03-14,2.62,End of Contract,Involuntary,2.7,High,No,Exceeds,Yes,MGR0034,UK
+EMP00946,Tyler Ali,Legal,L6,Austin,2014-08-26,2019-06-21,4.61,Layoff,Involuntary,1.8,High,No,Meets,Yes,MGR0042,India
+EMP00663,Andre Chen,Product,L7,Boston,2018-05-29,2019-01-25,6.55,Resignation,Voluntary,3.0,Low,Yes,Does Not Meet,Yes,MGR0028,India
+EMP00420,Liam Adams,Customer Success,L3,San Francisco,2013-08-23,2018-02-04,2.96,Performance,Involuntary,4.3,Medium,No,Meets,Yes,MGR0024,India
+EMP00686,Chloe Scott,Engineering,L2,Remote,2023-07-18,2024-03-16,8.58,Abandonment,Involuntary,1.7,High,Yes,Does Not Meet,Conditional,MGR0036,USA
+EMP01097,Sofia Ferreira,Finance,L4,San Francisco,2014-01-27,2015-08-25,0.7,Layoff,Involuntary,3.2,High,Yes,Does Not Meet,Yes,MGR0014,USA
+EMP00614,Jasmine Garcia,Operations,L6,New York,2017-06-27,2018-08-28,9.42,Retirement,Voluntary,2.2,High,Yes,Meets,No,MGR0030,India
+EMP00839,Soren Müller,Sales,L7,Atlanta,2015-11-06,2017-06-30,1.68,Retirement,Voluntary,2.1,Medium,Yes,Meets,Conditional,MGR0001,Germany
+EMP00544,Mia Ferreira,Operations,L3,New York,2015-06-30,2018-09-24,1.65,Resignation,Voluntary,2.4,Low,No,Partially Meets,Yes,MGR0045,Germany
+EMP01176,Noah Brown,Product,L6,Austin,2015-06-16,2019-09-04,9.91,End of Contract,Involuntary,3.0,Low,Yes,Meets,Conditional,MGR0008,Canada
+EMP00765,Maria Robinson,IT,L7,Denver,2015-06-30,2017-07-11,0.69,Mutual Agreement,Involuntary,4.3,Low,Yes,Does Not Meet,No,MGR0042,UK
+EMP00255,Liam King,Data Science,L3,Boston,2022-03-30,2023-04-15,9.77,Retirement,Voluntary,3.4,Medium,No,Partially Meets,Yes,MGR0029,Australia
+EMP00077,Ryan Clark,Finance,L7,New York,2013-01-03,2015-12-04,4.25,Abandonment,Involuntary,3.0,Medium,Yes,Exceeds,Yes,MGR0003,Germany
+EMP00387,Carlos Wright,Marketing,L5,New York,2013-02-11,2016-12-04,1.74,Mutual Agreement,Involuntary,4.1,Medium,Yes,Meets,Conditional,MGR0003,UK
+EMP01120,James Scott,HR,L2,Austin,2015-11-28,2019-01-11,3.55,End of Contract,Involuntary,1.8,High,Yes,Exceeds,Yes,MGR0016,UK
+EMP00003,Sara Nelson,Operations,L3,New York,2013-10-03,2014-01-24,1.22,Layoff,Involuntary,4.5,High,Yes,Partially Meets,No,MGR0046,Australia
+EMP00278,Nina Scott,Customer Success,L7,Dallas,2023-01-25,2023-05-03,8.1,Layoff,Involuntary,2.1,High,No,Meets,Yes,MGR0013,India
+EMP01005,Nina Martinez,IT,L4,Austin,2016-04-21,2021-02-24,0.17,Layoff,Involuntary,3.1,Medium,No,Meets,Yes,MGR0009,UK
+EMP00439,Liam Scott,Engineering,L4,Boston,2021-06-10,2023-01-14,7.54,Resignation,Voluntary,2.6,Low,No,Meets,Yes,MGR0008,India
+EMP00017,Arjun Chen,Product,L4,Seattle,2015-09-22,2018-08-03,5.92,Retirement,Voluntary,2.1,High,Yes,Does Not Meet,Yes,MGR0039,UK
+EMP00541,Zara Wilson,Operations,L5,San Francisco,2020-03-10,2020-10-16,5.9,End of Contract,Involuntary,1.7,Medium,Yes,Meets,Yes,MGR0031,UK
+EMP00293,Wei Clark,Finance,L4,Boston,2015-08-09,2019-09-26,1.6,Retirement,Voluntary,4.4,Low,Yes,Partially Meets,No,MGR0007,India
+EMP00997,Chloe Kim,Product,L7,Chicago,2020-11-12,2021-02-02,0.36,End of Contract,Involuntary,3.3,High,No,Partially Meets,No,MGR0009,UK
+EMP00860,Ingrid Patel,Sales,L3,Chicago,2013-09-08,2014-11-03,8.61,Layoff,Involuntary,2.4,Medium,Yes,Partially Meets,Yes,MGR0047,India
+EMP00428,Carlos Robinson,HR,L6,New York,2014-02-16,2017-06-21,5.22,Mutual Agreement,Involuntary,2.8,Low,Yes,Meets,No,MGR0030,Germany
+EMP00865,Mia Nakamura,Marketing,L2,San Francisco,2014-06-04,2016-08-08,5.07,Mutual Agreement,Involuntary,1.9,Medium,No,Partially Meets,Conditional,MGR0035,USA
+EMP00276,Aarav Robinson,Customer Success,L4,Atlanta,2019-08-17,2020-09-19,0.51,Mutual Agreement,Involuntary,3.0,Medium,No,Meets,Yes,MGR0016,India
+EMP01043,Chloe Hernandez,Sales,L3,Remote,2019-08-10,2022-12-29,9.43,End of Contract,Involuntary,1.7,Medium,No,Partially Meets,No,MGR0018,USA
+EMP00210,Chris Lewis,Operations,L6,Dallas,2022-11-28,2025-11-26,5.35,Performance,Involuntary,4.3,Low,Yes,Partially Meets,Conditional,MGR0028,Australia
+EMP00540,Nina Nguyen,Engineering,L6,Dallas,2021-11-26,2024-08-30,2.73,Layoff,Involuntary,2.9,Low,No,Meets,No,MGR0020,India
+EMP00531,Lucas White,Sales,L7,Remote,2022-09-02,2026-07-31,3.98,Mutual Agreement,Involuntary,3.2,High,Yes,Partially Meets,Yes,MGR0049,USA
+EMP00555,Tariq Carter,Data Science,L4,Austin,2018-12-25,2020-02-03,7.59,Performance,Involuntary,5.0,Medium,Yes,Does Not Meet,Yes,MGR0038,UK
+EMP00929,Aarav Williams,Marketing,L7,Austin,2022-11-17,2023-12-21,2.53,Mutual Agreement,Involuntary,2.1,Medium,No,Meets,Conditional,MGR0001,USA
+EMP00238,Raj Ferreira,Marketing,L7,Atlanta,2019-10-17,2023-10-24,0.49,Mutual Agreement,Involuntary,2.6,High,Yes,Partially Meets,Yes,MGR0038,UK
+EMP01084,David Walker,Finance,L6,New York,2017-10-29,2018-12-30,0.29,Layoff,Involuntary,1.9,High,Yes,Exceeds,Conditional,MGR0015,India
+EMP00471,Ryan Adams,Marketing,L2,Austin,2017-02-27,2021-07-08,3.05,Layoff,Involuntary,2.9,High,No,Meets,No,MGR0001,Australia
+EMP00650,Layla Okafor,Product,L4,New York,2013-07-11,2015-12-17,3.27,Resignation,Voluntary,2.1,High,No,Does Not Meet,Yes,MGR0031,Canada
+EMP00433,Ethan Ali,Design,L5,Boston,2022-10-05,2023-07-27,0.2,Retirement,Voluntary,3.3,High,Yes,Meets,Yes,MGR0018,Canada
+EMP00045,Chloe Carter,Marketing,L7,Chicago,2014-01-05,2016-08-02,6.77,Abandonment,Involuntary,1.8,High,Yes,Exceeds,Yes,MGR0042,Germany
+EMP00844,Aisha Clark,Finance,L2,Chicago,2015-11-27,2017-07-28,7.18,Mutual Agreement,Involuntary,2.6,Medium,Yes,Exceeds,Conditional,MGR0013,Canada
+EMP00092,Kevin Jackson,Customer Success,L3,Atlanta,2015-01-02,2017-09-08,9.52,Retirement,Voluntary,4.6,High,Yes,Meets,No,MGR0039,UK
+EMP00857,Olivia Clark,Sales,L4,Boston,2015-01-08,2018-08-07,8.6,Resignation,Voluntary,1.4,Low,Yes,Exceeds,Yes,MGR0032,Germany
+EMP01015,Sophia Robinson,Design,L2,New York,2019-11-27,2023-02-25,8.83,Layoff,Involuntary,2.1,High,Yes,Partially Meets,No,MGR0050,UK
+EMP00824,Liam Müller,Finance,L3,Denver,2013-11-15,2018-04-07,7.83,Retirement,Voluntary,4.2,Low,Yes,Partially Meets,No,MGR0037,USA
+EMP00533,Ethan Young,Operations,L6,Chicago,2014-11-09,2016-12-13,3.85,Abandonment,Involuntary,4.0,Medium,No,Exceeds,No,MGR0045,Canada
+EMP00008,Chloe Turner,Design,L3,San Francisco,2014-12-10,2016-02-18,6.56,End of Contract,Involuntary,4.9,High,No,Partially Meets,Yes,MGR0033,UK
+EMP00356,Mia Andersen,Marketing,L1,Denver,2020-01-08,2021-11-08,7.29,Retirement,Voluntary,1.9,Low,No,Exceeds,Yes,MGR0038,India
+EMP00355,Rohan Mitchell,Legal,L1,Seattle,2018-05-08,2021-06-03,4.94,Resignation,Voluntary,3.6,Medium,No,Exceeds,No,MGR0015,Canada
+EMP01036,Olivia Ali,Product,L1,Denver,2018-09-01,2021-09-05,7.3,Performance,Involuntary,1.3,Medium,No,Partially Meets,No,MGR0017,Canada
+EMP01099,Sofia Jackson,HR,L4,Dallas,2022-07-10,2025-03-23,9.25,Layoff,Involuntary,4.6,High,Yes,Partially Meets,Conditional,MGR0006,Germany
+EMP00570,Mia Green,IT,L1,New York,2017-03-07,2021-11-03,1.58,End of Contract,Involuntary,2.9,Low,Yes,Exceeds,Yes,MGR0050,Germany
+EMP01121,Marcus Thomas,Data Science,L7,Dallas,2016-06-15,2018-05-31,3.91,Resignation,Voluntary,2.2,High,Yes,Does Not Meet,No,MGR0003,UK
+EMP00931,Ingrid Ivanov,Product,L3,Denver,2023-02-02,2023-05-17,5.96,Layoff,Involuntary,2.0,High,Yes,Does Not Meet,Conditional,MGR0029,Australia
+EMP00553,Nina Walker,Design,L7,San Francisco,2015-05-15,2015-07-29,5.53,Abandonment,Involuntary,1.5,Low,Yes,Does Not Meet,No,MGR0031,Germany
+EMP00656,Aisha Adams,Engineering,L7,Dallas,2020-03-16,2021-11-11,4.58,Abandonment,Involuntary,3.6,Medium,Yes,Meets,Conditional,MGR0049,UK
+EMP00719,James Jackson,Product,L7,Chicago,2020-08-01,2024-01-07,5.77,Abandonment,Involuntary,1.8,Low,Yes,Does Not Meet,No,MGR0002,Australia
+EMP00230,Chris Sharma,Engineering,L7,Seattle,2022-06-19,2024-04-23,5.75,Abandonment,Involuntary,1.6,High,No,Does Not Meet,Yes,MGR0017,Australia
+EMP00486,Andre Perez,Sales,L5,Denver,2022-08-10,2025-10-31,6.86,Retirement,Voluntary,2.8,Medium,Yes,Meets,Yes,MGR0004,USA
+EMP00674,Soren Mitchell,Engineering,L4,Chicago,2017-07-06,2021-11-14,9.44,Layoff,Involuntary,3.3,High,No,Exceeds,Conditional,MGR0037,Germany
+EMP00930,Emma King,Marketing,L4,Boston,2023-06-09,2024-05-31,9.66,Retirement,Voluntary,4.1,High,Yes,Exceeds,No,MGR0048,USA
+EMP00279,Amara Adams,Finance,L2,Denver,2018-12-27,2021-06-10,5.91,Abandonment,Involuntary,1.6,High,No,Meets,Yes,MGR0044,India
+EMP01006,Chris Green,Design,L1,San Francisco,2016-08-31,2018-06-11,2.89,Mutual Agreement,Involuntary,4.1,Low,Yes,Does Not Meet,Yes,MGR0025,Germany
+EMP00253,Mei Young,Product,L2,New York,2015-01-06,2015-06-15,3.74,End of Contract,Involuntary,5.0,Low,Yes,Partially Meets,Yes,MGR0036,Germany
+EMP01166,Kevin Ivanov,Engineering,L6,Austin,2021-04-30,2025-10-04,7.85,Performance,Involuntary,3.8,Low,Yes,Does Not Meet,Conditional,MGR0035,USA
+EMP00545,Aarav Jackson,Data Science,L4,Seattle,2017-08-24,2020-05-15,6.67,End of Contract,Involuntary,3.7,Medium,No,Exceeds,Yes,MGR0025,Australia
+EMP00403,Nadia Turner,Data Science,L2,Dallas,2022-07-18,2024-01-16,1.02,Abandonment,Involuntary,1.0,Medium,Yes,Exceeds,No,MGR0004,Germany
+EMP00044,Amara Garcia,Product,L1,Chicago,2014-10-02,2017-02-22,0.41,Mutual Agreement,Involuntary,3.5,High,No,Exceeds,No,MGR0011,Canada
+EMP00871,Diego Ahmed,Customer Success,L2,Seattle,2014-09-08,2017-09-24,8.35,Layoff,Involuntary,4.4,Medium,Yes,Exceeds,No,MGR0010,Germany
+EMP00246,Mei Wright,Marketing,L6,Atlanta,2018-09-11,2022-06-23,6.35,End of Contract,Involuntary,1.4,Medium,No,Exceeds,No,MGR0038,Australia
+EMP00217,Jake Kim,Marketing,L7,Atlanta,2014-04-06,2018-05-17,4.12,End of Contract,Involuntary,1.5,Low,Yes,Meets,Yes,MGR0016,Germany
+EMP00786,Chris Nguyen,Legal,L2,Seattle,2014-05-07,2016-12-26,2.88,Resignation,Voluntary,1.9,Low,Yes,Meets,Conditional,MGR0017,UK
+EMP01117,Yuki Singh,Sales,L2,New York,2018-11-08,2022-10-01,7.38,Abandonment,Involuntary,2.2,Low,No,Meets,No,MGR0011,Australia
+EMP01149,Raj Green,Engineering,L5,San Francisco,2022-11-01,2025-01-04,9.39,Layoff,Involuntary,1.6,High,Yes,Partially Meets,Yes,MGR0001,India
+EMP00416,Amir Ferreira,Design,L1,Chicago,2019-03-09,2020-10-04,6.14,End of Contract,Involuntary,3.6,Medium,Yes,Meets,No,MGR0016,Canada
+EMP00625,Andre Perez,Finance,L1,Boston,2016-07-27,2017-05-25,3.61,Abandonment,Involuntary,3.8,Medium,Yes,Exceeds,Conditional,MGR0035,Canada
+EMP00427,Olivia Mitchell,Engineering,L2,Denver,2021-11-09,2023-12-31,8.29,Abandonment,Involuntary,2.1,Low,No,Meets,Yes,MGR0023,Australia
+EMP01032,Isabella Hall,Operations,L3,Denver,2019-05-24,2022-01-03,4.17,Retirement,Voluntary,5.0,High,Yes,Does Not Meet,Yes,MGR0025,Canada
+EMP01071,Jasmine Adams,Customer Success,L4,Seattle,2022-01-18,2024-09-23,5.89,End of Contract,Involuntary,1.5,Low,Yes,Does Not Meet,Conditional,MGR0012,India
+EMP00134,Sophia Green,Customer Success,L4,Austin,2021-05-24,2021-10-04,1.74,Performance,Involuntary,2.6,Low,Yes,Exceeds,No,MGR0027,Canada
+EMP01039,Nadia Ahmed,Marketing,L2,Boston,2013-10-25,2016-06-10,3.83,End of Contract,Involuntary,4.9,Low,No,Meets,Conditional,MGR0048,Germany
+EMP01011,Isabella Ali,Operations,L7,Dallas,2021-11-15,2026-01-26,7.37,End of Contract,Involuntary,4.5,Medium,No,Does Not Meet,Conditional,MGR0032,Canada
+EMP00421,Jasmine Clark,Engineering,L3,San Francisco,2019-11-08,2020-12-25,2.55,Performance,Involuntary,3.1,High,No,Partially Meets,Conditional,MGR0016,USA
+EMP00963,Layla Smith,IT,L1,Austin,2016-09-02,2017-11-15,9.91,End of Contract,Involuntary,2.6,High,Yes,Exceeds,No,MGR0020,USA
+EMP00908,Elena Ferreira,Marketing,L7,Remote,2020-04-26,2024-02-03,7.27,Mutual Agreement,Involuntary,4.8,Medium,No,Meets,Yes,MGR0019,Australia
+EMP00736,Zara Robinson,Sales,L1,Chicago,2023-06-30,2026-07-31,5.21,Resignation,Voluntary,3.3,Medium,Yes,Does Not Meet,Yes,MGR0003,Germany
+EMP01049,Ananya Sharma,Data Science,L4,Seattle,2019-11-16,2022-12-26,1.68,Retirement,Voluntary,4.1,Low,Yes,Partially Meets,Yes,MGR0022,Germany
+EMP00456,Maria Hall,Marketing,L2,Boston,2020-12-15,2024-09-04,8.33,Layoff,Involuntary,1.1,Medium,Yes,Does Not Meet,Conditional,MGR0007,Germany
+EMP00480,Leila Ferreira,Marketing,L5,Dallas,2023-07-31,2025-02-14,9.22,End of Contract,Involuntary,4.9,High,No,Partially Meets,No,MGR0035,India
+EMP00440,Tyler Carter,Operations,L2,New York,2022-11-11,2022-12-19,4.54,Resignation,Voluntary,2.6,High,No,Does Not Meet,Conditional,MGR0022,Canada
+EMP00829,Ananya Turner,Data Science,L7,Seattle,2014-09-19,2019-01-17,8.51,Abandonment,Involuntary,1.0,High,Yes,Does Not Meet,No,MGR0008,Australia
+EMP00582,David Carter,HR,L4,Remote,2014-11-01,2016-09-12,3.23,Layoff,Involuntary,2.6,High,Yes,Does Not Meet,No,MGR0032,India
+EMP00973,Yuki Hernandez,Engineering,L2,Denver,2020-03-16,2021-03-28,0.95,Resignation,Voluntary,3.3,Low,Yes,Exceeds,Yes,MGR0045,UK
+EMP00921,Nadia Green,Design,L1,Remote,2022-05-07,2025-11-30,2.06,Mutual Agreement,Involuntary,2.9,High,Yes,Exceeds,Yes,MGR0020,Australia
+EMP00029,Amara Andersen,Product,L3,Dallas,2015-01-24,2019-09-09,6.13,Performance,Involuntary,4.1,Medium,Yes,Exceeds,No,MGR0048,Germany
+EMP00515,Noah Sharma,Sales,L1,Atlanta,2017-08-31,2018-06-20,4.19,Abandonment,Involuntary,1.3,Low,Yes,Does Not Meet,Conditional,MGR0003,Australia
+EMP00194,Omar Williams,Product,L6,Chicago,2019-04-02,2024-02-12,9.61,Abandonment,Involuntary,1.7,Low,No,Partially Meets,Yes,MGR0018,UK
+EMP00477,James Green,Sales,L5,Boston,2017-04-20,2018-06-18,5.14,Performance,Involuntary,2.4,Low,No,Exceeds,Conditional,MGR0048,USA
+EMP00018,Rohan Andersen,Design,L7,Remote,2016-08-07,2021-05-13,3.98,Retirement,Voluntary,2.5,Low,No,Exceeds,No,MGR0004,Australia
+EMP00026,Aarav Lee,Finance,L1,Remote,2018-07-08,2023-03-15,2.53,Retirement,Voluntary,4.3,High,No,Partially Meets,No,MGR0020,USA
+EMP00231,Andre Ivanov,IT,L7,Dallas,2019-01-20,2020-09-06,1.58,Resignation,Voluntary,1.3,Low,Yes,Meets,Conditional,MGR0025,Canada
+EMP00715,Mia Turner,Engineering,L2,Dallas,2021-08-16,2022-08-09,3.78,Abandonment,Involuntary,4.3,Low,Yes,Partially Meets,Conditional,MGR0045,Australia
+EMP00396,Ryan Young,Engineering,L2,Denver,2013-03-28,2017-01-07,3.28,Retirement,Voluntary,3.4,Medium,Yes,Does Not Meet,No,MGR0045,Canada
+EMP00859,Zara Turner,HR,L3,Denver,2020-12-15,2024-05-27,1.41,Layoff,Involuntary,1.2,High,No,Does Not Meet,No,MGR0017,USA
+EMP00048,Andre Clark,Product,L1,Dallas,2018-08-23,2021-07-26,7.23,Resignation,Voluntary,3.4,Medium,Yes,Meets,Yes,MGR0044,Australia
+EMP00382,Leila Williams,Customer Success,L7,Seattle,2014-04-27,2017-10-05,8.67,Mutual Agreement,Involuntary,1.3,High,No,Meets,No,MGR0025,USA
+EMP00262,Olivia King,Operations,L5,New York,2014-01-30,2016-01-16,3.49,End of Contract,Involuntary,4.2,High,Yes,Exceeds,Yes,MGR0039,Australia
+EMP00811,Elena Mitchell,Data Science,L2,Austin,2017-07-10,2017-10-14,0.28,Performance,Involuntary,1.9,Medium,No,Exceeds,No,MGR0031,UK
+EMP00273,Ethan Walker,Design,L6,New York,2017-01-28,2021-02-22,8.65,Performance,Involuntary,3.7,Low,Yes,Meets,Yes,MGR0029,USA
+EMP01048,David Adams,IT,L3,Chicago,2016-03-30,2018-07-07,5.81,Mutual Agreement,Involuntary,2.7,Medium,Yes,Does Not Meet,Yes,MGR0027,India
+EMP00542,Andre Wright,Legal,L1,Boston,2015-10-14,2017-09-12,2.4,Mutual Agreement,Involuntary,1.1,Low,Yes,Exceeds,Conditional,MGR0035,UK
+EMP00342,Yuki King,Product,L1,Chicago,2013-03-09,2013-12-29,9.08,Performance,Involuntary,3.1,High,Yes,Exceeds,No,MGR0016,USA
+EMP00081,Chloe Singh,Operations,L1,Austin,2017-06-11,2019-09-29,7.34,Layoff,Involuntary,4.5,High,No,Does Not Meet,No,MGR0001,Germany
+EMP00537,Aarav Ali,IT,L1,Remote,2019-02-11,2022-06-28,1.27,Resignation,Voluntary,1.7,Low,Yes,Exceeds,Yes,MGR0024,India
+EMP00139,Mei Martinez,Design,L2,Atlanta,2013-04-06,2016-10-02,7.59,Performance,Involuntary,3.3,Low,No,Partially Meets,Yes,MGR0008,Germany
+EMP00349,Nina Garcia,Engineering,L5,Dallas,2020-04-13,2024-12-26,4.36,Layoff,Involuntary,1.5,Medium,Yes,Does Not Meet,No,MGR0043,UK
+EMP01052,Chris Scott,Marketing,L1,Boston,2015-11-22,2020-07-09,2.93,Performance,Involuntary,3.2,Low,Yes,Partially Meets,No,MGR0015,Germany
+EMP00175,Priya Baker,Customer Success,L1,Dallas,2014-01-06,2014-10-17,5.99,End of Contract,Involuntary,2.4,Medium,No,Meets,No,MGR0019,UK
+EMP01076,Liam Green,Data Science,L3,Austin,2017-06-19,2019-10-28,1.32,Layoff,Involuntary,3.5,High,Yes,Does Not Meet,No,MGR0001,India
+EMP00730,Raj Brown,Finance,L5,Denver,2022-02-07,2024-06-22,0.4,Resignation,Voluntary,1.0,Medium,No,Meets,No,MGR0026,USA
+EMP01194,David White,Customer Success,L3,New York,2014-06-21,2015-08-27,0.8,Performance,Involuntary,4.8,Low,Yes,Exceeds,No,MGR0015,Australia
+EMP01147,Chloe Harris,Sales,L3,Denver,2021-02-21,2024-10-13,0.63,Resignation,Voluntary,3.1,Low,Yes,Partially Meets,Yes,MGR0012,UK
+EMP01175,Isabella Scott,Operations,L3,Atlanta,2016-05-22,2016-11-21,5.71,Layoff,Involuntary,1.2,Medium,Yes,Partially Meets,Yes,MGR0007,Australia
+EMP00015,Elena Scott,Engineering,L3,Atlanta,2022-02-07,2023-12-24,1.32,Mutual Agreement,Involuntary,4.7,High,No,Does Not Meet,No,MGR0048,UK
+EMP00550,Nadia Ali,Legal,L3,Denver,2022-07-04,2026-07-31,8.86,Retirement,Voluntary,3.2,High,Yes,Does Not Meet,No,MGR0041,Australia
+EMP00573,Hannah Singh,Operations,L6,Atlanta,2019-04-11,2021-12-08,0.59,Retirement,Voluntary,1.7,High,No,Does Not Meet,No,MGR0047,USA
+EMP00068,Aarav Nelson,Sales,L5,Austin,2019-01-30,2020-08-25,1.72,Layoff,Involuntary,3.4,Medium,Yes,Meets,Yes,MGR0013,India
+EMP00021,Marcus Walker,HR,L7,Austin,2020-09-28,2024-10-13,2.18,End of Contract,Involuntary,5.0,Medium,Yes,Partially Meets,Yes,MGR0012,Germany
+EMP01168,Isabella Martinez,Legal,L7,Atlanta,2023-05-03,2024-03-01,3.82,Performance,Involuntary,4.4,Low,Yes,Partially Meets,Yes,MGR0029,Canada
+EMP00725,Ingrid Martinez,HR,L6,Dallas,2023-04-20,2024-09-15,8.69,End of Contract,Involuntary,3.6,High,Yes,Meets,Conditional,MGR0012,USA
+EMP00707,Marcus Singh,Sales,L4,Remote,2019-06-15,2020-01-23,1.97,Performance,Involuntary,4.0,High,No,Partially Meets,No,MGR0009,India
+EMP00507,David Green,IT,L5,Austin,2016-05-01,2019-03-10,8.91,Mutual Agreement,Involuntary,1.0,Low,Yes,Partially Meets,No,MGR0006,UK
+EMP01019,Mei Brown,Legal,L1,Atlanta,2022-06-14,2024-01-15,3.3,Mutual Agreement,Involuntary,3.3,Low,No,Exceeds,Yes,MGR0036,India
+EMP00606,Ingrid Ferreira,Finance,L2,Chicago,2014-05-25,2014-08-23,6.77,Resignation,Voluntary,1.7,Medium,No,Meets,Yes,MGR0032,Canada
+EMP01046,Zara Chen,Legal,L6,Dallas,2018-03-30,2020-12-10,7.03,Layoff,Involuntary,1.1,Medium,Yes,Partially Meets,Conditional,MGR0031,USA
+EMP00722,Aarav Ali,Customer Success,L3,New York,2023-05-19,2026-07-31,2.46,Retirement,Voluntary,4.2,Medium,No,Partially Meets,Yes,MGR0040,Germany
+EMP01088,Chris Costa,Sales,L6,New York,2021-12-06,2023-09-20,6.44,Layoff,Involuntary,4.2,Medium,No,Exceeds,Yes,MGR0032,UK
+EMP00103,Chloe Walker,Operations,L5,Austin,2013-03-17,2017-01-28,4.34,Mutual Agreement,Involuntary,2.7,Medium,No,Exceeds,No,MGR0011,USA
+EMP00579,Ingrid Ferreira,HR,L7,Dallas,2022-06-14,2022-10-03,6.66,Layoff,Involuntary,2.4,Medium,Yes,Does Not Meet,Conditional,MGR0005,UK
+EMP00221,Lucas Green,Product,L6,Remote,2019-06-08,2022-01-10,2.17,Performance,Involuntary,3.1,High,No,Does Not Meet,Conditional,MGR0037,Germany
+EMP00164,Diego Chen,Finance,L5,Dallas,2020-12-10,2022-07-31,4.33,Abandonment,Involuntary,3.4,Low,Yes,Partially Meets,Yes,MGR0019,Germany
+EMP01132,Zara Okafor,Legal,L7,Denver,2020-11-16,2025-06-12,3.04,Mutual Agreement,Involuntary,1.5,Low,Yes,Partially Meets,No,MGR0007,India
+EMP01185,Hannah Scott,Design,L5,San Francisco,2014-02-18,2015-02-04,6.64,Mutual Agreement,Involuntary,4.6,Medium,No,Partially Meets,Conditional,MGR0022,India
+EMP00800,Marcus Chen,Marketing,L6,Atlanta,2015-10-28,2015-12-30,4.43,Resignation,Voluntary,3.8,High,Yes,Meets,Conditional,MGR0034,Australia
+EMP01080,Amara Nguyen,Data Science,L2,Boston,2023-04-08,2025-01-19,4.04,Retirement,Voluntary,2.8,Low,No,Does Not Meet,Yes,MGR0033,Germany
+EMP00861,Zara Wilson,Customer Success,L6,Dallas,2018-11-26,2019-10-11,6.52,Layoff,Involuntary,1.2,Low,No,Partially Meets,Yes,MGR0025,Germany
+EMP00565,David Turner,HR,L6,Seattle,2013-07-22,2015-10-17,5.8,Mutual Agreement,Involuntary,2.5,Medium,Yes,Partially Meets,No,MGR0002,Australia
+EMP01199,Sofia Wilson,IT,L3,Remote,2016-08-22,2019-08-12,7.77,Retirement,Voluntary,2.5,Low,No,Meets,Yes,MGR0040,Canada
+EMP00078,Emma Lee,Customer Success,L1,Remote,2014-09-24,2015-12-10,8.81,Retirement,Voluntary,2.7,Medium,Yes,Meets,Yes,MGR0007,Canada
+EMP00061,Tariq Wilson,Data Science,L5,Denver,2016-08-14,2018-09-12,9.52,Performance,Involuntary,2.3,Low,No,Does Not Meet,No,MGR0021,UK
+EMP00637,Carlos Nguyen,Finance,L4,Denver,2022-12-19,2025-10-24,2.82,Performance,Involuntary,1.0,Medium,No,Does Not Meet,No,MGR0034,Canada
+EMP00495,Wei Costa,Data Science,L1,Boston,2022-01-25,2025-02-15,0.81,Abandonment,Involuntary,2.5,Medium,Yes,Exceeds,Yes,MGR0012,UK
+EMP01184,David Lewis,IT,L5,Atlanta,2022-08-31,2024-06-10,9.34,Performance,Involuntary,1.0,High,Yes,Does Not Meet,Conditional,MGR0028,USA
+EMP00631,Lucas Walker,Engineering,L6,San Francisco,2018-10-01,2023-03-07,4.58,Layoff,Involuntary,4.8,Medium,Yes,Exceeds,Conditional,MGR0020,UK
+EMP00317,Ananya Ahmed,Engineering,L2,New York,2014-09-23,2015-12-31,7.99,End of Contract,Involuntary,2.3,High,No,Meets,Yes,MGR0039,UK
+EMP00102,Olivia Carter,IT,L1,Remote,2021-05-17,2021-11-04,7.72,Layoff,Involuntary,3.6,Low,Yes,Does Not Meet,Conditional,MGR0032,India
+EMP00978,Fatima King,Finance,L1,Chicago,2022-06-06,2024-01-15,3.69,Performance,Involuntary,3.4,Low,Yes,Partially Meets,No,MGR0003,Canada
+EMP01112,Jasmine Jackson,Design,L4,Seattle,2015-04-19,2017-05-12,9.88,Abandonment,Involuntary,4.9,High,No,Partially Meets,No,MGR0041,Australia
+EMP01028,Sofia Johnson,Operations,L5,Dallas,2015-07-02,2018-10-17,0.55,Performance,Involuntary,3.6,Medium,Yes,Meets,Conditional,MGR0040,UK
+EMP00148,James Müller,Sales,L3,Dallas,2016-01-13,2016-12-09,6.04,Mutual Agreement,Involuntary,4.1,Medium,No,Partially Meets,Conditional,MGR0002,Canada
+EMP00990,Fatima Garcia,HR,L1,Remote,2015-02-23,2019-12-18,7.47,Performance,Involuntary,3.7,Medium,Yes,Does Not Meet,No,MGR0024,Germany
+EMP00769,Amara Chen,Customer Success,L4,Seattle,2017-02-05,2017-10-25,9.93,Mutual Agreement,Involuntary,3.7,Low,Yes,Meets,Yes,MGR0033,Germany
+EMP00284,Diego Sharma,Data Science,L5,Denver,2021-06-18,2025-08-08,6.99,Layoff,Involuntary,4.2,Medium,Yes,Does Not Meet,Yes,MGR0016,Australia
+EMP00558,Chloe Johnson,Design,L6,Boston,2021-08-06,2022-11-29,7.25,Layoff,Involuntary,2.5,Low,Yes,Meets,No,MGR0027,Canada
+EMP00975,Carlos Wilson,HR,L6,New York,2016-04-13,2019-04-05,3.9,Layoff,Involuntary,1.7,Low,Yes,Exceeds,No,MGR0006,Germany
+EMP01033,Aisha Thomas,Customer Success,L5,Austin,2023-05-10,2026-07-31,3.02,Abandonment,Involuntary,1.6,Medium,Yes,Partially Meets,Conditional,MGR0020,Canada
+EMP01055,Priya Ahmed,Marketing,L2,Austin,2019-12-27,2023-02-22,4.66,End of Contract,Involuntary,1.6,Low,Yes,Exceeds,No,MGR0040,Germany
+EMP00602,Liam Müller,Product,L6,Remote,2019-07-01,2019-09-24,0.66,Layoff,Involuntary,3.8,Medium,Yes,Partially Meets,Conditional,MGR0035,Australia
+EMP00748,Kevin King,Finance,L7,Atlanta,2020-02-26,2022-09-30,9.85,Resignation,Voluntary,3.3,Low,Yes,Exceeds,Conditional,MGR0029,Canada
+EMP00754,Arjun Scott,Customer Success,L1,Dallas,2018-07-27,2020-05-29,5.45,Performance,Involuntary,3.7,Medium,No,Meets,No,MGR0033,USA
+EMP00572,Lucas Harris,IT,L1,Dallas,2016-12-15,2020-04-22,5.85,Resignation,Voluntary,2.5,Low,No,Does Not Meet,Yes,MGR0026,Germany
+EMP00487,Hannah Lewis,Product,L4,Chicago,2015-05-11,2018-04-10,5.3,Performance,Involuntary,4.4,High,No,Does Not Meet,No,MGR0006,India
+EMP00155,Sofia Patel,Marketing,L1,Remote,2015-09-02,2019-01-29,0.38,Retirement,Voluntary,4.4,Low,Yes,Exceeds,Yes,MGR0037,Australia
+EMP00763,Ananya Jackson,Data Science,L7,San Francisco,2021-11-07,2024-12-16,5.16,End of Contract,Involuntary,1.5,High,No,Does Not Meet,Yes,MGR0026,Canada
+EMP00400,Diego Garcia,Sales,L1,Atlanta,2021-01-08,2025-05-14,5.9,Abandonment,Involuntary,1.9,High,No,Meets,No,MGR0036,Germany
+EMP01143,Olivia Roberts,Customer Success,L6,Denver,2023-01-08,2024-05-25,6.65,Layoff,Involuntary,3.4,Medium,Yes,Meets,Conditional,MGR0021,USA
+EMP00887,Elena Lewis,IT,L4,Dallas,2017-09-20,2020-07-21,7.85,Performance,Involuntary,4.5,High,Yes,Partially Meets,Conditional,MGR0029,USA
+EMP00956,Isabella Patel,Marketing,L7,Chicago,2021-12-23,2024-10-15,1.09,Retirement,Voluntary,2.3,Low,Yes,Partially Meets,No,MGR0044,USA
+EMP00589,Aisha Hall,Product,L5,Remote,2017-01-04,2017-10-21,6.79,Mutual Agreement,Involuntary,4.0,Low,Yes,Partially Meets,No,MGR0003,UK
+EMP00417,Zara Patel,Sales,L3,San Francisco,2017-02-14,2020-01-22,3.15,End of Contract,Involuntary,2.9,High,No,Exceeds,Yes,MGR0015,Australia
+EMP01134,Maria Smith,Legal,L5,Atlanta,2021-11-24,2023-10-15,1.23,Abandonment,Involuntary,3.5,Medium,No,Exceeds,Conditional,MGR0003,Germany
+EMP00188,Amir Adams,Product,L5,New York,2020-03-01,2022-09-13,8.75,Abandonment,Involuntary,1.6,Low,Yes,Partially Meets,No,MGR0028,Germany
+EMP00182,Tyler Wright,Finance,L1,Chicago,2016-04-10,2017-10-31,8.21,Retirement,Voluntary,2.7,Medium,Yes,Exceeds,Yes,MGR0028,India
+EMP00383,Lucas Walker,HR,L7,Atlanta,2023-07-08,2024-05-08,5.11,End of Contract,Involuntary,1.8,High,Yes,Does Not Meet,No,MGR0029,Australia
+EMP01037,Ingrid Carter,Marketing,L6,Atlanta,2023-04-15,2024-04-07,2.41,End of Contract,Involuntary,3.0,Low,No,Meets,Conditional,MGR0003,India
+EMP00508,Mei King,Operations,L6,Seattle,2019-05-03,2024-01-26,6.46,Resignation,Voluntary,5.0,High,Yes,Meets,No,MGR0006,Canada
+EMP00863,David King,Operations,L6,Seattle,2022-08-02,2026-07-31,5.42,Performance,Involuntary,3.3,Medium,Yes,Does Not Meet,Yes,MGR0020,UK
+EMP00306,Tyler Roberts,Finance,L4,Austin,2021-11-30,2024-02-25,7.3,Abandonment,Involuntary,2.4,Low,No,Partially Meets,Conditional,MGR0019,Australia
+EMP00813,Olivia Adams,Sales,L4,San Francisco,2013-12-04,2017-07-10,4.48,Retirement,Voluntary,2.3,High,Yes,Exceeds,Conditional,MGR0043,USA
+EMP00989,David Nelson,Finance,L1,Chicago,2017-07-15,2020-10-13,7.9,End of Contract,Involuntary,2.2,Medium,No,Does Not Meet,No,MGR0045,USA
+EMP00190,Hannah Ali,Design,L4,Atlanta,2020-11-28,2024-04-20,2.95,Performance,Involuntary,3.9,High,No,Meets,Conditional,MGR0026,UK
+EMP00297,Arjun Johnson,Marketing,L4,Boston,2020-06-14,2024-02-08,9.7,Layoff,Involuntary,4.0,Low,No,Does Not Meet,Conditional,MGR0012,USA
+EMP01026,Jake Wilson,Product,L1,Remote,2019-04-04,2020-05-24,7.49,Retirement,Voluntary,5.0,Medium,Yes,Exceeds,Yes,MGR0009,UK
+EMP00272,Olivia Nguyen,Engineering,L2,Austin,2021-05-17,2023-09-01,1.42,Layoff,Involuntary,3.8,High,Yes,Exceeds,Yes,MGR0014,Australia
+EMP00853,Noah Ahmed,Product,L3,Remote,2017-11-28,2020-05-13,7.43,End of Contract,Involuntary,1.4,Medium,No,Exceeds,No,MGR0010,Australia
+EMP00912,Nina Kim,Finance,L3,New York,2016-05-31,2018-01-16,6.21,Abandonment,Involuntary,1.8,Medium,Yes,Does Not Meet,No,MGR0026,UK
+EMP01183,Jake Lee,Sales,L5,Denver,2017-11-14,2019-09-04,2.54,Layoff,Involuntary,4.0,Medium,Yes,Exceeds,Conditional,MGR0038,UK
+EMP00662,Leila Baker,Operations,L3,Remote,2021-03-30,2024-12-05,7.6,Retirement,Voluntary,3.6,Medium,No,Does Not Meet,No,MGR0017,USA
+EMP00690,Priya Ali,Customer Success,L3,New York,2016-05-08,2019-11-03,9.73,Resignation,Voluntary,4.0,Medium,Yes,Exceeds,Conditional,MGR0047,India
+EMP00220,Jasmine Costa,Data Science,L3,Dallas,2022-04-30,2026-07-31,4.05,Performance,Involuntary,1.6,Low,No,Meets,Conditional,MGR0001,UK
+EMP01192,Noah Chen,Finance,L3,Seattle,2018-04-05,2022-07-29,3.84,Layoff,Involuntary,4.0,High,Yes,Does Not Meet,No,MGR0038,India
+EMP00430,Emma Nakamura,Design,L7,Remote,2014-09-02,2016-10-03,4.63,Resignation,Voluntary,3.1,Low,Yes,Meets,Yes,MGR0009,Australia
+EMP01012,Nadia Sharma,Finance,L2,Atlanta,2013-02-03,2014-10-18,5.01,Resignation,Voluntary,2.7,High,No,Meets,Yes,MGR0045,Germany
+EMP00111,Maria Lee,Sales,L6,Dallas,2022-01-08,2024-03-13,4.86,End of Contract,Involuntary,2.0,Medium,Yes,Exceeds,No,MGR0006,USA
+EMP00547,Tyler Young,Legal,L2,San Francisco,2015-10-22,2017-03-03,9.46,Retirement,Voluntary,1.1,Low,Yes,Does Not Meet,Yes,MGR0003,Germany
+EMP00849,Layla Sharma,Legal,L3,Austin,2020-07-13,2022-11-20,3.37,Mutual Agreement,Involuntary,2.8,High,Yes,Exceeds,Yes,MGR0028,Germany
+EMP01187,Tariq Chen,Operations,L3,Austin,2020-05-13,2021-07-22,7.1,Layoff,Involuntary,1.8,Medium,Yes,Exceeds,Yes,MGR0013,USA
+EMP00053,Mei Nelson,Design,L3,New York,2015-01-28,2017-12-21,6.79,Retirement,Voluntary,4.7,High,Yes,Partially Meets,Conditional,MGR0007,USA
+EMP00037,Priya Ferreira,Legal,L4,New York,2016-03-30,2020-09-29,1.12,Layoff,Involuntary,1.3,Medium,No,Meets,Yes,MGR0007,Canada
+EMP00198,Mia Hall,Marketing,L2,Austin,2017-10-05,2019-03-30,8.54,Layoff,Involuntary,2.1,High,Yes,Meets,Conditional,MGR0009,India
+EMP00313,Sara Jackson,Marketing,L6,New York,2020-06-16,2021-07-11,1.05,Resignation,Voluntary,3.7,Low,Yes,Exceeds,Yes,MGR0049,India
+EMP00392,Zara Müller,IT,L1,Chicago,2015-11-15,2018-12-13,2.36,Performance,Involuntary,1.7,High,No,Does Not Meet,Yes,MGR0014,India
+EMP00539,Rohan Taylor,Legal,L6,Seattle,2015-09-24,2019-12-03,3.4,End of Contract,Involuntary,1.9,High,No,Does Not Meet,No,MGR0050,UK
+EMP00442,Aarav Nguyen,Finance,L5,Dallas,2019-11-02,2022-05-26,4.36,Retirement,Voluntary,1.8,High,No,Exceeds,Conditional,MGR0038,UK
+EMP00994,Elena Baker,Data Science,L4,Chicago,2015-10-11,2018-04-23,2.84,Abandonment,Involuntary,3.3,Low,No,Partially Meets,Yes,MGR0040,Canada
+EMP00705,Nina Williams,Operations,L6,Austin,2022-04-25,2023-09-12,9.97,Performance,Involuntary,4.9,Medium,Yes,Partially Meets,Conditional,MGR0005,UK
+EMP00391,Liam White,HR,L7,Dallas,2018-06-22,2022-11-02,0.7,Retirement,Voluntary,4.7,Medium,Yes,Exceeds,No,MGR0031,UK
+EMP01010,Nadia Perez,Operations,L2,Seattle,2015-06-17,2016-12-08,8.79,Retirement,Voluntary,4.1,Medium,Yes,Does Not Meet,Conditional,MGR0021,Australia
+EMP00052,Hannah Scott,Design,L6,Denver,2015-08-14,2017-08-05,1.36,Layoff,Involuntary,3.5,Low,No,Partially Meets,Conditional,MGR0016,India
+EMP00993,Andre Jackson,Product,L5,Austin,2016-04-01,2017-06-19,3.05,Mutual Agreement,Involuntary,2.4,High,Yes,Does Not Meet,Conditional,MGR0045,Canada
+EMP00013,Hannah Müller,Operations,L3,Chicago,2015-03-16,2019-06-18,9.41,Mutual Agreement,Involuntary,2.1,Low,Yes,Does Not Meet,Yes,MGR0043,Germany
+EMP00153,Carlos Ferreira,Design,L5,Austin,2013-04-18,2015-09-10,3.03,Abandonment,Involuntary,2.9,Low,Yes,Exceeds,No,MGR0007,UK
+EMP00560,Hassan Williams,Sales,L4,Dallas,2022-08-26,2023-12-28,6.59,Mutual Agreement,Involuntary,3.8,High,Yes,Meets,Yes,MGR0032,India
+EMP00409,Maria Walker,Design,L2,New York,2018-04-26,2019-02-17,9.44,Retirement,Voluntary,2.1,Low,Yes,Does Not Meet,Conditional,MGR0046,USA
+EMP00460,Tariq Andersen,IT,L2,San Francisco,2019-03-28,2020-02-07,1.4,Retirement,Voluntary,1.5,Medium,Yes,Meets,Conditional,MGR0050,UK
+EMP00712,Nina Nguyen,Operations,L6,Seattle,2021-10-13,2026-03-14,8.4,Retirement,Voluntary,4.0,Low,Yes,Does Not Meet,Conditional,MGR0019,UK
+EMP00669,Arjun Green,Sales,L4,Austin,2021-06-02,2023-10-10,7.51,Layoff,Involuntary,3.3,Low,No,Partially Meets,Yes,MGR0014,Canada
+EMP00174,Hassan Carter,Sales,L6,San Francisco,2022-03-16,2025-06-30,1.9,Performance,Involuntary,2.7,Medium,No,Partially Meets,Conditional,MGR0030,USA
+EMP01021,Sofia Johnson,Legal,L6,Dallas,2019-12-17,2022-05-04,2.32,Retirement,Voluntary,2.3,Low,Yes,Exceeds,Yes,MGR0025,USA
+EMP00156,Jasmine Wright,Engineering,L1,Denver,2014-11-27,2016-12-12,7.78,Abandonment,Involuntary,2.0,Low,Yes,Exceeds,Yes,MGR0013,India
+EMP00798,Zara Walker,Data Science,L4,Atlanta,2015-08-07,2017-03-16,6.6,Performance,Involuntary,1.8,Low,Yes,Exceeds,No,MGR0003,Germany
+EMP00036,Rohan Williams,Design,L1,San Francisco,2019-02-13,2023-09-02,8.66,Mutual Agreement,Involuntary,3.0,High,Yes,Exceeds,No,MGR0035,USA
+EMP00033,Ethan Scott,Data Science,L6,Remote,2014-03-01,2016-06-28,6.66,Resignation,Voluntary,1.3,High,Yes,Partially Meets,Conditional,MGR0011,USA
+EMP00609,Raj Ahmed,Sales,L4,Dallas,2014-09-09,2017-09-27,9.99,End of Contract,Involuntary,4.0,High,No,Exceeds,Yes,MGR0019,India
+EMP00344,Arjun Nakamura,Customer Success,L6,Boston,2014-05-15,2019-03-11,3.09,Abandonment,Involuntary,2.0,High,Yes,Meets,No,MGR0013,USA
+EMP00799,Tyler Wright,Data Science,L1,Atlanta,2017-10-09,2018-03-13,8.39,Mutual Agreement,Involuntary,4.7,High,Yes,Does Not Meet,Yes,MGR0006,UK
+EMP00812,Marcus Williams,Product,L1,Chicago,2021-10-30,2024-08-09,8.78,Resignation,Voluntary,4.1,High,No,Partially Meets,Yes,MGR0009,UK
+EMP00243,Aarav Martinez,Customer Success,L5,San Francisco,2023-03-01,2025-11-05,2.96,Mutual Agreement,Involuntary,1.5,Low,Yes,Partially Meets,No,MGR0009,Canada
+EMP00401,Jasmine Green,HR,L4,Atlanta,2023-06-23,2026-07-31,8.51,Resignation,Voluntary,2.5,Medium,Yes,Does Not Meet,Yes,MGR0039,USA
+EMP00822,Aisha Garcia,Data Science,L4,Seattle,2015-09-06,2018-11-13,6.19,Abandonment,Involuntary,1.4,Medium,Yes,Partially Meets,Yes,MGR0016,Australia
+EMP00425,Ethan Lee,Sales,L6,Chicago,2014-09-14,2015-06-14,0.92,Performance,Involuntary,2.3,Medium,Yes,Does Not Meet,Conditional,MGR0043,Canada
+EMP00739,David Ahmed,Customer Success,L3,Boston,2020-06-04,2021-07-18,3.44,Retirement,Voluntary,5.0,High,No,Does Not Meet,Conditional,MGR0020,USA
+EMP01035,Sara Costa,Product,L6,San Francisco,2013-01-09,2013-11-19,9.35,Mutual Agreement,Involuntary,2.9,Low,No,Partially Meets,Conditional,MGR0034,UK
+EMP01031,Ethan Lewis,IT,L5,Chicago,2017-10-11,2020-01-18,9.81,End of Contract,Involuntary,1.1,High,No,Partially Meets,No,MGR0029,UK
+EMP00585,Zara White,Operations,L7,Dallas,2023-07-14,2026-07-31,3.03,Retirement,Voluntary,1.6,High,Yes,Exceeds,No,MGR0010,Canada
+EMP00370,Ananya White,Legal,L3,New York,2017-07-14,2018-05-12,2.66,Abandonment,Involuntary,4.5,Medium,Yes,Exceeds,Yes,MGR0019,Australia
+EMP00202,Noah Singh,Legal,L5,Denver,2023-05-01,2024-12-13,8.63,Resignation,Voluntary,2.0,Low,No,Does Not Meet,Yes,MGR0001,USA
+EMP01145,Raj Young,IT,L1,Seattle,2020-02-27,2024-10-17,9.88,Retirement,Voluntary,4.2,High,Yes,Meets,Conditional,MGR0010,USA
+EMP00557,Arjun Lewis,Design,L1,San Francisco,2018-04-17,2020-08-28,3.58,Layoff,Involuntary,4.2,High,Yes,Meets,Yes,MGR0036,India
+EMP01195,Fatima Costa,Engineering,L5,Seattle,2015-01-12,2016-02-04,4.76,End of Contract,Involuntary,4.5,Low,Yes,Partially Meets,Conditional,MGR0038,Germany
+EMP00032,Olivia Williams,Engineering,L6,Dallas,2016-05-02,2016-08-05,2.75,Resignation,Voluntary,3.4,High,Yes,Partially Meets,Yes,MGR0046,USA
+EMP00011,Kevin Johnson,Operations,L2,Boston,2023-07-01,2024-12-16,9.68,Performance,Involuntary,4.8,High,Yes,Meets,Yes,MGR0028,UK
+EMP00348,Kevin White,Product,L5,New York,2014-04-27,2017-12-26,6.03,Mutual Agreement,Involuntary,2.9,High,Yes,Meets,Conditional,MGR0002,USA
+EMP00984,Leila Costa,Design,L3,Chicago,2013-04-08,2015-01-12,3.08,Resignation,Voluntary,3.5,High,No,Exceeds,Conditional,MGR0017,UK
+EMP00488,Elena Costa,Design,L6,Austin,2018-04-08,2021-06-19,5.55,Retirement,Voluntary,1.7,Low,No,Meets,Yes,MGR0025,India
+EMP00620,Hannah Nelson,Design,L1,Chicago,2021-06-24,2023-06-29,4.7,Retirement,Voluntary,3.3,High,No,Meets,Yes,MGR0015,Australia
+EMP00321,Amir Nakamura,HR,L7,Denver,2019-12-17,2024-02-09,6.0,Mutual Agreement,Involuntary,1.1,Medium,No,Partially Meets,No,MGR0032,UK
+EMP00031,Marcus Johnson,Customer Success,L7,Seattle,2019-08-24,2022-12-07,1.95,Performance,Involuntary,4.6,High,Yes,Does Not Meet,Conditional,MGR0041,USA
+EMP00062,Fatima Hall,IT,L7,Dallas,2020-09-25,2022-06-27,4.35,Performance,Involuntary,2.5,Low,Yes,Does Not Meet,No,MGR0027,Canada
+EMP00099,Andre Andersen,Operations,L4,New York,2015-09-13,2017-02-02,0.92,Retirement,Voluntary,2.3,Medium,Yes,Exceeds,Yes,MGR0027,Australia
+EMP01018,Nadia King,Engineering,L2,Boston,2019-04-14,2019-10-02,2.28,Performance,Involuntary,1.1,Medium,Yes,Does Not Meet,Conditional,MGR0026,Germany
+EMP00250,Leila Ferreira,Finance,L3,Seattle,2019-11-20,2020-11-13,4.65,Mutual Agreement,Involuntary,4.3,High,Yes,Exceeds,Conditional,MGR0019,Australia
+EMP00140,Fatima Nakamura,Marketing,L2,Seattle,2015-01-25,2016-06-30,5.17,Mutual Agreement,Involuntary,4.1,Medium,Yes,Does Not Meet,Conditional,MGR0009,UK
+EMP01038,Mei Ivanov,Legal,L5,San Francisco,2014-03-30,2018-05-12,3.34,Performance,Involuntary,2.4,Medium,Yes,Exceeds,No,MGR0012,Canada
+EMP00818,Aarav Martinez,Finance,L2,Boston,2019-04-26,2023-12-07,4.58,Retirement,Voluntary,2.0,High,Yes,Meets,Conditional,MGR0022,Australia
+EMP00577,Sophia Müller,Sales,L3,Dallas,2019-09-23,2021-06-10,9.22,Performance,Involuntary,1.6,Medium,Yes,Exceeds,No,MGR0002,India
+EMP01085,Sophia Perez,IT,L5,San Francisco,2019-10-15,2022-04-23,4.48,Retirement,Voluntary,1.4,Medium,Yes,Meets,Yes,MGR0002,UK
+EMP00027,Ryan Nguyen,Sales,L3,Chicago,2013-12-23,2016-05-05,5.94,Retirement,Voluntary,4.6,Medium,No,Meets,No,MGR0001,Canada
+EMP00885,Omar Garcia,HR,L1,Chicago,2015-06-26,2016-04-09,5.91,Abandonment,Involuntary,3.0,Medium,No,Partially Meets,Yes,MGR0012,India
+EMP00473,Kevin Scott,Engineering,L1,Remote,2013-07-04,2015-12-07,2.47,Resignation,Voluntary,2.0,Medium,No,Meets,No,MGR0039,Canada
+EMP00222,Aarav Lee,Data Science,L1,Austin,2013-12-14,2017-06-02,7.12,Resignation,Voluntary,3.6,Medium,Yes,Does Not Meet,Yes,MGR0012,UK
+EMP01171,Sofia Andersen,Design,L4,San Francisco,2017-03-23,2021-04-26,5.19,Mutual Agreement,Involuntary,2.5,Low,Yes,Exceeds,Conditional,MGR0029,Germany
+EMP00880,Noah Singh,Finance,L7,Boston,2019-12-22,2024-08-09,7.3,Layoff,Involuntary,4.9,High,No,Meets,Yes,MGR0025,Australia
+EMP01108,Ryan Chen,Finance,L3,Denver,2020-01-15,2022-09-30,2.97,Retirement,Voluntary,3.9,High,Yes,Exceeds,Conditional,MGR0008,Germany
+EMP00195,Arjun Mitchell,IT,L6,San Francisco,2016-04-26,2020-08-23,9.21,Performance,Involuntary,3.7,Medium,Yes,Does Not Meet,Conditional,MGR0028,UK
+EMP00771,Kevin Walker,Data Science,L7,Denver,2013-08-28,2015-09-02,0.76,Layoff,Involuntary,1.1,Low,Yes,Exceeds,Conditional,MGR0042,UK
+EMP00919,Raj Carter,Sales,L7,Remote,2018-05-07,2021-07-01,0.69,Resignation,Voluntary,1.5,High,No,Exceeds,No,MGR0031,Australia
+EMP00918,Priya Jackson,Data Science,L7,Atlanta,2019-02-19,2023-01-11,6.36,Retirement,Voluntary,1.8,High,Yes,Meets,Yes,MGR0044,Canada
+EMP00671,Nadia Okafor,Sales,L7,Austin,2014-05-20,2017-06-27,3.85,Performance,Involuntary,3.5,Low,Yes,Partially Meets,No,MGR0015,Canada
+EMP00463,Fatima Green,Finance,L2,New York,2013-12-10,2014-06-28,0.5,Performance,Involuntary,4.8,High,Yes,Partially Meets,Yes,MGR0037,Germany
+EMP00176,Isabella Perez,Design,L1,Chicago,2019-05-02,2023-04-28,1.52,Layoff,Involuntary,2.7,Low,No,Does Not Meet,No,MGR0040,India
+EMP00165,Ryan Roberts,Finance,L1,Atlanta,2014-06-04,2017-03-10,6.63,Abandonment,Involuntary,1.8,Low,Yes,Does Not Meet,No,MGR0037,USA
+EMP00096,Layla Brown,Engineering,L1,San Francisco,2022-11-24,2024-11-21,7.81,Layoff,Involuntary,3.7,High,Yes,Partially Meets,Yes,MGR0045,Canada
+EMP00112,Chloe Wilson,HR,L7,Boston,2017-05-29,2019-02-17,0.73,Layoff,Involuntary,1.6,High,Yes,Partially Meets,No,MGR0015,India
+EMP00969,Sofia Ferreira,Operations,L7,Denver,2018-06-26,2023-03-30,6.17,Performance,Involuntary,4.9,Medium,No,Does Not Meet,Conditional,MGR0019,Germany
+EMP00554,Olivia Wright,Finance,L6,Boston,2017-10-11,2018-10-03,8.32,Layoff,Involuntary,1.1,Medium,No,Meets,No,MGR0001,Canada
+EMP00833,Raj Sharma,Legal,L5,Boston,2019-06-28,2020-04-18,8.6,End of Contract,Involuntary,1.6,Low,Yes,Does Not Meet,Yes,MGR0049,Canada
+EMP00390,Yuki Nguyen,IT,L2,Boston,2022-10-28,2025-03-31,7.05,Mutual Agreement,Involuntary,3.5,Low,Yes,Partially Meets,Conditional,MGR0018,India
+EMP00580,Emma Robinson,Legal,L7,Boston,2013-10-26,2014-08-20,9.02,End of Contract,Involuntary,1.7,High,Yes,Does Not Meet,No,MGR0036,Australia
+EMP00043,Kevin Turner,Design,L1,Seattle,2023-06-27,2026-07-31,9.12,Mutual Agreement,Involuntary,4.9,Low,No,Does Not Meet,Yes,MGR0024,USA
+EMP00762,Marcus Nelson,Engineering,L4,New York,2022-09-10,2025-09-08,2.12,Performance,Involuntary,3.6,Low,Yes,Exceeds,No,MGR0029,Germany
+EMP00522,Jasmine Ivanov,HR,L4,Austin,2020-08-19,2025-06-06,6.96,Layoff,Involuntary,4.7,Low,No,Partially Meets,No,MGR0005,Australia
+EMP00484,Nina Turner,Product,L1,Denver,2023-05-07,2025-08-22,2.05,Retirement,Voluntary,3.5,Low,Yes,Does Not Meet,Yes,MGR0001,USA
+EMP01001,Fatima Johnson,Engineering,L6,Dallas,2013-10-03,2014-08-12,2.99,Abandonment,Involuntary,4.7,High,Yes,Partially Meets,Conditional,MGR0014,India
+EMP01081,Amir Mitchell,IT,L4,New York,2021-06-11,2022-09-19,9.48,Retirement,Voluntary,3.0,Low,No,Does Not Meet,No,MGR0047,Australia
+EMP00985,Zara Jackson,Engineering,L7,Boston,2020-02-27,2020-09-19,6.44,Mutual Agreement,Involuntary,2.0,Medium,Yes,Meets,Yes,MGR0036,UK
+EMP00964,Soren Roberts,Engineering,L1,Chicago,2023-04-15,2025-09-19,1.54,Performance,Involuntary,3.5,High,No,Meets,No,MGR0004,Australia
+EMP00146,Carlos Taylor,Finance,L4,San Francisco,2022-12-25,2023-01-25,4.8,Resignation,Voluntary,4.1,Low,No,Exceeds,Conditional,MGR0004,India
+EMP00191,Soren Baker,Design,L6,New York,2018-11-16,2023-01-26,2.93,End of Contract,Involuntary,3.6,High,Yes,Exceeds,No,MGR0016,USA
+EMP00123,Hassan Taylor,Sales,L6,Chicago,2016-11-28,2019-04-07,8.35,Retirement,Voluntary,1.8,Low,No,Exceeds,No,MGR0033,Australia
+EMP01050,Elena Sharma,Operations,L5,New York,2015-06-09,2018-03-12,2.05,Performance,Involuntary,3.5,High,Yes,Does Not Meet,Conditional,MGR0021,Canada
+EMP01105,Yuki Wilson,Customer Success,L3,New York,2016-02-29,2018-10-02,1.0,Resignation,Voluntary,4.7,High,Yes,Does Not Meet,Conditional,MGR0007,Canada
+EMP01109,Marcus King,Data Science,L6,Chicago,2023-01-24,2026-07-18,4.89,End of Contract,Involuntary,1.4,High,Yes,Partially Meets,Conditional,MGR0025,Canada
+EMP00260,Emma Williams,IT,L5,Atlanta,2021-12-17,2024-12-10,8.28,Retirement,Voluntary,2.5,Medium,No,Meets,Conditional,MGR0013,India
+EMP00324,James Turner,Operations,L7,New York,2017-08-23,2018-02-03,3.4,Retirement,Voluntary,4.9,High,Yes,Meets,No,MGR0023,Australia
+EMP00727,Omar Clark,Operations,L4,Austin,2019-01-18,2019-07-04,5.5,End of Contract,Involuntary,2.0,High,Yes,Meets,No,MGR0011,Canada
+EMP00793,Carlos Thomas,Design,L4,Boston,2017-06-28,2021-04-08,5.64,Layoff,Involuntary,1.3,Medium,No,Partially Meets,No,MGR0028,Germany
+EMP00287,Zara Singh,HR,L1,Austin,2018-06-10,2021-11-29,7.91,Abandonment,Involuntary,2.4,High,Yes,Meets,No,MGR0049,Canada
+EMP01106,Ananya Müller,Finance,L3,San Francisco,2017-10-28,2021-03-24,6.42,End of Contract,Involuntary,4.2,Low,Yes,Meets,No,MGR0009,Germany
+EMP00418,Carlos Ivanov,Engineering,L7,Dallas,2017-02-27,2018-12-03,4.72,Retirement,Voluntary,1.8,High,No,Does Not Meet,Yes,MGR0047,USA
+EMP00913,Noah King,Design,L7,Austin,2020-03-01,2022-10-22,9.51,Abandonment,Involuntary,4.2,Medium,Yes,Exceeds,Yes,MGR0049,Germany
+EMP00115,Wei Perez,Design,L4,Dallas,2016-04-13,2017-02-24,9.22,Performance,Involuntary,1.8,Low,Yes,Exceeds,No,MGR0006,India
+EMP00955,Fatima Roberts,Finance,L2,Chicago,2013-10-27,2014-03-04,3.02,Abandonment,Involuntary,2.2,High,No,Exceeds,No,MGR0048,Australia
+EMP00114,Marcus Carter,Product,L4,San Francisco,2018-06-04,2023-04-07,7.6,Abandonment,Involuntary,4.3,Low,Yes,Exceeds,Conditional,MGR0038,Germany
+EMP00584,Jake White,Design,L5,Denver,2020-01-29,2022-10-27,3.56,Resignation,Voluntary,2.6,Medium,Yes,Partially Meets,Yes,MGR0039,Germany
+EMP00172,Layla Ivanov,HR,L3,Seattle,2021-02-11,2025-01-06,0.26,Retirement,Voluntary,3.5,Medium,Yes,Meets,No,MGR0009,Australia
+EMP00561,Sara Smith,Product,L5,Chicago,2017-04-05,2021-03-02,9.58,Mutual Agreement,Involuntary,1.7,High,No,Exceeds,No,MGR0016,Germany
+EMP00828,Priya White,Design,L3,Atlanta,2020-11-21,2021-01-17,6.75,Retirement,Voluntary,2.7,High,Yes,Does Not Meet,Conditional,MGR0038,USA
+EMP00071,Mia Perez,Sales,L1,San Francisco,2013-12-05,2015-11-08,4.03,Resignation,Voluntary,4.3,High,Yes,Exceeds,Yes,MGR0033,USA
+EMP01091,Hannah Wright,Design,L2,Seattle,2014-07-06,2016-11-03,8.46,Performance,Involuntary,4.6,Low,Yes,Meets,Yes,MGR0021,UK
+EMP00007,Zara Hernandez,Product,L1,Remote,2018-09-11,2021-07-31,1.95,Mutual Agreement,Involuntary,2.1,Medium,Yes,Exceeds,No,MGR0025,India
+EMP00466,Raj Baker,Legal,L7,Seattle,2023-01-20,2026-07-31,6.82,End of Contract,Involuntary,2.0,High,Yes,Meets,Yes,MGR0032,Australia
+EMP00263,Raj Clark,Operations,L2,Dallas,2014-07-23,2019-03-22,1.51,Mutual Agreement,Involuntary,2.6,Medium,Yes,Meets,Conditional,MGR0032,Australia
+EMP00314,James Garcia,Design,L6,Austin,2014-06-11,2016-02-25,0.31,Resignation,Voluntary,2.6,High,Yes,Partially Meets,Conditional,MGR0048,Canada
+EMP00251,Aisha Scott,Engineering,L5,Boston,2021-11-10,2022-01-14,2.87,Performance,Involuntary,4.3,Medium,Yes,Does Not Meet,Conditional,MGR0013,Australia
+EMP00970,Tariq Smith,HR,L3,Denver,2013-08-22,2017-05-03,8.47,Mutual Agreement,Involuntary,4.6,Medium,No,Meets,Yes,MGR0006,USA
+EMP00056,Nadia Lee,Customer Success,L7,Remote,2013-08-21,2017-10-08,5.93,Resignation,Voluntary,1.3,Medium,No,Exceeds,Conditional,MGR0001,UK
+EMP00149,James Nguyen,Customer Success,L6,Chicago,2022-07-29,2026-07-31,3.43,End of Contract,Involuntary,4.8,High,Yes,Meets,Conditional,MGR0044,USA
+EMP01063,Maria Nakamura,Design,L2,Atlanta,2019-12-22,2024-03-14,4.23,Layoff,Involuntary,1.4,Medium,Yes,Meets,Conditional,MGR0042,USA
+EMP01180,Aisha Brown,Marketing,L6,Denver,2018-09-28,2023-03-31,5.25,Abandonment,Involuntary,2.4,Low,Yes,Does Not Meet,Conditional,MGR0017,Canada
+EMP00309,Omar Roberts,HR,L1,San Francisco,2022-07-01,2022-08-07,0.46,Abandonment,Involuntary,2.4,Low,Yes,Meets,Yes,MGR0040,Canada
+EMP00301,Amir Adams,Customer Success,L3,Austin,2018-07-30,2019-10-18,1.04,End of Contract,Involuntary,3.3,High,No,Partially Meets,Yes,MGR0043,Canada
+EMP00806,Raj Turner,Operations,L6,New York,2019-10-20,2021-03-09,7.6,Retirement,Voluntary,1.4,Medium,Yes,Does Not Meet,Conditional,MGR0007,Germany
+EMP00135,Wei Carter,Customer Success,L5,Chicago,2018-07-22,2021-04-27,4.15,Retirement,Voluntary,1.9,Low,No,Partially Meets,Yes,MGR0006,Australia
+EMP00189,Chris Martinez,Product,L4,Austin,2020-05-05,2022-08-25,5.96,Abandonment,Involuntary,1.7,Medium,Yes,Does Not Meet,Conditional,MGR0045,Germany
+EMP00904,Marcus Smith,Product,L6,Denver,2013-02-15,2016-05-27,0.95,Mutual Agreement,Involuntary,2.6,Medium,Yes,Meets,Conditional,MGR0042,Germany
+EMP00960,Diego Singh,Product,L3,Remote,2020-07-31,2024-08-31,5.88,End of Contract,Involuntary,4.2,Low,No,Exceeds,Yes,MGR0021,UK
+EMP00867,Elena Okafor,Legal,L3,Remote,2019-12-25,2022-09-26,8.38,Retirement,Voluntary,2.5,High,No,Meets,Conditional,MGR0024,Australia
+EMP00664,Priya Chen,Design,L3,San Francisco,2018-12-20,2019-03-10,7.75,Performance,Involuntary,1.4,Medium,Yes,Does Not Meet,Conditional,MGR0038,India
+EMP00407,Wei Scott,Operations,L7,Denver,2019-05-31,2019-11-20,3.57,Abandonment,Involuntary,1.4,Low,Yes,Exceeds,Conditional,MGR0008,UK
+EMP00016,Maria Nelson,Operations,L7,New York,2018-11-23,2021-05-18,0.14,Resignation,Voluntary,3.4,Medium,Yes,Meets,Conditional,MGR0029,Germany
+EMP00961,Chris Thomas,Engineering,L6,Chicago,2022-05-15,2025-03-16,6.46,Performance,Involuntary,4.1,Low,Yes,Exceeds,Yes,MGR0007,Australia
+EMP00351,Chris Singh,Sales,L6,Dallas,2022-11-02,2023-10-05,3.98,Performance,Involuntary,3.5,Medium,Yes,Meets,Conditional,MGR0049,USA
+EMP01197,Diego Hernandez,Marketing,L2,Austin,2017-07-03,2021-04-17,2.35,Mutual Agreement,Involuntary,1.8,Low,Yes,Exceeds,Conditional,MGR0036,USA
+EMP00950,Aarav Harris,Data Science,L2,New York,2017-04-24,2018-05-03,9.41,Resignation,Voluntary,4.2,High,Yes,Does Not Meet,Yes,MGR0017,Australia
+EMP00982,Sara Ivanov,Product,L7,Seattle,2022-01-10,2025-04-29,9.94,Retirement,Voluntary,3.8,Medium,Yes,Exceeds,Conditional,MGR0049,UK
+EMP00277,Diego White,Legal,L6,Atlanta,2016-06-03,2018-09-11,2.63,Mutual Agreement,Involuntary,3.9,Low,Yes,Meets,No,MGR0042,UK
+EMP01155,Rohan Taylor,Design,L1,Seattle,2015-11-03,2018-01-04,3.87,Layoff,Involuntary,2.7,Low,No,Does Not Meet,No,MGR0033,India
+EMP00085,Olivia Lewis,HR,L7,Seattle,2020-06-21,2024-09-28,5.66,Abandonment,Involuntary,4.4,Low,Yes,Does Not Meet,Conditional,MGR0011,Canada
+EMP00852,Chloe Ferreira,Finance,L5,Boston,2022-05-02,2025-03-09,2.48,Layoff,Involuntary,1.1,Low,Yes,Does Not Meet,No,MGR0034,Canada
+EMP00751,Ethan Ivanov,Marketing,L7,Denver,2013-01-19,2015-12-25,7.74,End of Contract,Involuntary,3.4,High,No,Partially Meets,No,MGR0016,Australia
+EMP00681,Mei Young,Engineering,L3,New York,2017-10-30,2021-04-04,7.66,Mutual Agreement,Involuntary,4.2,Medium,Yes,Partially Meets,Conditional,MGR0003,Germany
+EMP00981,Nina Thomas,Marketing,L6,New York,2014-12-18,2018-01-10,0.61,Performance,Involuntary,1.8,High,No,Meets,Conditional,MGR0003,Australia
+EMP01051,Mia Harris,Marketing,L7,Remote,2018-03-30,2020-10-30,3.22,Layoff,Involuntary,3.5,Medium,No,Exceeds,Yes,MGR0036,USA
+EMP00900,Mei King,Operations,L1,Boston,2013-09-17,2016-02-27,0.48,Layoff,Involuntary,1.5,Low,No,Exceeds,No,MGR0022,USA
+EMP01013,Carlos Robinson,HR,L3,Chicago,2020-05-18,2021-06-30,8.86,End of Contract,Involuntary,1.6,Medium,No,Partially Meets,Conditional,MGR0044,Australia
+EMP00939,Noah Harris,IT,L7,Boston,2020-09-04,2022-01-23,1.96,Abandonment,Involuntary,4.2,Low,Yes,Exceeds,Yes,MGR0016,Australia
+EMP00760,Olivia Martinez,Legal,L3,Austin,2016-12-15,2020-04-07,8.86,Resignation,Voluntary,4.3,High,No,Does Not Meet,Conditional,MGR0025,India
+EMP00457,Emma Perez,Engineering,L5,Boston,2022-01-15,2025-11-12,5.01,Performance,Involuntary,3.1,Low,No,Partially Meets,No,MGR0019,UK
+EMP00830,Andre Clark,Engineering,L7,Remote,2013-11-25,2015-06-09,8.26,Mutual Agreement,Involuntary,3.5,Low,Yes,Partially Meets,Yes,MGR0006,Canada
+EMP00185,Omar Sharma,Data Science,L2,Atlanta,2020-06-19,2022-04-03,7.02,Performance,Involuntary,4.7,Medium,Yes,Does Not Meet,Yes,MGR0035,USA
+EMP00385,Isabella Wilson,Finance,L4,San Francisco,2017-08-30,2020-04-19,9.98,Layoff,Involuntary,1.6,High,No,Partially Meets,No,MGR0024,Canada
+EMP00632,Mia Martinez,Legal,L3,San Francisco,2021-01-24,2025-03-12,1.82,Abandonment,Involuntary,2.7,Low,Yes,Exceeds,Conditional,MGR0042,Canada
+EMP00024,Nadia Adams,Engineering,L4,Remote,2017-05-26,2018-05-18,2.42,Resignation,Voluntary,3.4,Medium,Yes,Exceeds,Yes,MGR0040,Germany
+EMP00214,Mia Harris,Engineering,L3,Boston,2016-10-08,2017-04-07,0.42,Retirement,Voluntary,2.3,Low,No,Meets,Yes,MGR0044,Australia
+EMP00691,Noah Mitchell,Sales,L2,Chicago,2021-02-11,2023-07-18,2.88,Retirement,Voluntary,1.9,Low,No,Exceeds,No,MGR0033,UK
+EMP00968,Ethan Nelson,Marketing,L1,Austin,2022-07-15,2023-02-15,3.76,Mutual Agreement,Involuntary,4.3,Medium,Yes,Partially Meets,Yes,MGR0044,India
+EMP00431,Tariq Ivanov,Sales,L2,Seattle,2019-03-15,2020-04-07,1.41,Abandonment,Involuntary,2.4,Medium,Yes,Does Not Meet,No,MGR0012,Germany
+EMP00657,Ingrid Taylor,Finance,L5,New York,2019-11-03,2020-04-11,7.51,Resignation,Voluntary,3.5,High,Yes,Meets,Conditional,MGR0020,India
+EMP00641,Noah Williams,Engineering,L6,Austin,2017-11-21,2021-06-02,6.68,Performance,Involuntary,3.3,Medium,Yes,Exceeds,No,MGR0002,Canada
+EMP00362,Emma Mitchell,Product,L5,Austin,2014-08-26,2018-07-25,3.96,End of Contract,Involuntary,4.1,Medium,Yes,Does Not Meet,Yes,MGR0011,Germany
+EMP01151,Fatima Mitchell,IT,L1,New York,2014-04-02,2019-01-20,7.34,Retirement,Voluntary,3.0,Low,Yes,Meets,Yes,MGR0038,Germany
+EMP00097,David Sharma,Product,L2,Atlanta,2015-10-06,2018-01-26,4.41,End of Contract,Involuntary,2.9,High,Yes,Meets,Conditional,MGR0033,Australia
+EMP00821,Amir Nelson,Finance,L3,Remote,2018-01-23,2020-11-16,7.43,Resignation,Voluntary,4.4,High,Yes,Meets,Yes,MGR0017,UK
+EMP01070,Sophia Singh,Marketing,L7,Denver,2016-07-25,2016-12-06,7.45,Resignation,Voluntary,3.1,Low,Yes,Exceeds,Yes,MGR0048,UK
+EMP00482,Liam Green,Operations,L5,Denver,2020-02-27,2022-03-07,4.58,Resignation,Voluntary,2.6,High,No,Exceeds,No,MGR0001,Germany
+EMP00419,Zara Andersen,Legal,L6,Atlanta,2021-10-04,2025-11-14,6.83,Abandonment,Involuntary,2.2,High,No,Meets,Yes,MGR0028,Germany
+EMP00965,David Ivanov,Customer Success,L6,Austin,2018-08-31,2019-04-15,4.52,Resignation,Voluntary,1.3,Medium,Yes,Meets,Yes,MGR0018,Canada
+EMP00668,Amara Martinez,Marketing,L1,San Francisco,2013-09-04,2014-04-27,2.43,End of Contract,Involuntary,3.6,High,Yes,Meets,Yes,MGR0003,Germany
+EMP00896,Tariq Chen,Data Science,L4,Dallas,2021-04-20,2022-06-27,1.3,Mutual Agreement,Involuntary,4.1,Medium,Yes,Does Not Meet,Yes,MGR0016,Germany
+EMP00618,Sofia Williams,Data Science,L6,Atlanta,2019-05-05,2023-03-20,9.9,Mutual Agreement,Involuntary,4.0,Low,Yes,Does Not Meet,Conditional,MGR0033,Germany
+EMP00308,Yuki Clark,Product,L2,New York,2020-12-03,2022-09-21,0.52,Mutual Agreement,Involuntary,2.4,High,Yes,Exceeds,Yes,MGR0031,USA
+EMP00738,Isabella Andersen,Customer Success,L3,New York,2018-02-14,2018-11-04,7.97,Retirement,Voluntary,3.7,Low,Yes,Exceeds,Yes,MGR0014,Canada
+EMP00571,Aisha Kim,IT,L7,San Francisco,2013-01-27,2016-02-14,6.26,Performance,Involuntary,4.2,Medium,Yes,Partially Meets,No,MGR0027,Germany
+EMP00025,Nina Hernandez,Operations,L4,San Francisco,2018-04-20,2019-03-06,6.04,End of Contract,Involuntary,2.8,Medium,Yes,Meets,No,MGR0029,Australia
+EMP00694,Marcus Mitchell,Customer Success,L5,Denver,2020-09-04,2025-04-21,7.53,Resignation,Voluntary,4.4,High,No,Partially Meets,No,MGR0007,India
+EMP00138,Jake Wilson,Customer Success,L2,New York,2021-04-28,2023-08-28,3.79,Abandonment,Involuntary,3.0,Medium,Yes,Meets,Conditional,MGR0034,Canada
+EMP00803,James Martinez,Design,L2,Chicago,2021-05-20,2023-01-26,6.91,Abandonment,Involuntary,4.7,Medium,No,Does Not Meet,Yes,MGR0020,UK
+EMP00354,Sophia Harris,Legal,L2,Chicago,2021-10-31,2024-02-08,0.11,Retirement,Voluntary,4.8,High,Yes,Does Not Meet,No,MGR0050,USA
+EMP00709,Chris Carter,Sales,L3,Austin,2020-09-03,2022-06-05,3.03,Layoff,Involuntary,1.9,Low,Yes,Does Not Meet,Yes,MGR0027,UK
+EMP00368,Rohan Jackson,Operations,L4,Dallas,2018-05-17,2018-08-10,9.77,Abandonment,Involuntary,2.5,Low,Yes,Exceeds,Yes,MGR0025,Germany
+EMP00599,Aarav Johnson,Finance,L5,Chicago,2019-04-08,2023-09-20,4.92,Layoff,Involuntary,3.4,Low,Yes,Does Not Meet,Conditional,MGR0015,Australia
+EMP01165,Omar Wright,Marketing,L6,Austin,2022-06-15,2022-12-23,7.82,Abandonment,Involuntary,3.8,Low,Yes,Meets,No,MGR0004,Canada
+EMP00360,Olivia Chen,Engineering,L3,New York,2016-09-12,2020-02-19,3.83,Layoff,Involuntary,4.7,High,No,Exceeds,Yes,MGR0035,Canada
+EMP00838,Liam Andersen,Product,L1,Dallas,2014-11-29,2015-09-17,2.01,End of Contract,Involuntary,1.4,High,Yes,Does Not Meet,Conditional,MGR0004,Canada
+EMP00938,Layla Adams,Design,L7,Dallas,2016-10-02,2020-08-18,6.6,Retirement,Voluntary,4.3,Medium,Yes,Does Not Meet,Conditional,MGR0039,USA
+EMP00038,Wei Patel,Product,L1,San Francisco,2016-07-17,2017-07-12,2.86,Abandonment,Involuntary,4.4,Medium,Yes,Partially Meets,Conditional,MGR0048,USA
+EMP00816,Kevin Patel,Engineering,L4,San Francisco,2019-03-15,2022-10-04,4.98,End of Contract,Involuntary,3.5,Low,No,Partially Meets,No,MGR0016,USA
+EMP00109,Carlos Martinez,IT,L4,Boston,2017-07-29,2018-10-11,8.34,Abandonment,Involuntary,2.8,High,No,Does Not Meet,Yes,MGR0027,Germany
+EMP00914,Zara Harris,Customer Success,L5,San Francisco,2016-06-03,2019-12-01,0.98,Retirement,Voluntary,4.4,High,No,Exceeds,No,MGR0034,India
+EMP00971,Andre Ali,Data Science,L7,New York,2020-10-28,2021-03-03,5.05,Resignation,Voluntary,2.7,Medium,Yes,Meets,Conditional,MGR0045,India
+EMP00684,Marcus Smith,Legal,L1,Chicago,2014-04-16,2016-07-20,0.86,Layoff,Involuntary,3.5,Low,Yes,Partially Meets,Conditional,MGR0003,USA
+EMP00836,Maria Ivanov,Product,L6,Austin,2016-06-25,2020-06-05,6.05,End of Contract,Involuntary,4.0,Medium,No,Partially Meets,Conditional,MGR0015,UK
+EMP00328,Isabella Mitchell,IT,L5,Dallas,2020-10-17,2023-03-28,7.61,Abandonment,Involuntary,1.5,Medium,Yes,Meets,Conditional,MGR0041,India
+EMP01025,Mei Patel,Product,L7,Seattle,2014-08-19,2016-07-08,0.79,Abandonment,Involuntary,3.4,Low,Yes,Partially Meets,Conditional,MGR0005,Australia
+EMP00596,Rohan Harris,Legal,L2,San Francisco,2021-04-16,2026-02-05,8.21,Abandonment,Involuntary,5.0,Low,Yes,Does Not Meet,Yes,MGR0008,Australia
+EMP00094,Soren Green,Finance,L3,Seattle,2019-01-30,2021-05-18,1.07,Layoff,Involuntary,1.8,Low,Yes,Partially Meets,Yes,MGR0007,UK
+EMP01072,Maria Green,HR,L1,Atlanta,2017-05-15,2018-09-02,6.02,Abandonment,Involuntary,3.1,Low,Yes,Exceeds,Conditional,MGR0038,Canada
+EMP00441,Sara Scott,Customer Success,L4,Austin,2020-10-20,2024-08-04,6.33,Performance,Involuntary,4.7,High,No,Meets,Conditional,MGR0007,Canada
+EMP00757,Arjun Taylor,Data Science,L7,San Francisco,2018-06-04,2022-01-26,4.24,Abandonment,Involuntary,3.0,High,Yes,Meets,Conditional,MGR0031,India
+EMP00415,Priya Walker,Design,L2,San Francisco,2023-06-24,2025-12-18,4.84,Retirement,Voluntary,1.9,Medium,Yes,Meets,No,MGR0009,Australia
+EMP00720,Mia Andersen,Sales,L6,Remote,2014-12-05,2018-08-19,5.3,Layoff,Involuntary,4.2,Low,Yes,Exceeds,No,MGR0044,India
+EMP01127,Chloe Sharma,Finance,L1,San Francisco,2015-01-28,2019-04-09,8.93,Layoff,Involuntary,1.4,Medium,Yes,Partially Meets,Yes,MGR0019,Germany
+EMP00622,Fatima Carter,Data Science,L1,Austin,2022-10-15,2026-07-31,6.96,Performance,Involuntary,2.0,Medium,Yes,Partially Meets,No,MGR0027,UK
+EMP00549,Kevin Lewis,Legal,L6,San Francisco,2020-11-13,2021-06-17,9.8,Resignation,Voluntary,2.7,Medium,Yes,Partially Meets,Yes,MGR0020,Canada
+EMP00424,Ryan Adams,Design,L1,Chicago,2016-12-10,2018-02-07,4.73,End of Contract,Involuntary,2.3,Low,Yes,Partially Meets,No,MGR0006,Australia
+EMP00974,Hassan Nguyen,Legal,L7,San Francisco,2020-02-08,2023-09-07,6.71,Resignation,Voluntary,4.3,High,Yes,Meets,No,MGR0025,UK
+EMP01188,Mia Wright,IT,L2,New York,2019-12-01,2021-06-30,6.38,Layoff,Involuntary,1.7,Medium,Yes,Does Not Meet,No,MGR0038,Australia
+EMP01098,Sophia Martinez,IT,L3,Chicago,2023-07-04,2025-12-17,2.39,End of Contract,Involuntary,2.5,Low,Yes,Exceeds,Yes,MGR0041,Germany
+EMP01130,Diego Mitchell,Engineering,L7,Remote,2021-10-10,2026-02-01,7.95,Layoff,Involuntary,4.1,Medium,Yes,Partially Meets,Conditional,MGR0041,India
+EMP00527,Chloe Mitchell,Marketing,L5,Chicago,2016-04-19,2016-05-23,2.77,Retirement,Voluntary,1.8,Medium,No,Meets,Yes,MGR0017,India
+EMP00784,Mia Hall,Legal,L4,Remote,2018-04-20,2020-06-17,2.62,Resignation,Voluntary,1.1,Medium,Yes,Partially Meets,Yes,MGR0019,India
+EMP00432,Jake Adams,Marketing,L5,Boston,2021-02-27,2024-05-23,3.5,Layoff,Involuntary,2.8,High,Yes,Exceeds,Conditional,MGR0023,India
+EMP00130,Chris Hall,IT,L3,Remote,2021-07-07,2026-05-18,2.79,End of Contract,Involuntary,4.9,Medium,No,Exceeds,Yes,MGR0037,Canada
+EMP01177,Chloe Costa,Operations,L2,Boston,2022-01-18,2025-07-10,6.05,Abandonment,Involuntary,4.4,Medium,Yes,Partially Meets,Yes,MGR0017,Canada
+EMP00475,Layla Smith,Engineering,L1,Remote,2014-05-26,2018-12-24,8.0,End of Contract,Involuntary,2.4,High,No,Does Not Meet,Yes,MGR0018,UK
+EMP00389,Ananya Ferreira,Data Science,L4,Dallas,2021-04-18,2025-06-20,9.63,End of Contract,Involuntary,2.7,Low,No,Partially Meets,No,MGR0002,Canada
+EMP01000,Marcus Nelson,Engineering,L7,Denver,2020-11-10,2021-07-16,5.88,Retirement,Voluntary,1.3,Medium,No,Does Not Meet,Yes,MGR0006,USA
+EMP01162,Layla Nakamura,Design,L4,San Francisco,2021-07-05,2022-10-18,3.43,Abandonment,Involuntary,2.9,Medium,Yes,Does Not Meet,Conditional,MGR0021,USA
+EMP00513,Ryan Turner,Customer Success,L4,New York,2020-04-27,2022-04-20,6.89,Resignation,Voluntary,2.5,Low,Yes,Partially Meets,Conditional,MGR0047,Australia
+EMP00937,Marcus Ali,Operations,L5,Denver,2015-01-11,2016-04-03,5.8,Performance,Involuntary,2.3,Medium,Yes,Exceeds,Conditional,MGR0022,Canada
+EMP01122,Soren Müller,Product,L3,Seattle,2017-08-01,2022-06-20,0.55,Mutual Agreement,Involuntary,4.3,Low,Yes,Meets,Conditional,MGR0028,USA
+EMP00320,Ryan Scott,Marketing,L3,Atlanta,2018-04-16,2023-01-12,1.33,Mutual Agreement,Involuntary,4.8,High,Yes,Exceeds,Conditional,MGR0016,Germany
+EMP00468,Chloe Nguyen,Legal,L7,Seattle,2016-08-18,2020-09-01,5.19,Retirement,Voluntary,4.2,Low,Yes,Meets,Conditional,MGR0042,UK
+EMP00266,Mia Ahmed,Customer Success,L7,New York,2019-06-05,2020-11-16,6.74,Abandonment,Involuntary,1.8,Low,Yes,Meets,Yes,MGR0047,USA
+EMP01138,Andre Okafor,Product,L5,Remote,2013-03-31,2017-08-23,3.84,Resignation,Voluntary,2.3,Low,No,Meets,Yes,MGR0049,UK
+EMP00524,Sara Okafor,Design,L4,Atlanta,2020-03-17,2023-02-11,3.57,Abandonment,Involuntary,2.5,Medium,Yes,Meets,No,MGR0021,Canada
+EMP01182,Mia Clark,HR,L3,Seattle,2014-08-24,2015-01-06,6.83,Layoff,Involuntary,1.8,Low,Yes,Does Not Meet,Conditional,MGR0050,Germany
+EMP00449,Ingrid Ivanov,HR,L1,Dallas,2017-03-27,2021-07-04,0.81,Mutual Agreement,Involuntary,4.9,High,Yes,Partially Meets,No,MGR0044,Canada
+EMP01090,Mia Lee,Product,L2,San Francisco,2013-12-30,2016-10-01,8.87,Mutual Agreement,Involuntary,2.2,Medium,Yes,Does Not Meet,No,MGR0012,Australia
+EMP00766,Isabella Ferreira,Product,L5,Boston,2017-08-21,2018-06-25,7.0,Retirement,Voluntary,3.0,Low,No,Does Not Meet,No,MGR0017,Canada
+EMP00091,Leila Andersen,Data Science,L3,Chicago,2021-09-03,2026-07-27,9.42,Performance,Involuntary,4.4,Low,Yes,Meets,Conditional,MGR0023,India
+EMP01157,Rohan Johnson,HR,L4,Denver,2018-01-02,2022-04-16,4.71,Retirement,Voluntary,3.2,Medium,Yes,Partially Meets,Yes,MGR0002,Canada
+EMP00113,Aisha Robinson,IT,L4,Boston,2017-09-22,2020-06-04,2.08,Performance,Involuntary,1.4,Medium,Yes,Meets,Conditional,MGR0050,India
+EMP00586,Maria Garcia,Data Science,L6,New York,2013-09-01,2017-03-27,5.75,End of Contract,Involuntary,2.1,High,Yes,Partially Meets,No,MGR0023,Australia
+EMP00034,Mia Costa,Design,L3,Boston,2018-09-05,2019-08-08,2.52,Layoff,Involuntary,4.9,Medium,No,Does Not Meet,No,MGR0016,UK
+EMP00503,Sofia Brown,Legal,L4,New York,2015-01-09,2016-03-24,6.35,Abandonment,Involuntary,4.7,Low,Yes,Exceeds,No,MGR0030,USA
+EMP00299,Aisha Chen,Engineering,L6,Chicago,2022-08-05,2025-11-15,8.17,Mutual Agreement,Involuntary,3.3,Low,Yes,Does Not Meet,Yes,MGR0006,Germany
+EMP00635,Hassan Wright,IT,L6,Denver,2020-09-24,2025-02-07,8.35,End of Contract,Involuntary,5.0,High,No,Exceeds,Conditional,MGR0021,Germany
+EMP00581,Olivia Ferreira,Legal,L1,Seattle,2015-05-31,2019-09-10,7.33,Retirement,Voluntary,2.9,Medium,Yes,Does Not Meet,Conditional,MGR0032,Australia
+EMP01186,Elena Turner,IT,L4,Denver,2013-01-01,2014-08-28,6.75,Mutual Agreement,Involuntary,4.4,Medium,No,Meets,Conditional,MGR0040,USA
+EMP01139,Wei White,Legal,L3,Remote,2021-04-21,2023-06-23,5.9,Mutual Agreement,Involuntary,1.1,Low,No,Exceeds,No,MGR0046,India
+EMP00448,Noah Singh,Design,L2,Remote,2020-11-12,2022-04-02,7.07,Mutual Agreement,Involuntary,3.0,Medium,Yes,Partially Meets,No,MGR0031,Australia
+EMP00768,Chloe Nguyen,Marketing,L1,Seattle,2015-09-19,2019-04-17,0.64,End of Contract,Involuntary,1.3,High,No,Does Not Meet,No,MGR0003,UK
+EMP01110,Isabella Ali,Customer Success,L5,San Francisco,2018-06-08,2020-03-28,2.61,Retirement,Voluntary,3.9,Low,Yes,Meets,No,MGR0030,UK
+EMP01096,Wei Singh,HR,L3,Remote,2022-09-12,2024-06-22,2.7,Abandonment,Involuntary,1.4,Low,No,Meets,Conditional,MGR0015,Germany
+EMP00414,Omar Williams,Customer Success,L6,Denver,2018-05-24,2022-02-03,4.19,Layoff,Involuntary,4.7,Medium,Yes,Partially Meets,Yes,MGR0014,USA
+EMP00905,Hassan Mitchell,HR,L1,Austin,2015-04-14,2017-06-02,3.62,Resignation,Voluntary,2.5,Medium,Yes,Partially Meets,Conditional,MGR0006,UK
+EMP01069,Jasmine Young,Operations,L6,Austin,2015-05-11,2018-12-04,6.97,End of Contract,Involuntary,3.0,Low,Yes,Partially Meets,Conditional,MGR0040,USA
+EMP00207,Amara Roberts,Data Science,L7,San Francisco,2022-01-27,2025-05-23,9.18,End of Contract,Involuntary,4.9,Low,Yes,Partially Meets,No,MGR0034,USA
+EMP01083,Andre Adams,Marketing,L2,Dallas,2017-03-24,2019-11-22,2.13,Performance,Involuntary,4.4,Low,Yes,Partially Meets,Conditional,MGR0049,Germany
+EMP00623,Andre Garcia,Design,L1,Chicago,2014-01-11,2017-03-07,9.61,Mutual Agreement,Involuntary,1.3,Medium,Yes,Meets,No,MGR0009,Australia
+EMP00780,Amara Martinez,Sales,L6,Remote,2019-10-22,2024-06-19,8.78,Layoff,Involuntary,3.3,Low,Yes,Exceeds,Conditional,MGR0048,USA
+EMP00131,Lucas Okafor,Product,L2,Seattle,2014-12-12,2015-05-20,1.0,End of Contract,Involuntary,1.3,Low,Yes,Exceeds,Yes,MGR0016,USA
+EMP00203,Sara Smith,Engineering,L1,Boston,2016-09-23,2020-05-28,2.31,Performance,Involuntary,1.8,Medium,Yes,Exceeds,No,MGR0029,Germany
+EMP00334,Carlos Lee,IT,L6,Denver,2013-12-27,2017-11-01,3.67,Mutual Agreement,Involuntary,3.2,Low,Yes,Partially Meets,No,MGR0027,Australia
+EMP00236,Isabella Robinson,Operations,L3,San Francisco,2022-06-01,2026-06-19,7.85,Retirement,Voluntary,4.0,High,No,Exceeds,Yes,MGR0027,Germany
+EMP00286,Mei Okafor,Engineering,L4,Seattle,2022-08-15,2026-01-20,6.88,Performance,Involuntary,4.7,Low,Yes,Exceeds,No,MGR0007,Australia
+EMP00740,Jake Perez,IT,L1,New York,2021-05-23,2023-08-14,0.68,Mutual Agreement,Involuntary,4.0,Low,No,Meets,Yes,MGR0043,UK
+EMP00718,Emma Ferreira,Customer Success,L2,Denver,2014-07-03,2019-01-26,8.26,Mutual Agreement,Involuntary,4.7,High,No,Exceeds,Conditional,MGR0032,UK
+EMP01154,Liam Nelson,Legal,L7,Remote,2023-05-29,2026-07-31,5.73,Retirement,Voluntary,2.5,High,Yes,Meets,Conditional,MGR0018,Canada
+EMP00697,Aisha Singh,Engineering,L3,Remote,2019-06-05,2023-12-28,2.38,Mutual Agreement,Involuntary,3.6,Low,No,Partially Meets,No,MGR0009,India
+EMP00841,Maria Roberts,HR,L2,Austin,2019-03-08,2022-10-12,0.4,Retirement,Voluntary,4.8,Low,Yes,Partially Meets,Conditional,MGR0022,Germany
+EMP00925,Rohan Smith,Customer Success,L4,San Francisco,2018-07-14,2022-09-26,1.53,Layoff,Involuntary,2.4,Medium,Yes,Meets,Conditional,MGR0003,UK
+EMP00041,Ananya Johnson,Design,L2,Dallas,2020-08-04,2023-07-18,4.05,Abandonment,Involuntary,4.2,High,Yes,Exceeds,Yes,MGR0012,UK
+EMP00517,Omar Robinson,Product,L3,Atlanta,2013-02-22,2015-07-29,9.55,Abandonment,Involuntary,2.6,Low,Yes,Exceeds,Conditional,MGR0038,USA
+EMP00162,Hassan Turner,IT,L5,Boston,2015-11-20,2016-06-07,4.41,Mutual Agreement,Involuntary,4.9,Medium,Yes,Exceeds,Yes,MGR0025,UK
+EMP00121,Chloe Brown,HR,L5,Dallas,2020-01-13,2024-10-30,4.97,Performance,Involuntary,3.0,Low,Yes,Does Not Meet,No,MGR0028,Australia
+EMP01092,Isabella Chen,HR,L4,New York,2023-03-22,2026-07-31,4.23,End of Contract,Involuntary,1.5,High,No,Exceeds,Yes,MGR0007,Australia
+EMP00588,Jake Singh,Finance,L4,Remote,2022-09-26,2023-11-26,2.84,End of Contract,Involuntary,4.0,High,No,Exceeds,Yes,MGR0033,USA
+EMP01128,Andre Turner,Design,L3,Dallas,2015-04-30,2017-04-03,5.91,Resignation,Voluntary,5.0,Medium,No,Meets,Conditional,MGR0011,Australia
+EMP01067,David Scott,Design,L7,San Francisco,2019-05-22,2021-02-03,2.67,Performance,Involuntary,4.2,Low,Yes,Partially Meets,Yes,MGR0020,Canada
+EMP00327,Nadia Hernandez,Sales,L6,Denver,2014-06-09,2017-08-30,4.79,Layoff,Involuntary,3.6,Low,Yes,Meets,Yes,MGR0043,Australia
+EMP00281,Hannah Nakamura,Customer Success,L7,Dallas,2017-06-02,2020-04-07,4.1,Resignation,Voluntary,3.5,Low,Yes,Partially Meets,No,MGR0045,Australia
+EMP00443,Sara Carter,Data Science,L5,Austin,2014-09-04,2018-01-30,8.74,Layoff,Involuntary,1.6,High,No,Exceeds,Yes,MGR0034,India
+EMP00192,Zara Garcia,Legal,L5,Dallas,2014-09-24,2016-03-09,3.49,Performance,Involuntary,3.1,Medium,No,Does Not Meet,No,MGR0027,Australia
+EMP00152,Leila Ferreira,Finance,L3,Dallas,2018-07-22,2021-06-14,2.27,Resignation,Voluntary,4.9,Low,Yes,Partially Meets,Conditional,MGR0031,UK
+EMP00721,Omar Baker,HR,L1,Atlanta,2014-08-24,2015-03-04,3.29,Layoff,Involuntary,2.4,Low,Yes,Meets,Conditional,MGR0045,Germany
+EMP00173,Ingrid Thomas,Finance,L1,San Francisco,2018-06-25,2020-02-07,7.09,End of Contract,Involuntary,2.2,Low,Yes,Meets,No,MGR0029,UK
+EMP01023,Mia Nelson,Sales,L7,Remote,2021-07-13,2022-04-15,6.23,Abandonment,Involuntary,2.7,Medium,Yes,Partially Meets,Conditional,MGR0027,UK
+EMP00171,Jasmine Hernandez,Data Science,L4,Seattle,2021-10-30,2023-09-11,8.88,Resignation,Voluntary,3.4,Medium,No,Does Not Meet,Yes,MGR0047,USA
+EMP00205,Soren Ali,Operations,L6,Dallas,2023-03-31,2026-07-31,8.2,Resignation,Voluntary,1.2,High,Yes,Meets,Yes,MGR0006,Australia
+EMP00504,Ananya Baker,Marketing,L2,Seattle,2016-09-02,2019-12-24,1.53,Retirement,Voluntary,3.1,Low,No,Meets,No,MGR0050,Australia
+EMP01146,Jake Ahmed,Customer Success,L1,Remote,2019-09-25,2020-10-01,6.32,Retirement,Voluntary,4.1,Medium,No,Exceeds,Yes,MGR0041,Germany
+EMP00957,Zara Smith,Finance,L5,New York,2013-05-18,2014-12-31,0.81,Resignation,Voluntary,4.4,High,Yes,Meets,No,MGR0034,Canada
+EMP00759,Carlos Hernandez,Operations,L3,Seattle,2017-06-28,2021-10-04,4.23,Retirement,Voluntary,1.1,High,No,Meets,No,MGR0003,Germany
+EMP00337,Olivia Ferreira,Data Science,L6,Austin,2022-12-27,2025-07-09,5.01,Retirement,Voluntary,1.2,Medium,No,Meets,No,MGR0045,UK
+EMP00002,Carlos Green,Design,L2,Dallas,2020-01-01,2023-04-19,8.23,Resignation,Voluntary,2.4,Medium,No,Meets,Conditional,MGR0024,Australia
+EMP00785,Omar Sharma,Design,L7,Chicago,2013-06-24,2014-07-08,5.62,Resignation,Voluntary,4.4,Low,Yes,Does Not Meet,No,MGR0021,Germany
+EMP00224,Jake Nguyen,Legal,L3,Chicago,2014-07-23,2015-02-20,9.43,Layoff,Involuntary,2.5,Medium,No,Partially Meets,No,MGR0048,Canada
+EMP01133,Leila Johnson,Product,L7,Boston,2013-01-11,2015-08-12,0.91,End of Contract,Involuntary,4.1,Low,No,Exceeds,Conditional,MGR0033,USA
+EMP00063,Sara Chen,Marketing,L5,Seattle,2018-02-12,2020-11-27,3.06,Performance,Involuntary,4.2,Low,Yes,Partially Meets,Yes,MGR0044,USA
+EMP00022,Ryan Nguyen,Customer Success,L7,Chicago,2017-10-26,2019-06-12,5.22,End of Contract,Involuntary,3.6,Low,No,Does Not Meet,No,MGR0029,Canada
+EMP00019,Jasmine Sharma,IT,L1,Atlanta,2017-11-15,2019-12-02,0.29,Retirement,Voluntary,2.3,Low,No,Partially Meets,Conditional,MGR0046,India
+EMP00562,Noah Clark,Customer Success,L4,Atlanta,2020-02-29,2024-12-04,1.11,Performance,Involuntary,4.4,Low,Yes,Meets,Conditional,MGR0001,Germany
+EMP00532,Maria Harris,Legal,L6,Chicago,2015-12-25,2020-05-14,3.05,End of Contract,Involuntary,1.5,High,Yes,Does Not Meet,No,MGR0008,USA
+EMP00386,Emma Taylor,Data Science,L3,Atlanta,2020-06-12,2020-10-17,4.6,Resignation,Voluntary,1.9,Medium,No,Partially Meets,Yes,MGR0043,USA
+EMP01137,Marcus Young,Product,L2,Austin,2022-03-08,2025-12-17,3.59,Performance,Involuntary,2.5,Low,Yes,Does Not Meet,No,MGR0007,India
+EMP00702,Tariq Baker,Product,L3,San Francisco,2016-11-04,2018-06-10,4.0,Mutual Agreement,Involuntary,2.3,Low,Yes,Does Not Meet,Yes,MGR0040,Australia
+EMP00413,Fatima Young,Operations,L3,Boston,2016-07-10,2017-06-15,5.57,Layoff,Involuntary,4.3,Low,No,Partially Meets,No,MGR0048,Germany
+EMP00465,Sara Lewis,Sales,L6,Denver,2016-05-19,2021-02-17,4.08,Retirement,Voluntary,1.6,Low,Yes,Exceeds,Yes,MGR0027,India
+EMP01131,Mia Nelson,Data Science,L3,Atlanta,2015-09-04,2016-12-14,0.12,Mutual Agreement,Involuntary,1.1,High,Yes,Does Not Meet,Conditional,MGR0029,Australia
+EMP00608,Tariq Harris,Data Science,L5,Atlanta,2021-01-13,2021-08-27,7.23,Performance,Involuntary,4.2,Low,Yes,Partially Meets,Yes,MGR0036,UK
+EMP00747,Mei Garcia,Customer Success,L6,Chicago,2021-01-02,2022-11-17,5.04,End of Contract,Involuntary,2.1,Low,Yes,Exceeds,Yes,MGR0030,USA
+EMP00627,Jake Patel,Engineering,L1,Atlanta,2015-02-22,2018-08-21,3.54,Abandonment,Involuntary,3.7,Low,Yes,Exceeds,No,MGR0048,USA
+EMP00005,Soren Nelson,Finance,L5,New York,2023-07-18,2025-10-09,4.94,Retirement,Voluntary,2.7,Low,Yes,Partially Meets,No,MGR0044,USA
+EMP00004,Emma White,IT,L7,Chicago,2017-06-18,2021-06-28,6.68,Layoff,Involuntary,4.1,Low,Yes,Does Not Meet,No,MGR0044,India
+EMP00529,Chloe Harris,HR,L3,Boston,2016-12-16,2018-02-24,7.06,Abandonment,Involuntary,3.4,High,Yes,Exceeds,No,MGR0009,India
+EMP00534,Olivia Williams,HR,L2,Boston,2018-12-28,2022-02-02,8.22,Layoff,Involuntary,4.0,Low,Yes,Exceeds,No,MGR0013,USA
+EMP00934,Amara Martinez,Product,L6,Seattle,2019-10-09,2022-06-23,9.76,Abandonment,Involuntary,1.9,Medium,No,Meets,No,MGR0031,Australia
+EMP01058,Raj Wilson,Sales,L6,Seattle,2021-08-28,2025-10-25,5.25,End of Contract,Involuntary,1.1,Low,No,Exceeds,Conditional,MGR0004,Canada
+EMP00093,Sara Baker,Legal,L7,Boston,2020-07-21,2024-09-04,5.65,Layoff,Involuntary,1.6,High,No,Meets,No,MGR0012,Australia
+EMP00125,Tyler Scott,Finance,L6,San Francisco,2017-08-28,2019-01-25,1.5,Mutual Agreement,Involuntary,3.0,Low,Yes,Does Not Meet,Conditional,MGR0007,USA
+EMP00259,Wei Smith,Marketing,L1,Seattle,2022-02-01,2022-11-16,6.3,Mutual Agreement,Involuntary,1.7,High,Yes,Exceeds,Yes,MGR0038,Canada
+EMP00122,Soren Okafor,Operations,L7,Remote,2021-11-09,2025-07-15,8.66,End of Contract,Involuntary,2.6,Medium,Yes,Partially Meets,Conditional,MGR0041,UK
+EMP01075,Zara Nguyen,Operations,L6,Boston,2017-03-27,2019-05-28,2.87,Mutual Agreement,Involuntary,4.7,High,No,Exceeds,Conditional,MGR0035,Australia
+EMP00649,Mei Williams,HR,L4,Atlanta,2022-07-14,2026-07-31,1.96,Mutual Agreement,Involuntary,4.9,Low,Yes,Meets,Yes,MGR0014,Germany
+EMP01078,Ryan Patel,Design,L5,Chicago,2022-04-05,2025-12-22,4.5,Mutual Agreement,Involuntary,4.8,Medium,No,Partially Meets,Yes,MGR0035,UK
+EMP00594,Rohan Jackson,Data Science,L2,Austin,2022-09-01,2025-07-14,0.38,Resignation,Voluntary,1.3,Low,No,Meets,Yes,MGR0016,UK
+EMP00095,Emma Nguyen,Product,L2,Dallas,2015-12-30,2016-05-30,2.15,Resignation,Voluntary,2.6,High,Yes,Does Not Meet,No,MGR0019,Canada
+EMP00394,Tariq Wright,Engineering,L4,Atlanta,2023-03-08,2025-12-20,4.41,Resignation,Voluntary,4.9,High,Yes,Does Not Meet,Yes,MGR0048,Germany
+EMP00629,Raj Nelson,Product,L6,San Francisco,2017-03-09,2017-04-13,6.4,Retirement,Voluntary,1.7,High,Yes,Meets,Yes,MGR0019,Germany
+EMP00920,Nina King,Engineering,L6,Seattle,2018-11-15,2023-09-11,1.12,End of Contract,Involuntary,2.6,Low,Yes,Exceeds,Yes,MGR0043,India
+EMP00241,Ananya Taylor,Legal,L3,Remote,2017-05-05,2022-02-28,4.35,Performance,Involuntary,2.2,Low,No,Exceeds,No,MGR0003,UK
+EMP00143,Noah Green,Data Science,L1,Denver,2021-01-19,2024-12-21,7.87,Abandonment,Involuntary,2.0,Low,Yes,Does Not Meet,Conditional,MGR0001,India
+EMP00889,Kevin Kim,Design,L5,Atlanta,2016-05-07,2017-02-28,6.86,Performance,Involuntary,1.5,High,No,Partially Meets,Conditional,MGR0037,USA
+EMP00951,Fatima Scott,Legal,L4,New York,2015-02-09,2017-06-01,4.68,End of Contract,Involuntary,1.7,Medium,Yes,Exceeds,Conditional,MGR0016,Australia
+EMP00716,Wei Taylor,Marketing,L4,New York,2023-02-09,2025-06-03,1.49,Mutual Agreement,Involuntary,1.5,Low,No,Exceeds,Conditional,MGR0046,Germany
+EMP00744,Olivia Lewis,Engineering,L2,Remote,2018-02-09,2020-03-31,2.4,Abandonment,Involuntary,4.1,Medium,No,Meets,Conditional,MGR0020,India
+EMP01114,Chris Williams,Engineering,L4,Boston,2020-08-27,2025-06-10,4.54,End of Contract,Involuntary,4.5,Medium,Yes,Does Not Meet,No,MGR0022,UK
+EMP00592,Jasmine Perez,Design,L3,San Francisco,2017-03-26,2020-07-13,0.36,Layoff,Involuntary,1.7,High,Yes,Exceeds,Yes,MGR0010,Germany
+EMP01113,Soren Taylor,Operations,L5,Remote,2015-09-29,2016-11-19,7.09,Resignation,Voluntary,3.3,High,Yes,Partially Meets,Conditional,MGR0030,USA
+EMP00046,Yuki Perez,Engineering,L2,New York,2018-07-12,2021-05-16,3.52,Resignation,Voluntary,3.0,High,No,Partially Meets,Yes,MGR0009,UK
+EMP00398,Aarav Taylor,Sales,L4,Seattle,2023-03-17,2026-07-31,5.45,Retirement,Voluntary,1.9,Low,No,Partially Meets,Yes,MGR0016,Canada
+EMP00952,Emma King,Product,L7,Denver,2017-04-27,2020-07-14,4.63,Performance,Involuntary,4.5,Medium,Yes,Exceeds,No,MGR0018,India
+EMP01077,Ingrid Scott,Design,L4,Chicago,2016-06-24,2018-05-19,8.44,Mutual Agreement,Involuntary,3.6,Medium,Yes,Exceeds,Yes,MGR0015,India
+EMP00345,Raj Turner,Design,L4,Boston,2015-12-19,2019-04-20,9.13,Abandonment,Involuntary,4.9,Medium,Yes,Exceeds,Yes,MGR0020,Germany
+EMP00696,James Scott,Finance,L6,Atlanta,2016-02-25,2019-03-23,7.28,Abandonment,Involuntary,1.9,High,No,Exceeds,No,MGR0025,USA
+EMP00901,Ethan Martinez,Product,L1,Atlanta,2022-08-10,2024-08-07,5.98,Abandonment,Involuntary,4.4,Medium,No,Partially Meets,No,MGR0027,USA

@@ -1,0 +1,701 @@
+requisition_id,candidate_id,department,job_title,job_level,location,source,applied_date,stage,days_to_hire,offer_extended,offer_accepted,offer_amount,diversity_flag,campus_hire,hired,rejection_reason,recruiter_id,hiring_manager_id,interview_rounds,cost_per_hire
+REQ00001,CAND00001,HR,Engineer,L4,Denver,LinkedIn,2023-12-03,Withdrawn,109,No,Yes,130238,No,Yes,No,Overqualified,REC18,MGR0024,1,14703
+REQ00002,CAND00002,IT,Director,L5,Atlanta,Glassdoor,2023-04-18,Hired,79,No,No,150142,Yes,Yes,No,None,REC08,MGR0019,5,12436
+REQ00003,CAND00003,Design,Analyst,L6,Denver,Internal Transfer,2022-03-20,Offer,51,Yes,Pending,104594,Yes,Yes,No,Culture Fit,REC17,MGR0050,5,8921
+REQ00004,CAND00004,IT,Manager,L4,Chicago,Internal Transfer,2022-01-18,Rejected,39,No,No,188948,Yes,Yes,No,Withdrew,REC06,MGR0012,2,2058
+REQ00005,CAND00005,Marketing,Analyst,L1,Austin,Agency,2022-12-15,Technical Assessment,44,Yes,No,118427,No,No,Yes,None,REC15,MGR0009,1,14343
+REQ00006,CAND00006,Design,Analyst,L2,Boston,Direct Application,2020-10-25,Hired,112,No,Pending,142530,No,Yes,Yes,Culture Fit,REC20,MGR0013,6,6254
+REQ00007,CAND00007,Engineering,Analyst,L5,Chicago,Direct Application,2022-09-09,Technical Assessment,37,No,Pending,177704,No,No,No,Failed Assessment,REC20,MGR0049,4,13304
+REQ00008,CAND00008,Design,Associate,L4,San Francisco,Indeed,2025-07-11,Rejected,116,No,No,79590,No,Yes,No,Position Closed,REC04,MGR0001,1,13639
+REQ00009,CAND00009,Legal,Engineer,L1,New York,Campus Recruiting,2026-06-15,Screening,75,Yes,Pending,113157,No,No,Yes,Overqualified,REC14,MGR0025,4,1927
+REQ00010,CAND00010,Marketing,Associate,L1,San Francisco,Employee Referral,2020-01-29,Rejected,44,No,Yes,182361,Yes,No,No,Withdrew,REC08,MGR0005,1,2234
+REQ00011,CAND00011,Design,Analyst,L4,New York,LinkedIn,2020-11-19,Technical Assessment,10,No,Pending,174125,Yes,No,Yes,Withdrew,REC04,MGR0012,3,5867
+REQ00012,CAND00012,Operations,Analyst,L5,Boston,Employee Referral,2024-02-13,Technical Assessment,110,Yes,Yes,84927,No,No,No,Overqualified,REC20,MGR0035,1,2485
+REQ00013,CAND00013,Data Science,Associate,L6,New York,Agency,2025-05-13,Hired,82,No,Pending,59713,No,No,No,None,REC18,MGR0050,5,4998
+REQ00014,CAND00014,Sales,Manager,L6,Chicago,Agency,2025-07-07,Screening,32,Yes,Yes,123025,No,Yes,No,Failed Assessment,REC06,MGR0048,5,5566
+REQ00015,CAND00015,Legal,Manager,L4,Dallas,Agency,2022-06-25,Withdrawn,107,No,Pending,176566,No,No,Yes,Overqualified,REC05,MGR0029,5,10590
+REQ00016,CAND00016,Sales,Director,L6,Seattle,Agency,2021-02-01,Hired,23,No,Yes,93138,Yes,No,No,Overqualified,REC09,MGR0033,2,13212
+REQ00017,CAND00017,Operations,Senior Engineer,L6,Atlanta,Direct Application,2023-07-02,Withdrawn,26,No,No,67667,Yes,Yes,Yes,Salary Mismatch,REC14,MGR0003,4,8289
+REQ00018,CAND00018,Sales,Engineer,L7,Seattle,Glassdoor,2026-04-22,Technical Assessment,88,No,Pending,165561,No,No,No,None,REC12,MGR0001,3,5376
+REQ00019,CAND00019,Legal,Director,L3,Seattle,Agency,2025-08-09,Technical Assessment,20,Yes,Pending,159358,No,Yes,Yes,Withdrew,REC06,MGR0044,4,12769
+REQ00020,CAND00020,Finance,Senior Engineer,L2,Chicago,Internal Transfer,2026-04-20,Panel Interview,15,No,Pending,73695,No,Yes,No,Salary Mismatch,REC16,MGR0042,2,3062
+REQ00021,CAND00021,Customer Success,Senior Analyst,L4,San Francisco,Glassdoor,2021-08-22,Withdrawn,24,No,Yes,54197,Yes,Yes,No,Withdrew,REC08,MGR0044,3,12327
+REQ00022,CAND00022,HR,Director,L2,Atlanta,Agency,2020-01-22,Hired,29,No,Yes,83586,No,Yes,No,Culture Fit,REC05,MGR0028,4,4727
+REQ00023,CAND00023,Marketing,Associate,L6,New York,Indeed,2023-09-15,Hired,96,Yes,No,141224,Yes,No,No,Culture Fit,REC03,MGR0050,1,7659
+REQ00024,CAND00024,Sales,Senior Engineer,L7,Austin,Campus Recruiting,2020-04-14,Applied,107,Yes,No,64267,Yes,No,Yes,Failed Assessment,REC05,MGR0031,5,2320
+REQ00025,CAND00025,Design,Director,L6,Boston,Campus Recruiting,2023-12-03,Withdrawn,70,No,Pending,143024,Yes,Yes,Yes,Position Closed,REC19,MGR0014,1,10574
+REQ00026,CAND00026,Customer Success,Engineer,L4,Chicago,Agency,2022-07-13,Offer,33,Yes,Yes,109707,Yes,No,No,Position Closed,REC14,MGR0012,4,8807
+REQ00027,CAND00027,Engineering,Senior Analyst,L7,Dallas,Agency,2023-11-20,Applied,45,No,Pending,149903,Yes,Yes,Yes,Overqualified,REC13,MGR0043,2,2921
+REQ00028,CAND00028,Engineering,Analyst,L3,Austin,Employee Referral,2020-08-27,Withdrawn,90,Yes,Pending,151508,Yes,No,Yes,Culture Fit,REC04,MGR0012,3,7368
+REQ00029,CAND00029,Sales,Manager,L2,New York,Direct Application,2024-05-24,Phone Interview,24,No,Yes,90479,No,Yes,No,Salary Mismatch,REC05,MGR0007,4,14050
+REQ00030,CAND00030,Data Science,Analyst,L3,Austin,Indeed,2021-04-10,Technical Assessment,25,Yes,Pending,126930,Yes,No,No,None,REC06,MGR0030,4,6659
+REQ00031,CAND00031,Design,Senior Engineer,L3,Remote,Indeed,2024-01-01,Offer,41,Yes,No,93078,No,No,No,None,REC15,MGR0023,5,5798
+REQ00032,CAND00032,Legal,Senior Analyst,L3,Remote,Indeed,2025-04-16,Withdrawn,89,No,Pending,77704,No,No,Yes,Failed Assessment,REC18,MGR0044,2,8968
+REQ00033,CAND00033,Product,Analyst,L2,Denver,Indeed,2021-05-20,Panel Interview,50,No,Yes,89187,No,Yes,Yes,Withdrew,REC15,MGR0009,1,9494
+REQ00034,CAND00034,Design,Engineer,L5,Dallas,Campus Recruiting,2022-07-30,Hired,21,Yes,Pending,156958,Yes,Yes,No,None,REC11,MGR0039,1,10320
+REQ00035,CAND00035,Engineering,Associate,L6,Denver,Direct Application,2023-02-27,Panel Interview,27,No,Yes,146256,No,No,No,Culture Fit,REC19,MGR0029,3,6585
+REQ00036,CAND00036,HR,Engineer,L3,San Francisco,Direct Application,2022-07-24,Phone Interview,24,No,Pending,81349,No,No,No,Position Closed,REC07,MGR0036,5,5220
+REQ00037,CAND00037,IT,Senior Engineer,L4,Boston,Glassdoor,2024-11-03,Withdrawn,47,No,Yes,151074,No,Yes,No,Position Closed,REC14,MGR0028,1,2508
+REQ00038,CAND00038,Sales,Senior Engineer,L4,Denver,Employee Referral,2022-04-05,Offer,104,No,No,50630,No,No,Yes,None,REC18,MGR0029,2,9071
+REQ00039,CAND00039,Engineering,Analyst,L1,Denver,Internal Transfer,2023-03-14,Hired,45,No,Pending,121966,Yes,No,No,Overqualified,REC06,MGR0004,6,11448
+REQ00040,CAND00040,Customer Success,Director,L2,Austin,Agency,2020-09-15,Hired,51,Yes,Pending,64572,No,Yes,No,Overqualified,REC12,MGR0044,2,4909
+REQ00041,CAND00041,Operations,Analyst,L7,Chicago,Indeed,2024-09-15,Panel Interview,100,Yes,Yes,56767,No,Yes,No,Culture Fit,REC02,MGR0036,5,13655
+REQ00042,CAND00042,Data Science,Manager,L6,Austin,Glassdoor,2023-10-16,Panel Interview,107,Yes,No,158188,Yes,No,No,Withdrew,REC02,MGR0034,5,12995
+REQ00043,CAND00043,Data Science,Senior Engineer,L2,Denver,Agency,2025-07-02,Panel Interview,72,No,No,158400,Yes,Yes,No,Overqualified,REC02,MGR0036,3,14848
+REQ00044,CAND00044,IT,Associate,L6,Remote,LinkedIn,2022-02-12,Screening,64,Yes,No,185839,No,No,Yes,Salary Mismatch,REC13,MGR0002,1,2795
+REQ00045,CAND00045,HR,Analyst,L1,Remote,Agency,2023-07-14,Withdrawn,92,No,Yes,113225,No,No,No,Failed Assessment,REC03,MGR0047,5,6474
+REQ00046,CAND00046,Engineering,Analyst,L4,Atlanta,Campus Recruiting,2022-11-20,Offer,12,Yes,No,121619,No,Yes,No,None,REC08,MGR0047,1,5691
+REQ00047,CAND00047,Design,Associate,L7,San Francisco,Glassdoor,2025-10-30,Offer,57,Yes,Yes,158565,No,Yes,Yes,Failed Assessment,REC20,MGR0047,2,9607
+REQ00048,CAND00048,Operations,Manager,L5,Dallas,Direct Application,2024-12-30,Withdrawn,117,Yes,No,156404,No,No,Yes,Overqualified,REC14,MGR0029,2,8961
+REQ00049,CAND00049,Operations,Analyst,L2,Atlanta,Internal Transfer,2025-06-11,Technical Assessment,120,No,Yes,74931,No,Yes,No,Withdrew,REC09,MGR0022,3,14124
+REQ00050,CAND00050,Finance,Engineer,L6,Remote,Employee Referral,2025-12-01,Screening,63,No,Yes,176783,Yes,No,No,None,REC16,MGR0019,2,3540
+REQ00051,CAND00051,IT,Engineer,L1,Seattle,Glassdoor,2020-10-28,Screening,55,Yes,Pending,199609,No,Yes,No,Overqualified,REC02,MGR0010,6,1146
+REQ00052,CAND00052,Data Science,Associate,L2,Seattle,Indeed,2021-10-01,Offer,15,No,Yes,193874,Yes,Yes,Yes,None,REC17,MGR0027,2,9489
+REQ00053,CAND00053,Customer Success,Analyst,L7,Dallas,Glassdoor,2026-07-09,Phone Interview,79,No,Yes,64405,No,Yes,No,None,REC20,MGR0014,1,11633
+REQ00054,CAND00054,Marketing,Associate,L7,Seattle,Employee Referral,2022-06-06,Screening,17,Yes,Pending,96476,Yes,No,No,Position Closed,REC04,MGR0027,2,3960
+REQ00055,CAND00055,Operations,Senior Analyst,L6,Seattle,Indeed,2022-12-01,Screening,12,No,No,191994,Yes,Yes,No,Failed Assessment,REC08,MGR0008,1,14847
+REQ00056,CAND00056,Engineering,Senior Engineer,L6,Boston,Indeed,2022-07-20,Rejected,12,Yes,No,117024,Yes,No,No,None,REC02,MGR0046,3,3945
+REQ00057,CAND00057,Design,Analyst,L4,Boston,Agency,2025-09-21,Panel Interview,104,Yes,No,144887,No,No,No,Salary Mismatch,REC11,MGR0010,4,5175
+REQ00058,CAND00058,Operations,Analyst,L4,Austin,Glassdoor,2024-05-22,Screening,113,Yes,No,78272,Yes,No,Yes,Failed Assessment,REC17,MGR0020,3,9315
+REQ00059,CAND00059,Operations,Associate,L4,Boston,Glassdoor,2022-06-20,Screening,48,Yes,Pending,75711,Yes,Yes,No,Culture Fit,REC08,MGR0041,2,3906
+REQ00060,CAND00060,IT,Associate,L4,San Francisco,Glassdoor,2021-08-03,Applied,11,Yes,Yes,166819,Yes,No,No,Withdrew,REC07,MGR0039,6,5718
+REQ00061,CAND00061,Engineering,Analyst,L6,Dallas,Employee Referral,2025-12-06,Rejected,43,No,Yes,73737,No,Yes,No,Culture Fit,REC08,MGR0002,6,9379
+REQ00062,CAND00062,Legal,Director,L4,Austin,Employee Referral,2023-04-23,Rejected,75,Yes,No,183685,No,Yes,No,Position Closed,REC03,MGR0031,4,12977
+REQ00063,CAND00063,Engineering,Senior Analyst,L4,New York,Indeed,2023-11-07,Screening,87,Yes,Yes,141336,Yes,Yes,No,Overqualified,REC20,MGR0034,1,1480
+REQ00064,CAND00064,Customer Success,Associate,L7,Seattle,Campus Recruiting,2026-07-25,Hired,50,Yes,No,188525,Yes,No,No,Culture Fit,REC07,MGR0018,2,1450
+REQ00065,CAND00065,Engineering,Director,L7,Chicago,Indeed,2023-06-09,Offer,103,Yes,Pending,147153,No,Yes,Yes,Culture Fit,REC12,MGR0011,3,12338
+REQ00066,CAND00066,Operations,Manager,L3,Atlanta,Agency,2021-02-24,Withdrawn,19,No,Pending,51615,Yes,Yes,Yes,Failed Assessment,REC07,MGR0033,5,3303
+REQ00067,CAND00067,Sales,Director,L2,Seattle,Internal Transfer,2021-02-05,Applied,25,No,No,115849,Yes,Yes,No,Position Closed,REC17,MGR0018,2,10538
+REQ00068,CAND00068,Data Science,Director,L7,Chicago,Employee Referral,2022-05-16,Rejected,94,No,Pending,73063,No,Yes,Yes,Overqualified,REC10,MGR0042,1,2041
+REQ00069,CAND00069,Engineering,Associate,L5,Seattle,LinkedIn,2021-01-26,Offer,62,No,Pending,193753,No,No,No,None,REC20,MGR0004,4,10643
+REQ00070,CAND00070,Sales,Engineer,L3,New York,Campus Recruiting,2024-05-18,Phone Interview,92,Yes,Yes,159473,Yes,Yes,No,Position Closed,REC02,MGR0008,4,7030
+REQ00071,CAND00071,HR,Analyst,L2,Remote,Glassdoor,2022-10-13,Technical Assessment,108,No,Yes,155416,Yes,No,No,Failed Assessment,REC10,MGR0017,6,9230
+REQ00072,CAND00072,IT,Engineer,L7,Chicago,Agency,2026-07-07,Withdrawn,72,No,Pending,120428,No,Yes,Yes,None,REC05,MGR0018,1,8651
+REQ00073,CAND00073,IT,Associate,L7,San Francisco,Direct Application,2024-03-12,Panel Interview,107,No,Pending,56289,No,No,No,None,REC10,MGR0047,1,13817
+REQ00074,CAND00074,Sales,Associate,L6,Seattle,Employee Referral,2020-08-08,Technical Assessment,41,No,Yes,198945,No,No,Yes,Withdrew,REC05,MGR0008,4,14031
+REQ00075,CAND00075,Sales,Manager,L4,Atlanta,Direct Application,2022-08-25,Screening,55,No,No,108260,No,No,No,Overqualified,REC08,MGR0025,3,13394
+REQ00076,CAND00076,Data Science,Analyst,L1,Denver,Campus Recruiting,2022-09-08,Offer,27,No,No,92684,No,Yes,No,Position Closed,REC16,MGR0003,1,5571
+REQ00077,CAND00077,Product,Engineer,L1,New York,Indeed,2021-12-03,Hired,88,No,No,88658,Yes,No,No,Failed Assessment,REC02,MGR0018,4,4431
+REQ00078,CAND00078,Finance,Senior Analyst,L1,Seattle,Campus Recruiting,2024-11-11,Rejected,107,No,Pending,180604,No,Yes,No,Withdrew,REC13,MGR0003,4,8499
+REQ00079,CAND00079,Engineering,Associate,L6,San Francisco,Indeed,2020-01-26,Withdrawn,12,Yes,Yes,128548,Yes,Yes,No,None,REC03,MGR0003,1,10538
+REQ00080,CAND00080,Marketing,Senior Engineer,L6,Boston,Glassdoor,2025-09-04,Technical Assessment,49,Yes,No,138829,No,No,Yes,Culture Fit,REC18,MGR0008,6,7158
+REQ00081,CAND00081,Data Science,Senior Analyst,L4,Boston,Agency,2022-01-23,Hired,69,No,Yes,123026,No,No,No,Salary Mismatch,REC19,MGR0020,3,3181
+REQ00082,CAND00082,Customer Success,Associate,L6,Austin,Agency,2025-10-24,Applied,79,Yes,Yes,154140,No,Yes,No,Failed Assessment,REC05,MGR0011,4,14919
+REQ00083,CAND00083,Operations,Manager,L5,Atlanta,Internal Transfer,2022-02-23,Rejected,28,No,Yes,138779,No,Yes,No,Position Closed,REC16,MGR0020,4,9339
+REQ00084,CAND00084,HR,Engineer,L7,Dallas,Campus Recruiting,2024-03-27,Applied,56,No,Yes,177494,Yes,No,No,Culture Fit,REC19,MGR0016,6,1709
+REQ00085,CAND00085,Finance,Associate,L1,Chicago,Direct Application,2022-05-28,Applied,70,Yes,Pending,177584,No,Yes,No,Overqualified,REC13,MGR0005,2,11123
+REQ00086,CAND00086,Engineering,Associate,L4,Seattle,LinkedIn,2025-12-04,Applied,106,Yes,Pending,187398,Yes,No,Yes,Culture Fit,REC18,MGR0015,6,1356
+REQ00087,CAND00087,Engineering,Manager,L4,Remote,Campus Recruiting,2023-02-26,Screening,64,Yes,Yes,109501,No,No,Yes,Failed Assessment,REC20,MGR0013,5,3681
+REQ00088,CAND00088,Data Science,Manager,L4,Boston,Internal Transfer,2022-07-22,Panel Interview,47,No,Pending,92260,No,No,No,Culture Fit,REC08,MGR0032,4,3484
+REQ00089,CAND00089,Finance,Senior Analyst,L5,Chicago,Campus Recruiting,2020-05-05,Offer,36,Yes,Yes,146935,Yes,No,No,Failed Assessment,REC16,MGR0034,4,11778
+REQ00090,CAND00090,HR,Engineer,L3,New York,Glassdoor,2021-04-08,Withdrawn,56,No,Yes,101365,No,No,No,None,REC17,MGR0041,6,1679
+REQ00091,CAND00091,Marketing,Senior Engineer,L1,Remote,Direct Application,2022-10-05,Hired,68,Yes,Yes,161380,Yes,No,No,Withdrew,REC18,MGR0022,4,9301
+REQ00092,CAND00092,Finance,Senior Analyst,L3,Atlanta,Agency,2025-12-31,Withdrawn,55,Yes,Pending,62802,No,Yes,Yes,Salary Mismatch,REC15,MGR0010,4,11216
+REQ00093,CAND00093,Marketing,Engineer,L6,Seattle,Direct Application,2023-08-31,Screening,51,No,No,128817,Yes,Yes,No,Overqualified,REC12,MGR0006,1,7525
+REQ00094,CAND00094,Legal,Associate,L6,Dallas,Direct Application,2024-02-04,Rejected,41,Yes,Yes,151290,No,No,No,None,REC19,MGR0039,6,12208
+REQ00095,CAND00095,HR,Associate,L1,Austin,Glassdoor,2022-05-12,Screening,110,No,Yes,114141,Yes,Yes,No,Overqualified,REC14,MGR0027,6,6300
+REQ00096,CAND00096,HR,Manager,L7,Chicago,Employee Referral,2021-08-13,Panel Interview,58,No,Pending,169316,No,Yes,No,None,REC10,MGR0044,5,5480
+REQ00097,CAND00097,Marketing,Manager,L6,Chicago,Employee Referral,2024-06-06,Panel Interview,35,No,No,53700,Yes,No,Yes,Overqualified,REC09,MGR0028,2,6275
+REQ00098,CAND00098,Operations,Associate,L3,San Francisco,Indeed,2026-06-06,Withdrawn,13,No,Pending,101558,Yes,No,No,None,REC11,MGR0014,3,1501
+REQ00099,CAND00099,IT,Manager,L4,Atlanta,Campus Recruiting,2020-05-02,Withdrawn,12,No,Yes,73139,No,No,No,Salary Mismatch,REC07,MGR0015,5,5907
+REQ00100,CAND00100,Operations,Senior Engineer,L4,Seattle,Direct Application,2020-09-22,Applied,63,No,Pending,56768,Yes,Yes,Yes,Salary Mismatch,REC14,MGR0042,3,3741
+REQ00101,CAND00101,Product,Senior Engineer,L7,Austin,Indeed,2020-01-14,Offer,52,Yes,Yes,132377,No,Yes,No,Culture Fit,REC04,MGR0017,5,9519
+REQ00102,CAND00102,Product,Senior Engineer,L3,Boston,Agency,2026-07-06,Hired,74,No,Yes,99507,Yes,No,No,Withdrew,REC19,MGR0046,5,10497
+REQ00103,CAND00103,Customer Success,Senior Engineer,L7,Boston,Direct Application,2020-03-01,Phone Interview,16,Yes,Pending,100931,No,Yes,No,Withdrew,REC13,MGR0043,4,13216
+REQ00104,CAND00104,Legal,Director,L4,Chicago,Employee Referral,2023-09-09,Offer,90,No,Yes,172180,Yes,No,No,Failed Assessment,REC13,MGR0036,3,1824
+REQ00105,CAND00105,Product,Director,L6,Boston,Employee Referral,2020-02-01,Offer,28,Yes,Yes,136145,Yes,Yes,No,Failed Assessment,REC14,MGR0002,4,8247
+REQ00106,CAND00106,Finance,Manager,L5,Denver,Campus Recruiting,2025-11-29,Screening,25,Yes,No,189211,Yes,No,No,Overqualified,REC01,MGR0042,4,10273
+REQ00107,CAND00107,Marketing,Analyst,L5,Austin,LinkedIn,2026-04-09,Phone Interview,46,No,Yes,165250,No,Yes,No,Failed Assessment,REC13,MGR0018,3,9912
+REQ00108,CAND00108,Sales,Associate,L3,Remote,Agency,2026-01-21,Screening,91,No,No,120672,Yes,No,Yes,Culture Fit,REC03,MGR0040,4,13670
+REQ00109,CAND00109,Marketing,Analyst,L4,Chicago,Campus Recruiting,2020-09-11,Withdrawn,36,Yes,Yes,130156,No,Yes,No,Overqualified,REC12,MGR0050,2,2159
+REQ00110,CAND00110,Customer Success,Senior Engineer,L4,Atlanta,Campus Recruiting,2022-05-09,Screening,92,No,Yes,116527,No,No,No,Failed Assessment,REC01,MGR0030,1,4501
+REQ00111,CAND00111,Finance,Manager,L7,Denver,Campus Recruiting,2026-04-15,Offer,80,No,Yes,162744,Yes,No,No,Salary Mismatch,REC08,MGR0050,5,8852
+REQ00112,CAND00112,Design,Senior Analyst,L6,New York,Campus Recruiting,2022-06-10,Panel Interview,82,Yes,Pending,186930,No,Yes,Yes,Culture Fit,REC17,MGR0044,6,13880
+REQ00113,CAND00113,Product,Senior Analyst,L5,Atlanta,Direct Application,2024-05-23,Applied,13,No,Pending,50080,No,Yes,No,Failed Assessment,REC19,MGR0003,2,3913
+REQ00114,CAND00114,Design,Senior Engineer,L6,Denver,Glassdoor,2021-10-28,Screening,32,No,Pending,77069,No,No,No,Failed Assessment,REC17,MGR0014,6,7163
+REQ00115,CAND00115,Data Science,Analyst,L2,Remote,LinkedIn,2025-04-26,Withdrawn,81,No,Pending,64689,No,No,Yes,Salary Mismatch,REC02,MGR0008,2,13196
+REQ00116,CAND00116,Marketing,Director,L2,San Francisco,Agency,2025-08-30,Panel Interview,29,Yes,Yes,143690,No,Yes,No,Salary Mismatch,REC15,MGR0004,2,11509
+REQ00117,CAND00117,Finance,Senior Engineer,L3,Austin,LinkedIn,2022-11-30,Withdrawn,25,No,Pending,80692,No,No,No,Overqualified,REC12,MGR0044,1,1270
+REQ00118,CAND00118,Operations,Analyst,L4,Dallas,Agency,2025-10-22,Applied,50,Yes,Pending,114081,No,No,Yes,Overqualified,REC15,MGR0015,4,13386
+REQ00119,CAND00119,Engineering,Engineer,L7,Dallas,Indeed,2021-09-05,Phone Interview,55,No,No,152086,No,No,No,Salary Mismatch,REC17,MGR0003,4,3746
+REQ00120,CAND00120,Finance,Senior Engineer,L4,Dallas,LinkedIn,2022-12-13,Phone Interview,40,No,Yes,178098,Yes,Yes,No,Position Closed,REC15,MGR0047,2,12972
+REQ00121,CAND00121,Engineering,Analyst,L5,Dallas,LinkedIn,2024-10-24,Technical Assessment,77,Yes,No,132746,Yes,No,Yes,Withdrew,REC17,MGR0010,3,12736
+REQ00122,CAND00122,Design,Analyst,L3,Remote,Campus Recruiting,2026-03-08,Panel Interview,22,Yes,Yes,154217,No,No,No,Position Closed,REC19,MGR0018,6,9438
+REQ00123,CAND00123,Data Science,Associate,L4,New York,Direct Application,2026-06-28,Panel Interview,83,No,No,118046,No,Yes,Yes,None,REC01,MGR0042,6,14740
+REQ00124,CAND00124,Engineering,Director,L2,Boston,LinkedIn,2025-09-06,Screening,52,Yes,No,188436,No,Yes,No,None,REC18,MGR0005,3,9700
+REQ00125,CAND00125,Product,Engineer,L2,Remote,LinkedIn,2026-07-13,Applied,84,Yes,No,79928,No,Yes,Yes,Failed Assessment,REC01,MGR0012,6,12447
+REQ00126,CAND00126,Engineering,Associate,L6,San Francisco,Glassdoor,2025-10-10,Technical Assessment,118,Yes,No,186605,Yes,Yes,Yes,Failed Assessment,REC04,MGR0020,5,9576
+REQ00127,CAND00127,Product,Director,L7,Chicago,Agency,2022-02-11,Hired,99,No,Yes,127280,No,No,No,Failed Assessment,REC06,MGR0006,6,12717
+REQ00128,CAND00128,Legal,Engineer,L1,Dallas,Campus Recruiting,2020-01-04,Applied,35,No,No,104562,No,No,No,Culture Fit,REC07,MGR0044,3,5502
+REQ00129,CAND00129,Product,Associate,L7,Remote,Agency,2024-05-05,Technical Assessment,108,Yes,No,180551,Yes,No,No,Salary Mismatch,REC02,MGR0049,3,7837
+REQ00130,CAND00130,HR,Director,L4,New York,Indeed,2026-07-13,Withdrawn,79,No,No,86908,Yes,Yes,Yes,None,REC09,MGR0026,1,5243
+REQ00131,CAND00131,Marketing,Senior Analyst,L7,Boston,LinkedIn,2020-11-05,Panel Interview,119,No,Pending,144236,Yes,Yes,Yes,Salary Mismatch,REC12,MGR0038,4,13711
+REQ00132,CAND00132,Design,Associate,L2,Dallas,Internal Transfer,2025-06-17,Withdrawn,43,Yes,Pending,144934,No,No,No,None,REC17,MGR0033,4,12352
+REQ00133,CAND00133,Marketing,Senior Engineer,L1,Denver,Indeed,2022-05-31,Technical Assessment,84,Yes,No,142735,No,Yes,No,None,REC09,MGR0017,6,3607
+REQ00134,CAND00134,Engineering,Director,L4,Seattle,Campus Recruiting,2025-09-13,Phone Interview,20,No,Pending,137190,Yes,No,No,Withdrew,REC20,MGR0017,6,13560
+REQ00135,CAND00135,Data Science,Associate,L4,Seattle,Campus Recruiting,2025-03-23,Screening,54,Yes,Pending,177137,No,No,Yes,Culture Fit,REC14,MGR0025,2,6224
+REQ00136,CAND00136,Customer Success,Director,L6,San Francisco,Direct Application,2021-12-08,Panel Interview,43,No,Yes,117528,No,No,Yes,Salary Mismatch,REC16,MGR0034,3,6786
+REQ00137,CAND00137,Sales,Associate,L2,Dallas,Campus Recruiting,2020-09-18,Offer,21,Yes,Yes,84906,Yes,Yes,Yes,Culture Fit,REC16,MGR0009,1,10482
+REQ00138,CAND00138,Legal,Associate,L2,Boston,LinkedIn,2024-02-03,Offer,73,No,Pending,87157,Yes,No,No,Withdrew,REC09,MGR0009,1,1275
+REQ00139,CAND00139,Data Science,Associate,L4,Seattle,Direct Application,2024-09-26,Rejected,64,Yes,No,153739,Yes,No,No,None,REC01,MGR0028,6,10577
+REQ00140,CAND00140,Marketing,Analyst,L6,Austin,Indeed,2023-04-14,Phone Interview,93,No,Pending,187828,No,Yes,No,Culture Fit,REC18,MGR0018,1,6665
+REQ00141,CAND00141,IT,Director,L5,Dallas,Campus Recruiting,2023-03-19,Rejected,91,No,Yes,79987,Yes,No,No,Failed Assessment,REC04,MGR0015,1,11854
+REQ00142,CAND00142,Engineering,Senior Analyst,L3,Denver,Employee Referral,2020-10-08,Panel Interview,86,No,Pending,93809,Yes,No,Yes,Overqualified,REC14,MGR0030,4,13359
+REQ00143,CAND00143,Product,Associate,L4,Chicago,Employee Referral,2022-11-30,Technical Assessment,91,Yes,No,74578,Yes,No,Yes,Culture Fit,REC15,MGR0009,5,12329
+REQ00144,CAND00144,Operations,Senior Engineer,L3,Remote,Internal Transfer,2022-10-19,Technical Assessment,29,No,Pending,176815,Yes,No,No,Withdrew,REC11,MGR0049,1,3514
+REQ00145,CAND00145,Customer Success,Senior Analyst,L5,Remote,Employee Referral,2023-01-02,Phone Interview,14,No,Pending,69991,No,No,No,Failed Assessment,REC19,MGR0048,2,9106
+REQ00146,CAND00146,Product,Senior Engineer,L7,Atlanta,Agency,2022-05-13,Phone Interview,102,Yes,Yes,141267,No,No,No,Overqualified,REC11,MGR0050,1,9762
+REQ00147,CAND00147,Product,Senior Engineer,L3,Seattle,Employee Referral,2021-08-04,Applied,63,No,No,184753,No,Yes,No,Withdrew,REC05,MGR0021,6,9220
+REQ00148,CAND00148,Finance,Analyst,L5,San Francisco,Employee Referral,2020-07-28,Screening,107,No,Pending,196304,Yes,Yes,No,Overqualified,REC06,MGR0022,5,6292
+REQ00149,CAND00149,Marketing,Manager,L1,Seattle,Glassdoor,2023-01-01,Panel Interview,47,Yes,No,82794,Yes,No,No,Overqualified,REC10,MGR0035,5,1037
+REQ00150,CAND00150,Engineering,Manager,L7,Remote,Campus Recruiting,2025-09-11,Rejected,85,No,Yes,127898,Yes,Yes,Yes,Withdrew,REC13,MGR0028,4,1163
+REQ00151,CAND00151,Operations,Associate,L7,Austin,Glassdoor,2023-02-08,Hired,102,Yes,Yes,189539,Yes,Yes,Yes,None,REC12,MGR0001,2,6276
+REQ00152,CAND00152,Engineering,Senior Analyst,L5,Remote,Campus Recruiting,2026-01-03,Hired,105,Yes,Yes,137738,Yes,No,No,Failed Assessment,REC10,MGR0002,5,9110
+REQ00153,CAND00153,Legal,Engineer,L1,Remote,Direct Application,2024-09-26,Panel Interview,98,No,No,163232,No,No,No,None,REC07,MGR0024,2,4569
+REQ00154,CAND00154,Operations,Director,L6,San Francisco,Indeed,2025-11-09,Screening,92,Yes,Yes,177209,Yes,Yes,Yes,Failed Assessment,REC05,MGR0042,6,4190
+REQ00155,CAND00155,Product,Senior Analyst,L4,Chicago,Glassdoor,2023-10-21,Phone Interview,57,Yes,Yes,95390,Yes,No,No,Overqualified,REC19,MGR0028,6,8227
+REQ00156,CAND00156,HR,Analyst,L1,Boston,Glassdoor,2020-02-24,Rejected,25,Yes,Pending,188598,Yes,Yes,No,None,REC08,MGR0043,2,7992
+REQ00157,CAND00157,Operations,Senior Analyst,L1,Austin,Campus Recruiting,2025-07-13,Rejected,104,No,Yes,107952,Yes,No,No,Position Closed,REC05,MGR0006,4,7612
+REQ00158,CAND00158,Data Science,Manager,L6,Seattle,Agency,2022-11-19,Applied,91,No,Pending,117412,Yes,Yes,No,Failed Assessment,REC16,MGR0034,6,4217
+REQ00159,CAND00159,Engineering,Manager,L4,Boston,Indeed,2020-04-22,Offer,73,No,Pending,184266,Yes,No,No,Failed Assessment,REC05,MGR0036,6,10415
+REQ00160,CAND00160,Legal,Associate,L7,Dallas,Employee Referral,2024-06-14,Applied,119,No,Pending,110023,Yes,Yes,No,None,REC06,MGR0007,5,14475
+REQ00161,CAND00161,Legal,Senior Engineer,L3,Chicago,Agency,2021-11-29,Technical Assessment,79,Yes,Yes,185640,Yes,Yes,No,Failed Assessment,REC14,MGR0049,3,2729
+REQ00162,CAND00162,Data Science,Associate,L2,Austin,Employee Referral,2023-01-21,Panel Interview,69,No,Pending,109764,No,No,No,Salary Mismatch,REC04,MGR0001,5,8621
+REQ00163,CAND00163,Customer Success,Director,L6,Atlanta,Direct Application,2024-02-29,Withdrawn,71,No,Yes,196841,No,Yes,No,Failed Assessment,REC20,MGR0048,2,6508
+REQ00164,CAND00164,Design,Senior Analyst,L4,Denver,Indeed,2023-01-04,Technical Assessment,20,No,Pending,172926,Yes,No,No,Culture Fit,REC08,MGR0043,1,11454
+REQ00165,CAND00165,Legal,Engineer,L3,San Francisco,Direct Application,2024-10-25,Phone Interview,14,Yes,Yes,142676,Yes,No,No,Culture Fit,REC04,MGR0020,2,1004
+REQ00166,CAND00166,IT,Director,L1,Denver,LinkedIn,2023-12-27,Offer,13,No,Pending,57063,Yes,No,Yes,None,REC17,MGR0014,5,12074
+REQ00167,CAND00167,Engineering,Manager,L6,New York,LinkedIn,2024-06-29,Withdrawn,23,Yes,Yes,87247,Yes,Yes,No,Position Closed,REC01,MGR0001,4,5660
+REQ00168,CAND00168,Legal,Manager,L2,Seattle,Agency,2023-12-07,Withdrawn,18,No,Yes,111833,No,Yes,Yes,Salary Mismatch,REC06,MGR0043,2,11078
+REQ00169,CAND00169,Legal,Analyst,L4,Atlanta,Glassdoor,2021-12-17,Technical Assessment,60,No,Yes,146265,Yes,No,No,Salary Mismatch,REC06,MGR0019,5,11210
+REQ00170,CAND00170,Data Science,Manager,L7,Seattle,Employee Referral,2020-03-10,Technical Assessment,30,Yes,No,73956,No,Yes,No,None,REC15,MGR0039,3,4271
+REQ00171,CAND00171,Design,Manager,L6,Boston,Indeed,2023-05-08,Withdrawn,90,Yes,Pending,134420,Yes,No,No,Withdrew,REC08,MGR0025,3,3622
+REQ00172,CAND00172,IT,Senior Analyst,L2,Denver,Direct Application,2020-12-27,Offer,28,Yes,Yes,133569,No,No,Yes,Culture Fit,REC17,MGR0001,3,10807
+REQ00173,CAND00173,HR,Engineer,L6,San Francisco,Glassdoor,2023-06-05,Phone Interview,30,No,Pending,137737,No,Yes,Yes,Overqualified,REC02,MGR0008,3,11681
+REQ00174,CAND00174,Finance,Director,L5,Chicago,Direct Application,2023-10-29,Panel Interview,120,Yes,No,118226,Yes,No,Yes,Culture Fit,REC05,MGR0037,6,9608
+REQ00175,CAND00175,Design,Analyst,L5,Dallas,Employee Referral,2024-08-06,Withdrawn,117,No,Yes,142160,Yes,Yes,No,Withdrew,REC01,MGR0018,6,3649
+REQ00176,CAND00176,Data Science,Senior Analyst,L3,New York,Indeed,2021-02-02,Screening,46,Yes,Pending,75379,No,Yes,Yes,Salary Mismatch,REC03,MGR0029,1,878
+REQ00177,CAND00177,IT,Analyst,L7,Boston,Campus Recruiting,2020-11-20,Applied,31,Yes,No,192617,Yes,No,No,Culture Fit,REC01,MGR0020,6,9617
+REQ00178,CAND00178,Design,Director,L2,Chicago,Indeed,2026-03-10,Applied,96,Yes,Pending,98896,No,Yes,No,Withdrew,REC02,MGR0002,4,3615
+REQ00179,CAND00179,IT,Manager,L2,Dallas,Employee Referral,2023-01-06,Applied,24,Yes,No,72793,Yes,No,Yes,None,REC13,MGR0020,4,13989
+REQ00180,CAND00180,Legal,Senior Engineer,L6,Denver,Employee Referral,2023-12-24,Technical Assessment,88,No,Yes,70803,Yes,No,No,None,REC09,MGR0030,2,5268
+REQ00181,CAND00181,Data Science,Senior Analyst,L4,San Francisco,Campus Recruiting,2020-05-11,Applied,61,Yes,No,189727,No,No,No,None,REC02,MGR0004,5,2145
+REQ00182,CAND00182,Customer Success,Manager,L4,Boston,LinkedIn,2020-10-07,Technical Assessment,26,Yes,No,177789,Yes,No,No,Overqualified,REC11,MGR0028,5,4891
+REQ00183,CAND00183,Data Science,Senior Analyst,L1,Seattle,Internal Transfer,2022-07-25,Hired,77,No,No,109440,Yes,No,No,Withdrew,REC07,MGR0044,1,1677
+REQ00184,CAND00184,Customer Success,Manager,L3,Boston,LinkedIn,2025-11-17,Phone Interview,56,Yes,Pending,120290,Yes,Yes,Yes,None,REC19,MGR0024,3,4272
+REQ00185,CAND00185,HR,Associate,L7,New York,Glassdoor,2021-05-09,Offer,32,No,No,95118,Yes,Yes,Yes,None,REC13,MGR0029,2,8899
+REQ00186,CAND00186,Operations,Senior Analyst,L7,Seattle,Campus Recruiting,2021-10-09,Phone Interview,36,Yes,Pending,73843,Yes,Yes,Yes,Withdrew,REC16,MGR0014,3,2783
+REQ00187,CAND00187,Product,Director,L6,Remote,Internal Transfer,2021-05-09,Rejected,16,No,No,93411,Yes,Yes,No,Failed Assessment,REC16,MGR0050,5,9146
+REQ00188,CAND00188,Finance,Senior Engineer,L6,Boston,Agency,2025-12-18,Panel Interview,30,No,Pending,107532,Yes,No,No,Overqualified,REC14,MGR0015,6,10813
+REQ00189,CAND00189,Customer Success,Analyst,L6,Dallas,Glassdoor,2020-02-06,Phone Interview,76,Yes,No,135295,No,Yes,No,Withdrew,REC14,MGR0043,5,8365
+REQ00190,CAND00190,Customer Success,Associate,L4,Denver,LinkedIn,2026-05-17,Offer,87,Yes,Pending,85443,No,No,Yes,Failed Assessment,REC18,MGR0010,3,13525
+REQ00191,CAND00191,HR,Manager,L5,Boston,Glassdoor,2024-10-22,Phone Interview,19,Yes,Pending,195845,No,No,No,Salary Mismatch,REC16,MGR0025,5,682
+REQ00192,CAND00192,Product,Engineer,L2,Remote,Indeed,2021-04-18,Hired,74,No,Yes,142857,No,Yes,No,Withdrew,REC11,MGR0029,6,12932
+REQ00193,CAND00193,Sales,Director,L6,Remote,Employee Referral,2026-04-06,Rejected,29,Yes,Yes,115536,Yes,No,Yes,Salary Mismatch,REC08,MGR0023,3,14960
+REQ00194,CAND00194,Sales,Senior Analyst,L4,New York,Indeed,2025-10-27,Hired,110,Yes,Yes,54480,No,Yes,Yes,Failed Assessment,REC08,MGR0023,4,5281
+REQ00195,CAND00195,Sales,Engineer,L1,Seattle,Direct Application,2023-03-13,Offer,97,Yes,No,66958,No,Yes,No,None,REC17,MGR0004,6,4686
+REQ00196,CAND00196,Operations,Director,L2,San Francisco,Employee Referral,2024-09-07,Withdrawn,67,Yes,Pending,190094,No,Yes,No,Failed Assessment,REC15,MGR0040,6,14701
+REQ00197,CAND00197,HR,Manager,L4,Boston,Employee Referral,2020-07-12,Screening,63,No,Yes,179253,No,No,Yes,Culture Fit,REC04,MGR0044,1,6627
+REQ00198,CAND00198,Design,Senior Analyst,L2,Boston,LinkedIn,2023-10-01,Withdrawn,96,No,Pending,57128,No,Yes,No,None,REC15,MGR0010,4,10105
+REQ00199,CAND00199,Legal,Engineer,L2,Seattle,Campus Recruiting,2024-08-28,Rejected,44,No,Pending,98227,No,No,No,Failed Assessment,REC05,MGR0017,4,11145
+REQ00200,CAND00200,Customer Success,Manager,L1,Chicago,Agency,2023-08-26,Phone Interview,62,Yes,Yes,94723,Yes,No,Yes,Withdrew,REC18,MGR0020,3,4440
+REQ00201,CAND00201,Sales,Analyst,L1,Chicago,Employee Referral,2025-04-14,Offer,39,Yes,Yes,65070,No,Yes,No,Failed Assessment,REC02,MGR0026,2,13344
+REQ00202,CAND00202,Legal,Senior Analyst,L1,Boston,Direct Application,2025-01-12,Applied,49,No,Yes,112651,Yes,Yes,Yes,Overqualified,REC08,MGR0030,1,9644
+REQ00203,CAND00203,Finance,Engineer,L6,Chicago,LinkedIn,2022-09-21,Withdrawn,58,Yes,No,65920,Yes,Yes,No,Withdrew,REC16,MGR0002,4,10357
+REQ00204,CAND00204,Sales,Manager,L7,Austin,Indeed,2023-01-02,Panel Interview,78,Yes,Yes,130863,No,No,No,Culture Fit,REC02,MGR0018,1,1834
+REQ00205,CAND00205,Engineering,Senior Engineer,L4,Remote,Campus Recruiting,2026-02-12,Withdrawn,11,Yes,Pending,158314,No,No,Yes,Salary Mismatch,REC16,MGR0037,3,11821
+REQ00206,CAND00206,Legal,Associate,L3,San Francisco,Glassdoor,2025-06-02,Hired,16,Yes,Yes,74713,Yes,Yes,Yes,Overqualified,REC16,MGR0041,1,12608
+REQ00207,CAND00207,Marketing,Manager,L4,Austin,Internal Transfer,2022-07-11,Screening,111,Yes,Pending,83563,No,No,Yes,None,REC19,MGR0049,3,9143
+REQ00208,CAND00208,Sales,Engineer,L3,Remote,Direct Application,2022-12-10,Technical Assessment,50,Yes,Yes,189852,No,Yes,Yes,Salary Mismatch,REC14,MGR0034,5,7979
+REQ00209,CAND00209,HR,Manager,L2,Denver,Direct Application,2024-11-29,Hired,65,No,Yes,166283,Yes,Yes,No,None,REC15,MGR0050,3,12667
+REQ00210,CAND00210,Sales,Analyst,L1,Atlanta,Indeed,2026-05-28,Panel Interview,111,Yes,No,77891,No,No,Yes,Overqualified,REC01,MGR0016,6,8584
+REQ00211,CAND00211,Operations,Director,L3,Dallas,Direct Application,2025-04-03,Offer,85,No,No,175736,Yes,No,Yes,Position Closed,REC06,MGR0007,5,7922
+REQ00212,CAND00212,Legal,Associate,L3,Boston,LinkedIn,2024-10-02,Rejected,21,Yes,No,123457,No,No,No,Overqualified,REC02,MGR0010,3,6999
+REQ00213,CAND00213,IT,Manager,L6,Denver,Direct Application,2021-09-19,Withdrawn,13,No,Yes,67981,No,No,Yes,Salary Mismatch,REC19,MGR0048,3,8940
+REQ00214,CAND00214,Product,Senior Engineer,L4,San Francisco,Indeed,2024-12-21,Hired,95,No,Yes,69014,No,Yes,No,None,REC01,MGR0003,2,4309
+REQ00215,CAND00215,Legal,Director,L2,Denver,LinkedIn,2025-04-17,Offer,20,No,Yes,111376,No,No,No,Salary Mismatch,REC20,MGR0048,2,4486
+REQ00216,CAND00216,Finance,Associate,L5,Remote,Internal Transfer,2024-10-05,Withdrawn,56,Yes,Yes,127983,No,Yes,No,Culture Fit,REC11,MGR0023,5,5685
+REQ00217,CAND00217,IT,Senior Analyst,L7,Chicago,Employee Referral,2024-08-28,Withdrawn,112,Yes,Yes,120388,Yes,No,No,Overqualified,REC07,MGR0024,1,12492
+REQ00218,CAND00218,HR,Director,L7,Chicago,Glassdoor,2026-04-20,Screening,74,No,Pending,188183,No,Yes,No,Overqualified,REC11,MGR0042,1,5012
+REQ00219,CAND00219,Operations,Manager,L5,Atlanta,Campus Recruiting,2025-11-15,Technical Assessment,85,Yes,Yes,92457,Yes,Yes,No,Overqualified,REC19,MGR0027,3,7103
+REQ00220,CAND00220,Finance,Senior Analyst,L3,Remote,Campus Recruiting,2024-03-22,Screening,79,Yes,No,134700,No,Yes,Yes,Withdrew,REC04,MGR0020,6,1850
+REQ00221,CAND00221,Finance,Director,L6,San Francisco,Agency,2025-01-07,Rejected,45,No,Pending,119430,No,Yes,Yes,None,REC14,MGR0026,1,12323
+REQ00222,CAND00222,Product,Director,L1,Seattle,Internal Transfer,2020-11-05,Applied,31,No,Pending,118064,Yes,No,No,Failed Assessment,REC13,MGR0005,1,2203
+REQ00223,CAND00223,Marketing,Manager,L7,Atlanta,Employee Referral,2025-01-06,Panel Interview,95,No,No,112859,No,No,Yes,None,REC20,MGR0042,2,4602
+REQ00224,CAND00224,Engineering,Analyst,L6,Austin,LinkedIn,2020-05-21,Phone Interview,84,No,No,130772,Yes,No,Yes,Withdrew,REC16,MGR0045,2,1656
+REQ00225,CAND00225,IT,Senior Analyst,L3,New York,Campus Recruiting,2021-08-10,Rejected,31,Yes,Yes,172962,No,No,No,Position Closed,REC14,MGR0004,2,12592
+REQ00226,CAND00226,Product,Associate,L1,Seattle,LinkedIn,2024-08-23,Hired,29,Yes,Pending,150955,Yes,Yes,No,Position Closed,REC18,MGR0025,3,9544
+REQ00227,CAND00227,Sales,Associate,L7,Seattle,Glassdoor,2025-01-18,Hired,62,Yes,Pending,50625,No,No,No,Overqualified,REC01,MGR0002,1,13326
+REQ00228,CAND00228,HR,Analyst,L2,Seattle,LinkedIn,2022-09-20,Phone Interview,55,No,No,72946,Yes,Yes,No,None,REC07,MGR0039,1,2516
+REQ00229,CAND00229,Finance,Associate,L1,Boston,Direct Application,2023-11-15,Phone Interview,62,No,Pending,147963,Yes,No,No,Culture Fit,REC20,MGR0035,5,6216
+REQ00230,CAND00230,Product,Director,L5,New York,Campus Recruiting,2023-04-18,Screening,53,No,Yes,77443,No,Yes,Yes,Salary Mismatch,REC16,MGR0050,6,10043
+REQ00231,CAND00231,Legal,Senior Analyst,L6,Austin,Campus Recruiting,2020-08-30,Withdrawn,107,Yes,Yes,84913,No,Yes,No,Failed Assessment,REC16,MGR0009,4,7342
+REQ00232,CAND00232,Sales,Senior Engineer,L1,Seattle,LinkedIn,2023-08-09,Phone Interview,117,Yes,Yes,180596,Yes,Yes,No,Overqualified,REC13,MGR0043,3,3188
+REQ00233,CAND00233,Product,Director,L4,Atlanta,Direct Application,2024-03-27,Technical Assessment,83,Yes,No,68971,Yes,No,No,Culture Fit,REC09,MGR0046,1,1050
+REQ00234,CAND00234,Marketing,Engineer,L4,Seattle,Internal Transfer,2024-06-19,Phone Interview,35,Yes,No,150839,Yes,Yes,No,Withdrew,REC17,MGR0033,2,5499
+REQ00235,CAND00235,Customer Success,Analyst,L7,Boston,Direct Application,2022-11-19,Panel Interview,26,No,No,101956,No,No,No,Failed Assessment,REC04,MGR0023,1,11459
+REQ00236,CAND00236,Legal,Analyst,L2,San Francisco,Campus Recruiting,2020-10-28,Withdrawn,108,No,Pending,69257,No,No,Yes,Salary Mismatch,REC13,MGR0012,2,802
+REQ00237,CAND00237,Design,Associate,L6,Chicago,Internal Transfer,2021-04-17,Screening,117,Yes,Yes,172466,No,No,No,Culture Fit,REC14,MGR0033,3,4558
+REQ00238,CAND00238,Product,Associate,L3,Seattle,LinkedIn,2020-02-26,Screening,98,No,Pending,99840,No,No,No,Salary Mismatch,REC09,MGR0047,4,9833
+REQ00239,CAND00239,Marketing,Manager,L6,Denver,Direct Application,2020-02-19,Hired,106,No,Pending,143114,Yes,Yes,No,Failed Assessment,REC15,MGR0005,6,8795
+REQ00240,CAND00240,HR,Senior Analyst,L1,Remote,Campus Recruiting,2026-06-06,Rejected,93,Yes,Yes,137157,Yes,No,No,Failed Assessment,REC02,MGR0031,6,2066
+REQ00241,CAND00241,HR,Analyst,L3,Austin,Employee Referral,2024-07-06,Withdrawn,52,Yes,No,184185,No,Yes,Yes,None,REC05,MGR0020,2,9822
+REQ00242,CAND00242,Data Science,Engineer,L1,Boston,Internal Transfer,2020-08-04,Technical Assessment,29,No,Pending,99246,Yes,Yes,No,Failed Assessment,REC09,MGR0012,5,6929
+REQ00243,CAND00243,IT,Manager,L3,Atlanta,Indeed,2026-02-14,Withdrawn,107,No,Yes,156174,Yes,No,Yes,Failed Assessment,REC16,MGR0048,1,13734
+REQ00244,CAND00244,Operations,Senior Analyst,L7,Dallas,Agency,2024-12-17,Screening,98,Yes,Yes,54582,No,Yes,Yes,Withdrew,REC07,MGR0036,5,5087
+REQ00245,CAND00245,Customer Success,Senior Analyst,L6,Seattle,Glassdoor,2023-07-28,Offer,81,No,Pending,179260,Yes,No,No,Failed Assessment,REC03,MGR0014,3,6338
+REQ00246,CAND00246,IT,Manager,L7,Dallas,Glassdoor,2020-07-23,Phone Interview,59,Yes,No,175284,No,No,No,Withdrew,REC18,MGR0031,5,14607
+REQ00247,CAND00247,Legal,Engineer,L3,Atlanta,Direct Application,2023-06-05,Rejected,114,No,Pending,114281,No,Yes,No,Failed Assessment,REC05,MGR0049,6,10530
+REQ00248,CAND00248,IT,Senior Engineer,L7,Atlanta,LinkedIn,2020-05-24,Panel Interview,91,No,Pending,104615,Yes,Yes,No,Culture Fit,REC12,MGR0038,3,8613
+REQ00249,CAND00249,Finance,Senior Engineer,L3,Boston,Glassdoor,2020-12-12,Panel Interview,94,Yes,Yes,62426,No,No,No,Position Closed,REC09,MGR0029,5,10447
+REQ00250,CAND00250,Product,Senior Engineer,L2,Atlanta,LinkedIn,2020-02-21,Rejected,105,No,Yes,121632,No,No,No,Overqualified,REC01,MGR0048,2,14880
+REQ00251,CAND00251,Customer Success,Analyst,L7,Remote,Direct Application,2026-05-02,Offer,53,Yes,No,96309,Yes,No,No,Salary Mismatch,REC03,MGR0028,2,6218
+REQ00252,CAND00252,Product,Senior Analyst,L1,Dallas,Internal Transfer,2025-07-07,Screening,92,Yes,No,70967,No,No,No,Position Closed,REC13,MGR0039,6,4179
+REQ00253,CAND00253,Design,Senior Analyst,L1,Denver,Employee Referral,2026-02-17,Screening,86,No,Pending,185624,Yes,No,Yes,Position Closed,REC15,MGR0042,5,12618
+REQ00254,CAND00254,Design,Analyst,L5,Chicago,LinkedIn,2020-10-01,Applied,106,Yes,No,144208,Yes,No,Yes,None,REC10,MGR0011,2,8235
+REQ00255,CAND00255,IT,Associate,L1,Chicago,Direct Application,2024-06-29,Phone Interview,60,No,No,108139,Yes,Yes,No,Failed Assessment,REC17,MGR0022,3,8431
+REQ00256,CAND00256,Data Science,Associate,L5,Austin,Direct Application,2022-11-11,Phone Interview,72,No,Pending,167435,Yes,Yes,No,Culture Fit,REC07,MGR0028,1,4433
+REQ00257,CAND00257,Legal,Manager,L1,Dallas,Internal Transfer,2021-02-24,Offer,54,Yes,No,107597,Yes,Yes,No,None,REC03,MGR0044,4,11234
+REQ00258,CAND00258,Sales,Engineer,L5,Dallas,Internal Transfer,2025-03-28,Panel Interview,86,No,No,96384,Yes,Yes,No,Overqualified,REC03,MGR0018,1,11176
+REQ00259,CAND00259,HR,Analyst,L7,Remote,Employee Referral,2025-06-06,Rejected,54,No,Pending,187909,Yes,Yes,No,None,REC16,MGR0002,3,6146
+REQ00260,CAND00260,IT,Engineer,L4,Denver,Glassdoor,2024-11-15,Panel Interview,76,No,No,115812,No,Yes,Yes,Culture Fit,REC02,MGR0013,1,12861
+REQ00261,CAND00261,Operations,Engineer,L2,Dallas,Internal Transfer,2025-11-04,Applied,55,No,No,162920,Yes,Yes,Yes,Culture Fit,REC09,MGR0029,6,3365
+REQ00262,CAND00262,HR,Analyst,L2,Austin,Internal Transfer,2022-09-24,Withdrawn,17,Yes,Yes,196852,No,Yes,Yes,Salary Mismatch,REC09,MGR0020,5,10861
+REQ00263,CAND00263,Design,Director,L4,Chicago,Glassdoor,2020-06-10,Panel Interview,54,Yes,No,135085,Yes,No,No,Withdrew,REC18,MGR0047,3,12079
+REQ00264,CAND00264,Data Science,Engineer,L6,Chicago,LinkedIn,2024-06-19,Offer,15,No,Yes,154449,No,No,No,Withdrew,REC12,MGR0027,3,887
+REQ00265,CAND00265,Engineering,Analyst,L5,Chicago,LinkedIn,2024-06-23,Technical Assessment,69,No,Yes,57733,No,Yes,No,Culture Fit,REC09,MGR0039,3,14128
+REQ00266,CAND00266,Design,Manager,L1,Chicago,Employee Referral,2026-03-04,Technical Assessment,92,Yes,Pending,99533,No,No,No,Culture Fit,REC18,MGR0018,2,13415
+REQ00267,CAND00267,Operations,Analyst,L4,Atlanta,Agency,2025-12-03,Hired,52,No,No,190989,No,No,No,Position Closed,REC04,MGR0035,1,6863
+REQ00268,CAND00268,Finance,Associate,L7,Denver,Glassdoor,2023-09-10,Hired,75,Yes,No,93050,No,No,No,None,REC20,MGR0022,1,7686
+REQ00269,CAND00269,Legal,Senior Engineer,L3,Remote,Agency,2020-07-05,Phone Interview,108,No,No,72307,No,No,No,Culture Fit,REC05,MGR0048,2,10868
+REQ00270,CAND00270,Legal,Manager,L2,Denver,Agency,2024-07-12,Screening,84,No,No,86362,Yes,Yes,No,Withdrew,REC08,MGR0021,1,5733
+REQ00271,CAND00271,Engineering,Manager,L5,San Francisco,Internal Transfer,2025-05-13,Withdrawn,91,No,No,156815,Yes,No,Yes,Failed Assessment,REC08,MGR0013,2,3904
+REQ00272,CAND00272,HR,Manager,L4,Austin,Internal Transfer,2025-09-22,Technical Assessment,70,Yes,Yes,199121,Yes,Yes,Yes,Position Closed,REC13,MGR0001,3,6285
+REQ00273,CAND00273,Engineering,Engineer,L4,Dallas,Indeed,2023-05-08,Technical Assessment,93,Yes,Yes,70693,Yes,No,No,Culture Fit,REC14,MGR0024,6,5941
+REQ00274,CAND00274,Marketing,Engineer,L6,Atlanta,Glassdoor,2020-12-11,Panel Interview,75,Yes,Pending,138695,No,Yes,No,None,REC13,MGR0015,5,8303
+REQ00275,CAND00275,IT,Analyst,L2,Boston,Agency,2020-04-23,Phone Interview,90,No,Yes,155599,No,Yes,Yes,Withdrew,REC16,MGR0010,4,4416
+REQ00276,CAND00276,Customer Success,Senior Engineer,L2,Austin,Internal Transfer,2022-05-20,Hired,119,Yes,Yes,113766,Yes,Yes,Yes,Withdrew,REC12,MGR0046,5,10408
+REQ00277,CAND00277,Marketing,Associate,L4,Dallas,Glassdoor,2023-02-08,Withdrawn,20,No,No,143276,Yes,No,No,Withdrew,REC04,MGR0017,1,9641
+REQ00278,CAND00278,Sales,Senior Analyst,L4,Seattle,Indeed,2020-08-12,Offer,78,No,Yes,75900,No,No,Yes,Salary Mismatch,REC05,MGR0011,6,7839
+REQ00279,CAND00279,Finance,Analyst,L1,Remote,Agency,2024-02-10,Rejected,50,No,Pending,137704,No,Yes,Yes,Withdrew,REC13,MGR0029,1,3475
+REQ00280,CAND00280,IT,Manager,L3,Chicago,Campus Recruiting,2023-01-03,Withdrawn,111,No,No,88572,Yes,No,Yes,None,REC19,MGR0032,5,4712
+REQ00281,CAND00281,HR,Engineer,L5,Chicago,Indeed,2025-09-12,Panel Interview,30,Yes,Yes,85554,Yes,No,Yes,Failed Assessment,REC07,MGR0035,2,8795
+REQ00282,CAND00282,Product,Director,L4,Dallas,Internal Transfer,2025-12-13,Technical Assessment,25,Yes,No,53510,Yes,No,No,Salary Mismatch,REC08,MGR0016,5,11961
+REQ00283,CAND00283,Engineering,Associate,L6,Chicago,Internal Transfer,2023-11-03,Withdrawn,117,No,Yes,50519,No,Yes,No,Salary Mismatch,REC04,MGR0039,5,8702
+REQ00284,CAND00284,Customer Success,Director,L4,Chicago,Employee Referral,2025-08-30,Withdrawn,36,No,No,126598,No,Yes,Yes,Position Closed,REC02,MGR0016,3,14815
+REQ00285,CAND00285,Legal,Director,L7,New York,Indeed,2023-01-14,Rejected,58,Yes,Pending,158884,No,Yes,No,Failed Assessment,REC02,MGR0013,5,3900
+REQ00286,CAND00286,Design,Senior Analyst,L7,New York,Direct Application,2023-04-09,Applied,110,Yes,No,143029,No,No,No,Overqualified,REC13,MGR0029,2,1340
+REQ00287,CAND00287,Legal,Engineer,L1,Austin,Indeed,2020-02-02,Screening,81,Yes,Yes,87761,No,Yes,Yes,Overqualified,REC03,MGR0016,5,9651
+REQ00288,CAND00288,Customer Success,Senior Engineer,L4,Austin,Direct Application,2020-07-20,Hired,31,Yes,Yes,80732,Yes,Yes,Yes,Withdrew,REC14,MGR0029,3,6624
+REQ00289,CAND00289,HR,Engineer,L2,Atlanta,Glassdoor,2023-11-10,Offer,71,No,Pending,112093,No,No,No,Position Closed,REC20,MGR0016,5,2100
+REQ00290,CAND00290,Operations,Associate,L2,San Francisco,Campus Recruiting,2026-03-10,Rejected,82,No,Pending,101755,No,Yes,No,Culture Fit,REC02,MGR0050,2,13661
+REQ00291,CAND00291,Operations,Senior Engineer,L7,Seattle,Internal Transfer,2026-03-27,Phone Interview,76,No,Pending,116017,Yes,Yes,Yes,None,REC09,MGR0048,3,12799
+REQ00292,CAND00292,Operations,Director,L1,Remote,Internal Transfer,2025-10-06,Withdrawn,13,No,Pending,75862,Yes,Yes,No,Overqualified,REC04,MGR0034,1,9232
+REQ00293,CAND00293,Finance,Analyst,L4,Austin,Campus Recruiting,2020-12-10,Withdrawn,78,Yes,Yes,187431,Yes,Yes,Yes,None,REC16,MGR0043,1,14911
+REQ00294,CAND00294,Data Science,Associate,L4,Chicago,Internal Transfer,2024-01-15,Rejected,41,Yes,Pending,181709,No,Yes,No,None,REC02,MGR0038,6,6965
+REQ00295,CAND00295,IT,Engineer,L3,Chicago,Indeed,2020-10-21,Phone Interview,119,Yes,Yes,92067,No,No,No,Overqualified,REC18,MGR0008,2,8578
+REQ00296,CAND00296,Design,Director,L6,Atlanta,Direct Application,2021-11-09,Technical Assessment,22,Yes,Pending,133028,Yes,Yes,No,None,REC13,MGR0024,1,13323
+REQ00297,CAND00297,Engineering,Director,L4,Remote,Employee Referral,2022-08-26,Technical Assessment,39,No,Yes,124424,No,Yes,No,Overqualified,REC17,MGR0048,3,7758
+REQ00298,CAND00298,Sales,Senior Analyst,L3,New York,Direct Application,2024-05-12,Phone Interview,86,Yes,No,182536,No,No,Yes,None,REC09,MGR0032,6,14736
+REQ00299,CAND00299,Product,Engineer,L2,Austin,LinkedIn,2025-07-05,Withdrawn,115,Yes,Pending,129851,Yes,No,No,Failed Assessment,REC11,MGR0036,6,4891
+REQ00300,CAND00300,Sales,Senior Analyst,L7,Denver,Direct Application,2025-07-13,Panel Interview,114,Yes,No,196881,Yes,Yes,No,Overqualified,REC03,MGR0031,2,11492
+REQ00301,CAND00301,Engineering,Manager,L2,San Francisco,Agency,2020-11-07,Hired,33,No,Pending,104444,Yes,Yes,Yes,None,REC09,MGR0010,5,11685
+REQ00302,CAND00302,Legal,Manager,L7,Atlanta,Direct Application,2021-11-06,Hired,51,Yes,Yes,53298,Yes,No,Yes,Withdrew,REC16,MGR0013,1,10662
+REQ00303,CAND00303,Operations,Senior Engineer,L5,Atlanta,Internal Transfer,2024-03-08,Screening,43,Yes,Pending,163515,Yes,No,Yes,Salary Mismatch,REC20,MGR0043,1,13568
+REQ00304,CAND00304,Engineering,Manager,L4,Seattle,Campus Recruiting,2021-06-17,Panel Interview,61,Yes,No,119035,Yes,Yes,No,Failed Assessment,REC16,MGR0020,4,7148
+REQ00305,CAND00305,HR,Manager,L6,Denver,Campus Recruiting,2026-05-13,Applied,111,No,Pending,171052,No,Yes,Yes,Withdrew,REC06,MGR0049,3,9593
+REQ00306,CAND00306,HR,Analyst,L6,San Francisco,Glassdoor,2024-08-28,Panel Interview,35,Yes,Pending,197058,Yes,Yes,Yes,Overqualified,REC04,MGR0028,1,8301
+REQ00307,CAND00307,Marketing,Director,L3,New York,Direct Application,2024-04-15,Panel Interview,119,Yes,Yes,156687,No,Yes,No,Withdrew,REC19,MGR0029,2,3081
+REQ00308,CAND00308,Data Science,Director,L2,Chicago,Employee Referral,2023-12-29,Phone Interview,23,Yes,No,98162,No,No,Yes,Withdrew,REC06,MGR0021,1,7036
+REQ00309,CAND00309,Data Science,Engineer,L7,Denver,Campus Recruiting,2020-06-05,Rejected,72,Yes,No,135843,Yes,No,No,Culture Fit,REC09,MGR0028,5,10416
+REQ00310,CAND00310,Design,Engineer,L1,Boston,Internal Transfer,2023-06-10,Screening,75,Yes,Pending,180739,Yes,No,No,Overqualified,REC20,MGR0031,4,3654
+REQ00311,CAND00311,IT,Senior Engineer,L2,Chicago,Internal Transfer,2022-02-02,Technical Assessment,27,Yes,No,80324,No,Yes,No,Culture Fit,REC11,MGR0050,3,5330
+REQ00312,CAND00312,Marketing,Manager,L1,Dallas,Direct Application,2022-09-27,Technical Assessment,27,Yes,Yes,163896,Yes,No,No,Failed Assessment,REC06,MGR0031,1,13617
+REQ00313,CAND00313,Legal,Senior Engineer,L7,Boston,LinkedIn,2025-10-03,Phone Interview,18,Yes,No,62707,Yes,No,Yes,Failed Assessment,REC08,MGR0041,1,12503
+REQ00314,CAND00314,Finance,Senior Engineer,L6,Austin,Internal Transfer,2025-05-01,Panel Interview,46,Yes,No,196597,Yes,No,No,None,REC10,MGR0011,4,3480
+REQ00315,CAND00315,Design,Analyst,L3,San Francisco,Employee Referral,2024-03-05,Withdrawn,51,No,No,141255,No,No,Yes,Overqualified,REC18,MGR0011,5,13887
+REQ00316,CAND00316,HR,Manager,L4,Remote,LinkedIn,2025-10-19,Applied,58,No,No,115802,No,No,No,None,REC07,MGR0013,3,3005
+REQ00317,CAND00317,Marketing,Director,L1,Boston,Indeed,2023-08-27,Hired,75,Yes,Pending,63753,No,No,Yes,Salary Mismatch,REC02,MGR0028,4,9477
+REQ00318,CAND00318,HR,Senior Engineer,L4,New York,Indeed,2020-06-17,Hired,50,Yes,Pending,150189,Yes,No,No,Culture Fit,REC16,MGR0013,6,2664
+REQ00319,CAND00319,Finance,Senior Analyst,L7,Remote,LinkedIn,2022-05-12,Applied,10,No,No,160073,No,No,No,Failed Assessment,REC06,MGR0028,5,929
+REQ00320,CAND00320,Product,Associate,L7,Chicago,LinkedIn,2026-02-03,Applied,83,No,Yes,106495,Yes,No,Yes,None,REC04,MGR0017,3,4933
+REQ00321,CAND00321,Sales,Manager,L2,Austin,Agency,2024-08-17,Offer,118,No,Yes,152732,No,No,No,Withdrew,REC14,MGR0006,4,4871
+REQ00322,CAND00322,Engineering,Associate,L3,Austin,Employee Referral,2025-08-11,Applied,12,Yes,No,82841,Yes,Yes,Yes,None,REC12,MGR0034,4,3842
+REQ00323,CAND00323,HR,Senior Engineer,L5,Atlanta,Glassdoor,2024-06-08,Screening,92,No,Pending,186519,Yes,No,No,Failed Assessment,REC11,MGR0012,4,6705
+REQ00324,CAND00324,Finance,Manager,L4,New York,Indeed,2024-05-16,Hired,94,Yes,No,183612,Yes,No,Yes,Salary Mismatch,REC09,MGR0007,2,8441
+REQ00325,CAND00325,HR,Manager,L3,New York,Agency,2022-06-29,Hired,99,Yes,No,106934,No,No,No,Culture Fit,REC07,MGR0026,2,3012
+REQ00326,CAND00326,Customer Success,Senior Analyst,L6,Remote,Direct Application,2025-11-04,Applied,69,Yes,Yes,133413,No,No,No,Failed Assessment,REC20,MGR0019,2,5827
+REQ00327,CAND00327,IT,Associate,L3,San Francisco,Glassdoor,2024-05-26,Panel Interview,69,No,Pending,130068,Yes,No,No,Withdrew,REC15,MGR0030,5,8242
+REQ00328,CAND00328,Product,Analyst,L6,Boston,Indeed,2022-07-19,Rejected,35,Yes,Yes,63493,No,Yes,No,Withdrew,REC05,MGR0041,4,1939
+REQ00329,CAND00329,Data Science,Senior Analyst,L3,Denver,Campus Recruiting,2020-09-17,Rejected,99,Yes,Yes,163564,No,Yes,No,Salary Mismatch,REC02,MGR0031,6,3905
+REQ00330,CAND00330,Sales,Senior Engineer,L3,New York,Internal Transfer,2022-09-20,Panel Interview,87,Yes,Yes,161726,Yes,Yes,No,Culture Fit,REC02,MGR0012,6,2275
+REQ00331,CAND00331,HR,Analyst,L5,New York,Direct Application,2021-11-17,Screening,30,Yes,Pending,192856,No,Yes,Yes,Withdrew,REC11,MGR0026,6,14445
+REQ00332,CAND00332,HR,Senior Engineer,L7,Boston,Glassdoor,2022-08-28,Hired,77,No,Pending,102171,Yes,Yes,No,Salary Mismatch,REC03,MGR0045,6,9326
+REQ00333,CAND00333,Operations,Director,L2,Chicago,Direct Application,2024-11-04,Panel Interview,116,Yes,Yes,56210,No,No,No,Overqualified,REC20,MGR0048,5,12757
+REQ00334,CAND00334,IT,Senior Engineer,L4,Boston,Agency,2021-01-27,Offer,93,No,Pending,53896,No,No,No,None,REC14,MGR0015,5,1214
+REQ00335,CAND00335,Design,Director,L3,Austin,Agency,2024-01-11,Phone Interview,60,Yes,No,63534,No,Yes,No,Culture Fit,REC01,MGR0030,3,7794
+REQ00336,CAND00336,Legal,Director,L1,Chicago,LinkedIn,2025-04-15,Technical Assessment,12,No,Pending,51533,Yes,No,No,Withdrew,REC16,MGR0013,1,13519
+REQ00337,CAND00337,Customer Success,Manager,L2,Austin,Campus Recruiting,2025-12-22,Rejected,78,Yes,Yes,150631,Yes,Yes,No,Salary Mismatch,REC12,MGR0019,6,3812
+REQ00338,CAND00338,Sales,Senior Analyst,L5,Boston,Indeed,2025-10-18,Panel Interview,37,Yes,Yes,98134,No,Yes,No,Culture Fit,REC13,MGR0048,1,3922
+REQ00339,CAND00339,Finance,Senior Analyst,L3,Dallas,Agency,2023-09-26,Offer,75,Yes,Yes,99442,Yes,No,No,Salary Mismatch,REC16,MGR0014,5,9501
+REQ00340,CAND00340,Product,Analyst,L5,Atlanta,Campus Recruiting,2022-11-16,Withdrawn,107,No,Pending,144233,Yes,Yes,Yes,Position Closed,REC18,MGR0042,3,6624
+REQ00341,CAND00341,Product,Engineer,L7,Remote,Glassdoor,2021-12-02,Hired,60,Yes,No,129248,Yes,Yes,No,Position Closed,REC02,MGR0015,6,1882
+REQ00342,CAND00342,Data Science,Manager,L6,Dallas,Internal Transfer,2025-02-13,Applied,46,Yes,Pending,171823,No,No,Yes,None,REC01,MGR0030,5,1563
+REQ00343,CAND00343,Engineering,Director,L3,Remote,Internal Transfer,2025-11-15,Technical Assessment,37,Yes,No,112629,No,No,Yes,Position Closed,REC07,MGR0023,6,1839
+REQ00344,CAND00344,Operations,Manager,L7,Austin,Campus Recruiting,2020-11-24,Screening,54,No,No,94227,No,No,Yes,None,REC01,MGR0037,2,3168
+REQ00345,CAND00345,Legal,Manager,L6,Dallas,Indeed,2024-11-21,Technical Assessment,94,Yes,No,124742,Yes,Yes,No,Failed Assessment,REC12,MGR0022,4,10368
+REQ00346,CAND00346,Customer Success,Senior Engineer,L1,Boston,Glassdoor,2021-04-11,Technical Assessment,70,No,Pending,80086,Yes,Yes,Yes,Position Closed,REC19,MGR0024,6,10641
+REQ00347,CAND00347,Operations,Senior Engineer,L4,Seattle,Direct Application,2022-06-07,Applied,11,No,No,79704,No,Yes,Yes,None,REC09,MGR0036,5,6734
+REQ00348,CAND00348,IT,Director,L3,Atlanta,Employee Referral,2025-09-05,Panel Interview,63,No,Pending,178887,Yes,No,Yes,Overqualified,REC18,MGR0008,2,12721
+REQ00349,CAND00349,IT,Director,L4,Chicago,Internal Transfer,2020-12-01,Screening,112,Yes,Pending,149586,Yes,No,No,Withdrew,REC06,MGR0031,2,689
+REQ00350,CAND00350,Finance,Analyst,L5,Boston,LinkedIn,2021-02-24,Rejected,15,No,Yes,169513,No,No,No,Position Closed,REC03,MGR0043,6,7044
+REQ00351,CAND00351,Engineering,Senior Analyst,L4,Atlanta,Agency,2020-11-14,Technical Assessment,38,No,Yes,102523,Yes,Yes,No,Failed Assessment,REC05,MGR0050,5,4480
+REQ00352,CAND00352,Product,Engineer,L4,San Francisco,Indeed,2024-08-17,Applied,112,No,Pending,144768,No,Yes,No,Culture Fit,REC06,MGR0007,3,2350
+REQ00353,CAND00353,Sales,Senior Engineer,L5,Seattle,Glassdoor,2026-03-02,Rejected,98,Yes,Yes,179443,No,Yes,Yes,Failed Assessment,REC15,MGR0012,6,3547
+REQ00354,CAND00354,Finance,Senior Analyst,L6,San Francisco,Agency,2022-10-06,Panel Interview,37,Yes,Yes,169620,Yes,Yes,Yes,Withdrew,REC12,MGR0045,4,13171
+REQ00355,CAND00355,IT,Analyst,L3,Denver,Agency,2025-11-25,Hired,102,No,Pending,98466,Yes,No,Yes,Salary Mismatch,REC06,MGR0007,4,3002
+REQ00356,CAND00356,Design,Manager,L6,New York,Employee Referral,2024-01-20,Panel Interview,81,No,Yes,88846,No,Yes,Yes,Position Closed,REC20,MGR0002,3,3681
+REQ00357,CAND00357,Marketing,Director,L1,Atlanta,Internal Transfer,2024-08-18,Screening,96,Yes,No,103993,Yes,No,No,Failed Assessment,REC12,MGR0037,3,11049
+REQ00358,CAND00358,IT,Director,L2,Remote,Indeed,2024-05-19,Panel Interview,11,No,Pending,63354,No,Yes,No,None,REC12,MGR0026,1,1856
+REQ00359,CAND00359,Data Science,Associate,L4,Seattle,LinkedIn,2025-10-05,Rejected,98,No,Pending,68988,Yes,No,No,Culture Fit,REC20,MGR0002,1,6312
+REQ00360,CAND00360,IT,Associate,L7,Atlanta,Glassdoor,2026-06-21,Hired,120,No,Yes,135625,Yes,No,Yes,Position Closed,REC04,MGR0041,5,3088
+REQ00361,CAND00361,Operations,Analyst,L6,Boston,LinkedIn,2026-07-09,Withdrawn,63,No,Yes,51861,Yes,No,No,Overqualified,REC10,MGR0041,6,13696
+REQ00362,CAND00362,IT,Senior Engineer,L6,Dallas,LinkedIn,2022-03-13,Offer,10,No,No,93725,Yes,No,Yes,Culture Fit,REC02,MGR0016,6,6835
+REQ00363,CAND00363,Legal,Manager,L7,Chicago,Glassdoor,2021-08-20,Hired,52,No,No,113743,No,No,No,Culture Fit,REC01,MGR0029,3,5113
+REQ00364,CAND00364,Operations,Manager,L2,Chicago,Campus Recruiting,2021-08-14,Technical Assessment,100,Yes,No,71531,No,No,No,Failed Assessment,REC02,MGR0049,6,12285
+REQ00365,CAND00365,Marketing,Engineer,L3,Denver,LinkedIn,2025-01-30,Applied,72,Yes,Pending,189366,No,Yes,No,Position Closed,REC04,MGR0036,1,11497
+REQ00366,CAND00366,Sales,Analyst,L7,Boston,Employee Referral,2023-09-21,Screening,83,Yes,Yes,124530,No,Yes,No,Overqualified,REC03,MGR0041,3,8773
+REQ00367,CAND00367,Marketing,Engineer,L2,Boston,Agency,2021-06-06,Rejected,100,No,Yes,93984,Yes,No,No,None,REC04,MGR0039,6,6531
+REQ00368,CAND00368,Engineering,Manager,L2,Dallas,Agency,2024-09-20,Hired,28,No,No,185775,Yes,Yes,No,Withdrew,REC13,MGR0027,1,13186
+REQ00369,CAND00369,Customer Success,Analyst,L1,Remote,Internal Transfer,2025-12-22,Phone Interview,45,No,Pending,147662,No,Yes,Yes,Culture Fit,REC05,MGR0007,3,6555
+REQ00370,CAND00370,Data Science,Senior Analyst,L1,Seattle,Campus Recruiting,2024-07-17,Applied,44,No,Pending,164387,No,No,No,Salary Mismatch,REC14,MGR0011,4,10676
+REQ00371,CAND00371,Finance,Senior Analyst,L6,Austin,Indeed,2021-04-24,Rejected,23,Yes,No,176366,No,No,No,Position Closed,REC11,MGR0041,5,4558
+REQ00372,CAND00372,Sales,Analyst,L5,San Francisco,Indeed,2021-01-29,Technical Assessment,44,Yes,Yes,106316,No,No,No,Salary Mismatch,REC03,MGR0044,1,9434
+REQ00373,CAND00373,Operations,Engineer,L5,San Francisco,Internal Transfer,2024-11-06,Hired,10,Yes,No,124313,No,No,No,Overqualified,REC08,MGR0004,2,884
+REQ00374,CAND00374,Operations,Director,L2,Austin,Employee Referral,2022-08-28,Technical Assessment,53,Yes,No,119065,No,Yes,No,Overqualified,REC19,MGR0024,5,8183
+REQ00375,CAND00375,Engineering,Senior Engineer,L1,Austin,Employee Referral,2024-07-13,Technical Assessment,98,Yes,Yes,138848,No,Yes,No,Overqualified,REC20,MGR0024,5,4143
+REQ00376,CAND00376,Product,Senior Analyst,L3,San Francisco,Glassdoor,2022-03-31,Technical Assessment,78,No,Yes,168194,No,No,No,Failed Assessment,REC05,MGR0045,2,8799
+REQ00377,CAND00377,Product,Senior Analyst,L1,Austin,Agency,2023-10-20,Rejected,37,Yes,No,59819,No,Yes,Yes,Failed Assessment,REC19,MGR0042,1,13188
+REQ00378,CAND00378,Legal,Manager,L5,Austin,Direct Application,2021-11-30,Hired,52,Yes,Pending,111854,No,Yes,Yes,Overqualified,REC04,MGR0027,2,9549
+REQ00379,CAND00379,Sales,Director,L4,Austin,Indeed,2026-02-05,Applied,113,Yes,Yes,99415,Yes,Yes,Yes,Overqualified,REC03,MGR0001,2,10513
+REQ00380,CAND00380,Finance,Director,L2,Remote,Agency,2025-03-07,Hired,99,No,No,127673,No,Yes,Yes,Position Closed,REC02,MGR0030,2,811
+REQ00381,CAND00381,Sales,Analyst,L2,Dallas,Glassdoor,2024-09-20,Panel Interview,83,No,Pending,50386,No,Yes,No,Position Closed,REC09,MGR0045,5,3998
+REQ00382,CAND00382,Marketing,Senior Analyst,L1,Denver,Employee Referral,2021-04-16,Phone Interview,50,No,Pending,79578,Yes,Yes,Yes,Salary Mismatch,REC06,MGR0032,1,7491
+REQ00383,CAND00383,Marketing,Senior Analyst,L4,New York,Direct Application,2021-02-07,Screening,46,Yes,No,131926,No,No,Yes,Salary Mismatch,REC11,MGR0048,5,3501
+REQ00384,CAND00384,Sales,Senior Analyst,L6,Dallas,Campus Recruiting,2022-07-16,Phone Interview,81,No,Yes,110184,Yes,Yes,No,Withdrew,REC07,MGR0030,3,3992
+REQ00385,CAND00385,Product,Manager,L4,Seattle,Direct Application,2023-06-23,Panel Interview,11,Yes,Yes,53917,No,No,No,Salary Mismatch,REC03,MGR0009,1,3068
+REQ00386,CAND00386,Marketing,Engineer,L2,Boston,Campus Recruiting,2023-06-17,Hired,18,Yes,Pending,158069,Yes,Yes,No,Overqualified,REC08,MGR0015,4,8621
+REQ00387,CAND00387,IT,Senior Engineer,L1,Austin,Glassdoor,2024-10-15,Offer,96,No,Pending,77591,Yes,Yes,No,Culture Fit,REC07,MGR0007,4,7915
+REQ00388,CAND00388,Design,Associate,L6,Remote,LinkedIn,2024-02-29,Hired,32,Yes,No,52080,No,No,No,Failed Assessment,REC11,MGR0006,3,3800
+REQ00389,CAND00389,Legal,Manager,L6,Dallas,Agency,2020-09-13,Offer,104,No,Pending,166120,No,No,No,Failed Assessment,REC04,MGR0041,6,6673
+REQ00390,CAND00390,Data Science,Director,L1,Atlanta,Indeed,2020-06-21,Screening,55,No,No,100674,No,Yes,No,Failed Assessment,REC12,MGR0018,6,10727
+REQ00391,CAND00391,Engineering,Manager,L1,Denver,Campus Recruiting,2022-03-27,Withdrawn,110,No,Yes,52896,Yes,No,No,Overqualified,REC09,MGR0040,2,11408
+REQ00392,CAND00392,Legal,Associate,L7,Seattle,Employee Referral,2026-05-30,Screening,70,No,Pending,117686,No,No,Yes,Overqualified,REC08,MGR0025,1,7222
+REQ00393,CAND00393,Product,Manager,L5,Remote,Employee Referral,2020-06-16,Screening,112,Yes,Yes,56123,Yes,Yes,No,None,REC18,MGR0014,6,7705
+REQ00394,CAND00394,Marketing,Manager,L6,Denver,Indeed,2020-06-08,Applied,28,Yes,No,155998,Yes,Yes,No,Culture Fit,REC17,MGR0038,6,6172
+REQ00395,CAND00395,Engineering,Manager,L3,San Francisco,Glassdoor,2020-08-04,Screening,59,No,Pending,171660,Yes,Yes,Yes,Salary Mismatch,REC02,MGR0008,2,2906
+REQ00396,CAND00396,Marketing,Director,L1,Chicago,Indeed,2022-04-16,Applied,86,Yes,No,150585,No,Yes,Yes,Failed Assessment,REC13,MGR0016,1,14426
+REQ00397,CAND00397,Operations,Director,L5,Atlanta,Employee Referral,2020-10-20,Rejected,99,Yes,No,84024,No,No,No,Culture Fit,REC03,MGR0018,3,11148
+REQ00398,CAND00398,Product,Senior Engineer,L3,Atlanta,Agency,2024-04-26,Applied,31,No,Yes,143917,No,Yes,No,Position Closed,REC13,MGR0005,6,14265
+REQ00399,CAND00399,Finance,Director,L1,Atlanta,Direct Application,2022-09-03,Screening,94,Yes,No,193527,No,No,No,Salary Mismatch,REC19,MGR0050,3,10319
+REQ00400,CAND00400,HR,Director,L5,Denver,Indeed,2025-05-14,Hired,55,Yes,Yes,175463,No,Yes,No,Overqualified,REC03,MGR0032,5,3324
+REQ00401,CAND00401,Design,Engineer,L5,Dallas,Glassdoor,2022-06-11,Panel Interview,12,Yes,Pending,147556,No,Yes,No,Culture Fit,REC18,MGR0002,5,13737
+REQ00402,CAND00402,IT,Senior Analyst,L4,Chicago,Indeed,2024-04-06,Screening,11,No,Yes,174380,No,No,Yes,Position Closed,REC10,MGR0020,2,13794
+REQ00403,CAND00403,Legal,Manager,L5,New York,Internal Transfer,2023-07-29,Withdrawn,83,No,Yes,153270,Yes,No,No,Culture Fit,REC02,MGR0022,4,10279
+REQ00404,CAND00404,Finance,Senior Analyst,L5,Dallas,Internal Transfer,2024-05-15,Technical Assessment,36,No,Pending,148409,Yes,Yes,No,Position Closed,REC13,MGR0018,3,2556
+REQ00405,CAND00405,Product,Associate,L7,Austin,Indeed,2026-01-08,Technical Assessment,22,Yes,Yes,122268,Yes,Yes,No,Salary Mismatch,REC03,MGR0011,6,10569
+REQ00406,CAND00406,Customer Success,Director,L5,Chicago,Agency,2022-11-22,Applied,48,No,Yes,164175,No,Yes,Yes,None,REC12,MGR0011,4,1113
+REQ00407,CAND00407,Data Science,Senior Engineer,L2,New York,Glassdoor,2022-05-25,Hired,90,Yes,Yes,149894,Yes,No,Yes,Failed Assessment,REC18,MGR0016,5,5004
+REQ00408,CAND00408,Finance,Engineer,L1,Austin,LinkedIn,2022-02-01,Applied,81,No,No,73077,Yes,No,Yes,Withdrew,REC05,MGR0011,5,9947
+REQ00409,CAND00409,Sales,Analyst,L5,Boston,LinkedIn,2025-09-23,Applied,14,Yes,Pending,177979,No,No,No,Failed Assessment,REC10,MGR0008,1,13378
+REQ00410,CAND00410,Engineering,Senior Analyst,L1,Remote,Internal Transfer,2024-01-31,Screening,108,Yes,Yes,169604,Yes,No,No,Position Closed,REC05,MGR0010,2,8918
+REQ00411,CAND00411,Operations,Manager,L7,Atlanta,Direct Application,2023-09-23,Withdrawn,43,No,No,176056,No,Yes,No,Position Closed,REC13,MGR0013,3,4641
+REQ00412,CAND00412,Engineering,Engineer,L3,Seattle,Campus Recruiting,2025-03-28,Phone Interview,73,No,Yes,175450,No,No,No,Salary Mismatch,REC10,MGR0008,1,6683
+REQ00413,CAND00413,IT,Senior Analyst,L1,Dallas,Campus Recruiting,2021-05-13,Screening,100,Yes,Yes,88777,Yes,Yes,No,Failed Assessment,REC16,MGR0044,4,7897
+REQ00414,CAND00414,Data Science,Engineer,L6,Seattle,Indeed,2022-04-30,Screening,75,No,No,74970,Yes,Yes,Yes,Failed Assessment,REC04,MGR0033,2,5402
+REQ00415,CAND00415,Data Science,Senior Engineer,L1,Seattle,LinkedIn,2024-02-03,Hired,115,No,Yes,127545,Yes,Yes,No,None,REC06,MGR0026,4,8629
+REQ00416,CAND00416,Sales,Director,L4,Dallas,Agency,2022-06-10,Applied,49,Yes,No,119259,No,Yes,Yes,Position Closed,REC20,MGR0029,6,6463
+REQ00417,CAND00417,Marketing,Senior Analyst,L5,Atlanta,Indeed,2022-11-26,Withdrawn,11,Yes,Pending,196674,No,Yes,No,Position Closed,REC06,MGR0033,3,6295
+REQ00418,CAND00418,Data Science,Analyst,L1,Boston,Internal Transfer,2022-08-16,Applied,68,Yes,Pending,118779,Yes,Yes,No,Failed Assessment,REC06,MGR0038,5,14477
+REQ00419,CAND00419,Data Science,Analyst,L6,Dallas,Direct Application,2020-11-01,Applied,48,No,Pending,76066,No,Yes,No,Salary Mismatch,REC02,MGR0038,5,1658
+REQ00420,CAND00420,Sales,Manager,L5,Denver,Direct Application,2025-11-12,Panel Interview,92,No,Yes,113088,No,Yes,No,Salary Mismatch,REC19,MGR0031,6,4797
+REQ00421,CAND00421,HR,Senior Analyst,L3,Chicago,Campus Recruiting,2022-07-30,Screening,25,Yes,Pending,145136,Yes,No,No,Withdrew,REC09,MGR0002,2,3237
+REQ00422,CAND00422,Finance,Senior Engineer,L5,Chicago,LinkedIn,2026-07-28,Phone Interview,92,Yes,Yes,129317,No,Yes,No,Withdrew,REC10,MGR0043,2,11188
+REQ00423,CAND00423,HR,Senior Engineer,L3,Dallas,Direct Application,2023-03-01,Phone Interview,25,Yes,Pending,81821,No,Yes,No,Failed Assessment,REC02,MGR0047,4,2417
+REQ00424,CAND00424,Customer Success,Analyst,L5,Dallas,Direct Application,2024-12-28,Offer,83,No,No,68442,No,Yes,Yes,Culture Fit,REC10,MGR0042,2,5963
+REQ00425,CAND00425,HR,Engineer,L7,Denver,Employee Referral,2021-05-25,Rejected,50,No,No,135627,Yes,No,Yes,Position Closed,REC20,MGR0017,2,7071
+REQ00426,CAND00426,Design,Analyst,L6,Denver,Employee Referral,2021-09-13,Panel Interview,113,Yes,No,185914,No,Yes,Yes,None,REC12,MGR0034,3,7962
+REQ00427,CAND00427,Customer Success,Manager,L3,San Francisco,Indeed,2020-01-01,Panel Interview,101,No,No,186858,No,Yes,Yes,Overqualified,REC11,MGR0045,1,8109
+REQ00428,CAND00428,Operations,Senior Analyst,L3,Chicago,Indeed,2022-02-25,Panel Interview,49,No,Pending,89425,No,No,No,Withdrew,REC18,MGR0025,6,2363
+REQ00429,CAND00429,Customer Success,Associate,L4,New York,LinkedIn,2021-06-30,Technical Assessment,42,Yes,Pending,93876,Yes,No,No,Culture Fit,REC09,MGR0026,6,12385
+REQ00430,CAND00430,Product,Manager,L1,Denver,Direct Application,2025-07-20,Hired,39,Yes,Yes,69991,No,Yes,Yes,None,REC04,MGR0028,2,11765
+REQ00431,CAND00431,Design,Senior Engineer,L7,Seattle,Indeed,2023-05-27,Screening,63,No,Yes,166103,No,Yes,Yes,Overqualified,REC10,MGR0004,6,9239
+REQ00432,CAND00432,IT,Senior Analyst,L4,Denver,Direct Application,2022-02-07,Hired,60,Yes,No,58250,No,No,No,Failed Assessment,REC07,MGR0041,4,14817
+REQ00433,CAND00433,Engineering,Senior Analyst,L3,Boston,Campus Recruiting,2021-04-30,Offer,36,No,No,199120,No,Yes,No,Overqualified,REC15,MGR0020,1,4633
+REQ00434,CAND00434,Sales,Manager,L5,Austin,Employee Referral,2025-07-26,Phone Interview,99,Yes,Yes,140829,No,Yes,No,Culture Fit,REC05,MGR0003,5,806
+REQ00435,CAND00435,Legal,Engineer,L7,Remote,LinkedIn,2022-12-22,Applied,113,No,No,163076,No,Yes,Yes,Position Closed,REC09,MGR0042,3,10109
+REQ00436,CAND00436,Data Science,Manager,L1,Atlanta,Employee Referral,2025-08-14,Rejected,51,Yes,No,167043,No,Yes,No,Failed Assessment,REC11,MGR0002,2,618
+REQ00437,CAND00437,Operations,Senior Analyst,L5,Boston,Direct Application,2020-02-02,Panel Interview,30,No,Pending,92014,No,No,No,Withdrew,REC04,MGR0013,3,8018
+REQ00438,CAND00438,Sales,Associate,L3,Seattle,LinkedIn,2024-04-07,Applied,23,Yes,Pending,184523,Yes,Yes,No,Culture Fit,REC10,MGR0008,5,11633
+REQ00439,CAND00439,Finance,Manager,L2,Dallas,LinkedIn,2021-12-11,Hired,69,No,Yes,91420,No,Yes,Yes,Failed Assessment,REC01,MGR0026,5,5672
+REQ00440,CAND00440,Data Science,Senior Analyst,L2,Chicago,Employee Referral,2023-06-02,Applied,112,Yes,Yes,132287,Yes,Yes,No,Culture Fit,REC08,MGR0031,1,12027
+REQ00441,CAND00441,IT,Associate,L1,New York,Glassdoor,2024-12-08,Applied,30,Yes,No,93410,No,Yes,Yes,Withdrew,REC13,MGR0016,6,11811
+REQ00442,CAND00442,Finance,Analyst,L5,New York,Employee Referral,2021-08-03,Panel Interview,71,No,Pending,66770,No,Yes,Yes,Salary Mismatch,REC17,MGR0036,2,12373
+REQ00443,CAND00443,Engineering,Senior Engineer,L6,Chicago,Employee Referral,2025-08-15,Phone Interview,104,No,Yes,188726,No,Yes,Yes,Withdrew,REC13,MGR0039,2,2297
+REQ00444,CAND00444,Engineering,Senior Analyst,L4,Dallas,Campus Recruiting,2023-03-14,Screening,87,Yes,Pending,99811,Yes,No,Yes,None,REC19,MGR0029,3,6323
+REQ00445,CAND00445,Operations,Manager,L1,Denver,Indeed,2022-07-27,Panel Interview,26,Yes,No,178615,No,Yes,Yes,Overqualified,REC03,MGR0005,2,901
+REQ00446,CAND00446,Sales,Manager,L3,Remote,Campus Recruiting,2023-07-21,Phone Interview,69,No,Pending,197395,No,No,Yes,Overqualified,REC04,MGR0009,4,12968
+REQ00447,CAND00447,IT,Director,L5,Denver,Campus Recruiting,2022-06-03,Offer,117,Yes,No,177252,No,Yes,No,None,REC04,MGR0034,1,14912
+REQ00448,CAND00448,Engineering,Analyst,L2,San Francisco,Agency,2024-12-16,Applied,95,Yes,No,92477,No,Yes,No,Withdrew,REC10,MGR0005,2,8387
+REQ00449,CAND00449,Marketing,Senior Analyst,L2,Chicago,Campus Recruiting,2025-11-19,Phone Interview,39,Yes,Yes,103836,Yes,No,No,Overqualified,REC03,MGR0046,2,6826
+REQ00450,CAND00450,Marketing,Associate,L1,Chicago,Glassdoor,2026-02-27,Panel Interview,26,Yes,No,116195,Yes,No,No,None,REC05,MGR0049,2,3708
+REQ00451,CAND00451,Customer Success,Senior Analyst,L4,New York,LinkedIn,2026-07-29,Hired,64,Yes,Pending,122249,Yes,No,No,Culture Fit,REC09,MGR0009,2,7684
+REQ00452,CAND00452,HR,Manager,L6,Denver,Indeed,2026-05-28,Applied,70,No,Yes,93969,No,No,No,Failed Assessment,REC17,MGR0034,4,2490
+REQ00453,CAND00453,HR,Senior Engineer,L4,Boston,Glassdoor,2023-03-04,Technical Assessment,43,No,Pending,173084,Yes,Yes,Yes,Failed Assessment,REC18,MGR0019,6,1298
+REQ00454,CAND00454,Finance,Director,L7,Boston,Direct Application,2023-01-04,Offer,82,No,Pending,113381,No,No,No,Culture Fit,REC02,MGR0035,5,12342
+REQ00455,CAND00455,Operations,Director,L1,Austin,Employee Referral,2023-04-20,Applied,70,No,No,199743,Yes,Yes,No,Withdrew,REC04,MGR0031,1,1956
+REQ00456,CAND00456,Legal,Senior Analyst,L7,Boston,Glassdoor,2022-07-06,Applied,10,No,Pending,163235,No,Yes,Yes,None,REC20,MGR0029,5,3322
+REQ00457,CAND00457,Engineering,Director,L3,Chicago,Agency,2026-04-04,Panel Interview,75,Yes,No,69340,No,Yes,Yes,Culture Fit,REC08,MGR0036,3,2061
+REQ00458,CAND00458,Legal,Senior Analyst,L7,San Francisco,Campus Recruiting,2024-04-11,Withdrawn,39,No,Yes,100717,No,No,No,None,REC02,MGR0036,1,14721
+REQ00459,CAND00459,Product,Manager,L6,Chicago,Campus Recruiting,2025-07-17,Technical Assessment,38,No,No,174490,No,No,No,None,REC08,MGR0002,5,6558
+REQ00460,CAND00460,Data Science,Director,L4,San Francisco,Glassdoor,2021-08-10,Withdrawn,10,Yes,Pending,147879,No,Yes,No,Withdrew,REC09,MGR0045,6,4389
+REQ00461,CAND00461,Marketing,Engineer,L6,Dallas,Indeed,2026-01-03,Offer,82,No,Pending,145921,No,No,No,Salary Mismatch,REC01,MGR0020,1,13148
+REQ00462,CAND00462,Customer Success,Associate,L4,Remote,LinkedIn,2023-07-13,Panel Interview,74,Yes,No,60393,No,No,No,Failed Assessment,REC06,MGR0018,6,4776
+REQ00463,CAND00463,IT,Senior Analyst,L2,San Francisco,Indeed,2022-07-17,Applied,52,Yes,No,154436,No,Yes,No,Position Closed,REC19,MGR0019,1,10643
+REQ00464,CAND00464,HR,Associate,L3,Atlanta,Campus Recruiting,2022-11-22,Rejected,89,No,Pending,176990,Yes,No,No,None,REC14,MGR0010,3,5801
+REQ00465,CAND00465,HR,Analyst,L6,Seattle,LinkedIn,2025-10-26,Screening,97,No,Yes,120776,No,Yes,No,Overqualified,REC08,MGR0050,5,3744
+REQ00466,CAND00466,Finance,Senior Engineer,L5,Dallas,Glassdoor,2024-01-13,Offer,35,Yes,No,86793,Yes,No,No,Withdrew,REC11,MGR0004,4,3736
+REQ00467,CAND00467,Data Science,Senior Engineer,L5,Chicago,Indeed,2025-05-17,Offer,57,No,Pending,62125,No,Yes,No,None,REC18,MGR0020,3,8804
+REQ00468,CAND00468,Marketing,Senior Analyst,L5,San Francisco,Glassdoor,2024-06-22,Hired,73,No,No,113627,No,Yes,No,Salary Mismatch,REC13,MGR0029,1,8656
+REQ00469,CAND00469,Sales,Director,L3,Boston,Indeed,2020-02-12,Rejected,36,No,Yes,53928,Yes,Yes,Yes,Salary Mismatch,REC08,MGR0047,4,10109
+REQ00470,CAND00470,Legal,Manager,L3,Remote,Campus Recruiting,2023-05-05,Panel Interview,56,Yes,Yes,128954,Yes,Yes,No,Withdrew,REC14,MGR0030,3,2772
+REQ00471,CAND00471,Engineering,Senior Analyst,L3,Remote,Campus Recruiting,2020-05-11,Screening,109,Yes,No,83495,Yes,No,No,Salary Mismatch,REC02,MGR0036,6,4603
+REQ00472,CAND00472,Engineering,Senior Engineer,L5,Denver,Internal Transfer,2021-01-26,Phone Interview,46,Yes,Pending,107306,Yes,No,No,Position Closed,REC09,MGR0028,3,14927
+REQ00473,CAND00473,Data Science,Director,L5,Atlanta,Campus Recruiting,2026-02-24,Rejected,65,No,Yes,198045,Yes,Yes,No,Failed Assessment,REC14,MGR0013,2,8010
+REQ00474,CAND00474,Sales,Associate,L1,Austin,Indeed,2022-06-14,Withdrawn,76,Yes,Pending,51461,No,Yes,No,Failed Assessment,REC20,MGR0014,4,7283
+REQ00475,CAND00475,Engineering,Engineer,L4,Chicago,Indeed,2024-12-15,Offer,60,No,No,195622,No,Yes,Yes,None,REC19,MGR0032,6,5129
+REQ00476,CAND00476,Legal,Senior Analyst,L4,San Francisco,Campus Recruiting,2022-10-11,Screening,90,No,Yes,88344,Yes,Yes,Yes,Salary Mismatch,REC17,MGR0027,4,13143
+REQ00477,CAND00477,Marketing,Engineer,L5,Boston,Glassdoor,2025-12-08,Rejected,90,Yes,Pending,77871,No,No,Yes,Culture Fit,REC10,MGR0041,1,11223
+REQ00478,CAND00478,Sales,Director,L3,Denver,Direct Application,2021-10-08,Rejected,22,Yes,No,89284,No,Yes,No,Failed Assessment,REC05,MGR0040,6,3460
+REQ00479,CAND00479,IT,Associate,L7,Seattle,Glassdoor,2022-01-22,Phone Interview,30,No,Yes,70339,No,Yes,Yes,Position Closed,REC12,MGR0047,4,9001
+REQ00480,CAND00480,Finance,Engineer,L1,Dallas,LinkedIn,2020-10-16,Phone Interview,111,Yes,No,123781,Yes,No,No,Culture Fit,REC16,MGR0044,5,10583
+REQ00481,CAND00481,Finance,Analyst,L3,San Francisco,Direct Application,2020-09-29,Applied,54,No,Yes,181504,Yes,No,Yes,Overqualified,REC10,MGR0024,3,3469
+REQ00482,CAND00482,Marketing,Director,L3,Seattle,Direct Application,2024-03-13,Applied,61,No,Pending,96749,No,Yes,Yes,Salary Mismatch,REC12,MGR0034,1,9886
+REQ00483,CAND00483,Design,Engineer,L4,Chicago,LinkedIn,2024-11-08,Offer,105,No,No,144853,No,Yes,No,Culture Fit,REC15,MGR0026,6,13701
+REQ00484,CAND00484,Design,Director,L5,Remote,Employee Referral,2023-05-25,Technical Assessment,39,Yes,Yes,175570,No,No,Yes,Failed Assessment,REC13,MGR0037,1,2503
+REQ00485,CAND00485,Operations,Associate,L1,Denver,Glassdoor,2020-08-13,Offer,74,No,No,150828,No,Yes,Yes,Withdrew,REC03,MGR0043,5,9541
+REQ00486,CAND00486,Finance,Senior Engineer,L1,Boston,Glassdoor,2024-11-26,Rejected,63,No,Yes,116761,Yes,No,Yes,Overqualified,REC13,MGR0006,2,14623
+REQ00487,CAND00487,Marketing,Analyst,L4,New York,Agency,2023-10-04,Rejected,86,Yes,No,82660,Yes,Yes,No,None,REC10,MGR0033,6,9363
+REQ00488,CAND00488,Sales,Manager,L3,Atlanta,Agency,2023-07-28,Hired,15,No,No,58569,No,Yes,No,Withdrew,REC03,MGR0049,1,8803
+REQ00489,CAND00489,Marketing,Senior Engineer,L3,Austin,LinkedIn,2026-01-18,Offer,113,Yes,Yes,148138,Yes,Yes,Yes,Overqualified,REC13,MGR0041,1,9956
+REQ00490,CAND00490,Data Science,Senior Engineer,L1,Atlanta,Glassdoor,2022-10-30,Rejected,106,Yes,No,117047,Yes,Yes,No,None,REC01,MGR0011,1,10236
+REQ00491,CAND00491,Sales,Senior Engineer,L1,Austin,Glassdoor,2021-11-26,Panel Interview,75,No,Yes,147604,No,No,No,None,REC16,MGR0048,3,4758
+REQ00492,CAND00492,Data Science,Director,L7,Austin,Agency,2022-02-10,Panel Interview,18,Yes,No,96023,Yes,Yes,No,Overqualified,REC13,MGR0038,4,12220
+REQ00493,CAND00493,Legal,Director,L3,Seattle,LinkedIn,2022-02-16,Withdrawn,14,Yes,No,101693,No,No,Yes,Withdrew,REC17,MGR0019,1,9526
+REQ00494,CAND00494,Design,Analyst,L3,Chicago,LinkedIn,2024-10-26,Applied,89,Yes,No,197424,No,Yes,Yes,Withdrew,REC19,MGR0023,4,13088
+REQ00495,CAND00495,Legal,Manager,L4,Denver,Direct Application,2023-07-22,Technical Assessment,35,Yes,Pending,194895,Yes,Yes,No,Salary Mismatch,REC07,MGR0030,2,2170
+REQ00496,CAND00496,Product,Director,L5,Dallas,Internal Transfer,2024-05-22,Offer,25,No,Pending,154226,No,No,Yes,Position Closed,REC13,MGR0012,3,12186
+REQ00497,CAND00497,Engineering,Manager,L5,Austin,LinkedIn,2020-10-18,Screening,95,No,Pending,125149,No,No,No,Failed Assessment,REC13,MGR0026,2,7459
+REQ00498,CAND00498,Customer Success,Engineer,L6,Atlanta,Glassdoor,2023-04-17,Applied,23,Yes,Yes,66684,No,No,No,Culture Fit,REC13,MGR0037,4,10246
+REQ00499,CAND00499,Operations,Senior Analyst,L6,Denver,LinkedIn,2023-11-04,Hired,45,No,Pending,86253,Yes,No,No,Salary Mismatch,REC17,MGR0034,4,11271
+REQ00500,CAND00500,Design,Engineer,L1,Austin,Agency,2020-04-19,Screening,91,Yes,Yes,109752,No,No,Yes,None,REC16,MGR0004,5,14137
+REQ00501,CAND00501,Sales,Director,L5,Seattle,LinkedIn,2022-12-23,Hired,96,Yes,No,176683,Yes,No,Yes,Salary Mismatch,REC14,MGR0006,5,12836
+REQ00502,CAND00502,Legal,Senior Analyst,L6,Dallas,Glassdoor,2020-06-18,Hired,11,Yes,No,133266,Yes,Yes,No,Failed Assessment,REC01,MGR0047,2,2048
+REQ00503,CAND00503,Sales,Associate,L2,Atlanta,Agency,2022-11-28,Phone Interview,64,Yes,Pending,90693,No,No,Yes,Salary Mismatch,REC02,MGR0029,5,9475
+REQ00504,CAND00504,Data Science,Associate,L1,Denver,Glassdoor,2021-11-18,Technical Assessment,22,No,Pending,65584,No,No,No,Culture Fit,REC14,MGR0018,2,691
+REQ00505,CAND00505,Sales,Senior Analyst,L1,San Francisco,Glassdoor,2025-01-08,Withdrawn,69,Yes,Yes,168086,Yes,Yes,No,Withdrew,REC04,MGR0046,6,5945
+REQ00506,CAND00506,Design,Associate,L3,Dallas,Internal Transfer,2022-03-15,Screening,35,No,Pending,59399,Yes,No,No,Position Closed,REC15,MGR0041,1,3951
+REQ00507,CAND00507,IT,Associate,L3,Boston,Indeed,2023-03-24,Phone Interview,106,No,No,163822,No,Yes,Yes,None,REC15,MGR0018,3,10478
+REQ00508,CAND00508,Finance,Senior Analyst,L7,Austin,Glassdoor,2021-02-04,Panel Interview,69,Yes,Pending,64574,No,No,No,Overqualified,REC15,MGR0040,2,11329
+REQ00509,CAND00509,Sales,Senior Engineer,L3,Seattle,Campus Recruiting,2021-12-27,Applied,85,No,No,79532,Yes,No,Yes,Failed Assessment,REC20,MGR0033,5,591
+REQ00510,CAND00510,Marketing,Director,L5,Dallas,Employee Referral,2023-10-11,Panel Interview,80,No,Yes,52937,No,No,No,None,REC13,MGR0012,3,14236
+REQ00511,CAND00511,Finance,Director,L3,Dallas,Indeed,2020-11-10,Hired,112,No,Yes,69740,No,No,No,Position Closed,REC04,MGR0034,1,4312
+REQ00512,CAND00512,Design,Director,L1,Austin,Employee Referral,2020-04-25,Phone Interview,62,Yes,No,92090,Yes,Yes,No,None,REC14,MGR0028,6,1202
+REQ00513,CAND00513,Operations,Senior Engineer,L5,Atlanta,Campus Recruiting,2020-07-08,Panel Interview,120,No,Yes,75737,Yes,Yes,Yes,None,REC19,MGR0001,2,7087
+REQ00514,CAND00514,Customer Success,Manager,L1,Atlanta,Campus Recruiting,2024-05-31,Screening,89,Yes,Pending,165513,No,Yes,Yes,Failed Assessment,REC16,MGR0037,5,7690
+REQ00515,CAND00515,Sales,Analyst,L1,Chicago,Indeed,2026-01-11,Rejected,116,No,Pending,194530,Yes,Yes,Yes,Withdrew,REC06,MGR0027,1,13697
+REQ00516,CAND00516,Legal,Senior Analyst,L3,New York,Indeed,2021-06-08,Hired,115,Yes,Yes,155461,Yes,No,No,None,REC18,MGR0032,2,5509
+REQ00517,CAND00517,Customer Success,Analyst,L4,Remote,Agency,2023-07-23,Technical Assessment,11,Yes,Yes,106607,Yes,Yes,No,Salary Mismatch,REC10,MGR0008,2,9778
+REQ00518,CAND00518,Customer Success,Manager,L1,Chicago,Internal Transfer,2022-04-02,Rejected,106,Yes,Yes,134362,No,Yes,No,Position Closed,REC16,MGR0021,1,4787
+REQ00519,CAND00519,Finance,Manager,L3,Boston,Glassdoor,2020-02-24,Rejected,60,Yes,Pending,65924,No,No,No,None,REC08,MGR0014,1,6854
+REQ00520,CAND00520,Operations,Manager,L4,Austin,Employee Referral,2024-07-07,Phone Interview,58,Yes,Yes,172237,Yes,No,No,Overqualified,REC08,MGR0010,3,9712
+REQ00521,CAND00521,Data Science,Senior Engineer,L6,Chicago,Agency,2025-02-03,Rejected,13,Yes,Yes,171816,Yes,Yes,No,Position Closed,REC19,MGR0006,4,5066
+REQ00522,CAND00522,Customer Success,Director,L7,Dallas,Direct Application,2021-02-13,Screening,92,No,Pending,164732,Yes,Yes,No,Position Closed,REC14,MGR0001,1,1311
+REQ00523,CAND00523,Product,Manager,L4,Boston,Glassdoor,2022-11-06,Screening,112,No,Pending,111891,Yes,Yes,No,None,REC03,MGR0007,1,6926
+REQ00524,CAND00524,Customer Success,Senior Analyst,L5,Boston,Indeed,2023-09-23,Rejected,68,Yes,Pending,98229,No,No,No,Position Closed,REC12,MGR0022,1,12429
+REQ00525,CAND00525,Design,Senior Engineer,L2,Seattle,Campus Recruiting,2021-07-02,Panel Interview,76,No,Yes,105996,No,No,No,Salary Mismatch,REC09,MGR0033,3,11919
+REQ00526,CAND00526,IT,Analyst,L5,Chicago,Direct Application,2024-11-20,Technical Assessment,59,No,Yes,66259,No,No,No,Position Closed,REC01,MGR0018,2,7901
+REQ00527,CAND00527,Product,Director,L7,San Francisco,Employee Referral,2026-02-14,Phone Interview,69,Yes,No,80652,Yes,Yes,No,Failed Assessment,REC18,MGR0041,5,2208
+REQ00528,CAND00528,IT,Engineer,L1,San Francisco,Internal Transfer,2022-05-29,Withdrawn,57,No,No,150540,No,No,Yes,Overqualified,REC01,MGR0029,6,1928
+REQ00529,CAND00529,Engineering,Engineer,L1,Chicago,Glassdoor,2021-10-10,Phone Interview,46,Yes,Yes,133940,No,No,Yes,Overqualified,REC07,MGR0016,3,9282
+REQ00530,CAND00530,Data Science,Senior Analyst,L4,Dallas,Employee Referral,2024-02-07,Applied,84,No,No,161823,No,No,No,Withdrew,REC15,MGR0006,5,12258
+REQ00531,CAND00531,Product,Associate,L1,Austin,Agency,2022-12-01,Applied,98,Yes,No,65782,Yes,Yes,Yes,Overqualified,REC14,MGR0047,3,3738
+REQ00532,CAND00532,Product,Manager,L3,Denver,Indeed,2025-05-03,Withdrawn,48,Yes,No,77646,No,Yes,No,Culture Fit,REC17,MGR0014,5,14630
+REQ00533,CAND00533,Product,Director,L3,Atlanta,Indeed,2024-08-21,Withdrawn,55,No,Yes,171784,Yes,No,No,Position Closed,REC19,MGR0048,1,9598
+REQ00534,CAND00534,Legal,Senior Analyst,L1,Boston,Indeed,2021-02-15,Technical Assessment,77,Yes,Yes,76364,No,Yes,No,Overqualified,REC10,MGR0042,4,9371
+REQ00535,CAND00535,Sales,Manager,L7,Denver,Employee Referral,2025-01-06,Phone Interview,33,Yes,No,162534,No,Yes,No,Salary Mismatch,REC12,MGR0026,3,734
+REQ00536,CAND00536,Data Science,Director,L4,Denver,Agency,2022-12-03,Offer,14,No,No,63742,No,No,Yes,Culture Fit,REC13,MGR0041,3,8334
+REQ00537,CAND00537,Customer Success,Senior Analyst,L1,Remote,Indeed,2023-06-06,Applied,71,No,No,71135,No,No,Yes,Culture Fit,REC11,MGR0007,1,11010
+REQ00538,CAND00538,Marketing,Senior Engineer,L6,Austin,Indeed,2025-09-30,Panel Interview,79,No,No,190125,Yes,No,No,None,REC06,MGR0029,4,2339
+REQ00539,CAND00539,HR,Analyst,L3,San Francisco,Internal Transfer,2020-11-06,Hired,71,Yes,Yes,143642,No,Yes,Yes,Salary Mismatch,REC07,MGR0012,4,6266
+REQ00540,CAND00540,HR,Manager,L1,Remote,Campus Recruiting,2021-07-24,Applied,38,Yes,Pending,174367,No,No,Yes,Position Closed,REC10,MGR0043,3,4546
+REQ00541,CAND00541,Customer Success,Manager,L2,Dallas,Glassdoor,2025-08-14,Withdrawn,58,No,No,171203,Yes,No,Yes,Withdrew,REC15,MGR0037,3,4074
+REQ00542,CAND00542,IT,Manager,L6,Remote,Agency,2022-02-10,Hired,45,Yes,Yes,109750,Yes,No,No,Failed Assessment,REC02,MGR0035,1,8089
+REQ00543,CAND00543,Marketing,Associate,L3,Dallas,LinkedIn,2022-01-03,Technical Assessment,103,No,Yes,175454,Yes,No,Yes,Culture Fit,REC14,MGR0019,5,6021
+REQ00544,CAND00544,IT,Associate,L6,San Francisco,Internal Transfer,2024-05-10,Offer,71,No,Pending,59257,Yes,Yes,No,Withdrew,REC14,MGR0009,2,1417
+REQ00545,CAND00545,Design,Senior Engineer,L2,Chicago,Direct Application,2024-10-12,Applied,61,No,Yes,98027,No,No,No,Salary Mismatch,REC12,MGR0017,2,6252
+REQ00546,CAND00546,Design,Senior Analyst,L6,Atlanta,LinkedIn,2022-08-08,Offer,111,Yes,Yes,193624,Yes,No,No,Salary Mismatch,REC16,MGR0041,5,7842
+REQ00547,CAND00547,HR,Analyst,L4,Seattle,Campus Recruiting,2021-09-04,Offer,94,Yes,Yes,141991,Yes,Yes,Yes,Overqualified,REC13,MGR0013,5,7675
+REQ00548,CAND00548,Product,Senior Engineer,L5,San Francisco,Agency,2020-08-28,Phone Interview,19,Yes,No,172987,No,No,Yes,None,REC12,MGR0041,4,5108
+REQ00549,CAND00549,Finance,Analyst,L3,Atlanta,Campus Recruiting,2024-06-18,Withdrawn,11,No,No,100800,Yes,No,No,Salary Mismatch,REC17,MGR0041,5,11425
+REQ00550,CAND00550,IT,Associate,L2,Boston,Glassdoor,2024-02-04,Hired,25,Yes,Yes,189473,No,No,No,Withdrew,REC04,MGR0025,3,5388
+REQ00551,CAND00551,Legal,Senior Engineer,L5,New York,Indeed,2023-11-23,Applied,15,No,Yes,114095,Yes,No,No,Overqualified,REC02,MGR0030,5,12100
+REQ00552,CAND00552,Operations,Engineer,L5,San Francisco,Campus Recruiting,2024-04-29,Rejected,60,No,Pending,70929,Yes,Yes,No,Salary Mismatch,REC19,MGR0039,6,4096
+REQ00553,CAND00553,HR,Director,L5,Atlanta,Agency,2025-10-13,Rejected,97,Yes,Pending,117940,No,Yes,No,Failed Assessment,REC15,MGR0029,6,14344
+REQ00554,CAND00554,Engineering,Manager,L7,Austin,Agency,2020-08-23,Phone Interview,69,No,Pending,147994,No,Yes,No,None,REC10,MGR0042,6,2521
+REQ00555,CAND00555,Product,Associate,L3,Seattle,Glassdoor,2020-08-11,Applied,34,Yes,Yes,194400,Yes,No,Yes,None,REC03,MGR0034,3,2301
+REQ00556,CAND00556,Legal,Senior Engineer,L3,Austin,Indeed,2026-03-25,Technical Assessment,57,No,Yes,140275,Yes,No,No,None,REC06,MGR0020,5,10716
+REQ00557,CAND00557,Operations,Manager,L7,Dallas,Indeed,2025-07-05,Panel Interview,76,No,Yes,90094,No,Yes,No,Culture Fit,REC14,MGR0030,2,4882
+REQ00558,CAND00558,Product,Analyst,L6,Seattle,LinkedIn,2022-05-25,Withdrawn,33,No,No,113648,Yes,Yes,No,Overqualified,REC04,MGR0021,3,5351
+REQ00559,CAND00559,Sales,Senior Engineer,L3,New York,Employee Referral,2020-05-02,Offer,27,No,Pending,65372,Yes,Yes,No,Overqualified,REC13,MGR0041,3,14687
+REQ00560,CAND00560,Finance,Senior Engineer,L1,Atlanta,Glassdoor,2024-05-12,Screening,95,Yes,No,191623,Yes,No,No,Position Closed,REC11,MGR0050,6,14948
+REQ00561,CAND00561,Product,Senior Engineer,L2,Denver,Employee Referral,2024-05-08,Screening,98,Yes,Yes,125892,Yes,No,No,Position Closed,REC03,MGR0029,3,10103
+REQ00562,CAND00562,Legal,Manager,L7,Denver,Glassdoor,2020-08-31,Offer,103,Yes,Yes,124988,Yes,Yes,No,Overqualified,REC17,MGR0020,5,6306
+REQ00563,CAND00563,IT,Senior Analyst,L1,Chicago,Agency,2022-05-27,Offer,66,Yes,Pending,172378,No,Yes,No,Salary Mismatch,REC11,MGR0015,2,4501
+REQ00564,CAND00564,Product,Senior Analyst,L2,Atlanta,Employee Referral,2021-09-03,Withdrawn,11,Yes,No,61687,Yes,Yes,No,Withdrew,REC12,MGR0010,5,11157
+REQ00565,CAND00565,Legal,Manager,L7,Dallas,Employee Referral,2021-11-27,Technical Assessment,94,Yes,Yes,88742,No,Yes,Yes,None,REC09,MGR0037,6,10987
+REQ00566,CAND00566,Customer Success,Manager,L4,Seattle,Campus Recruiting,2024-04-13,Screening,100,Yes,Yes,95570,Yes,No,Yes,Overqualified,REC18,MGR0050,3,2922
+REQ00567,CAND00567,Legal,Manager,L5,Remote,Indeed,2023-12-14,Withdrawn,46,Yes,No,66058,No,Yes,No,Culture Fit,REC19,MGR0047,2,12865
+REQ00568,CAND00568,Sales,Manager,L2,Denver,Campus Recruiting,2021-12-08,Withdrawn,45,No,Pending,159698,No,Yes,No,None,REC08,MGR0006,3,2099
+REQ00569,CAND00569,Customer Success,Senior Engineer,L5,Atlanta,Glassdoor,2020-09-02,Panel Interview,61,Yes,Pending,183349,No,No,Yes,Salary Mismatch,REC08,MGR0019,6,11584
+REQ00570,CAND00570,Marketing,Manager,L2,Denver,LinkedIn,2023-07-15,Screening,72,Yes,Pending,104005,No,No,Yes,Overqualified,REC09,MGR0045,1,9403
+REQ00571,CAND00571,HR,Senior Analyst,L1,Atlanta,Agency,2023-09-26,Rejected,55,Yes,No,155957,No,No,No,Overqualified,REC16,MGR0026,6,12716
+REQ00572,CAND00572,Marketing,Senior Analyst,L1,Seattle,Agency,2025-12-20,Rejected,65,Yes,Yes,63994,Yes,Yes,No,Overqualified,REC10,MGR0019,4,5073
+REQ00573,CAND00573,Finance,Associate,L1,Chicago,Indeed,2026-01-26,Hired,87,No,Pending,66407,No,Yes,Yes,Failed Assessment,REC12,MGR0033,4,4978
+REQ00574,CAND00574,Product,Associate,L1,Boston,Internal Transfer,2022-01-06,Applied,24,No,Pending,113276,No,Yes,No,Withdrew,REC11,MGR0007,1,2577
+REQ00575,CAND00575,Product,Manager,L4,Chicago,Employee Referral,2021-05-28,Withdrawn,71,No,Yes,154793,Yes,Yes,No,Culture Fit,REC16,MGR0016,6,9368
+REQ00576,CAND00576,Customer Success,Associate,L3,Boston,Direct Application,2020-12-19,Offer,107,No,No,167790,Yes,No,No,Culture Fit,REC13,MGR0006,3,14666
+REQ00577,CAND00577,Marketing,Analyst,L4,Remote,Indeed,2021-10-05,Rejected,115,Yes,Yes,170943,Yes,Yes,No,Overqualified,REC15,MGR0002,3,3777
+REQ00578,CAND00578,Marketing,Analyst,L7,Austin,Direct Application,2022-10-31,Technical Assessment,46,No,Yes,178239,Yes,No,Yes,Failed Assessment,REC10,MGR0041,1,3236
+REQ00579,CAND00579,Engineering,Associate,L7,Chicago,Employee Referral,2020-12-21,Offer,51,Yes,Pending,99727,Yes,No,Yes,Salary Mismatch,REC08,MGR0050,5,14119
+REQ00580,CAND00580,Customer Success,Senior Analyst,L1,Austin,Indeed,2020-06-15,Technical Assessment,66,No,Pending,157382,No,No,Yes,Failed Assessment,REC03,MGR0012,1,12339
+REQ00581,CAND00581,Design,Senior Engineer,L7,Austin,Glassdoor,2026-07-31,Rejected,110,Yes,No,62334,Yes,No,No,Failed Assessment,REC01,MGR0031,1,10011
+REQ00582,CAND00582,Sales,Engineer,L4,Seattle,LinkedIn,2022-08-18,Rejected,59,Yes,Yes,133678,Yes,Yes,No,None,REC08,MGR0034,3,12121
+REQ00583,CAND00583,Customer Success,Director,L5,San Francisco,Campus Recruiting,2022-01-12,Screening,36,Yes,Pending,176963,Yes,No,Yes,None,REC20,MGR0007,4,10074
+REQ00584,CAND00584,HR,Analyst,L2,Austin,Glassdoor,2026-03-19,Screening,25,Yes,Pending,103871,No,Yes,Yes,Position Closed,REC19,MGR0024,4,5653
+REQ00585,CAND00585,HR,Manager,L5,Atlanta,Indeed,2024-05-18,Technical Assessment,97,Yes,Yes,99848,No,Yes,No,Withdrew,REC11,MGR0028,5,14003
+REQ00586,CAND00586,Customer Success,Director,L3,Atlanta,Employee Referral,2025-10-18,Panel Interview,92,No,Pending,164694,No,No,No,Position Closed,REC06,MGR0016,4,13163
+REQ00587,CAND00587,Engineering,Analyst,L4,Remote,Campus Recruiting,2024-06-14,Technical Assessment,43,Yes,Yes,179612,Yes,No,No,Failed Assessment,REC01,MGR0029,6,13504
+REQ00588,CAND00588,IT,Associate,L7,Chicago,Employee Referral,2021-08-11,Phone Interview,29,No,Pending,105765,No,Yes,Yes,None,REC01,MGR0042,3,14817
+REQ00589,CAND00589,Operations,Director,L2,Seattle,Campus Recruiting,2021-10-13,Technical Assessment,109,Yes,Yes,81379,No,Yes,No,Overqualified,REC15,MGR0038,2,10019
+REQ00590,CAND00590,IT,Senior Engineer,L1,Denver,Indeed,2024-05-17,Withdrawn,68,Yes,Yes,176104,No,Yes,No,Failed Assessment,REC20,MGR0050,4,3437
+REQ00591,CAND00591,Finance,Engineer,L2,Denver,Employee Referral,2021-03-18,Panel Interview,30,No,Yes,125728,No,No,No,Withdrew,REC18,MGR0014,4,3862
+REQ00592,CAND00592,HR,Analyst,L5,Chicago,Glassdoor,2022-04-11,Technical Assessment,111,Yes,Pending,128437,No,No,Yes,Failed Assessment,REC07,MGR0032,2,13295
+REQ00593,CAND00593,Customer Success,Senior Analyst,L7,New York,Employee Referral,2021-07-04,Offer,54,Yes,No,180760,No,Yes,Yes,None,REC04,MGR0046,5,7329
+REQ00594,CAND00594,HR,Senior Engineer,L2,San Francisco,Campus Recruiting,2020-06-08,Panel Interview,104,No,No,117222,No,No,No,Overqualified,REC13,MGR0022,2,3247
+REQ00595,CAND00595,Marketing,Analyst,L3,Chicago,Employee Referral,2025-04-20,Panel Interview,21,Yes,Yes,122753,No,No,No,Withdrew,REC10,MGR0018,6,6448
+REQ00596,CAND00596,Data Science,Director,L2,New York,LinkedIn,2025-05-02,Withdrawn,12,No,Yes,185113,Yes,No,No,Failed Assessment,REC20,MGR0023,3,3005
+REQ00597,CAND00597,Operations,Senior Analyst,L2,San Francisco,Agency,2025-08-16,Withdrawn,85,Yes,Pending,84802,Yes,No,Yes,Failed Assessment,REC09,MGR0038,4,3946
+REQ00598,CAND00598,Legal,Director,L4,San Francisco,Direct Application,2026-01-07,Applied,19,Yes,No,131423,No,Yes,No,Position Closed,REC18,MGR0023,3,10713
+REQ00599,CAND00599,Sales,Manager,L4,Remote,Agency,2026-07-30,Hired,112,Yes,Pending,134778,No,Yes,Yes,None,REC16,MGR0034,5,4868
+REQ00600,CAND00600,Marketing,Senior Engineer,L4,Denver,Internal Transfer,2020-01-22,Hired,50,No,Yes,187353,No,Yes,No,Overqualified,REC11,MGR0013,2,4800
+REQ00601,CAND00601,Marketing,Director,L3,Dallas,Indeed,2022-05-23,Rejected,62,Yes,No,53356,No,Yes,Yes,Culture Fit,REC20,MGR0040,5,1365
+REQ00602,CAND00602,Product,Director,L3,Dallas,Indeed,2025-06-10,Withdrawn,16,No,Pending,88169,No,Yes,No,Failed Assessment,REC14,MGR0029,3,2818
+REQ00603,CAND00603,Engineering,Senior Engineer,L3,Dallas,Direct Application,2025-10-17,Screening,52,Yes,Yes,50988,Yes,Yes,No,Overqualified,REC06,MGR0035,2,8575
+REQ00604,CAND00604,Engineering,Analyst,L2,Atlanta,Glassdoor,2020-06-05,Hired,116,Yes,No,108289,No,No,No,Position Closed,REC03,MGR0017,2,8082
+REQ00605,CAND00605,Operations,Engineer,L5,Seattle,Campus Recruiting,2021-09-23,Screening,85,Yes,Yes,183620,Yes,No,No,None,REC02,MGR0012,4,5011
+REQ00606,CAND00606,Engineering,Director,L6,New York,Direct Application,2022-12-11,Rejected,117,Yes,No,61564,Yes,Yes,No,Withdrew,REC18,MGR0032,6,7309
+REQ00607,CAND00607,Sales,Senior Analyst,L2,Chicago,Internal Transfer,2025-02-19,Technical Assessment,83,Yes,Yes,59523,Yes,Yes,No,Salary Mismatch,REC01,MGR0047,6,6451
+REQ00608,CAND00608,Engineering,Senior Analyst,L4,Denver,LinkedIn,2025-05-05,Rejected,118,Yes,Yes,187068,Yes,No,No,Overqualified,REC06,MGR0048,6,1808
+REQ00609,CAND00609,Engineering,Associate,L3,Remote,LinkedIn,2024-06-23,Screening,111,Yes,No,138190,Yes,Yes,Yes,Failed Assessment,REC19,MGR0005,3,6723
+REQ00610,CAND00610,HR,Associate,L3,Chicago,Campus Recruiting,2026-02-16,Rejected,22,Yes,Yes,132631,Yes,Yes,No,Salary Mismatch,REC20,MGR0010,4,12762
+REQ00611,CAND00611,Legal,Engineer,L1,Denver,Indeed,2022-11-30,Applied,29,No,Pending,182002,Yes,No,Yes,Salary Mismatch,REC16,MGR0006,3,850
+REQ00612,CAND00612,IT,Senior Analyst,L7,Seattle,Internal Transfer,2024-07-14,Screening,24,Yes,Yes,138637,Yes,No,Yes,Salary Mismatch,REC19,MGR0022,4,13603
+REQ00613,CAND00613,Finance,Associate,L7,Seattle,Glassdoor,2021-09-24,Rejected,59,Yes,Yes,103037,Yes,Yes,No,Salary Mismatch,REC12,MGR0028,1,5601
+REQ00614,CAND00614,IT,Analyst,L4,Denver,Agency,2026-07-12,Panel Interview,94,No,Yes,167822,No,No,No,Failed Assessment,REC05,MGR0015,1,7497
+REQ00615,CAND00615,Customer Success,Director,L3,Atlanta,LinkedIn,2023-09-24,Phone Interview,64,Yes,Yes,163018,Yes,No,No,None,REC09,MGR0013,4,10046
+REQ00616,CAND00616,Design,Director,L5,New York,Agency,2023-03-25,Panel Interview,106,No,Yes,138319,No,Yes,No,Culture Fit,REC02,MGR0021,2,11257
+REQ00617,CAND00617,Legal,Senior Analyst,L4,Atlanta,Indeed,2025-12-01,Offer,37,Yes,Pending,198033,Yes,No,No,None,REC20,MGR0028,5,6191
+REQ00618,CAND00618,Marketing,Associate,L4,Atlanta,Glassdoor,2020-11-13,Applied,103,No,Pending,117266,Yes,Yes,No,Salary Mismatch,REC02,MGR0046,2,6468
+REQ00619,CAND00619,Marketing,Associate,L7,Dallas,Campus Recruiting,2023-09-04,Applied,94,Yes,Yes,144307,Yes,Yes,No,None,REC10,MGR0021,4,7210
+REQ00620,CAND00620,Customer Success,Senior Engineer,L7,Chicago,Glassdoor,2025-08-12,Offer,21,No,No,60096,No,No,Yes,Failed Assessment,REC14,MGR0026,4,3636
+REQ00621,CAND00621,Customer Success,Engineer,L7,Denver,Direct Application,2025-03-16,Rejected,23,No,Yes,100618,Yes,Yes,No,Position Closed,REC05,MGR0015,2,12266
+REQ00622,CAND00622,Product,Associate,L4,Austin,Indeed,2024-08-13,Rejected,96,No,No,88879,Yes,Yes,Yes,None,REC06,MGR0037,6,607
+REQ00623,CAND00623,Operations,Senior Engineer,L6,Denver,Employee Referral,2025-03-03,Withdrawn,114,Yes,Pending,142923,No,No,No,Salary Mismatch,REC09,MGR0029,4,11925
+REQ00624,CAND00624,Sales,Senior Engineer,L5,New York,Employee Referral,2024-08-19,Hired,87,Yes,Yes,56415,Yes,Yes,No,Culture Fit,REC10,MGR0023,1,568
+REQ00625,CAND00625,IT,Director,L5,Atlanta,LinkedIn,2023-06-14,Withdrawn,83,Yes,No,76018,No,Yes,Yes,Culture Fit,REC15,MGR0041,1,1243
+REQ00626,CAND00626,Legal,Analyst,L4,Denver,Agency,2021-12-28,Technical Assessment,107,No,Yes,97300,No,Yes,No,Withdrew,REC09,MGR0026,1,977
+REQ00627,CAND00627,Operations,Associate,L3,San Francisco,Direct Application,2021-01-07,Hired,10,No,Yes,191194,No,No,No,None,REC08,MGR0004,5,8933
+REQ00628,CAND00628,Legal,Director,L6,Seattle,Employee Referral,2022-07-06,Hired,57,Yes,No,152175,No,No,No,None,REC08,MGR0035,3,8005
+REQ00629,CAND00629,Sales,Director,L1,Seattle,Agency,2024-02-16,Phone Interview,31,No,Yes,120411,Yes,Yes,No,None,REC01,MGR0041,3,14814
+REQ00630,CAND00630,IT,Associate,L1,Seattle,LinkedIn,2022-05-20,Applied,44,No,No,77643,Yes,No,No,Failed Assessment,REC08,MGR0022,1,9581
+REQ00631,CAND00631,Design,Director,L6,New York,LinkedIn,2022-06-13,Hired,50,No,Pending,183212,Yes,Yes,No,None,REC08,MGR0032,5,2824
+REQ00632,CAND00632,Legal,Senior Analyst,L5,New York,Internal Transfer,2020-03-10,Hired,84,No,Pending,180404,Yes,Yes,Yes,Withdrew,REC09,MGR0016,6,10967
+REQ00633,CAND00633,Data Science,Manager,L2,Dallas,Indeed,2026-04-12,Technical Assessment,85,No,Yes,82658,No,Yes,No,Failed Assessment,REC17,MGR0041,5,7747
+REQ00634,CAND00634,Operations,Senior Analyst,L4,Denver,Glassdoor,2020-03-19,Rejected,90,Yes,No,119397,No,No,No,Overqualified,REC10,MGR0009,3,13522
+REQ00635,CAND00635,Finance,Senior Analyst,L3,Boston,Agency,2023-09-09,Phone Interview,111,No,Pending,112123,Yes,No,No,Salary Mismatch,REC16,MGR0024,5,2833
+REQ00636,CAND00636,Engineering,Engineer,L2,Seattle,Employee Referral,2022-11-21,Offer,75,No,Pending,105009,Yes,No,No,Overqualified,REC11,MGR0024,6,10876
+REQ00637,CAND00637,Product,Senior Engineer,L5,Austin,Employee Referral,2022-02-25,Offer,82,No,Yes,171982,Yes,No,Yes,Withdrew,REC17,MGR0050,3,5241
+REQ00638,CAND00638,Finance,Senior Analyst,L5,New York,Agency,2025-06-17,Rejected,117,No,Pending,185342,No,Yes,No,None,REC11,MGR0012,3,10567
+REQ00639,CAND00639,Product,Senior Analyst,L4,Remote,Direct Application,2024-08-18,Screening,86,Yes,Yes,100757,Yes,No,Yes,Failed Assessment,REC08,MGR0015,3,778
+REQ00640,CAND00640,Marketing,Manager,L5,Boston,Glassdoor,2023-07-02,Withdrawn,103,No,Pending,100387,No,Yes,Yes,Failed Assessment,REC02,MGR0047,2,14362
+REQ00641,CAND00641,IT,Senior Analyst,L4,Boston,Direct Application,2023-12-20,Technical Assessment,75,No,No,191475,No,Yes,No,Overqualified,REC20,MGR0045,2,13706
+REQ00642,CAND00642,Operations,Senior Engineer,L4,Seattle,Indeed,2023-11-22,Phone Interview,70,No,Pending,96908,Yes,No,No,Overqualified,REC08,MGR0006,3,4478
+REQ00643,CAND00643,Marketing,Analyst,L3,Austin,Campus Recruiting,2023-06-30,Technical Assessment,103,No,No,188182,No,No,No,Overqualified,REC02,MGR0001,4,11523
+REQ00644,CAND00644,Data Science,Associate,L2,Austin,Indeed,2020-06-21,Hired,84,Yes,Yes,130856,No,No,No,Withdrew,REC05,MGR0021,2,14140
+REQ00645,CAND00645,Marketing,Senior Engineer,L3,San Francisco,Direct Application,2025-12-12,Panel Interview,105,No,Pending,136943,Yes,Yes,Yes,Failed Assessment,REC07,MGR0035,3,11553
+REQ00646,CAND00646,Engineering,Manager,L4,Atlanta,Agency,2022-11-17,Screening,56,Yes,Pending,131951,No,No,Yes,Failed Assessment,REC17,MGR0021,2,6383
+REQ00647,CAND00647,Engineering,Senior Analyst,L1,Denver,Internal Transfer,2022-06-18,Technical Assessment,78,Yes,No,167833,No,No,No,Withdrew,REC18,MGR0042,2,10468
+REQ00648,CAND00648,Sales,Engineer,L2,Dallas,Campus Recruiting,2020-08-12,Panel Interview,17,Yes,Pending,64540,Yes,Yes,Yes,Position Closed,REC10,MGR0040,1,3568
+REQ00649,CAND00649,Operations,Manager,L5,New York,Direct Application,2022-01-05,Screening,118,No,Yes,83025,Yes,No,No,Culture Fit,REC02,MGR0015,2,7232
+REQ00650,CAND00650,IT,Engineer,L2,Austin,Employee Referral,2025-05-22,Hired,63,Yes,Yes,150749,Yes,Yes,No,Position Closed,REC18,MGR0012,6,5530
+REQ00651,CAND00651,Design,Senior Engineer,L2,Austin,Glassdoor,2026-06-10,Phone Interview,52,No,No,126377,No,No,No,Position Closed,REC14,MGR0038,2,6577
+REQ00652,CAND00652,HR,Manager,L3,San Francisco,LinkedIn,2026-01-01,Technical Assessment,31,No,No,195011,No,No,No,Withdrew,REC04,MGR0008,2,532
+REQ00653,CAND00653,Finance,Manager,L3,Seattle,Employee Referral,2021-02-07,Applied,49,No,Pending,55389,No,Yes,No,None,REC13,MGR0026,1,12457
+REQ00654,CAND00654,Finance,Senior Engineer,L7,Dallas,LinkedIn,2022-12-20,Hired,50,Yes,No,109244,Yes,Yes,Yes,None,REC04,MGR0004,3,12256
+REQ00655,CAND00655,Sales,Director,L7,Remote,Campus Recruiting,2025-02-25,Technical Assessment,82,Yes,Pending,187892,No,No,No,Withdrew,REC16,MGR0020,6,9457
+REQ00656,CAND00656,Product,Manager,L5,Denver,Indeed,2023-03-02,Screening,77,No,No,124264,Yes,No,No,Withdrew,REC01,MGR0046,2,14373
+REQ00657,CAND00657,Finance,Manager,L5,Boston,Indeed,2021-09-23,Rejected,73,Yes,Yes,53511,No,No,No,Overqualified,REC18,MGR0042,6,1114
+REQ00658,CAND00658,Operations,Senior Engineer,L3,San Francisco,Glassdoor,2021-04-15,Technical Assessment,47,Yes,Yes,101627,Yes,No,Yes,Position Closed,REC07,MGR0016,4,14249
+REQ00659,CAND00659,Product,Senior Engineer,L6,Seattle,Internal Transfer,2025-06-10,Panel Interview,112,No,No,112172,No,Yes,Yes,Overqualified,REC07,MGR0050,2,1015
+REQ00660,CAND00660,Legal,Senior Analyst,L1,Atlanta,Internal Transfer,2024-03-17,Screening,97,Yes,Yes,194839,Yes,No,No,Salary Mismatch,REC05,MGR0018,1,6747
+REQ00661,CAND00661,Engineering,Associate,L7,Atlanta,Indeed,2024-09-23,Withdrawn,110,No,No,100467,No,No,No,Salary Mismatch,REC13,MGR0034,2,5345
+REQ00662,CAND00662,Marketing,Senior Engineer,L2,Atlanta,Internal Transfer,2025-12-01,Withdrawn,86,Yes,No,187603,No,Yes,Yes,Culture Fit,REC07,MGR0026,2,4880
+REQ00663,CAND00663,IT,Analyst,L7,New York,LinkedIn,2025-09-13,Screening,86,Yes,Pending,103871,No,No,No,Position Closed,REC03,MGR0041,6,12861
+REQ00664,CAND00664,Product,Senior Analyst,L2,Austin,Indeed,2023-06-23,Applied,95,No,Pending,102420,Yes,No,No,Culture Fit,REC09,MGR0007,1,4360
+REQ00665,CAND00665,Design,Associate,L3,Boston,Agency,2022-11-26,Applied,23,No,No,103589,Yes,No,No,None,REC07,MGR0049,1,987
+REQ00666,CAND00666,Marketing,Associate,L7,Remote,LinkedIn,2021-12-15,Applied,95,No,No,113558,No,No,No,Salary Mismatch,REC12,MGR0003,3,5512
+REQ00667,CAND00667,Marketing,Senior Analyst,L7,New York,Glassdoor,2024-05-30,Hired,87,No,No,140889,Yes,Yes,No,Culture Fit,REC20,MGR0038,5,2206
+REQ00668,CAND00668,Data Science,Analyst,L2,Dallas,LinkedIn,2022-01-31,Phone Interview,19,Yes,Yes,155943,No,Yes,Yes,Position Closed,REC04,MGR0026,4,2786
+REQ00669,CAND00669,IT,Associate,L2,Atlanta,Glassdoor,2025-10-05,Applied,79,Yes,Pending,143704,No,No,Yes,Withdrew,REC18,MGR0050,4,2074
+REQ00670,CAND00670,Data Science,Analyst,L5,Boston,Agency,2022-10-15,Applied,96,Yes,Yes,167181,No,Yes,Yes,Position Closed,REC19,MGR0040,6,1231
+REQ00671,CAND00671,Marketing,Associate,L4,Dallas,LinkedIn,2025-03-11,Applied,114,No,Yes,139586,No,No,Yes,Overqualified,REC17,MGR0037,4,5492
+REQ00672,CAND00672,IT,Director,L2,Seattle,Glassdoor,2024-11-20,Panel Interview,24,Yes,No,197669,Yes,No,No,Salary Mismatch,REC19,MGR0023,5,6566
+REQ00673,CAND00673,Customer Success,Associate,L5,Austin,Employee Referral,2021-12-21,Hired,102,No,Yes,84129,Yes,No,Yes,Culture Fit,REC18,MGR0030,5,11289
+REQ00674,CAND00674,Product,Senior Analyst,L4,Chicago,Internal Transfer,2024-01-16,Offer,87,No,Yes,85024,No,No,No,Failed Assessment,REC19,MGR0026,4,6740
+REQ00675,CAND00675,HR,Director,L1,Atlanta,Glassdoor,2020-10-24,Hired,108,No,No,116824,Yes,Yes,No,Withdrew,REC17,MGR0030,3,12244
+REQ00676,CAND00676,IT,Analyst,L2,Remote,Glassdoor,2021-07-02,Applied,47,Yes,Yes,71321,Yes,Yes,Yes,Culture Fit,REC03,MGR0023,3,1220
+REQ00677,CAND00677,Sales,Director,L6,Remote,Indeed,2020-05-25,Phone Interview,51,No,No,121072,Yes,No,No,Culture Fit,REC20,MGR0018,6,13769
+REQ00678,CAND00678,Customer Success,Associate,L1,Denver,Campus Recruiting,2026-03-04,Applied,60,No,Pending,52436,No,No,Yes,Salary Mismatch,REC19,MGR0024,5,14500
+REQ00679,CAND00679,IT,Manager,L5,Austin,Glassdoor,2025-06-03,Phone Interview,115,No,No,68056,Yes,No,No,Culture Fit,REC15,MGR0031,2,14112
+REQ00680,CAND00680,Customer Success,Senior Engineer,L1,Atlanta,Campus Recruiting,2020-01-04,Withdrawn,112,Yes,No,146862,Yes,Yes,Yes,Withdrew,REC14,MGR0026,1,3405
+REQ00681,CAND00681,Sales,Associate,L4,Seattle,Employee Referral,2026-03-19,Technical Assessment,33,Yes,Pending,154017,Yes,No,No,None,REC15,MGR0050,5,2999
+REQ00682,CAND00682,Marketing,Engineer,L3,Remote,Employee Referral,2020-10-27,Hired,11,Yes,Pending,193776,Yes,No,No,Culture Fit,REC04,MGR0022,2,6594
+REQ00683,CAND00683,Finance,Analyst,L5,Austin,Indeed,2025-04-28,Screening,50,Yes,No,163719,Yes,Yes,No,None,REC18,MGR0029,5,7988
+REQ00684,CAND00684,Customer Success,Senior Analyst,L7,Atlanta,Glassdoor,2023-09-09,Offer,97,No,Yes,103657,Yes,No,Yes,Overqualified,REC01,MGR0012,4,14444
+REQ00685,CAND00685,HR,Analyst,L6,Seattle,Campus Recruiting,2020-05-11,Phone Interview,54,Yes,Yes,78700,Yes,Yes,No,None,REC01,MGR0050,1,14818
+REQ00686,CAND00686,HR,Senior Engineer,L4,New York,Direct Application,2024-02-03,Screening,108,No,Yes,96917,Yes,Yes,Yes,Position Closed,REC19,MGR0034,2,12926
+REQ00687,CAND00687,Finance,Director,L1,Austin,Indeed,2025-06-24,Applied,69,Yes,No,103686,Yes,No,Yes,Withdrew,REC11,MGR0046,4,7001
+REQ00688,CAND00688,Customer Success,Senior Analyst,L4,Remote,Direct Application,2022-01-18,Rejected,56,No,No,107774,No,No,Yes,Position Closed,REC15,MGR0013,2,14803
+REQ00689,CAND00689,Finance,Director,L2,Seattle,LinkedIn,2023-10-01,Screening,77,Yes,No,76082,Yes,No,No,Position Closed,REC18,MGR0050,5,6750
+REQ00690,CAND00690,Operations,Associate,L3,Boston,Glassdoor,2021-04-08,Offer,19,Yes,No,199652,Yes,Yes,No,Withdrew,REC14,MGR0032,5,9024
+REQ00691,CAND00691,IT,Engineer,L4,Dallas,Campus Recruiting,2025-11-06,Phone Interview,113,No,No,196330,No,No,No,Position Closed,REC05,MGR0013,3,4864
+REQ00692,CAND00692,Marketing,Senior Analyst,L4,Dallas,Internal Transfer,2024-06-04,Hired,119,Yes,Pending,176147,Yes,No,No,Overqualified,REC17,MGR0008,1,9992
+REQ00693,CAND00693,HR,Manager,L7,Chicago,Campus Recruiting,2020-11-03,Phone Interview,84,No,No,131140,Yes,Yes,Yes,Overqualified,REC17,MGR0041,5,5806
+REQ00694,CAND00694,Customer Success,Senior Analyst,L1,Denver,Campus Recruiting,2021-04-05,Phone Interview,16,Yes,Yes,50456,No,No,No,Withdrew,REC06,MGR0035,1,10498
+REQ00695,CAND00695,Product,Engineer,L6,San Francisco,LinkedIn,2024-02-18,Screening,10,Yes,No,115052,Yes,No,No,Salary Mismatch,REC16,MGR0027,5,8665
+REQ00696,CAND00696,IT,Director,L1,Denver,Campus Recruiting,2022-02-16,Rejected,89,Yes,Pending,179169,No,Yes,No,Position Closed,REC05,MGR0016,3,1091
+REQ00697,CAND00697,IT,Analyst,L2,Remote,Glassdoor,2021-11-09,Applied,33,Yes,Pending,92082,Yes,No,No,Withdrew,REC15,MGR0016,2,1937
+REQ00698,CAND00698,Legal,Analyst,L1,Remote,Direct Application,2020-06-18,Phone Interview,21,No,Pending,121125,Yes,No,No,Withdrew,REC19,MGR0007,6,10594
+REQ00699,CAND00699,Legal,Senior Analyst,L5,Chicago,Direct Application,2023-08-11,Offer,23,No,Yes,117310,No,Yes,Yes,Failed Assessment,REC02,MGR0028,3,11948
+REQ00700,CAND00700,Marketing,Engineer,L2,San Francisco,Employee Referral,2026-01-15,Technical Assessment,55,Yes,Pending,154429,Yes,Yes,No,None,REC12,MGR0032,1,5790

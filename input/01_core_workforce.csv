@@ -1,0 +1,1201 @@
+employee_id,full_name,gender,ethnicity,age,department,job_title,job_level,location,hire_date,tenure_years,manager_id,employment_type,status,base_salary,bonus_pct,performance_rating,last_promotion_date,cost_center,country
+EMP00001,Emma Johnson,Non-binary,Hispanic,36,Marketing,Senior Analyst,L6,Dallas,2022-03-04,1.13,MGR0028,Full-Time,Active,69561,5.5,Exceeds,2026-04-17,CC303,Brazil
+EMP00002,Amir Scott,Non-binary,White,32,Design,Associate,L3,Seattle,2017-06-21,1.95,MGR0049,Part-Time,Active,69312,9.5,Partially Meets,2023-11-09,CC718,Germany
+EMP00003,James Turner,Prefer not to say,Two or more races,29,Legal,Senior Analyst,L5,Seattle,2024-01-19,9.97,MGR0040,Part-Time,Leave,95407,17.6,Exceeds,2022-07-22,CC891,Germany
+EMP00004,Noah Patel,Prefer not to say,Black or African American,51,Data Science,VP,L2,Boston,2015-11-23,4.33,MGR0043,Part-Time,Active,204680,15.9,Meets,2021-10-31,CC573,Brazil
+EMP00005,Chris Perez,Female,Not disclosed,42,Engineering,Senior Manager,L7,New York,2018-01-10,9.68,MGR0026,Part-Time,Active,100307,22.8,Partially Meets,2022-05-20,CC771,Singapore
+EMP00006,Ananya Thomas,Female,Black or African American,30,HR,Lead,L5,Seattle,2019-06-09,8.99,MGR0028,Part-Time,Active,102493,24.9,Meets,2025-09-18,CC605,India
+EMP00007,Maria Kim,Female,Not disclosed,32,Data Science,Associate,L5,San Francisco,2023-06-23,4.68,MGR0039,Part-Time,Leave,110906,24.3,Exceeds,2021-04-14,CC798,Germany
+EMP00008,Ananya Taylor,Male,Black or African American,49,Marketing,Specialist,L1,Seattle,2023-08-15,11.67,MGR0049,Full-Time,Leave,72894,21.8,Partially Meets,2025-09-10,CC723,Canada
+EMP00009,Sara Martinez,Male,Two or more races,42,Product,Analyst,L1,Boston,2016-09-18,10.56,MGR0020,Full-Time,Active,108143,22.0,Exceeds,2020-12-16,CC849,Singapore
+EMP00010,David Young,Female,Hispanic,52,Customer Success,Manager,L3,Dallas,2024-02-25,10.48,MGR0028,Full-Time,Leave,97730,17.8,Does Not Meet,2024-03-09,CC548,Singapore
+EMP00011,Isabella Müller,Male,Black or African American,23,IT,Lead,L2,Remote,2016-05-10,2.72,MGR0005,Full-Time,Active,62668,22.6,Partially Meets,2020-10-17,CC626,Canada
+EMP00012,Kevin Harris,Female,Two or more races,30,Design,Principal,L5,Atlanta,2018-02-14,2.99,MGR0031,Part-Time,Active,69726,2.4,Does Not Meet,2023-12-22,CC533,Brazil
+EMP00013,Tariq Lee,Male,White,47,Design,VP,L7,San Francisco,2020-03-27,3.06,MGR0013,Part-Time,Active,155593,4.6,Does Not Meet,2022-10-20,CC995,India
+EMP00014,Hannah Patel,Male,Not disclosed,56,Engineering,Senior Analyst,L7,Chicago,2019-12-21,2.08,MGR0032,Part-Time,Active,150130,22.6,Meets,2024-04-01,CC102,Brazil
+EMP00015,Elena Costa,Prefer not to say,Not disclosed,57,Data Science,Specialist,L2,Chicago,2017-12-22,3.63,MGR0004,Full-Time,Active,59985,1.3,Does Not Meet,2025-08-21,CC973,UK
+EMP00016,Hassan Williams,Female,White,60,Sales,Senior Manager,L4,San Francisco,2015-08-21,11.3,MGR0037,Full-Time,Leave,200849,1.0,Exceeds,2024-09-13,CC773,Australia
+EMP00017,Rohan Ali,Non-binary,Hispanic,38,Legal,Manager,L6,Seattle,2025-06-25,5.54,MGR0049,Full-Time,Active,165136,15.5,Exceeds,2020-10-27,CC650,Canada
+EMP00018,Rohan Brown,Non-binary,White,37,Operations,Director,L2,Atlanta,2020-09-03,10.02,MGR0046,Part-Time,Leave,216435,13.2,Partially Meets,2021-02-28,CC999,UK
+EMP00019,Emma Patel,Female,Black or African American,40,IT,Senior Manager,L6,Boston,2017-12-19,2.52,MGR0041,Part-Time,Leave,173065,6.3,Exceeds,2021-01-13,CC749,Brazil
+EMP00020,Olivia Garcia,Male,Black or African American,30,Data Science,Director,L2,Atlanta,2024-04-20,6.66,MGR0028,Full-Time,Active,64724,23.6,Meets,2026-02-12,CC136,Australia
+EMP00021,Hannah Okafor,Prefer not to say,Hispanic,24,Finance,VP,L7,New York,2021-07-13,10.8,MGR0014,Full-Time,Active,137714,19.5,Does Not Meet,2021-09-25,CC342,UK
+EMP00022,Sophia Ahmed,Male,Hispanic,43,Legal,Senior Manager,L3,Austin,2023-12-21,9.47,MGR0007,Part-Time,Active,168388,5.6,Does Not Meet,2023-12-03,CC412,Canada
+EMP00023,Priya Carter,Female,Asian,43,Finance,Senior Analyst,L7,Seattle,2017-07-02,4.28,MGR0033,Part-Time,Leave,131808,23.5,Exceeds,2022-12-05,CC282,Germany
+EMP00024,Carlos Green,Prefer not to say,Black or African American,42,Legal,Principal,L5,San Francisco,2015-06-06,4.68,MGR0037,Full-Time,Active,56635,17.7,Exceeds,2025-10-30,CC925,Canada
+EMP00025,Chloe Chen,Non-binary,Two or more races,42,Data Science,Senior Analyst,L6,Seattle,2019-01-31,6.13,MGR0043,Part-Time,Active,150486,17.4,Meets,2022-02-24,CC530,Brazil
+EMP00026,Mia Nguyen,Non-binary,Asian,57,Engineering,Director,L3,Chicago,2022-08-06,5.22,MGR0038,Part-Time,Active,160811,11.1,Meets,2025-09-24,CC584,UK
+EMP00027,Aisha Costa,Non-binary,White,37,Data Science,Director,L2,Chicago,2022-05-22,1.85,MGR0003,Full-Time,Active,205241,21.2,Exceeds,2025-02-08,CC524,Canada
+EMP00028,Marcus Jackson,Prefer not to say,Asian,37,Marketing,Analyst,L7,San Francisco,2023-01-21,9.36,MGR0015,Full-Time,Leave,166778,1.3,Meets,2021-05-12,CC567,UK
+EMP00029,Elena Carter,Non-binary,Asian,61,Design,Lead,L4,Dallas,2023-12-27,5.41,MGR0011,Part-Time,Active,112945,18.8,Partially Meets,2025-11-05,CC596,Canada
+EMP00030,Amir Chen,Non-binary,Hispanic,39,Operations,VP,L5,San Francisco,2018-01-29,1.75,MGR0015,Part-Time,Active,101086,1.6,Does Not Meet,2023-09-17,CC655,Singapore
+EMP00031,Maria Ali,Prefer not to say,Asian,59,Design,Analyst,L7,Remote,2019-08-31,4.63,MGR0001,Part-Time,Active,147232,21.3,Does Not Meet,2026-01-13,CC865,Canada
+EMP00032,Noah Andersen,Prefer not to say,Asian,23,Legal,VP,L6,Denver,2020-06-22,8.72,MGR0030,Full-Time,Leave,185017,0.7,Does Not Meet,2026-04-30,CC778,USA
+EMP00033,Ananya Clark,Female,Asian,33,Engineering,Director,L4,Boston,2015-12-10,2.62,MGR0021,Part-Time,Active,117943,18.8,Does Not Meet,2022-10-30,CC954,India
+EMP00034,Priya Young,Male,Black or African American,36,Data Science,Senior Analyst,L7,New York,2020-04-10,9.08,MGR0016,Full-Time,Active,207879,3.8,Meets,2025-04-23,CC785,India
+EMP00035,Zara Thomas,Non-binary,Black or African American,32,IT,Principal,L6,San Francisco,2021-04-29,9.36,MGR0011,Part-Time,Active,196698,0.6,Partially Meets,2026-06-16,CC793,Brazil
+EMP00036,Ingrid Smith,Male,Two or more races,62,HR,Senior Analyst,L6,Seattle,2019-06-13,10.22,MGR0039,Full-Time,Leave,55766,8.7,Does Not Meet,2024-02-26,CC170,Australia
+EMP00037,Raj Harris,Male,Asian,45,Data Science,Specialist,L6,Austin,2015-02-21,5.28,MGR0047,Part-Time,Leave,186078,19.4,Does Not Meet,2024-11-19,CC945,Germany
+EMP00038,Isabella Williams,Non-binary,Asian,37,Product,Principal,L5,Denver,2018-08-13,4.1,MGR0032,Part-Time,Active,172808,5.3,Partially Meets,2023-10-26,CC386,Germany
+EMP00039,Aarav Hall,Female,White,37,Design,Associate,L4,Dallas,2021-03-26,9.12,MGR0045,Part-Time,Active,162486,19.8,Exceeds,2023-04-20,CC326,Brazil
+EMP00040,Isabella Robinson,Non-binary,Asian,57,Customer Success,VP,L4,Dallas,2022-10-04,4.04,MGR0045,Part-Time,Active,125379,6.3,Exceeds,2022-02-27,CC423,India
+EMP00041,Ryan Perez,Female,Hispanic,35,Design,Specialist,L3,Remote,2023-05-01,11.72,MGR0034,Part-Time,Active,95886,7.4,Partially Meets,2022-01-04,CC409,USA
+EMP00042,Ryan Brown,Non-binary,White,25,Customer Success,Director,L6,Austin,2022-12-10,7.69,MGR0049,Part-Time,Active,48215,14.4,Does Not Meet,2025-05-14,CC551,Australia
+EMP00043,Maria Nakamura,Prefer not to say,White,26,Legal,Specialist,L1,Remote,2017-01-25,7.59,MGR0004,Full-Time,Active,192545,23.7,Exceeds,2022-10-13,CC221,Brazil
+EMP00044,Diego Adams,Female,Two or more races,46,Product,Specialist,L3,Remote,2021-10-19,11.88,MGR0020,Full-Time,Leave,71013,23.7,Meets,2022-05-14,CC370,India
+EMP00045,Isabella Nguyen,Male,Hispanic,22,Legal,Specialist,L6,Remote,2016-10-05,5.69,MGR0003,Full-Time,Active,119112,17.6,Does Not Meet,2020-10-18,CC803,Canada
+EMP00046,Rohan Baker,Female,Asian,29,Customer Success,Senior Manager,L6,Austin,2025-05-12,10.91,MGR0010,Full-Time,Active,88495,19.8,Partially Meets,2024-12-03,CC227,Singapore
+EMP00047,Amara Perez,Prefer not to say,Black or African American,54,Customer Success,Specialist,L4,San Francisco,2022-09-21,7.22,MGR0028,Part-Time,Leave,110632,0.6,Meets,2026-06-14,CC701,USA
+EMP00048,Sofia Andersen,Male,Hispanic,52,Customer Success,Specialist,L3,Austin,2023-07-30,11.96,MGR0028,Part-Time,Active,168210,8.7,Partially Meets,2023-08-08,CC786,India
+EMP00049,Liam Taylor,Prefer not to say,Not disclosed,53,Finance,Associate,L7,Dallas,2024-08-14,0.54,MGR0006,Part-Time,Active,129744,2.9,Does Not Meet,2025-10-08,CC944,USA
+EMP00050,Ryan Thomas,Prefer not to say,White,34,Customer Success,VP,L5,Atlanta,2022-05-17,7.54,MGR0049,Full-Time,Active,115007,13.7,Partially Meets,2024-11-29,CC815,Singapore
+EMP00051,Priya Baker,Female,Not disclosed,32,Finance,Lead,L1,Dallas,2016-05-12,4.96,MGR0015,Full-Time,Active,75793,16.2,Meets,2025-08-03,CC833,Germany
+EMP00052,Ingrid Andersen,Prefer not to say,Asian,52,HR,Specialist,L5,Austin,2020-09-15,4.66,MGR0039,Full-Time,Active,117416,19.3,Does Not Meet,2023-10-24,CC906,Germany
+EMP00053,Aarav Costa,Non-binary,Two or more races,59,Data Science,Specialist,L7,Austin,2024-03-14,5.41,MGR0031,Part-Time,Active,189681,19.1,Does Not Meet,2025-02-08,CC429,Canada
+EMP00054,Isabella Wright,Prefer not to say,Hispanic,48,Engineering,VP,L6,Atlanta,2022-10-27,8.49,MGR0025,Part-Time,Active,174847,24.1,Meets,2025-08-19,CC704,Australia
+EMP00055,Carlos Wilson,Male,Two or more races,51,Engineering,Manager,L4,Austin,2024-10-02,0.99,MGR0017,Part-Time,Leave,149197,16.2,Partially Meets,2025-12-25,CC489,Australia
+EMP00056,Ingrid Harris,Male,Two or more races,26,HR,Director,L2,San Francisco,2022-01-11,5.26,MGR0007,Full-Time,Active,88611,17.4,Exceeds,2020-07-07,CC432,USA
+EMP00057,Omar White,Prefer not to say,Hispanic,37,Customer Success,Associate,L5,Austin,2018-04-16,2.12,MGR0006,Part-Time,Leave,108132,12.4,Meets,2022-08-09,CC572,Germany
+EMP00058,Rohan Carter,Male,Asian,40,Data Science,Lead,L2,San Francisco,2020-02-26,5.36,MGR0023,Part-Time,Active,110561,11.4,Partially Meets,2022-03-26,CC493,Singapore
+EMP00059,Isabella Jackson,Non-binary,Two or more races,40,Design,Director,L1,Denver,2016-03-12,3.37,MGR0037,Full-Time,Leave,175214,20.8,Partially Meets,2022-07-31,CC721,Australia
+EMP00060,Chris Smith,Non-binary,Not disclosed,30,Data Science,Senior Analyst,L6,New York,2017-06-16,3.78,MGR0029,Full-Time,Leave,140646,18.3,Exceeds,2023-04-23,CC434,Brazil
+EMP00061,Arjun Brown,Non-binary,Two or more races,54,Finance,Manager,L3,Atlanta,2016-12-20,11.61,MGR0019,Part-Time,Active,167770,24.1,Meets,2022-07-13,CC980,Brazil
+EMP00062,Hannah White,Male,Asian,22,Finance,Lead,L1,Atlanta,2024-06-26,4.49,MGR0048,Part-Time,Leave,144883,20.6,Partially Meets,2021-03-19,CC791,Canada
+EMP00063,Priya Adams,Non-binary,Two or more races,36,Data Science,Senior Analyst,L6,Atlanta,2020-04-15,10.92,MGR0020,Part-Time,Active,81641,1.1,Exceeds,2023-05-31,CC604,India
+EMP00064,Isabella Young,Female,Asian,51,Operations,Lead,L4,Remote,2016-02-03,8.93,MGR0010,Part-Time,Active,173279,15.4,Partially Meets,2020-05-14,CC806,Australia
+EMP00065,Amir Wilson,Female,Black or African American,28,Data Science,VP,L5,Boston,2017-06-08,0.82,MGR0018,Full-Time,Active,164201,2.3,Meets,2020-03-28,CC151,Australia
+EMP00066,Wei Wright,Female,White,57,HR,Principal,L2,Chicago,2017-09-24,4.01,MGR0010,Full-Time,Active,82929,24.7,Partially Meets,2021-12-15,CC212,USA
+EMP00067,Aarav Hernandez,Female,Two or more races,42,Engineering,Manager,L3,New York,2016-06-23,1.61,MGR0027,Full-Time,Active,169845,11.2,Partially Meets,2025-10-03,CC707,India
+EMP00068,Hassan Müller,Male,Not disclosed,55,Finance,Specialist,L6,New York,2020-01-26,0.82,MGR0031,Part-Time,Active,73301,12.3,Does Not Meet,2020-10-28,CC182,Australia
+EMP00069,Fatima Chen,Female,Black or African American,61,Data Science,Principal,L5,Boston,2021-10-27,4.63,MGR0039,Part-Time,Active,177527,15.1,Exceeds,2021-04-13,CC973,Canada
+EMP00070,Amir Müller,Prefer not to say,Black or African American,51,Legal,Associate,L6,San Francisco,2019-10-28,3.82,MGR0021,Part-Time,Active,85013,17.2,Does Not Meet,2020-10-01,CC193,India
+EMP00071,Chloe Patel,Non-binary,Hispanic,57,Engineering,Principal,L5,Dallas,2016-01-17,4.02,MGR0008,Part-Time,Active,219415,23.5,Does Not Meet,2020-07-29,CC394,Germany
+EMP00072,Carlos Wright,Female,Hispanic,52,HR,Senior Analyst,L3,Dallas,2018-12-11,4.47,MGR0049,Part-Time,Leave,104286,20.2,Exceeds,2022-12-31,CC129,UK
+EMP00073,Marcus Robinson,Non-binary,Black or African American,22,Marketing,Manager,L5,Denver,2018-01-24,0.93,MGR0048,Full-Time,Active,184062,5.4,Does Not Meet,2025-02-01,CC449,UK
+EMP00074,Amara Turner,Non-binary,Two or more races,60,Sales,Analyst,L2,Austin,2019-02-24,9.08,MGR0004,Full-Time,Active,161159,16.5,Does Not Meet,2024-12-15,CC524,Germany
+EMP00075,Andre Lewis,Male,Black or African American,49,Sales,Director,L6,Remote,2017-06-01,5.89,MGR0043,Part-Time,Active,102807,9.9,Exceeds,2020-02-01,CC309,Germany
+EMP00076,Jasmine Brown,Non-binary,Black or African American,42,Sales,Analyst,L4,Denver,2017-05-15,2.19,MGR0025,Full-Time,Leave,191466,20.8,Partially Meets,2020-10-22,CC506,USA
+EMP00077,Priya Thomas,Male,Black or African American,58,Legal,Principal,L4,Denver,2019-11-22,3.55,MGR0026,Full-Time,Active,90055,20.0,Does Not Meet,2024-01-22,CC190,Brazil
+EMP00078,Carlos Ivanov,Prefer not to say,Two or more races,47,Customer Success,Senior Analyst,L4,Seattle,2024-06-21,8.98,MGR0015,Part-Time,Active,65022,12.8,Exceeds,2025-12-13,CC622,Canada
+EMP00079,Jasmine Hernandez,Non-binary,Not disclosed,31,HR,Senior Analyst,L2,Seattle,2025-02-27,2.45,MGR0039,Full-Time,Active,91437,23.8,Does Not Meet,2025-03-15,CC872,Singapore
+EMP00080,Soren Nelson,Non-binary,Not disclosed,42,Marketing,Specialist,L1,Atlanta,2022-08-21,5.36,MGR0020,Part-Time,Leave,59725,8.8,Exceeds,2023-06-25,CC572,Singapore
+EMP00081,Maria White,Non-binary,White,27,IT,Principal,L5,Denver,2015-06-04,5.61,MGR0036,Full-Time,Active,194856,16.3,Partially Meets,2025-05-02,CC613,UK
+EMP00082,Amir Patel,Non-binary,Not disclosed,27,Customer Success,Manager,L1,Chicago,2015-09-11,8.52,MGR0029,Full-Time,Active,142740,22.9,Does Not Meet,2024-08-01,CC893,Australia
+EMP00083,Diego Lee,Non-binary,White,43,Sales,Lead,L6,Denver,2022-08-12,3.48,MGR0047,Full-Time,Active,66365,14.6,Meets,2023-12-03,CC417,Brazil
+EMP00084,Diego Roberts,Male,Black or African American,57,Legal,VP,L7,Austin,2016-06-12,8.07,MGR0048,Full-Time,Active,178297,9.0,Partially Meets,2023-06-19,CC284,Canada
+EMP00085,Jasmine Harris,Female,Hispanic,30,Marketing,Senior Analyst,L3,San Francisco,2018-10-31,6.14,MGR0035,Full-Time,Active,207013,3.3,Does Not Meet,2021-09-23,CC266,UK
+EMP00086,Marcus Adams,Female,Not disclosed,50,Engineering,Associate,L3,Chicago,2024-04-28,11.64,MGR0040,Part-Time,Active,106342,13.4,Partially Meets,2025-04-05,CC955,Canada
+EMP00087,Sofia Wright,Prefer not to say,Asian,40,Legal,Lead,L5,Denver,2019-02-15,11.6,MGR0013,Full-Time,Active,58678,16.0,Partially Meets,2026-03-21,CC205,India
+EMP00088,Aisha Martinez,Non-binary,Asian,54,Marketing,Associate,L1,Chicago,2018-03-13,9.82,MGR0023,Full-Time,Active,58960,9.9,Partially Meets,2022-08-23,CC495,India
+EMP00089,Noah Johnson,Non-binary,White,43,Marketing,Manager,L1,Seattle,2019-03-16,11.02,MGR0031,Full-Time,Active,162598,15.4,Exceeds,2020-03-18,CC362,Canada
+EMP00090,Fatima King,Prefer not to say,White,40,HR,Director,L1,New York,2024-05-13,2.94,MGR0041,Part-Time,Active,74060,20.9,Does Not Meet,2026-01-04,CC116,Canada
+EMP00091,Fatima Costa,Prefer not to say,White,61,Operations,Senior Manager,L5,Denver,2023-01-22,2.33,MGR0043,Full-Time,Leave,139530,1.7,Exceeds,2024-05-18,CC994,Singapore
+EMP00092,Chris Jackson,Non-binary,Black or African American,23,Operations,Senior Analyst,L3,Chicago,2015-06-28,8.82,MGR0041,Full-Time,Leave,132167,3.3,Partially Meets,2026-02-14,CC446,UK
+EMP00093,Jasmine Mitchell,Prefer not to say,Not disclosed,52,Data Science,Manager,L7,Austin,2024-04-24,0.85,MGR0050,Part-Time,Active,121924,5.0,Meets,2020-06-20,CC423,Germany
+EMP00094,Nina Young,Prefer not to say,Black or African American,24,Data Science,Senior Manager,L3,Boston,2020-10-12,10.36,MGR0004,Part-Time,Active,77630,20.0,Does Not Meet,2024-06-26,CC861,Singapore
+EMP00095,Jake Taylor,Female,Asian,53,Operations,Lead,L3,San Francisco,2025-01-12,8.75,MGR0006,Part-Time,Leave,92305,13.6,Partially Meets,2021-02-24,CC181,Australia
+EMP00096,Ethan Robinson,Prefer not to say,Two or more races,49,Marketing,Specialist,L3,Atlanta,2022-05-31,0.6,MGR0023,Part-Time,Active,212633,24.5,Exceeds,2020-11-03,CC787,Brazil
+EMP00097,Hassan Mitchell,Female,White,31,IT,Specialist,L1,Austin,2019-01-28,0.9,MGR0050,Part-Time,Active,145362,23.7,Exceeds,2021-09-20,CC795,Singapore
+EMP00098,Sara Wilson,Male,Two or more races,30,Customer Success,VP,L4,Boston,2019-02-28,7.83,MGR0016,Full-Time,Active,93771,12.5,Does Not Meet,2026-04-19,CC220,Germany
+EMP00099,Rohan Roberts,Prefer not to say,Hispanic,61,Finance,Specialist,L2,San Francisco,2023-09-10,1.72,MGR0005,Part-Time,Active,161683,24.9,Partially Meets,2023-11-24,CC826,India
+EMP00100,Ryan Costa,Non-binary,Hispanic,62,Marketing,VP,L5,Chicago,2021-03-02,1.54,MGR0013,Full-Time,Active,174504,0.7,Partially Meets,2025-03-29,CC922,UK
+EMP00101,Aisha Chen,Non-binary,Asian,52,Customer Success,Associate,L7,Denver,2021-11-11,9.9,MGR0005,Full-Time,Active,213385,1.9,Does Not Meet,2025-10-20,CC452,UK
+EMP00102,Jasmine King,Female,Hispanic,49,Customer Success,Analyst,L7,San Francisco,2024-11-05,6.27,MGR0020,Full-Time,Active,129583,23.4,Meets,2023-11-18,CC631,Germany
+EMP00103,Aisha Nakamura,Female,Not disclosed,57,Finance,Manager,L6,Seattle,2024-06-26,7.41,MGR0006,Full-Time,Leave,197212,3.9,Partially Meets,2026-04-27,CC142,USA
+EMP00104,James Nelson,Non-binary,Not disclosed,35,IT,Associate,L5,New York,2015-11-29,6.03,MGR0041,Part-Time,Active,171601,6.1,Does Not Meet,2023-05-03,CC564,India
+EMP00105,Maria Martinez,Prefer not to say,Asian,52,Product,Senior Manager,L3,Remote,2022-09-21,1.81,MGR0046,Part-Time,Active,149521,3.3,Partially Meets,2025-10-10,CC675,India
+EMP00106,Isabella Thomas,Male,Black or African American,50,HR,Manager,L1,New York,2018-07-31,3.55,MGR0025,Part-Time,Active,86864,20.3,Partially Meets,2022-02-16,CC881,UK
+EMP00107,Hassan Thomas,Prefer not to say,Black or African American,53,Engineering,Senior Analyst,L4,Dallas,2020-08-02,5.54,MGR0016,Full-Time,Leave,137509,1.2,Partially Meets,2025-07-20,CC711,Singapore
+EMP00108,Ryan Singh,Male,Asian,30,Finance,VP,L7,Denver,2018-03-16,4.45,MGR0026,Full-Time,Leave,192276,4.9,Partially Meets,2020-10-28,CC495,Singapore
+EMP00109,Hannah Andersen,Male,Hispanic,28,Legal,VP,L7,Boston,2023-07-28,6.74,MGR0024,Full-Time,Active,202932,12.7,Exceeds,2020-07-04,CC139,UK
+EMP00110,Mei Walker,Prefer not to say,Hispanic,60,Customer Success,Manager,L3,Remote,2023-01-01,3.89,MGR0026,Part-Time,Leave,133178,12.7,Does Not Meet,2026-04-24,CC406,Singapore
+EMP00111,Priya White,Non-binary,Not disclosed,29,Legal,Principal,L3,New York,2024-02-24,7.2,MGR0017,Full-Time,Active,197967,12.0,Does Not Meet,2021-08-28,CC941,Canada
+EMP00112,Soren Perez,Male,Hispanic,23,Product,VP,L4,Austin,2015-05-10,5.01,MGR0014,Part-Time,Leave,205295,23.0,Exceeds,2021-07-19,CC631,Canada
+EMP00113,Lucas Carter,Prefer not to say,Two or more races,46,Operations,Manager,L4,Dallas,2021-04-16,4.17,MGR0023,Part-Time,Leave,171924,4.8,Meets,2023-02-16,CC671,Germany
+EMP00114,Amara Costa,Female,Not disclosed,53,Operations,Specialist,L3,Dallas,2017-07-10,11.21,MGR0047,Part-Time,Active,76948,14.3,Does Not Meet,2024-06-04,CC938,Australia
+EMP00115,Fatima Costa,Male,Black or African American,27,Operations,Specialist,L6,Seattle,2023-09-02,8.99,MGR0014,Full-Time,Leave,116075,23.3,Partially Meets,2021-07-16,CC211,Canada
+EMP00116,Maria Carter,Female,Not disclosed,36,Engineering,Senior Analyst,L4,Boston,2017-09-20,8.64,MGR0007,Full-Time,Active,189271,24.4,Meets,2024-07-24,CC768,Singapore
+EMP00117,Ananya Smith,Non-binary,Black or African American,40,Data Science,Analyst,L7,San Francisco,2020-05-09,7.86,MGR0015,Full-Time,Active,154546,22.1,Meets,2020-05-28,CC956,Brazil
+EMP00118,Yuki Nguyen,Non-binary,White,22,Finance,Principal,L5,San Francisco,2023-11-02,11.15,MGR0022,Part-Time,Active,213116,13.6,Does Not Meet,2021-07-03,CC971,Singapore
+EMP00119,Arjun Kim,Non-binary,Hispanic,51,Data Science,Director,L6,Austin,2018-01-22,0.27,MGR0022,Part-Time,Leave,95636,4.4,Does Not Meet,2024-10-17,CC627,Australia
+EMP00120,Nina Carter,Male,Hispanic,30,Product,VP,L2,New York,2015-12-22,3.2,MGR0016,Part-Time,Active,131409,7.5,Exceeds,2022-12-07,CC769,Australia
+EMP00121,Isabella Lee,Male,Asian,41,Marketing,Associate,L6,Dallas,2022-10-08,11.08,MGR0046,Part-Time,Active,212434,22.9,Partially Meets,2024-02-14,CC729,Canada
+EMP00122,Wei Walker,Female,Asian,60,Operations,Associate,L6,Dallas,2017-06-16,10.96,MGR0049,Full-Time,Active,201189,21.8,Exceeds,2025-11-22,CC557,Australia
+EMP00123,Soren Kim,Male,Two or more races,54,HR,Principal,L5,Austin,2015-11-16,2.06,MGR0034,Part-Time,Active,98844,17.9,Does Not Meet,2021-01-07,CC622,Singapore
+EMP00124,Maria Thomas,Female,Two or more races,48,Product,Principal,L1,Dallas,2024-01-26,5.6,MGR0020,Full-Time,Active,111704,20.4,Meets,2026-06-26,CC174,USA
+EMP00125,Omar Perez,Male,Two or more races,25,Sales,Specialist,L1,Seattle,2019-10-02,4.97,MGR0050,Full-Time,Active,143162,24.8,Does Not Meet,2025-01-11,CC990,Brazil
+EMP00126,Aisha Mitchell,Female,Not disclosed,44,Sales,Manager,L5,Denver,2019-03-19,6.39,MGR0047,Full-Time,Active,50959,24.5,Does Not Meet,2026-02-08,CC534,Brazil
+EMP00127,Noah Ivanov,Prefer not to say,Black or African American,31,Finance,Senior Manager,L6,San Francisco,2024-03-26,0.48,MGR0043,Part-Time,Leave,49101,6.0,Exceeds,2021-02-17,CC708,USA
+EMP00128,Diego Mitchell,Male,Hispanic,24,Legal,Specialist,L2,Dallas,2020-01-03,2.69,MGR0050,Full-Time,Active,177093,24.8,Meets,2026-06-17,CC426,Australia
+EMP00129,Amara Okafor,Female,Asian,41,Finance,Analyst,L5,Remote,2017-08-28,10.57,MGR0012,Part-Time,Leave,174924,1.2,Partially Meets,2024-04-10,CC904,Australia
+EMP00130,Raj Ahmed,Female,Black or African American,46,Marketing,Lead,L4,Chicago,2022-10-23,10.21,MGR0020,Full-Time,Active,60105,14.1,Does Not Meet,2026-04-01,CC642,UK
+EMP00131,Isabella Nakamura,Female,Black or African American,27,Product,VP,L1,Dallas,2019-05-10,8.72,MGR0013,Full-Time,Active,143872,16.8,Exceeds,2020-10-25,CC292,Canada
+EMP00132,Zara Taylor,Non-binary,White,35,HR,Senior Analyst,L6,Atlanta,2020-05-17,10.98,MGR0045,Full-Time,Active,107739,13.8,Partially Meets,2024-04-08,CC577,Australia
+EMP00133,Rohan White,Prefer not to say,Asian,28,Design,Specialist,L7,Boston,2018-06-17,10.98,MGR0024,Part-Time,Active,56984,14.1,Meets,2021-08-20,CC116,Germany
+EMP00134,Nadia Scott,Prefer not to say,Black or African American,31,HR,VP,L2,Denver,2021-03-16,6.88,MGR0016,Part-Time,Leave,216601,23.6,Partially Meets,2022-11-20,CC881,Singapore
+EMP00135,Ananya Harris,Prefer not to say,Hispanic,44,Marketing,Manager,L6,Dallas,2023-02-11,5.91,MGR0035,Full-Time,Leave,53866,21.0,Exceeds,2020-07-17,CC882,USA
+EMP00136,Wei Baker,Female,White,31,Engineering,Senior Manager,L5,Atlanta,2019-08-17,4.54,MGR0040,Part-Time,Active,49123,0.2,Does Not Meet,2020-02-18,CC117,Germany
+EMP00137,Ethan Johnson,Prefer not to say,Hispanic,28,Sales,Lead,L2,Chicago,2021-01-03,2.38,MGR0034,Part-Time,Active,115077,19.9,Exceeds,2024-03-08,CC515,Singapore
+EMP00138,Isabella Perez,Female,Black or African American,27,Data Science,Analyst,L1,Denver,2021-05-03,4.61,MGR0036,Part-Time,Active,211919,0.2,Meets,2020-12-04,CC611,Brazil
+EMP00139,Mei Wright,Male,Two or more races,24,HR,Senior Manager,L7,Remote,2022-03-26,5.76,MGR0003,Full-Time,Active,187352,14.1,Exceeds,2022-01-04,CC970,Australia
+EMP00140,Zara Scott,Female,Not disclosed,47,Sales,Director,L2,Remote,2015-03-06,2.96,MGR0025,Part-Time,Active,81687,19.8,Exceeds,2025-08-13,CC863,Australia
+EMP00141,Carlos Clark,Female,White,43,IT,Principal,L5,Denver,2015-08-08,11.63,MGR0021,Full-Time,Active,163109,12.3,Partially Meets,2026-03-15,CC484,Brazil
+EMP00142,Sofia Scott,Prefer not to say,White,61,Finance,Senior Manager,L6,San Francisco,2017-01-30,1.08,MGR0010,Part-Time,Active,147137,7.9,Exceeds,2021-01-09,CC105,Germany
+EMP00143,Sara Andersen,Male,Hispanic,27,Marketing,Associate,L4,Dallas,2019-12-27,6.7,MGR0027,Full-Time,Active,68493,8.8,Exceeds,2023-08-21,CC984,Brazil
+EMP00144,Ethan Ahmed,Prefer not to say,White,57,HR,Principal,L5,Austin,2015-02-20,8.26,MGR0011,Full-Time,Active,123939,6.7,Meets,2020-09-16,CC271,Brazil
+EMP00145,Raj Robinson,Prefer not to say,White,45,Finance,Senior Manager,L6,Atlanta,2018-02-04,7.17,MGR0013,Part-Time,Active,80517,7.6,Does Not Meet,2023-09-22,CC961,Brazil
+EMP00146,Mei Wilson,Non-binary,Asian,60,Marketing,Director,L3,Remote,2024-01-07,11.37,MGR0013,Part-Time,Active,91566,24.1,Partially Meets,2023-04-08,CC852,Singapore
+EMP00147,Isabella Sharma,Prefer not to say,Black or African American,47,Operations,Senior Analyst,L5,Chicago,2021-06-16,7.15,MGR0035,Full-Time,Leave,52055,23.8,Does Not Meet,2022-05-08,CC548,Germany
+EMP00148,Marcus Chen,Prefer not to say,Not disclosed,53,Marketing,Director,L2,Seattle,2024-04-27,7.94,MGR0046,Part-Time,Active,64389,11.2,Does Not Meet,2026-07-12,CC510,Brazil
+EMP00149,James White,Male,White,37,Data Science,VP,L2,Remote,2021-02-04,0.63,MGR0042,Part-Time,Active,157841,2.6,Exceeds,2022-11-25,CC327,Canada
+EMP00150,Sara Ferreira,Prefer not to say,Not disclosed,59,Design,Lead,L2,Boston,2019-12-31,11.97,MGR0031,Full-Time,Active,154045,23.0,Exceeds,2021-04-20,CC951,UK
+EMP00151,Amara Taylor,Prefer not to say,Hispanic,55,Product,VP,L4,San Francisco,2018-11-27,5.31,MGR0045,Part-Time,Active,62609,7.5,Exceeds,2020-04-02,CC969,Australia
+EMP00152,Carlos Mitchell,Female,Not disclosed,37,Customer Success,Manager,L5,Austin,2022-04-08,4.04,MGR0028,Part-Time,Active,151180,15.7,Meets,2024-11-05,CC505,USA
+EMP00153,Leila Smith,Prefer not to say,Two or more races,49,Legal,Analyst,L6,Chicago,2023-04-09,2.55,MGR0049,Full-Time,Leave,71673,20.0,Meets,2024-02-07,CC433,Canada
+EMP00154,Emma Nakamura,Prefer not to say,Two or more races,62,Operations,Principal,L4,Remote,2020-02-18,4.77,MGR0008,Part-Time,Active,165025,15.4,Partially Meets,2020-12-13,CC788,UK
+EMP00155,Emma Ivanov,Non-binary,White,33,Operations,Manager,L5,Denver,2018-07-06,5.08,MGR0009,Part-Time,Active,93694,12.2,Meets,2026-03-22,CC270,Singapore
+EMP00156,Wei Nguyen,Non-binary,Asian,61,Engineering,VP,L1,Atlanta,2018-03-29,1.72,MGR0025,Part-Time,Active,173902,10.4,Does Not Meet,2025-06-24,CC271,India
+EMP00157,Priya Müller,Non-binary,White,39,HR,Lead,L3,Austin,2021-05-04,9.39,MGR0037,Part-Time,Leave,178904,2.8,Exceeds,2023-01-02,CC893,Australia
+EMP00158,Andre Garcia,Prefer not to say,Two or more races,35,Legal,Senior Analyst,L6,Chicago,2021-01-29,3.64,MGR0003,Part-Time,Active,136377,21.6,Exceeds,2024-12-03,CC986,India
+EMP00159,Isabella Ali,Non-binary,Not disclosed,61,Data Science,Associate,L2,Remote,2023-09-12,1.76,MGR0014,Full-Time,Active,194441,8.8,Partially Meets,2026-01-15,CC272,Australia
+EMP00160,Ethan Costa,Non-binary,Two or more races,28,Marketing,Associate,L1,Seattle,2022-11-23,10.42,MGR0009,Full-Time,Active,83336,17.8,Meets,2024-05-27,CC601,UK
+EMP00161,Chris Andersen,Prefer not to say,Asian,50,Sales,Senior Analyst,L4,Dallas,2021-06-23,9.02,MGR0045,Part-Time,Active,172937,8.2,Exceeds,2021-01-16,CC848,Singapore
+EMP00162,Kevin Perez,Non-binary,White,56,Legal,Senior Manager,L4,Chicago,2022-02-13,5.99,MGR0021,Part-Time,Active,188474,14.4,Does Not Meet,2023-11-08,CC798,USA
+EMP00163,Carlos Baker,Prefer not to say,White,29,Marketing,Specialist,L4,New York,2015-07-08,11.9,MGR0028,Full-Time,Active,215392,7.5,Partially Meets,2021-01-17,CC770,Australia
+EMP00164,Aisha White,Female,White,47,Data Science,Director,L6,Chicago,2017-10-22,5.21,MGR0006,Full-Time,Active,100947,11.9,Meets,2022-07-15,CC631,Singapore
+EMP00165,Aarav Perez,Non-binary,White,49,Design,Manager,L4,San Francisco,2015-02-08,2.82,MGR0006,Full-Time,Active,127143,9.2,Partially Meets,2021-07-15,CC491,UK
+EMP00166,Sofia Okafor,Male,Two or more races,58,Engineering,Principal,L6,Austin,2022-03-12,5.34,MGR0047,Full-Time,Active,152927,15.4,Does Not Meet,2022-06-08,CC188,India
+EMP00167,Andre Kim,Prefer not to say,Black or African American,49,Operations,Manager,L2,Seattle,2016-07-27,7.77,MGR0016,Part-Time,Active,217597,21.9,Meets,2025-10-21,CC721,Canada
+EMP00168,Nina Costa,Male,Hispanic,53,Legal,Senior Analyst,L2,Atlanta,2023-05-22,7.69,MGR0005,Full-Time,Active,127961,3.3,Does Not Meet,2024-02-05,CC659,UK
+EMP00169,Tyler Chen,Male,Two or more races,26,Engineering,Director,L2,New York,2023-07-22,11.08,MGR0026,Part-Time,Leave,153903,10.6,Does Not Meet,2020-12-03,CC755,UK
+EMP00170,Aisha Robinson,Male,Two or more races,35,Marketing,Lead,L3,Denver,2018-02-10,7.08,MGR0049,Full-Time,Active,159684,18.2,Meets,2020-08-25,CC350,India
+EMP00171,Chloe Kim,Prefer not to say,Two or more races,60,Engineering,Director,L6,Austin,2025-05-15,1.52,MGR0046,Full-Time,Active,87947,12.4,Partially Meets,2025-11-12,CC629,Germany
+EMP00172,Sara Brown,Non-binary,Not disclosed,29,Engineering,VP,L7,Denver,2016-11-14,3.34,MGR0005,Part-Time,Leave,209503,1.9,Does Not Meet,2025-09-23,CC468,USA
+EMP00173,Soren Martinez,Non-binary,Hispanic,38,Sales,Principal,L6,San Francisco,2020-08-08,2.82,MGR0033,Full-Time,Active,48221,6.1,Does Not Meet,2024-01-30,CC492,UK
+EMP00174,James King,Prefer not to say,Hispanic,42,HR,Associate,L6,Boston,2017-01-03,3.33,MGR0005,Part-Time,Active,176607,16.8,Exceeds,2022-01-04,CC328,USA
+EMP00175,David Thomas,Non-binary,Black or African American,42,Sales,Lead,L4,New York,2019-07-01,4.49,MGR0019,Part-Time,Leave,108591,11.6,Does Not Meet,2022-03-11,CC850,Canada
+EMP00176,Aarav Ahmed,Male,Hispanic,56,Operations,Analyst,L3,New York,2016-09-08,9.13,MGR0025,Part-Time,Active,98790,13.2,Meets,2024-09-15,CC603,USA
+EMP00177,Ingrid Andersen,Male,White,36,Customer Success,Associate,L6,Boston,2016-08-06,5.56,MGR0048,Full-Time,Leave,70054,12.6,Does Not Meet,2020-11-02,CC706,USA
+EMP00178,Kevin Brown,Female,Black or African American,38,Operations,Associate,L6,Boston,2019-11-17,3.88,MGR0018,Full-Time,Active,98139,3.4,Exceeds,2021-09-28,CC208,UK
+EMP00179,Elena Sharma,Prefer not to say,White,56,Operations,Senior Manager,L4,Seattle,2020-01-16,5.61,MGR0008,Full-Time,Active,124748,20.7,Exceeds,2022-05-30,CC955,Australia
+EMP00180,Aisha Roberts,Female,Black or African American,47,Customer Success,Analyst,L6,Seattle,2016-08-30,3.2,MGR0012,Full-Time,Active,163541,13.9,Meets,2021-01-22,CC573,India
+EMP00181,Wei Kim,Male,White,36,Marketing,Senior Manager,L7,Denver,2024-01-06,4.53,MGR0041,Full-Time,Leave,198647,6.5,Exceeds,2020-03-30,CC166,Canada
+EMP00182,Ananya Wilson,Female,White,43,Sales,Analyst,L4,New York,2025-02-13,2.1,MGR0037,Part-Time,Active,175056,0.7,Does Not Meet,2021-12-08,CC462,Canada
+EMP00183,Sophia Andersen,Non-binary,Asian,31,Engineering,Principal,L5,Remote,2025-03-09,3.02,MGR0019,Part-Time,Active,189359,12.0,Exceeds,2023-02-19,CC492,UK
+EMP00184,Arjun Nelson,Female,Not disclosed,56,Engineering,Associate,L7,Boston,2019-09-14,5.81,MGR0032,Part-Time,Leave,176699,8.0,Partially Meets,2022-01-06,CC126,Australia
+EMP00185,Noah Johnson,Non-binary,White,52,Customer Success,VP,L7,Remote,2021-09-11,12.0,MGR0011,Full-Time,Active,217193,6.0,Exceeds,2022-06-17,CC689,Brazil
+EMP00186,Sophia Nguyen,Female,Two or more races,42,Design,VP,L5,New York,2018-12-24,8.47,MGR0023,Full-Time,Leave,94344,20.9,Does Not Meet,2026-01-29,CC416,UK
+EMP00187,James Williams,Male,Hispanic,60,HR,Analyst,L5,Atlanta,2020-07-01,0.11,MGR0040,Full-Time,Active,134327,17.9,Partially Meets,2020-08-31,CC122,UK
+EMP00188,Ingrid Okafor,Male,Two or more races,45,Sales,VP,L6,Denver,2021-07-30,7.07,MGR0022,Part-Time,Active,80769,24.4,Does Not Meet,2025-06-18,CC764,Australia
+EMP00189,Ingrid King,Non-binary,Hispanic,59,Marketing,Associate,L3,Seattle,2016-12-14,1.62,MGR0047,Full-Time,Leave,147655,21.3,Exceeds,2022-01-15,CC716,Australia
+EMP00190,Leila Müller,Male,Asian,31,Operations,Senior Analyst,L2,Boston,2025-04-30,11.79,MGR0011,Full-Time,Active,162081,0.3,Meets,2022-10-19,CC809,India
+EMP00191,Rohan Patel,Male,White,46,Product,Associate,L2,Denver,2018-12-06,5.97,MGR0025,Part-Time,Leave,143395,2.5,Does Not Meet,2026-06-25,CC766,Canada
+EMP00192,Amir Chen,Male,Black or African American,23,Operations,Director,L1,San Francisco,2016-10-28,4.17,MGR0025,Full-Time,Active,188404,23.5,Exceeds,2023-10-16,CC708,Singapore
+EMP00193,Priya Clark,Female,Two or more races,49,Marketing,Analyst,L1,Boston,2022-11-25,2.55,MGR0013,Part-Time,Leave,186590,6.6,Partially Meets,2023-05-03,CC343,India
+EMP00194,Nina Wright,Prefer not to say,Hispanic,25,Operations,Analyst,L4,San Francisco,2015-07-23,3.61,MGR0043,Part-Time,Active,70424,0.6,Meets,2023-04-10,CC183,Singapore
+EMP00195,Emma Robinson,Prefer not to say,Asian,53,Data Science,Director,L1,Dallas,2024-06-18,4.71,MGR0024,Part-Time,Active,93911,11.1,Partially Meets,2024-12-06,CC576,Germany
+EMP00196,Olivia Wright,Male,Hispanic,28,Sales,VP,L7,Dallas,2017-07-15,5.03,MGR0049,Full-Time,Leave,60986,21.0,Does Not Meet,2026-01-02,CC803,Singapore
+EMP00197,Isabella Walker,Non-binary,White,47,Design,Analyst,L5,Remote,2021-06-03,10.82,MGR0037,Full-Time,Active,162713,4.3,Meets,2022-05-17,CC927,Canada
+EMP00198,James Clark,Male,Not disclosed,49,HR,Manager,L7,Remote,2016-05-31,3.17,MGR0047,Full-Time,Active,146737,13.9,Partially Meets,2023-02-05,CC632,Singapore
+EMP00199,Aarav Perez,Prefer not to say,White,48,Marketing,Manager,L5,Remote,2025-04-14,7.03,MGR0007,Full-Time,Leave,71474,19.6,Partially Meets,2024-08-10,CC370,Brazil
+EMP00200,Yuki Wright,Prefer not to say,White,33,Finance,Associate,L2,Remote,2022-05-06,7.34,MGR0045,Part-Time,Active,148754,22.2,Partially Meets,2022-08-31,CC150,Singapore
+EMP00201,Olivia White,Male,Black or African American,41,Finance,Director,L7,Atlanta,2025-04-29,10.31,MGR0044,Full-Time,Active,80228,7.5,Does Not Meet,2023-08-07,CC375,Brazil
+EMP00202,Ananya Williams,Female,Asian,35,Legal,Specialist,L7,Dallas,2021-10-13,10.42,MGR0004,Full-Time,Active,126559,17.7,Does Not Meet,2021-07-09,CC899,USA
+EMP00203,Arjun Smith,Male,Hispanic,24,Product,Analyst,L3,Chicago,2016-12-12,3.36,MGR0030,Part-Time,Active,53011,6.0,Does Not Meet,2025-01-01,CC281,Singapore
+EMP00204,Hannah Hernandez,Non-binary,Hispanic,38,Design,Senior Analyst,L3,New York,2021-07-31,4.7,MGR0011,Full-Time,Active,214706,5.6,Meets,2023-01-07,CC767,Brazil
+EMP00205,Priya Mitchell,Male,Asian,30,Data Science,Manager,L5,New York,2020-10-03,2.76,MGR0039,Part-Time,Active,156098,22.4,Partially Meets,2025-02-23,CC358,Canada
+EMP00206,Amara Mitchell,Prefer not to say,Two or more races,28,Engineering,Lead,L6,Boston,2020-03-26,6.78,MGR0039,Part-Time,Active,73338,12.0,Partially Meets,2023-02-06,CC755,Australia
+EMP00207,Olivia Nakamura,Non-binary,Hispanic,31,Customer Success,Senior Manager,L1,Remote,2024-08-29,4.91,MGR0021,Full-Time,Active,216809,12.4,Partially Meets,2022-11-28,CC528,Brazil
+EMP00208,Mia Garcia,Female,Black or African American,36,Data Science,Lead,L6,Atlanta,2019-05-10,10.89,MGR0043,Part-Time,Leave,123694,21.1,Meets,2023-04-18,CC199,Singapore
+EMP00209,Mia Nakamura,Female,Not disclosed,43,Data Science,Senior Analyst,L2,Boston,2016-06-08,2.76,MGR0020,Part-Time,Active,142434,6.5,Partially Meets,2025-03-14,CC971,India
+EMP00210,Maria Baker,Male,Asian,34,Customer Success,Senior Analyst,L7,Denver,2020-04-11,6.41,MGR0027,Full-Time,Active,81009,24.8,Partially Meets,2024-08-03,CC683,Singapore
+EMP00211,Lucas Roberts,Female,White,53,Operations,Manager,L3,New York,2016-08-09,0.16,MGR0018,Full-Time,Active,196068,19.1,Does Not Meet,2020-12-26,CC232,Brazil
+EMP00212,Chloe Ferreira,Prefer not to say,Asian,46,Engineering,Analyst,L5,Chicago,2022-02-07,8.79,MGR0001,Part-Time,Leave,94958,0.4,Exceeds,2022-10-16,CC331,Australia
+EMP00213,Wei Patel,Prefer not to say,Two or more races,59,Finance,Manager,L1,New York,2018-07-02,3.65,MGR0019,Part-Time,Leave,201334,13.1,Does Not Meet,2021-07-02,CC450,Singapore
+EMP00214,Andre Smith,Female,Asian,23,HR,Senior Manager,L6,Austin,2019-01-11,2.61,MGR0002,Full-Time,Active,141099,17.8,Exceeds,2024-03-16,CC997,Germany
+EMP00215,Ryan Adams,Male,Two or more races,25,Data Science,Senior Analyst,L6,New York,2023-08-26,0.67,MGR0008,Part-Time,Active,144681,3.1,Partially Meets,2025-04-27,CC818,UK
+EMP00216,Marcus Mitchell,Male,Black or African American,48,Data Science,Senior Analyst,L6,Dallas,2017-04-21,3.31,MGR0039,Full-Time,Active,72502,12.8,Exceeds,2023-03-03,CC216,India
+EMP00217,Arjun Green,Female,Black or African American,55,HR,VP,L6,Denver,2020-07-31,3.61,MGR0003,Part-Time,Active,171003,8.3,Exceeds,2020-02-22,CC787,India
+EMP00218,Emma Wright,Prefer not to say,Hispanic,27,Customer Success,Senior Analyst,L6,San Francisco,2025-03-03,10.87,MGR0042,Full-Time,Active,122600,6.6,Exceeds,2021-02-12,CC932,UK
+EMP00219,James Costa,Non-binary,Not disclosed,42,Legal,Senior Analyst,L1,New York,2024-10-20,0.22,MGR0009,Full-Time,Active,138723,22.4,Partially Meets,2021-01-15,CC481,Australia
+EMP00220,Emma Ferreira,Prefer not to say,Asian,39,Legal,Specialist,L7,Denver,2017-01-19,7.82,MGR0011,Full-Time,Active,60373,24.5,Meets,2021-02-28,CC526,Singapore
+EMP00221,Soren Mitchell,Prefer not to say,Hispanic,61,Legal,VP,L5,New York,2023-12-31,10.36,MGR0047,Full-Time,Active,172958,2.8,Does Not Meet,2024-12-10,CC147,India
+EMP00222,Ananya Sharma,Male,Not disclosed,55,Design,Principal,L6,Remote,2017-12-07,2.77,MGR0043,Part-Time,Leave,182128,17.2,Exceeds,2024-11-07,CC777,Canada
+EMP00223,Omar Carter,Prefer not to say,Hispanic,57,IT,Analyst,L1,Austin,2020-05-27,6.12,MGR0031,Part-Time,Active,64625,18.8,Partially Meets,2022-09-13,CC438,Germany
+EMP00224,Hassan Müller,Prefer not to say,Asian,37,Sales,Specialist,L4,Remote,2015-07-26,5.43,MGR0032,Part-Time,Active,76118,24.5,Exceeds,2021-02-24,CC513,Brazil
+EMP00225,Hannah King,Male,White,60,IT,Director,L5,Dallas,2015-05-27,2.56,MGR0043,Part-Time,Active,140248,20.6,Meets,2025-02-04,CC439,Singapore
+EMP00226,Kevin White,Prefer not to say,White,28,Data Science,Senior Manager,L1,Boston,2023-01-14,4.33,MGR0041,Part-Time,Leave,181835,9.3,Exceeds,2020-07-06,CC268,Singapore
+EMP00227,Ingrid Turner,Prefer not to say,White,38,IT,Senior Manager,L2,San Francisco,2016-07-29,11.17,MGR0026,Full-Time,Active,94959,17.9,Exceeds,2024-08-24,CC147,India
+EMP00228,Amir Thomas,Female,Asian,22,Customer Success,Analyst,L5,Denver,2023-08-29,10.08,MGR0031,Full-Time,Leave,90521,18.3,Meets,2021-02-28,CC496,Australia
+EMP00229,Jake Ahmed,Female,Black or African American,47,Operations,Director,L4,Austin,2020-08-26,1.74,MGR0039,Part-Time,Leave,127289,17.8,Meets,2022-04-02,CC314,Germany
+EMP00230,Omar Mitchell,Female,Not disclosed,33,Customer Success,Lead,L6,Boston,2022-09-13,8.55,MGR0049,Part-Time,Leave,170926,14.6,Does Not Meet,2025-12-26,CC392,Brazil
+EMP00231,Aarav Hall,Male,White,46,Marketing,Analyst,L6,New York,2024-01-24,2.48,MGR0049,Full-Time,Active,110683,3.7,Exceeds,2023-04-23,CC308,USA
+EMP00232,Amir Patel,Female,Not disclosed,57,Legal,Senior Manager,L5,Seattle,2019-01-09,8.35,MGR0004,Part-Time,Active,154200,23.9,Partially Meets,2026-03-11,CC155,USA
+EMP00233,Rohan Smith,Prefer not to say,Hispanic,62,Design,VP,L7,Remote,2023-05-05,6.6,MGR0039,Full-Time,Active,122116,11.2,Exceeds,2022-02-04,CC277,India
+EMP00234,James Clark,Non-binary,Two or more races,38,Marketing,Manager,L5,Seattle,2019-03-26,0.17,MGR0030,Full-Time,Active,85292,23.2,Exceeds,2023-05-18,CC602,Australia
+EMP00235,Ingrid Sharma,Female,Hispanic,55,Sales,Lead,L2,Denver,2015-10-26,6.56,MGR0026,Full-Time,Active,102985,22.1,Partially Meets,2023-09-18,CC469,Germany
+EMP00236,Andre Adams,Prefer not to say,Two or more races,22,Sales,VP,L4,Chicago,2017-06-13,10.86,MGR0040,Full-Time,Active,129131,9.5,Exceeds,2024-04-29,CC362,Germany
+EMP00237,Layla White,Prefer not to say,Asian,24,Finance,Senior Manager,L3,Dallas,2015-04-12,1.08,MGR0007,Full-Time,Leave,184776,0.2,Exceeds,2022-05-13,CC786,Canada
+EMP00238,Sofia Clark,Male,Hispanic,56,Design,Associate,L6,San Francisco,2024-09-12,8.99,MGR0010,Full-Time,Active,131957,0.9,Exceeds,2020-08-10,CC282,Germany
+EMP00239,David Wright,Female,Black or African American,48,Legal,Specialist,L6,Denver,2021-04-04,5.25,MGR0002,Part-Time,Active,185203,0.1,Exceeds,2026-07-26,CC146,India
+EMP00240,Hassan Patel,Non-binary,Not disclosed,41,IT,Senior Analyst,L3,Atlanta,2019-01-05,4.64,MGR0043,Full-Time,Active,85979,13.3,Meets,2024-05-20,CC915,Germany
+EMP00241,Fatima Robinson,Non-binary,White,57,Customer Success,Manager,L1,New York,2022-02-10,0.16,MGR0039,Part-Time,Leave,188530,23.7,Partially Meets,2022-05-10,CC866,Australia
+EMP00242,Raj Nelson,Female,Hispanic,33,HR,Principal,L7,Seattle,2017-05-17,2.41,MGR0012,Full-Time,Leave,165917,16.1,Exceeds,2023-04-05,CC787,India
+EMP00243,Carlos Smith,Prefer not to say,Black or African American,44,Marketing,Senior Manager,L1,Seattle,2017-10-23,7.47,MGR0013,Part-Time,Active,163134,8.2,Partially Meets,2026-07-20,CC256,Australia
+EMP00244,Lucas Clark,Female,White,42,HR,Senior Manager,L6,Denver,2024-01-22,3.39,MGR0024,Full-Time,Active,170817,11.6,Partially Meets,2023-06-05,CC598,India
+EMP00245,Ananya Green,Male,Black or African American,30,Customer Success,Senior Manager,L3,San Francisco,2016-12-20,8.76,MGR0002,Full-Time,Leave,196755,10.1,Meets,2020-05-30,CC664,Germany
+EMP00246,Ryan Walker,Female,Black or African American,47,HR,Principal,L6,Seattle,2021-02-04,1.69,MGR0033,Full-Time,Active,140385,12.6,Meets,2021-11-10,CC875,UK
+EMP00247,Liam Nguyen,Female,Not disclosed,52,Operations,Analyst,L2,Atlanta,2020-01-02,2.86,MGR0017,Part-Time,Active,56221,16.7,Partially Meets,2024-05-08,CC580,Singapore
+EMP00248,James Garcia,Non-binary,White,55,Data Science,Director,L7,Seattle,2024-11-19,6.99,MGR0037,Full-Time,Active,216357,9.5,Exceeds,2025-10-17,CC357,Brazil
+EMP00249,Noah Hall,Prefer not to say,Black or African American,44,Product,Specialist,L5,New York,2025-03-05,6.07,MGR0009,Part-Time,Active,105290,1.9,Partially Meets,2022-05-16,CC253,UK
+EMP00250,Sara Green,Male,Not disclosed,36,Legal,VP,L6,San Francisco,2016-10-06,5.83,MGR0031,Part-Time,Active,199872,4.0,Does Not Meet,2020-04-01,CC349,USA
+EMP00251,Soren Scott,Female,Hispanic,62,Customer Success,Analyst,L5,Austin,2016-06-07,0.77,MGR0017,Full-Time,Leave,151287,15.0,Exceeds,2023-03-07,CC187,Canada
+EMP00252,Diego Walker,Prefer not to say,Hispanic,36,Legal,Principal,L2,Remote,2020-01-14,9.86,MGR0012,Part-Time,Active,134829,23.1,Exceeds,2022-07-30,CC487,Brazil
+EMP00253,Carlos Johnson,Female,Two or more races,54,Data Science,Associate,L7,Austin,2016-06-25,7.31,MGR0012,Part-Time,Leave,202237,1.0,Exceeds,2021-01-16,CC593,UK
+EMP00254,Diego Young,Male,Not disclosed,49,Customer Success,Associate,L3,New York,2025-02-11,8.4,MGR0028,Full-Time,Active,144938,8.8,Exceeds,2024-10-08,CC237,Germany
+EMP00255,Jasmine Müller,Male,Black or African American,60,Customer Success,Associate,L3,Chicago,2020-05-08,0.17,MGR0048,Full-Time,Leave,181980,2.9,Exceeds,2024-03-16,CC770,Canada
+EMP00256,Lucas Ahmed,Non-binary,White,31,Legal,Principal,L3,Seattle,2022-09-18,10.27,MGR0028,Part-Time,Leave,117236,24.8,Does Not Meet,2022-04-14,CC523,Singapore
+EMP00257,Sara King,Prefer not to say,Black or African American,41,IT,VP,L7,Denver,2017-01-02,8.86,MGR0043,Full-Time,Active,162072,19.6,Meets,2021-02-14,CC319,Brazil
+EMP00258,Mei King,Male,Hispanic,46,Data Science,Analyst,L7,San Francisco,2023-10-25,9.9,MGR0031,Part-Time,Active,61798,6.6,Partially Meets,2020-11-23,CC723,USA
+EMP00259,Jake Ferreira,Non-binary,Not disclosed,60,Engineering,Manager,L6,Atlanta,2023-02-15,5.32,MGR0013,Part-Time,Active,53810,19.6,Meets,2021-11-25,CC790,USA
+EMP00260,Isabella Nelson,Male,Hispanic,27,Finance,Associate,L3,Denver,2019-01-13,4.92,MGR0013,Full-Time,Active,68636,13.7,Partially Meets,2023-11-24,CC935,Germany
+EMP00261,Diego Smith,Prefer not to say,Asian,58,Engineering,Director,L2,Denver,2017-07-15,6.12,MGR0036,Full-Time,Leave,122136,8.5,Exceeds,2025-10-03,CC363,Germany
+EMP00262,Amir Jackson,Prefer not to say,Hispanic,43,Product,Specialist,L5,New York,2022-10-14,5.84,MGR0017,Full-Time,Active,211110,19.7,Meets,2022-07-30,CC919,Australia
+EMP00263,Omar Hall,Male,Not disclosed,38,HR,Director,L1,Denver,2019-08-17,8.12,MGR0022,Full-Time,Leave,91788,11.9,Partially Meets,2022-06-14,CC687,Germany
+EMP00264,Mia Mitchell,Female,Asian,34,HR,Senior Manager,L7,Seattle,2017-01-18,2.56,MGR0013,Full-Time,Leave,138330,3.9,Exceeds,2021-05-06,CC180,Singapore
+EMP00265,Aarav Young,Male,Asian,45,IT,VP,L4,Remote,2021-11-19,10.44,MGR0032,Full-Time,Leave,118470,9.9,Meets,2020-08-09,CC638,Brazil
+EMP00266,Ryan Garcia,Non-binary,Asian,33,Product,Senior Analyst,L6,Dallas,2020-05-13,5.57,MGR0045,Full-Time,Active,100247,9.5,Exceeds,2023-08-25,CC470,Germany
+EMP00267,Hannah Nakamura,Female,Black or African American,52,IT,VP,L3,Austin,2017-02-05,6.04,MGR0014,Part-Time,Active,140703,21.4,Partially Meets,2025-01-20,CC284,UK
+EMP00268,Sofia Müller,Male,Not disclosed,39,HR,Lead,L4,Denver,2021-06-16,2.43,MGR0048,Full-Time,Active,47553,4.4,Does Not Meet,2021-07-04,CC969,Australia
+EMP00269,Yuki Robinson,Non-binary,Two or more races,58,Engineering,Associate,L1,Austin,2023-10-22,0.81,MGR0017,Part-Time,Active,162926,18.6,Partially Meets,2024-01-18,CC468,Germany
+EMP00270,Priya Ahmed,Male,Black or African American,60,HR,Principal,L5,Dallas,2018-11-10,2.18,MGR0050,Part-Time,Active,130220,16.8,Does Not Meet,2025-01-04,CC180,Brazil
+EMP00271,Ethan Thomas,Female,Hispanic,62,Operations,Associate,L6,Remote,2021-11-18,6.9,MGR0005,Full-Time,Active,135079,5.7,Partially Meets,2023-04-08,CC827,Germany
+EMP00272,Ananya Ferreira,Non-binary,Asian,45,Design,Principal,L5,Atlanta,2021-10-15,5.03,MGR0012,Full-Time,Active,106506,16.6,Exceeds,2022-05-12,CC270,Brazil
+EMP00273,Carlos Chen,Prefer not to say,Two or more races,25,Engineering,Associate,L5,San Francisco,2016-02-26,1.34,MGR0040,Full-Time,Active,216660,23.3,Does Not Meet,2023-06-21,CC334,Canada
+EMP00274,Ethan Wilson,Female,Hispanic,55,Marketing,Analyst,L1,Boston,2023-04-10,10.34,MGR0021,Part-Time,Active,186710,23.4,Does Not Meet,2021-07-07,CC814,UK
+EMP00275,Diego Thomas,Prefer not to say,Two or more races,62,Data Science,Lead,L3,Boston,2021-08-17,5.83,MGR0015,Full-Time,Active,125705,9.1,Partially Meets,2021-09-29,CC410,USA
+EMP00276,Layla Brown,Non-binary,Black or African American,52,Customer Success,Analyst,L6,Atlanta,2015-01-01,11.37,MGR0031,Part-Time,Active,157836,19.9,Meets,2020-01-30,CC661,Australia
+EMP00277,Raj King,Prefer not to say,Asian,37,Marketing,Associate,L7,Denver,2017-02-11,2.73,MGR0006,Part-Time,Active,180426,19.1,Partially Meets,2023-03-12,CC764,Germany
+EMP00278,Arjun Chen,Female,Hispanic,40,Sales,Specialist,L5,Atlanta,2019-08-19,3.34,MGR0040,Part-Time,Active,129054,0.5,Exceeds,2025-12-31,CC122,UK
+EMP00279,Ethan Andersen,Female,Not disclosed,50,Design,Analyst,L2,San Francisco,2016-02-23,1.89,MGR0032,Full-Time,Active,155164,7.8,Does Not Meet,2024-03-01,CC574,USA
+EMP00280,Aisha Okafor,Male,Black or African American,47,Sales,Lead,L4,Austin,2018-09-14,2.39,MGR0017,Part-Time,Active,76971,24.4,Meets,2024-04-25,CC889,Singapore
+EMP00281,Mia Garcia,Female,Asian,28,Customer Success,Senior Manager,L4,Denver,2017-10-09,8.21,MGR0020,Part-Time,Active,209931,18.2,Exceeds,2022-11-03,CC592,Germany
+EMP00282,Sara Lee,Female,White,37,Data Science,Associate,L3,New York,2017-03-24,2.09,MGR0018,Full-Time,Active,108724,0.2,Exceeds,2026-07-08,CC902,Singapore
+EMP00283,Diego Okafor,Non-binary,White,37,Marketing,Specialist,L1,Remote,2022-09-20,4.13,MGR0049,Full-Time,Active,138196,16.1,Exceeds,2021-05-30,CC599,Canada
+EMP00284,Hannah Nelson,Non-binary,Asian,34,Engineering,Associate,L3,Austin,2018-07-21,3.08,MGR0003,Part-Time,Active,191544,7.4,Does Not Meet,2022-02-16,CC680,UK
+EMP00285,Omar Sharma,Prefer not to say,Black or African American,60,Customer Success,Manager,L1,Dallas,2021-02-04,1.94,MGR0019,Part-Time,Leave,141236,11.4,Does Not Meet,2022-01-29,CC119,Australia
+EMP00286,Leila Ivanov,Non-binary,Not disclosed,26,Data Science,Lead,L7,Denver,2023-09-14,2.36,MGR0044,Part-Time,Leave,85404,15.3,Partially Meets,2024-08-05,CC756,Australia
+EMP00287,Carlos Hall,Male,White,30,Marketing,Analyst,L2,San Francisco,2016-03-28,5.88,MGR0007,Full-Time,Leave,213231,20.9,Does Not Meet,2025-11-23,CC738,Germany
+EMP00288,Sara Müller,Male,White,35,Data Science,Specialist,L7,San Francisco,2015-07-21,5.67,MGR0041,Full-Time,Active,191281,18.6,Does Not Meet,2024-02-20,CC913,USA
+EMP00289,Leila Andersen,Male,Not disclosed,26,Finance,Senior Analyst,L2,Dallas,2024-03-27,1.26,MGR0047,Full-Time,Leave,146012,4.7,Meets,2026-05-23,CC740,UK
+EMP00290,Mia King,Prefer not to say,Not disclosed,28,Data Science,Principal,L3,Atlanta,2021-04-06,8.46,MGR0028,Full-Time,Active,92289,13.7,Partially Meets,2021-10-09,CC646,Singapore
+EMP00291,Omar Sharma,Non-binary,Black or African American,48,Data Science,Associate,L7,Boston,2025-06-20,7.34,MGR0037,Full-Time,Active,189241,23.2,Partially Meets,2024-01-14,CC563,Singapore
+EMP00292,Aarav Turner,Male,Black or African American,60,Engineering,Lead,L2,Seattle,2019-06-15,0.18,MGR0015,Full-Time,Active,50688,19.3,Partially Meets,2026-03-17,CC623,UK
+EMP00293,James Thomas,Non-binary,Hispanic,30,Finance,VP,L5,Chicago,2016-01-22,2.87,MGR0020,Full-Time,Leave,149804,14.2,Meets,2020-11-12,CC840,Australia
+EMP00294,Tyler Nguyen,Prefer not to say,Not disclosed,58,Sales,Principal,L6,Seattle,2023-11-22,0.54,MGR0037,Part-Time,Active,59659,23.0,Partially Meets,2023-11-26,CC936,Brazil
+EMP00295,Emma Müller,Male,Not disclosed,62,Legal,Analyst,L3,Dallas,2019-09-03,0.59,MGR0035,Full-Time,Active,176701,17.4,Meets,2020-07-25,CC789,Brazil
+EMP00296,Andre Green,Male,Hispanic,49,Finance,Associate,L2,Austin,2019-12-31,4.1,MGR0031,Full-Time,Leave,149645,6.6,Does Not Meet,2025-08-17,CC544,UK
+EMP00297,Wei Walker,Female,Asian,47,Data Science,Principal,L2,Dallas,2023-07-19,7.43,MGR0048,Full-Time,Active,63781,6.7,Does Not Meet,2023-08-17,CC801,India
+EMP00298,Kevin Ahmed,Prefer not to say,Black or African American,44,HR,VP,L3,Remote,2016-04-05,7.9,MGR0050,Part-Time,Active,136676,15.4,Does Not Meet,2021-08-20,CC551,USA
+EMP00299,Noah Smith,Non-binary,Hispanic,27,Sales,Analyst,L2,Remote,2025-05-13,11.13,MGR0019,Full-Time,Active,74170,7.6,Does Not Meet,2020-04-03,CC439,Canada
+EMP00300,Ryan Ali,Female,Two or more races,55,Finance,Lead,L4,Remote,2023-04-20,8.79,MGR0010,Full-Time,Active,197831,22.7,Exceeds,2022-11-12,CC274,USA
+EMP00301,Arjun Perez,Non-binary,White,51,Data Science,Analyst,L1,Denver,2018-03-09,7.96,MGR0043,Part-Time,Active,50001,7.3,Does Not Meet,2022-08-04,CC489,India
+EMP00302,Lucas Harris,Male,Hispanic,34,Customer Success,Specialist,L5,New York,2025-02-19,0.57,MGR0034,Part-Time,Active,173432,9.8,Meets,2020-03-16,CC455,Australia
+EMP00303,Chris Robinson,Female,Two or more races,39,Engineering,Director,L4,New York,2018-12-26,11.34,MGR0018,Full-Time,Active,134597,22.4,Meets,2020-12-25,CC847,Brazil
+EMP00304,Sofia Adams,Female,Asian,37,IT,Manager,L4,Seattle,2020-11-02,10.93,MGR0022,Part-Time,Leave,79543,5.2,Meets,2026-07-07,CC654,Canada
+EMP00305,Wei Robinson,Female,Asian,31,Data Science,Principal,L2,Boston,2024-09-03,0.91,MGR0035,Full-Time,Active,128256,21.0,Meets,2020-04-30,CC883,Australia
+EMP00306,Raj Ahmed,Non-binary,Asian,62,Design,Director,L2,Chicago,2024-11-14,1.37,MGR0012,Full-Time,Leave,206728,6.7,Meets,2022-08-09,CC336,USA
+EMP00307,Aisha Perez,Prefer not to say,Hispanic,54,IT,Specialist,L6,Boston,2019-01-11,2.29,MGR0025,Part-Time,Active,81048,4.1,Meets,2020-05-12,CC518,USA
+EMP00308,Olivia Ahmed,Female,Not disclosed,34,HR,Senior Analyst,L2,Atlanta,2025-05-18,10.42,MGR0032,Part-Time,Active,109692,10.7,Exceeds,2024-04-07,CC837,Australia
+EMP00309,Leila Wright,Male,Two or more races,28,Product,Specialist,L7,New York,2019-06-03,10.55,MGR0016,Part-Time,Active,191197,9.7,Exceeds,2022-02-16,CC398,Singapore
+EMP00310,Amara Costa,Prefer not to say,Hispanic,49,Finance,Principal,L1,Dallas,2019-06-19,10.85,MGR0030,Part-Time,Active,176244,2.8,Meets,2024-05-29,CC523,Australia
+EMP00311,Priya Nguyen,Prefer not to say,Two or more races,34,Product,Senior Analyst,L3,Boston,2020-01-21,8.33,MGR0046,Full-Time,Active,68905,2.9,Does Not Meet,2024-01-26,CC187,Brazil
+EMP00312,Hassan Adams,Female,Asian,57,Legal,Analyst,L7,Austin,2023-02-25,10.96,MGR0037,Full-Time,Active,82907,4.5,Exceeds,2024-09-14,CC415,Germany
+EMP00313,Jasmine Wilson,Non-binary,Not disclosed,33,Sales,Manager,L2,New York,2023-03-10,7.51,MGR0017,Full-Time,Active,175450,21.4,Exceeds,2025-07-14,CC343,Canada
+EMP00314,Kevin Walker,Prefer not to say,Asian,50,Sales,Principal,L5,New York,2021-08-08,3.01,MGR0036,Part-Time,Leave,209793,13.9,Meets,2020-07-19,CC289,UK
+EMP00315,Ananya Hernandez,Male,Hispanic,24,Data Science,Principal,L7,Remote,2015-08-14,3.65,MGR0006,Full-Time,Active,154302,24.8,Meets,2023-03-10,CC725,UK
+EMP00316,Mia Scott,Non-binary,White,27,Finance,VP,L3,Denver,2020-02-09,9.86,MGR0049,Part-Time,Leave,62019,7.3,Meets,2021-05-14,CC811,Germany
+EMP00317,Layla Ahmed,Female,Not disclosed,35,IT,Analyst,L1,Remote,2018-09-10,8.78,MGR0041,Full-Time,Active,203538,23.3,Partially Meets,2024-10-15,CC723,Australia
+EMP00318,Layla Wright,Non-binary,Hispanic,61,IT,Specialist,L5,Atlanta,2017-11-29,5.96,MGR0012,Full-Time,Active,95739,0.0,Exceeds,2025-03-19,CC740,India
+EMP00319,Zara Adams,Prefer not to say,Asian,24,Operations,VP,L5,Chicago,2023-04-09,0.23,MGR0013,Part-Time,Active,62782,7.7,Partially Meets,2020-01-26,CC216,Australia
+EMP00320,Nina Turner,Male,Hispanic,34,Operations,VP,L6,Atlanta,2018-10-30,11.0,MGR0003,Full-Time,Active,85733,15.7,Partially Meets,2025-03-09,CC902,Brazil
+EMP00321,Mia Lee,Non-binary,Two or more races,42,Customer Success,Lead,L1,Chicago,2025-05-28,6.97,MGR0022,Part-Time,Active,84139,7.0,Exceeds,2023-10-21,CC484,UK
+EMP00322,Diego Jackson,Female,Two or more races,29,Finance,VP,L6,New York,2021-05-27,3.33,MGR0006,Part-Time,Active,142408,11.3,Partially Meets,2022-06-04,CC637,Germany
+EMP00323,Emma White,Male,Hispanic,27,Product,Lead,L1,Atlanta,2016-12-17,10.87,MGR0010,Full-Time,Active,171739,18.3,Partially Meets,2023-09-02,CC246,India
+EMP00324,Layla Mitchell,Female,Hispanic,24,Product,Associate,L6,Dallas,2024-03-21,1.48,MGR0020,Full-Time,Leave,67826,8.3,Exceeds,2021-02-26,CC633,Germany
+EMP00325,Soren Robinson,Female,Black or African American,34,HR,Director,L3,Dallas,2015-04-03,3.9,MGR0029,Full-Time,Active,84143,3.9,Exceeds,2020-03-03,CC737,India
+EMP00326,Ryan Hernandez,Non-binary,Black or African American,31,Design,Director,L5,Chicago,2017-04-26,2.14,MGR0020,Part-Time,Leave,161299,1.3,Exceeds,2025-04-12,CC791,USA
+EMP00327,Jake Lee,Male,Asian,47,Marketing,Principal,L5,Atlanta,2016-03-09,7.43,MGR0020,Part-Time,Active,184849,2.0,Does Not Meet,2026-05-14,CC234,India
+EMP00328,Marcus Thomas,Male,Asian,41,Data Science,Specialist,L4,Chicago,2024-02-12,11.37,MGR0010,Part-Time,Active,147780,4.6,Partially Meets,2023-08-23,CC564,Singapore
+EMP00329,David Walker,Male,Black or African American,52,Product,Manager,L3,Boston,2015-05-04,7.29,MGR0009,Full-Time,Active,73044,8.1,Exceeds,2023-05-22,CC645,Singapore
+EMP00330,Nadia Ahmed,Female,Two or more races,37,Customer Success,Manager,L4,Denver,2019-06-30,0.89,MGR0014,Part-Time,Active,193691,19.7,Meets,2021-12-09,CC778,India
+EMP00331,Ingrid Wright,Prefer not to say,White,59,IT,Specialist,L3,Dallas,2023-04-17,1.26,MGR0029,Full-Time,Active,151376,1.7,Exceeds,2024-04-01,CC435,Singapore
+EMP00332,Kevin Lee,Male,Hispanic,30,IT,Analyst,L7,Austin,2022-03-26,7.96,MGR0029,Part-Time,Active,206368,14.4,Meets,2022-04-22,CC797,Australia
+EMP00333,Soren Mitchell,Non-binary,Asian,44,Sales,Principal,L1,Remote,2018-05-12,11.84,MGR0026,Full-Time,Active,61360,9.2,Exceeds,2020-01-04,CC820,Australia
+EMP00334,Ethan Johnson,Female,Asian,59,Legal,VP,L6,Denver,2016-03-25,4.93,MGR0028,Full-Time,Active,169484,3.5,Does Not Meet,2024-01-15,CC960,Brazil
+EMP00335,Ethan Carter,Female,Hispanic,22,Sales,Analyst,L2,Atlanta,2016-09-23,7.93,MGR0009,Full-Time,Active,213360,20.1,Does Not Meet,2024-10-09,CC738,UK
+EMP00336,Hassan Clark,Prefer not to say,Asian,44,HR,Manager,L4,Remote,2020-02-05,0.19,MGR0032,Full-Time,Leave,115582,10.3,Partially Meets,2020-05-17,CC138,Singapore
+EMP00337,Sara Kim,Prefer not to say,Not disclosed,27,Marketing,Lead,L7,Seattle,2022-11-27,5.63,MGR0006,Full-Time,Active,168850,15.8,Exceeds,2026-01-17,CC917,Germany
+EMP00338,Maria Taylor,Male,Asian,51,Customer Success,Specialist,L5,Boston,2021-11-16,5.11,MGR0019,Part-Time,Active,54260,17.4,Partially Meets,2026-04-27,CC366,USA
+EMP00339,Tyler Scott,Female,Two or more races,25,Data Science,Director,L7,Remote,2022-01-21,0.42,MGR0032,Full-Time,Active,177538,1.9,Partially Meets,2022-10-29,CC235,Germany
+EMP00340,Rohan Singh,Male,Two or more races,33,IT,Manager,L6,Atlanta,2018-02-01,4.5,MGR0012,Part-Time,Active,172118,4.5,Exceeds,2023-11-05,CC186,UK
+EMP00341,Fatima Harris,Prefer not to say,Asian,37,Data Science,Specialist,L6,Austin,2021-09-05,2.61,MGR0047,Part-Time,Active,213364,6.6,Exceeds,2020-08-03,CC271,Singapore
+EMP00342,Tyler Robinson,Prefer not to say,Not disclosed,56,HR,Associate,L6,Denver,2019-06-22,5.75,MGR0010,Part-Time,Active,120705,23.2,Does Not Meet,2024-04-13,CC794,Australia
+EMP00343,Sofia Garcia,Male,Two or more races,62,Operations,Associate,L5,Seattle,2020-12-11,4.09,MGR0018,Full-Time,Active,216532,14.6,Does Not Meet,2022-09-17,CC851,Canada
+EMP00344,Mei Mitchell,Female,Black or African American,57,Engineering,Analyst,L7,San Francisco,2020-10-30,0.24,MGR0007,Full-Time,Active,137147,5.5,Partially Meets,2022-10-28,CC297,USA
+EMP00345,Leila Williams,Male,Two or more races,35,IT,Senior Analyst,L6,San Francisco,2015-04-08,1.13,MGR0039,Full-Time,Active,217069,19.1,Meets,2021-03-30,CC812,UK
+EMP00346,Ethan Thomas,Male,Not disclosed,51,Finance,Associate,L6,Boston,2017-11-03,3.16,MGR0050,Full-Time,Active,61354,9.6,Partially Meets,2020-09-03,CC364,Germany
+EMP00347,Amir Chen,Prefer not to say,Hispanic,61,Legal,Manager,L6,Atlanta,2016-12-29,1.39,MGR0035,Part-Time,Active,205947,16.1,Does Not Meet,2022-11-26,CC205,USA
+EMP00348,David Wright,Non-binary,Asian,23,Product,Manager,L6,New York,2015-10-26,11.2,MGR0043,Part-Time,Active,84742,17.5,Does Not Meet,2026-06-11,CC103,Singapore
+EMP00349,Chloe Ferreira,Male,Two or more races,36,Engineering,Associate,L6,Atlanta,2020-05-12,1.54,MGR0035,Part-Time,Active,124384,10.0,Exceeds,2024-02-05,CC647,Australia
+EMP00350,Elena Costa,Female,Hispanic,57,Engineering,Associate,L6,Chicago,2015-11-26,3.66,MGR0025,Full-Time,Active,172533,2.1,Does Not Meet,2022-02-15,CC243,USA
+EMP00351,Priya Turner,Female,Asian,46,Sales,Lead,L6,Seattle,2017-03-01,6.05,MGR0029,Full-Time,Active,133941,1.4,Exceeds,2024-07-18,CC221,Canada
+EMP00352,Ananya Carter,Prefer not to say,Not disclosed,56,Marketing,Principal,L2,San Francisco,2024-01-19,0.54,MGR0010,Part-Time,Active,168527,22.7,Exceeds,2022-09-21,CC818,UK
+EMP00353,Sophia Baker,Male,Black or African American,28,Product,Principal,L2,Remote,2015-02-28,0.86,MGR0007,Full-Time,Active,200969,20.0,Meets,2020-09-15,CC923,Canada
+EMP00354,Mei Mitchell,Prefer not to say,Black or African American,29,Data Science,Principal,L5,Austin,2019-10-12,3.93,MGR0014,Full-Time,Leave,90468,8.4,Exceeds,2023-01-26,CC244,Brazil
+EMP00355,Marcus White,Female,Asian,37,IT,Analyst,L2,San Francisco,2016-11-19,9.51,MGR0041,Part-Time,Active,49097,22.0,Exceeds,2020-01-27,CC107,UK
+EMP00356,Aisha Roberts,Non-binary,Asian,52,Design,Manager,L2,Austin,2025-05-21,7.71,MGR0034,Part-Time,Active,107718,23.5,Exceeds,2022-01-07,CC834,Singapore
+EMP00357,Aisha Baker,Non-binary,Black or African American,48,Engineering,Lead,L2,Chicago,2021-11-11,1.5,MGR0034,Full-Time,Leave,139870,21.6,Meets,2025-03-16,CC888,Canada
+EMP00358,Maria Smith,Male,Hispanic,52,Product,Manager,L2,New York,2018-02-06,0.74,MGR0024,Part-Time,Active,158946,6.3,Does Not Meet,2020-06-26,CC206,USA
+EMP00359,Ryan Nguyen,Female,White,53,Customer Success,Senior Analyst,L1,Chicago,2025-05-16,8.68,MGR0038,Part-Time,Active,97101,18.7,Partially Meets,2022-07-31,CC897,India
+EMP00360,Noah Patel,Female,Not disclosed,48,HR,Associate,L2,San Francisco,2018-08-28,5.7,MGR0032,Full-Time,Active,82995,5.4,Does Not Meet,2021-12-30,CC496,Australia
+EMP00361,Elena Turner,Female,Not disclosed,44,Finance,Senior Manager,L3,Austin,2016-07-12,0.48,MGR0037,Full-Time,Active,80783,2.8,Does Not Meet,2025-02-21,CC528,UK
+EMP00362,Mei Müller,Non-binary,Two or more races,32,Data Science,Principal,L2,Remote,2023-07-12,11.64,MGR0015,Full-Time,Active,181778,12.2,Meets,2025-04-23,CC957,Singapore
+EMP00363,Aarav Turner,Prefer not to say,Not disclosed,37,HR,VP,L4,Remote,2018-02-17,2.75,MGR0038,Full-Time,Leave,46331,10.4,Exceeds,2020-06-13,CC581,USA
+EMP00364,Layla Ferreira,Prefer not to say,Not disclosed,28,Product,Specialist,L2,San Francisco,2019-10-10,6.75,MGR0001,Part-Time,Active,79789,9.0,Meets,2021-01-06,CC116,Singapore
+EMP00365,Amara Martinez,Prefer not to say,Two or more races,59,Engineering,Specialist,L4,Austin,2022-07-03,10.5,MGR0026,Full-Time,Active,209314,11.6,Exceeds,2020-10-16,CC494,Australia
+EMP00366,James Costa,Prefer not to say,Black or African American,61,Customer Success,Principal,L7,Chicago,2020-12-14,9.47,MGR0006,Part-Time,Active,179935,23.6,Partially Meets,2020-07-30,CC213,Brazil
+EMP00367,Elena Adams,Male,Black or African American,45,Marketing,Lead,L6,San Francisco,2019-02-06,6.77,MGR0050,Full-Time,Active,132799,6.0,Exceeds,2025-05-13,CC855,Canada
+EMP00368,Mia Müller,Non-binary,Black or African American,39,Customer Success,Associate,L3,New York,2023-06-12,0.85,MGR0023,Part-Time,Active,176452,13.2,Exceeds,2025-04-09,CC826,Germany
+EMP00369,Leila White,Male,Hispanic,51,Sales,Senior Analyst,L4,Austin,2020-01-26,3.53,MGR0005,Full-Time,Active,117336,2.8,Meets,2025-07-25,CC254,Canada
+EMP00370,Chris Johnson,Non-binary,Asian,56,Marketing,Specialist,L3,Denver,2020-11-02,5.38,MGR0042,Full-Time,Active,94561,1.6,Meets,2025-10-29,CC760,Australia
+EMP00371,Nadia Taylor,Non-binary,Asian,59,Data Science,Lead,L7,Dallas,2019-08-14,5.4,MGR0020,Full-Time,Active,90019,19.7,Meets,2025-06-06,CC480,Germany
+EMP00372,Maria Okafor,Non-binary,Black or African American,51,Marketing,Principal,L2,Dallas,2023-08-19,3.49,MGR0012,Full-Time,Active,107365,2.9,Partially Meets,2026-06-11,CC229,Singapore
+EMP00373,Sara Nguyen,Female,Two or more races,24,Data Science,VP,L3,Austin,2017-12-02,4.54,MGR0035,Full-Time,Leave,124052,3.0,Exceeds,2024-07-15,CC611,UK
+EMP00374,Lucas Okafor,Male,Not disclosed,56,Customer Success,VP,L6,Seattle,2020-02-20,5.74,MGR0019,Full-Time,Leave,160895,8.5,Exceeds,2025-05-15,CC141,UK
+EMP00375,Hannah Kim,Non-binary,White,47,IT,Senior Manager,L4,Boston,2022-08-09,1.2,MGR0004,Full-Time,Leave,183001,5.6,Partially Meets,2022-03-12,CC123,India
+EMP00376,Amir Mitchell,Male,Two or more races,47,HR,Specialist,L3,Remote,2021-01-14,7.3,MGR0004,Part-Time,Active,83783,17.9,Does Not Meet,2024-02-23,CC495,Australia
+EMP00377,Ethan Hernandez,Non-binary,Black or African American,50,Customer Success,Senior Analyst,L2,Atlanta,2015-02-19,8.92,MGR0027,Part-Time,Active,87936,20.1,Does Not Meet,2024-08-23,CC242,India
+EMP00378,Zara Robinson,Prefer not to say,Two or more races,43,Sales,Principal,L7,Denver,2016-08-11,1.15,MGR0027,Part-Time,Active,90847,13.9,Meets,2022-03-27,CC290,Brazil
+EMP00379,Hannah Harris,Male,Black or African American,59,Finance,Specialist,L5,Atlanta,2018-03-31,2.77,MGR0001,Full-Time,Active,123687,23.9,Does Not Meet,2021-05-23,CC769,Germany
+EMP00380,Sophia Harris,Female,White,29,Finance,Specialist,L1,Remote,2019-09-05,8.97,MGR0038,Part-Time,Leave,159312,21.7,Does Not Meet,2021-05-04,CC482,USA
+EMP00381,Rohan Martinez,Male,Hispanic,42,Product,Manager,L3,Austin,2024-06-24,0.73,MGR0024,Part-Time,Active,57770,7.2,Exceeds,2025-10-05,CC298,UK
+EMP00382,Carlos Green,Female,Two or more races,42,Operations,Director,L3,Boston,2023-07-30,1.24,MGR0038,Part-Time,Active,48381,3.4,Partially Meets,2024-03-07,CC897,Singapore
+EMP00383,Mei Martinez,Male,Hispanic,31,Customer Success,Senior Manager,L7,Chicago,2019-08-15,9.56,MGR0036,Full-Time,Active,165715,22.9,Exceeds,2021-06-21,CC117,Singapore
+EMP00384,Amara Perez,Non-binary,Hispanic,50,IT,Lead,L7,Boston,2018-11-27,2.15,MGR0020,Full-Time,Active,103289,3.2,Meets,2022-07-17,CC414,UK
+EMP00385,Wei Williams,Prefer not to say,Not disclosed,29,Sales,Analyst,L7,Atlanta,2017-05-09,9.11,MGR0003,Full-Time,Active,53596,19.8,Exceeds,2025-04-05,CC221,Germany
+EMP00386,David Robinson,Male,White,29,IT,Senior Manager,L5,Chicago,2015-06-27,2.3,MGR0023,Full-Time,Active,83156,21.1,Partially Meets,2026-07-02,CC456,Australia
+EMP00387,Hassan Turner,Female,Two or more races,58,Sales,Senior Analyst,L7,Remote,2016-10-19,9.18,MGR0034,Full-Time,Active,118887,4.3,Exceeds,2021-02-08,CC319,Singapore
+EMP00388,Marcus Scott,Female,Asian,28,Marketing,VP,L4,Denver,2019-02-10,2.65,MGR0015,Part-Time,Active,127386,3.1,Exceeds,2025-10-29,CC239,Singapore
+EMP00389,Sara Roberts,Non-binary,Two or more races,24,Sales,VP,L4,San Francisco,2023-07-20,4.68,MGR0030,Part-Time,Active,104211,13.8,Partially Meets,2024-10-18,CC293,India
+EMP00390,Tyler Mitchell,Non-binary,Hispanic,22,Data Science,Specialist,L6,San Francisco,2025-01-12,4.82,MGR0034,Full-Time,Active,82582,9.9,Exceeds,2021-11-22,CC166,Australia
+EMP00391,Mei Smith,Prefer not to say,White,36,Legal,Specialist,L3,Remote,2017-03-26,7.16,MGR0049,Part-Time,Active,169735,16.7,Does Not Meet,2025-06-07,CC623,Germany
+EMP00392,Jasmine Thomas,Male,White,38,Product,Specialist,L2,Austin,2016-08-26,0.45,MGR0048,Full-Time,Active,175583,17.0,Meets,2024-04-16,CC719,Australia
+EMP00393,Amara Adams,Male,White,55,Product,Specialist,L2,Seattle,2016-09-17,7.98,MGR0032,Part-Time,Leave,135076,20.2,Exceeds,2020-05-09,CC540,India
+EMP00394,Amir Sharma,Prefer not to say,Asian,51,Engineering,Analyst,L2,Dallas,2019-04-21,7.95,MGR0050,Part-Time,Active,173838,10.8,Partially Meets,2024-05-12,CC599,India
+EMP00395,Sofia Harris,Prefer not to say,Asian,57,Marketing,Lead,L1,Denver,2021-05-19,3.23,MGR0038,Part-Time,Leave,137474,19.2,Partially Meets,2023-08-05,CC162,USA
+EMP00396,James Brown,Non-binary,Black or African American,59,Engineering,VP,L4,San Francisco,2021-08-15,5.19,MGR0023,Part-Time,Active,59797,16.5,Meets,2022-08-19,CC763,Germany
+EMP00397,Aisha Perez,Male,Black or African American,29,Operations,Manager,L1,Dallas,2021-08-24,3.98,MGR0030,Part-Time,Leave,179941,22.5,Partially Meets,2020-03-24,CC812,Singapore
+EMP00398,Priya Sharma,Prefer not to say,Two or more races,46,Operations,Principal,L1,Atlanta,2021-08-05,1.29,MGR0044,Full-Time,Active,175215,12.6,Partially Meets,2021-11-13,CC729,Germany
+EMP00399,Chloe Smith,Prefer not to say,Not disclosed,26,Customer Success,Senior Manager,L3,Seattle,2019-01-28,0.67,MGR0037,Part-Time,Active,208727,18.6,Exceeds,2026-06-26,CC197,Australia
+EMP00400,David Wright,Prefer not to say,Asian,35,Operations,Senior Analyst,L6,Seattle,2018-01-24,6.11,MGR0020,Part-Time,Leave,127143,5.0,Does Not Meet,2022-10-26,CC739,Singapore
+EMP00401,Andre King,Female,White,62,Design,Lead,L7,Austin,2022-07-13,6.96,MGR0014,Part-Time,Active,212228,13.3,Does Not Meet,2026-05-07,CC844,USA
+EMP00402,Arjun White,Prefer not to say,Hispanic,37,Marketing,Director,L7,Denver,2020-11-09,4.98,MGR0005,Full-Time,Active,114975,20.6,Meets,2022-11-16,CC803,Canada
+EMP00403,Isabella Kim,Female,Hispanic,23,HR,Director,L4,Atlanta,2019-07-21,6.76,MGR0028,Part-Time,Active,97950,4.0,Meets,2020-04-29,CC364,Germany
+EMP00404,Hannah Nguyen,Male,Not disclosed,53,Engineering,Analyst,L7,San Francisco,2022-05-21,3.84,MGR0020,Full-Time,Active,140272,16.8,Exceeds,2024-06-13,CC959,UK
+EMP00405,Emma Wright,Male,Two or more races,59,Customer Success,Director,L4,San Francisco,2017-08-24,2.93,MGR0008,Part-Time,Active,198177,18.4,Meets,2024-09-28,CC323,UK
+EMP00406,Sophia Ali,Non-binary,Asian,48,Finance,Principal,L1,Atlanta,2016-03-13,6.45,MGR0045,Full-Time,Active,188063,10.6,Meets,2023-02-11,CC903,UK
+EMP00407,Tyler Roberts,Non-binary,Black or African American,23,Data Science,Principal,L1,New York,2019-01-26,8.32,MGR0043,Full-Time,Active,189894,9.6,Partially Meets,2021-05-14,CC647,Canada
+EMP00408,Amir Jackson,Male,Asian,38,Finance,Senior Analyst,L7,Chicago,2024-08-13,3.64,MGR0011,Part-Time,Active,213933,10.2,Exceeds,2023-01-27,CC987,India
+EMP00409,Jasmine Harris,Prefer not to say,Not disclosed,48,Operations,Associate,L7,San Francisco,2024-03-25,9.91,MGR0045,Part-Time,Leave,62397,8.8,Partially Meets,2025-01-30,CC811,USA
+EMP00410,Maria Nelson,Female,Not disclosed,50,Data Science,Manager,L1,Denver,2023-07-19,2.48,MGR0020,Part-Time,Leave,66556,2.8,Meets,2025-10-16,CC830,UK
+EMP00411,Diego Mitchell,Prefer not to say,Black or African American,50,Product,Manager,L3,Austin,2024-07-01,8.28,MGR0021,Part-Time,Active,67124,10.4,Meets,2024-05-30,CC997,Brazil
+EMP00412,Soren Müller,Male,White,57,Data Science,Principal,L6,Chicago,2024-05-11,10.89,MGR0030,Full-Time,Active,89238,1.2,Does Not Meet,2022-12-01,CC252,India
+EMP00413,Liam Wright,Male,White,55,Legal,Specialist,L7,Atlanta,2019-02-16,1.51,MGR0046,Full-Time,Active,114783,7.2,Does Not Meet,2024-04-13,CC233,Brazil
+EMP00414,Zara Green,Female,Black or African American,34,Legal,Manager,L4,Austin,2024-08-08,0.44,MGR0017,Full-Time,Leave,163220,22.7,Partially Meets,2026-07-15,CC800,Singapore
+EMP00415,Aarav Walker,Female,Black or African American,47,Data Science,Senior Manager,L6,Denver,2015-12-18,8.53,MGR0048,Part-Time,Active,69976,13.9,Exceeds,2023-09-25,CC340,Singapore
+EMP00416,Omar Green,Male,White,38,Customer Success,Principal,L4,Seattle,2025-03-09,11.73,MGR0043,Part-Time,Active,191685,1.0,Meets,2022-12-02,CC273,Singapore
+EMP00417,Mei Thomas,Female,White,42,Design,Lead,L4,Austin,2025-06-07,3.2,MGR0021,Full-Time,Active,175865,21.8,Partially Meets,2024-01-16,CC540,Germany
+EMP00418,Rohan Adams,Non-binary,Two or more races,42,Legal,Manager,L3,Atlanta,2025-02-14,9.19,MGR0010,Part-Time,Active,94524,3.7,Meets,2022-01-20,CC136,Singapore
+EMP00419,Liam Roberts,Prefer not to say,Asian,29,Product,Analyst,L4,Boston,2017-12-01,11.87,MGR0036,Part-Time,Active,174233,2.8,Meets,2021-05-21,CC457,India
+EMP00420,Ethan Nguyen,Female,Not disclosed,54,Finance,Principal,L6,Remote,2017-04-14,2.63,MGR0001,Full-Time,Active,65141,6.2,Does Not Meet,2021-01-21,CC436,USA
+EMP00421,Sofia Mitchell,Male,Asian,45,IT,Senior Analyst,L7,Boston,2018-03-10,1.93,MGR0006,Part-Time,Active,164027,15.7,Partially Meets,2020-01-24,CC437,USA
+EMP00422,Leila Wilson,Non-binary,Not disclosed,58,Marketing,Senior Manager,L7,New York,2022-05-11,9.64,MGR0019,Part-Time,Active,63539,13.7,Does Not Meet,2021-01-14,CC508,Germany
+EMP00423,Isabella Ferreira,Male,White,35,Marketing,Associate,L7,Denver,2016-12-30,3.49,MGR0049,Full-Time,Active,123262,12.3,Does Not Meet,2023-06-24,CC801,UK
+EMP00424,Kevin Patel,Non-binary,Two or more races,34,Product,Specialist,L4,Atlanta,2019-01-10,3.29,MGR0039,Part-Time,Active,155765,20.3,Meets,2024-11-13,CC745,Brazil
+EMP00425,James Lewis,Non-binary,Asian,36,Data Science,Manager,L4,Dallas,2016-01-16,7.59,MGR0034,Full-Time,Active,167740,10.9,Does Not Meet,2023-05-15,CC252,UK
+EMP00426,Amara Ivanov,Prefer not to say,Black or African American,58,Engineering,Lead,L1,New York,2022-09-03,6.21,MGR0033,Part-Time,Active,69768,11.6,Partially Meets,2023-12-26,CC360,India
+EMP00427,Hassan Johnson,Male,Not disclosed,51,Marketing,Manager,L7,Denver,2023-08-15,0.64,MGR0027,Part-Time,Active,198933,18.1,Does Not Meet,2022-12-21,CC449,UK
+EMP00428,Sophia Williams,Non-binary,Not disclosed,28,Legal,Lead,L1,New York,2017-05-14,4.8,MGR0001,Full-Time,Active,165628,17.3,Does Not Meet,2023-05-25,CC733,Australia
+EMP00429,Sofia Perez,Prefer not to say,Black or African American,27,Marketing,Manager,L1,Chicago,2022-09-29,1.43,MGR0002,Full-Time,Active,99848,12.0,Meets,2022-09-17,CC546,Canada
+EMP00430,Amara Thomas,Female,Asian,49,Engineering,Senior Analyst,L2,Austin,2015-12-19,8.89,MGR0029,Part-Time,Active,50145,21.5,Meets,2022-04-04,CC401,Brazil
+EMP00431,Mei Singh,Male,Not disclosed,49,Legal,Specialist,L6,Remote,2015-07-28,7.19,MGR0036,Part-Time,Active,172794,10.0,Does Not Meet,2022-08-07,CC831,USA
+EMP00432,Priya Clark,Non-binary,Two or more races,26,Finance,Associate,L4,San Francisco,2020-12-03,5.99,MGR0042,Part-Time,Active,159355,0.5,Partially Meets,2022-02-26,CC580,Australia
+EMP00433,Noah Lewis,Female,Two or more races,43,IT,Specialist,L2,Seattle,2019-11-30,8.7,MGR0025,Part-Time,Active,168817,20.0,Meets,2022-04-28,CC389,India
+EMP00434,Tyler Brown,Female,Hispanic,32,IT,Specialist,L1,Denver,2022-06-25,11.32,MGR0032,Part-Time,Active,99901,13.9,Exceeds,2024-01-09,CC367,Australia
+EMP00435,Liam Nguyen,Male,White,43,Legal,Senior Analyst,L5,Chicago,2022-08-04,1.54,MGR0015,Part-Time,Active,134213,19.6,Exceeds,2026-03-31,CC373,UK
+EMP00436,Marcus Lewis,Male,Not disclosed,25,Product,Specialist,L7,San Francisco,2024-07-27,11.7,MGR0040,Full-Time,Leave,56002,12.7,Meets,2021-04-28,CC991,Canada
+EMP00437,Sara Martinez,Non-binary,Not disclosed,50,Customer Success,Specialist,L6,San Francisco,2025-03-20,1.94,MGR0024,Part-Time,Active,77239,21.2,Does Not Meet,2024-08-29,CC887,USA
+EMP00438,Tyler Taylor,Non-binary,Two or more races,32,Sales,Director,L3,Denver,2017-10-01,4.39,MGR0043,Full-Time,Active,183844,10.5,Meets,2021-07-19,CC921,Brazil
+EMP00439,Raj Thomas,Non-binary,White,50,Marketing,Analyst,L6,Dallas,2019-08-21,11.33,MGR0006,Part-Time,Active,150290,24.5,Meets,2024-11-12,CC162,Brazil
+EMP00440,James Carter,Female,Two or more races,25,Data Science,Lead,L3,Denver,2023-07-07,4.88,MGR0044,Part-Time,Active,135218,0.2,Partially Meets,2025-12-01,CC725,UK
+EMP00441,Nina Wilson,Female,Two or more races,61,IT,Specialist,L6,Boston,2022-11-08,10.66,MGR0042,Part-Time,Active,124044,2.1,Partially Meets,2024-05-16,CC842,UK
+EMP00442,Ryan Costa,Female,White,54,Customer Success,Director,L5,Boston,2020-11-01,9.11,MGR0011,Full-Time,Active,186540,14.8,Meets,2023-05-29,CC843,Brazil
+EMP00443,Emma Turner,Male,Black or African American,38,Data Science,Lead,L3,San Francisco,2020-08-31,0.67,MGR0042,Full-Time,Active,123108,14.3,Exceeds,2025-01-30,CC447,Canada
+EMP00444,Mia Scott,Female,Black or African American,41,Finance,Principal,L6,Austin,2024-01-12,8.6,MGR0034,Full-Time,Active,130943,12.9,Meets,2024-01-19,CC565,India
+EMP00445,Ingrid Clark,Prefer not to say,White,27,Engineering,Associate,L2,Atlanta,2016-08-23,2.66,MGR0005,Part-Time,Leave,150579,14.7,Does Not Meet,2022-12-16,CC698,Singapore
+EMP00446,Chloe Wilson,Prefer not to say,Not disclosed,48,Marketing,Manager,L5,Austin,2022-02-19,5.87,MGR0030,Full-Time,Leave,183711,3.0,Meets,2025-02-08,CC584,USA
+EMP00447,Liam King,Non-binary,White,60,Legal,Senior Analyst,L1,Boston,2023-05-16,6.9,MGR0003,Full-Time,Active,142377,7.6,Partially Meets,2023-05-27,CC401,Singapore
+EMP00448,Fatima Okafor,Prefer not to say,White,41,Finance,Senior Manager,L2,Atlanta,2015-04-25,0.12,MGR0036,Part-Time,Active,56713,10.4,Partially Meets,2026-05-06,CC563,Australia
+EMP00449,Jake Walker,Female,Hispanic,54,Data Science,Specialist,L7,Atlanta,2023-10-06,8.04,MGR0010,Part-Time,Active,208779,16.6,Does Not Meet,2024-05-05,CC338,Brazil
+EMP00450,Ryan Garcia,Prefer not to say,Not disclosed,39,Data Science,Senior Analyst,L7,Austin,2018-10-20,8.52,MGR0037,Part-Time,Leave,214124,3.1,Exceeds,2022-02-27,CC733,USA
+EMP00451,Layla Smith,Prefer not to say,Two or more races,23,Sales,Lead,L2,New York,2021-05-24,3.37,MGR0014,Full-Time,Leave,161452,2.1,Partially Meets,2024-07-03,CC703,USA
+EMP00452,Priya Taylor,Prefer not to say,Hispanic,48,Engineering,Lead,L3,Denver,2020-07-06,3.16,MGR0008,Full-Time,Leave,89081,7.1,Meets,2022-11-12,CC886,India
+EMP00453,Amara Ahmed,Female,White,61,Operations,Manager,L1,New York,2016-09-23,3.65,MGR0007,Part-Time,Active,153219,22.3,Partially Meets,2024-03-18,CC947,India
+EMP00454,Arjun Ivanov,Female,Asian,54,Customer Success,Associate,L1,Seattle,2015-08-01,0.82,MGR0030,Part-Time,Active,171922,0.7,Meets,2020-03-17,CC375,India
+EMP00455,Andre King,Female,Black or African American,58,Legal,Specialist,L1,Dallas,2017-10-05,2.52,MGR0010,Part-Time,Leave,89089,19.6,Does Not Meet,2026-03-23,CC562,USA
+EMP00456,Elena Adams,Non-binary,Not disclosed,32,Engineering,Analyst,L4,Seattle,2015-01-05,7.21,MGR0044,Part-Time,Active,210729,5.3,Partially Meets,2020-07-05,CC265,India
+EMP00457,Aisha Ferreira,Male,Hispanic,57,Finance,Associate,L2,Remote,2018-05-16,6.11,MGR0021,Part-Time,Active,163677,6.8,Partially Meets,2023-10-31,CC315,Singapore
+EMP00458,Mei Johnson,Female,Not disclosed,22,IT,Specialist,L1,New York,2021-09-21,8.11,MGR0027,Part-Time,Active,186067,2.0,Exceeds,2026-01-15,CC131,Singapore
+EMP00459,Emma Hernandez,Prefer not to say,Two or more races,44,Legal,Manager,L7,New York,2022-07-16,1.58,MGR0024,Full-Time,Active,47454,5.5,Exceeds,2023-02-25,CC796,Australia
+EMP00460,Aisha Adams,Non-binary,Not disclosed,36,HR,Specialist,L3,New York,2017-02-23,3.44,MGR0046,Full-Time,Active,96402,24.6,Does Not Meet,2021-03-30,CC990,Germany
+EMP00461,Hassan Harris,Female,Two or more races,34,Data Science,Principal,L6,Remote,2021-05-20,6.83,MGR0005,Full-Time,Active,78405,6.5,Meets,2025-11-12,CC846,Germany
+EMP00462,Sofia Johnson,Non-binary,Not disclosed,57,Product,Analyst,L4,New York,2017-02-24,10.26,MGR0021,Part-Time,Active,116836,3.0,Does Not Meet,2025-07-22,CC470,USA
+EMP00463,Tariq Müller,Male,Black or African American,48,Customer Success,Specialist,L3,New York,2024-11-29,4.76,MGR0022,Full-Time,Leave,51651,24.8,Meets,2024-10-01,CC176,Canada
+EMP00464,Liam Taylor,Non-binary,White,62,Data Science,Senior Analyst,L1,Atlanta,2017-03-17,5.24,MGR0002,Part-Time,Active,109789,2.7,Meets,2023-10-27,CC952,USA
+EMP00465,Mei Hall,Female,White,60,IT,Specialist,L7,San Francisco,2024-03-19,7.54,MGR0038,Full-Time,Active,60908,22.9,Does Not Meet,2023-07-07,CC968,India
+EMP00466,Wei Lee,Prefer not to say,White,41,IT,Associate,L1,San Francisco,2023-10-11,8.16,MGR0036,Full-Time,Active,144996,10.0,Does Not Meet,2022-08-12,CC985,USA
+EMP00467,Jake Thomas,Prefer not to say,Two or more races,61,Sales,VP,L6,New York,2020-02-01,5.5,MGR0022,Full-Time,Active,71919,0.3,Exceeds,2022-03-04,CC686,UK
+EMP00468,Hassan Nakamura,Non-binary,Asian,52,Design,Principal,L4,Austin,2022-02-23,2.99,MGR0003,Full-Time,Active,126701,14.6,Partially Meets,2023-06-28,CC697,UK
+EMP00469,Tyler Robinson,Non-binary,Black or African American,45,Engineering,Lead,L5,Austin,2016-08-26,0.78,MGR0033,Full-Time,Active,135129,4.9,Meets,2022-04-04,CC904,India
+EMP00470,Arjun Carter,Prefer not to say,Not disclosed,51,IT,VP,L7,Remote,2018-10-30,6.84,MGR0022,Part-Time,Active,131145,4.1,Does Not Meet,2020-06-21,CC607,Canada
+EMP00471,Aarav Baker,Female,Not disclosed,36,Product,Principal,L2,Chicago,2025-04-26,5.82,MGR0050,Part-Time,Active,98822,10.0,Exceeds,2024-01-26,CC110,India
+EMP00472,Priya King,Male,Hispanic,40,Product,Senior Manager,L6,Remote,2019-01-05,10.96,MGR0024,Full-Time,Active,97198,4.9,Meets,2022-06-15,CC368,UK
+EMP00473,Hannah Ivanov,Female,Hispanic,23,Marketing,Director,L1,New York,2018-10-23,9.99,MGR0009,Part-Time,Active,133705,23.4,Partially Meets,2025-02-11,CC345,Australia
+EMP00474,Sara Carter,Female,Two or more races,61,Legal,Senior Analyst,L1,Austin,2024-01-29,10.6,MGR0009,Full-Time,Active,184606,9.5,Partially Meets,2023-07-26,CC713,Brazil
+EMP00475,Isabella Garcia,Female,Two or more races,40,Marketing,VP,L2,New York,2022-02-18,7.59,MGR0018,Full-Time,Leave,198113,22.1,Meets,2020-11-29,CC903,Singapore
+EMP00476,Kevin Adams,Male,Hispanic,54,Legal,Lead,L3,Atlanta,2023-11-14,6.27,MGR0012,Part-Time,Active,182750,17.4,Does Not Meet,2025-04-24,CC374,Brazil
+EMP00477,Nadia Nelson,Male,Hispanic,36,HR,Specialist,L7,Chicago,2022-02-26,4.81,MGR0020,Part-Time,Active,194781,3.9,Partially Meets,2022-11-08,CC663,India
+EMP00478,Andre Williams,Non-binary,Asian,55,Operations,Senior Manager,L5,New York,2016-07-04,5.64,MGR0040,Part-Time,Active,163266,11.7,Does Not Meet,2024-02-14,CC923,Singapore
+EMP00479,Olivia Jackson,Male,Hispanic,50,HR,Director,L6,San Francisco,2018-07-22,4.37,MGR0006,Part-Time,Leave,179425,13.7,Exceeds,2023-02-06,CC333,India
+EMP00480,David White,Male,Two or more races,34,Operations,Senior Manager,L6,Boston,2016-04-30,3.08,MGR0048,Part-Time,Active,203343,24.9,Partially Meets,2020-02-04,CC888,Germany
+EMP00481,Omar Ferreira,Prefer not to say,Two or more races,22,Product,Lead,L7,Austin,2018-02-28,10.4,MGR0015,Full-Time,Active,169371,5.8,Does Not Meet,2025-03-04,CC448,India
+EMP00482,Arjun Clark,Prefer not to say,Hispanic,50,Product,Lead,L1,Boston,2018-07-06,1.75,MGR0009,Part-Time,Active,176019,20.3,Partially Meets,2023-10-23,CC330,Brazil
+EMP00483,Sofia Ferreira,Non-binary,Black or African American,59,Engineering,Principal,L7,New York,2019-10-10,11.07,MGR0010,Part-Time,Leave,210108,20.0,Does Not Meet,2024-04-10,CC309,Brazil
+EMP00484,Ryan Jackson,Female,Asian,28,Operations,Principal,L4,Seattle,2015-09-18,1.21,MGR0007,Full-Time,Active,203168,12.2,Meets,2022-03-26,CC171,Brazil
+EMP00485,Zara Müller,Non-binary,Not disclosed,55,Sales,Specialist,L1,Boston,2018-03-08,6.27,MGR0011,Part-Time,Active,147525,3.9,Exceeds,2021-06-12,CC649,Brazil
+EMP00486,Mia Chen,Prefer not to say,Hispanic,30,HR,Director,L4,Atlanta,2020-05-12,1.99,MGR0037,Part-Time,Leave,98208,12.6,Does Not Meet,2023-02-02,CC306,USA
+EMP00487,Amir Chen,Prefer not to say,Two or more races,37,Customer Success,VP,L5,Atlanta,2016-08-07,5.58,MGR0037,Full-Time,Active,120474,16.2,Does Not Meet,2023-11-21,CC817,Germany
+EMP00488,Leila Nguyen,Prefer not to say,Hispanic,33,IT,Associate,L4,Denver,2019-05-21,10.94,MGR0012,Full-Time,Active,56446,6.0,Meets,2023-01-26,CC743,Germany
+EMP00489,David Perez,Female,Asian,48,Customer Success,Senior Analyst,L3,San Francisco,2022-06-23,9.09,MGR0033,Part-Time,Active,163210,4.1,Meets,2025-09-03,CC145,Singapore
+EMP00490,David Baker,Prefer not to say,Asian,43,Design,Associate,L7,Chicago,2015-04-20,4.82,MGR0001,Part-Time,Active,80777,8.2,Does Not Meet,2025-06-08,CC572,India
+EMP00491,Hannah Carter,Female,Not disclosed,50,Marketing,Specialist,L7,Seattle,2015-12-05,10.11,MGR0011,Full-Time,Leave,71349,4.4,Exceeds,2025-12-29,CC859,Brazil
+EMP00492,David Carter,Male,Not disclosed,39,Marketing,Specialist,L3,Austin,2016-11-20,2.68,MGR0003,Full-Time,Active,57518,20.9,Exceeds,2024-05-18,CC806,Germany
+EMP00493,Maria Green,Male,White,46,HR,Senior Manager,L3,Chicago,2019-12-24,2.48,MGR0002,Part-Time,Active,48816,8.4,Meets,2020-09-15,CC325,India
+EMP00494,Kevin Martinez,Female,White,48,Customer Success,Senior Analyst,L7,Boston,2023-12-09,3.94,MGR0041,Full-Time,Leave,99295,23.4,Does Not Meet,2024-10-18,CC223,Canada
+EMP00495,Carlos Hernandez,Non-binary,Hispanic,22,Legal,VP,L1,Denver,2017-05-25,2.63,MGR0015,Full-Time,Active,215379,15.6,Exceeds,2020-10-02,CC323,Brazil
+EMP00496,Jasmine Green,Prefer not to say,White,56,IT,Manager,L3,San Francisco,2018-05-20,7.24,MGR0041,Part-Time,Active,132044,4.4,Partially Meets,2025-05-28,CC169,Australia
+EMP00497,Diego Scott,Prefer not to say,Asian,54,Data Science,Senior Manager,L5,Remote,2015-03-14,8.49,MGR0001,Full-Time,Active,206572,19.0,Exceeds,2023-06-19,CC342,Brazil
+EMP00498,Isabella Adams,Male,White,30,Operations,Specialist,L3,Chicago,2023-06-29,1.9,MGR0014,Full-Time,Active,201781,24.7,Does Not Meet,2023-09-08,CC237,Germany
+EMP00499,Ananya Garcia,Prefer not to say,Not disclosed,40,Engineering,Senior Manager,L7,Boston,2018-07-24,4.18,MGR0014,Full-Time,Active,103312,15.2,Does Not Meet,2025-11-05,CC429,UK
+EMP00500,Chris Singh,Male,Asian,26,HR,Analyst,L6,Austin,2019-12-17,11.27,MGR0009,Full-Time,Active,200354,13.7,Meets,2022-08-25,CC619,India
+EMP00501,Tariq Thomas,Non-binary,Hispanic,34,HR,Associate,L2,Remote,2019-10-12,3.06,MGR0019,Part-Time,Active,116266,21.6,Does Not Meet,2020-11-23,CC468,Brazil
+EMP00502,Liam Walker,Prefer not to say,Asian,54,IT,Associate,L7,Austin,2019-03-28,9.85,MGR0031,Full-Time,Active,157039,21.4,Partially Meets,2026-01-09,CC256,UK
+EMP00503,Jake Thomas,Non-binary,Asian,40,Legal,Lead,L5,Atlanta,2017-11-19,0.96,MGR0009,Part-Time,Active,85560,22.9,Exceeds,2020-02-22,CC982,Australia
+EMP00504,Nina Ahmed,Prefer not to say,Not disclosed,45,Legal,Specialist,L3,Remote,2020-07-05,0.95,MGR0003,Full-Time,Active,193270,4.1,Does Not Meet,2022-11-11,CC889,Australia
+EMP00505,Ingrid Harris,Non-binary,Not disclosed,25,Data Science,Associate,L4,Chicago,2020-09-18,2.98,MGR0003,Part-Time,Active,219502,16.1,Partially Meets,2025-02-08,CC797,UK
+EMP00506,Isabella Green,Female,White,29,Sales,Associate,L4,Remote,2017-11-07,11.69,MGR0006,Full-Time,Active,88469,20.7,Partially Meets,2023-05-22,CC612,Brazil
+EMP00507,Amara Turner,Prefer not to say,Not disclosed,27,Sales,Principal,L7,Boston,2021-07-28,9.79,MGR0018,Full-Time,Active,125766,0.2,Meets,2025-07-07,CC101,India
+EMP00508,Jasmine Perez,Prefer not to say,Two or more races,48,Data Science,Director,L6,Denver,2015-10-14,2.13,MGR0024,Full-Time,Active,96909,12.2,Exceeds,2025-01-19,CC680,Canada
+EMP00509,Arjun Lee,Female,Hispanic,38,Legal,Specialist,L6,Remote,2017-01-30,1.4,MGR0041,Full-Time,Active,121841,2.1,Exceeds,2023-02-07,CC165,Australia
+EMP00510,Nadia Ivanov,Prefer not to say,Asian,28,Engineering,Analyst,L3,New York,2015-05-02,8.02,MGR0003,Full-Time,Active,181926,19.8,Does Not Meet,2025-10-31,CC879,Germany
+EMP00511,Yuki Walker,Non-binary,Two or more races,49,Operations,VP,L6,Boston,2025-06-14,11.99,MGR0016,Part-Time,Active,144204,15.3,Partially Meets,2023-09-14,CC925,India
+EMP00512,Elena Perez,Prefer not to say,Not disclosed,30,Engineering,Principal,L1,Dallas,2015-01-13,3.43,MGR0045,Full-Time,Active,163467,15.5,Does Not Meet,2025-10-10,CC523,Canada
+EMP00513,Chris Sharma,Male,Not disclosed,45,Engineering,VP,L6,Atlanta,2015-01-13,2.88,MGR0032,Part-Time,Leave,66330,8.7,Does Not Meet,2021-02-15,CC851,Brazil
+EMP00514,Diego Smith,Female,Two or more races,58,Design,Lead,L1,Austin,2018-04-18,6.03,MGR0006,Part-Time,Leave,167369,4.2,Does Not Meet,2021-04-18,CC593,Canada
+EMP00515,Zara Martinez,Male,White,49,Design,Analyst,L2,Boston,2017-09-23,10.84,MGR0050,Part-Time,Active,112535,16.6,Exceeds,2021-07-10,CC647,Singapore
+EMP00516,Marcus Taylor,Female,Two or more races,60,Sales,VP,L4,Denver,2016-01-06,7.88,MGR0036,Part-Time,Active,103602,6.5,Partially Meets,2020-12-25,CC214,India
+EMP00517,Mia Scott,Female,Not disclosed,29,IT,VP,L2,Boston,2018-10-25,11.45,MGR0037,Full-Time,Active,61222,14.8,Meets,2024-05-08,CC533,Australia
+EMP00518,Sara Mitchell,Female,Two or more races,60,IT,Senior Manager,L1,Denver,2023-08-26,0.21,MGR0030,Part-Time,Active,122810,20.9,Does Not Meet,2025-02-09,CC250,Germany
+EMP00519,Mia Carter,Male,Two or more races,42,Finance,Lead,L6,San Francisco,2016-08-20,3.35,MGR0046,Part-Time,Active,174767,7.3,Does Not Meet,2020-08-28,CC929,Australia
+EMP00520,Ingrid Ali,Female,Not disclosed,25,Marketing,Specialist,L6,Denver,2016-09-17,3.66,MGR0043,Full-Time,Active,188639,9.8,Does Not Meet,2025-04-23,CC456,Brazil
+EMP00521,David Hall,Non-binary,Black or African American,34,Design,Lead,L4,San Francisco,2019-05-21,1.66,MGR0049,Full-Time,Active,164939,16.4,Meets,2024-12-14,CC812,Singapore
+EMP00522,Fatima Ali,Female,Not disclosed,34,Design,Analyst,L3,Remote,2018-04-07,1.31,MGR0010,Part-Time,Active,89098,23.1,Exceeds,2023-12-27,CC585,UK
+EMP00523,Emma Lewis,Non-binary,Two or more races,49,Marketing,Associate,L2,New York,2015-08-03,1.51,MGR0026,Part-Time,Active,201278,23.9,Does Not Meet,2021-01-02,CC896,Singapore
+EMP00524,Ananya Jackson,Non-binary,Not disclosed,50,Operations,Analyst,L1,San Francisco,2024-09-12,1.08,MGR0032,Full-Time,Active,198839,14.3,Does Not Meet,2023-01-26,CC810,India
+EMP00525,Nadia Nguyen,Prefer not to say,Asian,49,Finance,Principal,L2,San Francisco,2023-11-28,3.97,MGR0046,Full-Time,Active,50176,9.8,Does Not Meet,2020-09-18,CC631,India
+EMP00526,Andre Ali,Male,Hispanic,60,Design,Manager,L1,Dallas,2023-06-14,5.42,MGR0021,Full-Time,Active,78768,14.4,Meets,2020-12-25,CC675,Germany
+EMP00527,Andre Garcia,Male,White,54,Finance,VP,L5,Austin,2024-07-19,5.13,MGR0043,Full-Time,Active,123800,1.2,Partially Meets,2025-12-27,CC555,UK
+EMP00528,Yuki Perez,Non-binary,Two or more races,44,IT,Lead,L5,Chicago,2021-06-21,8.29,MGR0043,Full-Time,Active,54629,4.7,Partially Meets,2022-05-31,CC237,Canada
+EMP00529,Omar Andersen,Female,Not disclosed,61,Legal,Senior Analyst,L5,Seattle,2021-08-20,3.2,MGR0042,Full-Time,Active,164555,2.1,Partially Meets,2024-10-08,CC811,UK
+EMP00530,Zara Chen,Non-binary,Not disclosed,34,Design,VP,L5,Dallas,2021-01-04,7.3,MGR0027,Full-Time,Active,158672,9.5,Meets,2020-11-13,CC376,India
+EMP00531,Emma Mitchell,Prefer not to say,White,43,Data Science,Senior Analyst,L3,Boston,2020-12-16,9.36,MGR0010,Full-Time,Active,47585,2.4,Meets,2024-03-30,CC207,India
+EMP00532,Layla Turner,Non-binary,Two or more races,53,Sales,Lead,L3,Remote,2016-12-20,10.4,MGR0036,Part-Time,Leave,70969,22.4,Meets,2023-07-26,CC869,Brazil
+EMP00533,Omar Mitchell,Prefer not to say,Asian,59,Marketing,Director,L1,Dallas,2017-01-10,8.59,MGR0043,Full-Time,Active,144300,14.2,Partially Meets,2020-08-04,CC842,Australia
+EMP00534,Jasmine Ivanov,Prefer not to say,Not disclosed,51,Marketing,Specialist,L3,Atlanta,2022-12-07,6.08,MGR0018,Part-Time,Leave,104969,7.6,Exceeds,2023-06-05,CC516,Australia
+EMP00535,Aisha Baker,Male,White,37,Sales,Manager,L5,New York,2024-06-24,1.11,MGR0019,Part-Time,Active,156144,16.9,Meets,2025-05-18,CC609,India
+EMP00536,Aarav Adams,Female,Not disclosed,22,Design,Associate,L6,Dallas,2019-07-19,9.02,MGR0016,Full-Time,Leave,162611,24.1,Meets,2021-12-17,CC176,Australia
+EMP00537,Wei Lewis,Non-binary,White,49,Product,Associate,L2,Boston,2024-05-31,11.64,MGR0022,Full-Time,Leave,75897,7.3,Does Not Meet,2023-04-17,CC371,Canada
+EMP00538,Mia Baker,Prefer not to say,Hispanic,41,Data Science,Lead,L7,New York,2015-01-10,11.23,MGR0040,Part-Time,Active,138256,0.1,Does Not Meet,2023-09-07,CC405,Australia
+EMP00539,Aarav Hernandez,Female,Asian,44,Engineering,Senior Analyst,L4,Atlanta,2016-03-14,2.45,MGR0034,Full-Time,Active,77464,22.8,Exceeds,2021-09-29,CC887,Germany
+EMP00540,Tyler Ferreira,Non-binary,Black or African American,45,Legal,Manager,L5,Seattle,2017-07-15,1.39,MGR0029,Part-Time,Active,81667,8.8,Does Not Meet,2020-01-24,CC467,Canada
+EMP00541,Arjun Costa,Male,Hispanic,47,Legal,VP,L1,Austin,2016-03-29,8.03,MGR0031,Part-Time,Active,155387,12.2,Does Not Meet,2021-06-05,CC432,Brazil
+EMP00542,Tariq Jackson,Female,White,28,Engineering,Manager,L2,Boston,2020-08-17,6.05,MGR0050,Full-Time,Active,134690,10.7,Exceeds,2024-11-14,CC591,Germany
+EMP00543,Yuki Williams,Prefer not to say,Hispanic,61,Marketing,Lead,L2,Chicago,2018-03-01,3.45,MGR0008,Part-Time,Active,219674,20.5,Meets,2025-04-25,CC823,India
+EMP00544,Tariq Lewis,Female,Hispanic,59,Data Science,Manager,L2,San Francisco,2022-11-11,1.67,MGR0003,Part-Time,Active,83327,10.7,Meets,2021-01-07,CC985,USA
+EMP00545,Raj Hall,Non-binary,Not disclosed,62,HR,Senior Manager,L3,Denver,2019-04-07,5.8,MGR0033,Part-Time,Active,124767,2.8,Partially Meets,2023-02-23,CC459,Brazil
+EMP00546,Lucas Lee,Female,White,22,Engineering,VP,L2,Seattle,2017-10-08,5.72,MGR0039,Full-Time,Active,93454,6.3,Does Not Meet,2024-01-29,CC442,Germany
+EMP00547,Carlos Carter,Male,Not disclosed,57,Marketing,VP,L3,Boston,2016-04-01,8.94,MGR0038,Part-Time,Active,215458,6.9,Does Not Meet,2020-12-23,CC208,UK
+EMP00548,Mia Green,Male,White,59,Data Science,Senior Manager,L2,Atlanta,2022-01-22,11.11,MGR0005,Part-Time,Active,169308,24.7,Meets,2025-12-25,CC838,UK
+EMP00549,Wei Smith,Prefer not to say,Two or more races,38,Customer Success,VP,L3,Atlanta,2015-06-29,7.6,MGR0008,Part-Time,Active,171568,10.5,Exceeds,2021-11-14,CC713,Germany
+EMP00550,Wei Costa,Male,Two or more races,25,Design,Senior Manager,L6,Denver,2022-10-24,5.99,MGR0035,Full-Time,Active,159752,18.8,Does Not Meet,2026-04-22,CC898,Brazil
+EMP00551,Diego Andersen,Female,Hispanic,22,Marketing,Principal,L2,Remote,2019-06-30,8.39,MGR0033,Part-Time,Leave,182644,6.5,Meets,2023-04-28,CC825,Germany
+EMP00552,Emma Martinez,Female,White,56,HR,Director,L1,Austin,2021-03-11,11.31,MGR0018,Full-Time,Active,58505,16.1,Meets,2022-05-10,CC647,India
+EMP00553,Ananya Hernandez,Non-binary,Black or African American,27,Design,Lead,L3,Austin,2015-01-06,4.96,MGR0040,Part-Time,Active,60011,15.6,Exceeds,2023-12-27,CC324,Germany
+EMP00554,Rohan Johnson,Male,Not disclosed,46,Data Science,Director,L7,Remote,2016-12-24,6.66,MGR0029,Full-Time,Active,115462,5.1,Does Not Meet,2021-09-29,CC556,Canada
+EMP00555,Tariq Clark,Non-binary,Hispanic,52,Sales,Specialist,L2,Atlanta,2023-03-09,2.3,MGR0012,Full-Time,Leave,173586,23.6,Meets,2023-03-01,CC121,Germany
+EMP00556,Sophia Ferreira,Female,White,31,Sales,Associate,L2,Atlanta,2016-10-29,10.92,MGR0026,Full-Time,Leave,80990,18.2,Exceeds,2021-02-12,CC486,Brazil
+EMP00557,Emma Singh,Male,Hispanic,37,Sales,Director,L2,Remote,2015-03-26,0.26,MGR0001,Full-Time,Leave,133706,21.3,Exceeds,2022-04-08,CC242,Singapore
+EMP00558,Soren Wilson,Female,Black or African American,43,Product,Manager,L2,New York,2023-07-09,6.57,MGR0018,Full-Time,Active,56672,2.6,Partially Meets,2021-02-24,CC623,Brazil
+EMP00559,Aarav Müller,Male,Hispanic,49,Legal,Manager,L3,Seattle,2016-08-03,2.79,MGR0044,Part-Time,Active,173927,4.2,Exceeds,2022-07-08,CC204,Germany
+EMP00560,David Adams,Non-binary,White,45,Sales,Analyst,L5,Austin,2019-01-03,2.22,MGR0034,Part-Time,Leave,92543,17.0,Meets,2023-05-20,CC739,Germany
+EMP00561,Carlos Andersen,Prefer not to say,Not disclosed,45,Finance,Senior Analyst,L7,New York,2018-11-27,10.35,MGR0010,Full-Time,Active,83739,9.8,Does Not Meet,2020-10-02,CC215,Brazil
+EMP00562,Olivia Okafor,Male,Black or African American,30,Marketing,Associate,L3,Boston,2023-02-24,5.98,MGR0031,Part-Time,Leave,211881,8.3,Meets,2024-04-18,CC528,Singapore
+EMP00563,Ryan Harris,Female,Asian,27,IT,Associate,L5,Remote,2021-01-15,9.34,MGR0048,Full-Time,Active,106654,9.0,Meets,2020-03-11,CC471,Singapore
+EMP00564,Emma Lee,Non-binary,Black or African American,30,Finance,Specialist,L2,Dallas,2016-07-01,11.66,MGR0027,Full-Time,Active,103874,1.4,Meets,2021-04-25,CC812,UK
+EMP00565,Tariq Johnson,Prefer not to say,Black or African American,25,Design,Senior Analyst,L6,Remote,2019-03-27,0.98,MGR0039,Full-Time,Active,83505,9.1,Exceeds,2022-09-30,CC178,USA
+EMP00566,Raj Okafor,Female,Asian,30,Design,Lead,L6,Seattle,2021-05-20,5.7,MGR0047,Part-Time,Active,214042,17.4,Partially Meets,2021-03-31,CC259,USA
+EMP00567,Ananya Garcia,Female,Two or more races,32,Engineering,Associate,L7,Denver,2024-11-18,8.19,MGR0030,Part-Time,Leave,176562,7.7,Meets,2024-10-01,CC260,Germany
+EMP00568,Layla Jackson,Female,Not disclosed,35,Legal,Principal,L1,Chicago,2016-01-12,4.77,MGR0048,Full-Time,Active,170151,7.8,Does Not Meet,2024-04-07,CC268,USA
+EMP00569,Sara Nelson,Prefer not to say,Hispanic,39,Sales,Senior Analyst,L1,Boston,2024-01-04,7.28,MGR0022,Full-Time,Active,118978,4.1,Exceeds,2020-09-24,CC316,USA
+EMP00570,Amara Smith,Female,Not disclosed,24,HR,Director,L1,Remote,2023-06-26,6.82,MGR0037,Part-Time,Active,57595,7.9,Partially Meets,2020-02-04,CC465,Germany
+EMP00571,Hassan Smith,Non-binary,Asian,44,Marketing,Senior Analyst,L3,Denver,2019-06-19,10.77,MGR0033,Full-Time,Leave,84370,0.6,Does Not Meet,2025-05-07,CC700,USA
+EMP00572,Liam Okafor,Prefer not to say,White,62,Sales,Senior Manager,L2,Austin,2018-04-03,9.25,MGR0011,Part-Time,Active,79392,8.5,Partially Meets,2024-10-30,CC140,Brazil
+EMP00573,Zara Adams,Male,Hispanic,58,Data Science,Specialist,L1,New York,2017-09-06,1.8,MGR0020,Full-Time,Active,69671,11.4,Meets,2023-04-25,CC265,India
+EMP00574,Soren White,Non-binary,White,26,Marketing,Specialist,L3,Atlanta,2018-02-21,11.74,MGR0049,Part-Time,Active,77497,24.3,Does Not Meet,2020-06-11,CC472,Germany
+EMP00575,Raj Adams,Female,Asian,45,Customer Success,Principal,L3,Boston,2019-07-01,1.09,MGR0027,Part-Time,Active,56187,15.5,Exceeds,2022-09-29,CC816,USA
+EMP00576,Carlos Costa,Prefer not to say,Hispanic,58,Legal,Senior Analyst,L2,Denver,2016-09-25,10.5,MGR0043,Full-Time,Active,167127,11.7,Does Not Meet,2021-03-22,CC187,UK
+EMP00577,Carlos Ferreira,Prefer not to say,Hispanic,47,Operations,Senior Analyst,L3,Boston,2023-03-17,11.96,MGR0032,Full-Time,Active,74969,7.0,Exceeds,2026-02-10,CC259,Singapore
+EMP00578,Chris Ali,Non-binary,Two or more races,24,IT,Associate,L1,Boston,2016-08-19,9.5,MGR0031,Full-Time,Active,100441,21.7,Does Not Meet,2023-01-10,CC358,UK
+EMP00579,Fatima Chen,Non-binary,Asian,27,Finance,Specialist,L7,Denver,2015-12-09,6.34,MGR0043,Part-Time,Active,59088,2.3,Does Not Meet,2023-11-01,CC871,Germany
+EMP00580,Arjun Hernandez,Prefer not to say,Asian,52,Customer Success,Manager,L6,Denver,2016-11-04,4.32,MGR0045,Part-Time,Active,192038,19.6,Meets,2020-11-14,CC840,UK
+EMP00581,Kevin Turner,Non-binary,White,31,Product,Manager,L4,Boston,2018-08-19,1.45,MGR0044,Part-Time,Active,181496,18.1,Does Not Meet,2021-05-29,CC749,Singapore
+EMP00582,Nadia Patel,Male,Hispanic,34,Legal,Lead,L7,Austin,2022-03-02,7.25,MGR0014,Part-Time,Active,95111,24.3,Exceeds,2024-02-25,CC933,Australia
+EMP00583,Amara Robinson,Male,Not disclosed,53,Data Science,Specialist,L4,Denver,2015-03-08,4.29,MGR0035,Part-Time,Leave,133034,2.8,Meets,2025-02-22,CC538,Australia
+EMP00584,Hannah Green,Female,Two or more races,49,Legal,Director,L7,Denver,2016-12-25,7.65,MGR0045,Full-Time,Active,72213,2.2,Exceeds,2024-08-11,CC206,Singapore
+EMP00585,Andre Adams,Male,Not disclosed,50,Customer Success,Principal,L7,New York,2023-05-30,8.05,MGR0027,Full-Time,Active,164178,13.8,Exceeds,2022-03-12,CC976,Singapore
+EMP00586,Omar Thomas,Prefer not to say,Not disclosed,47,Engineering,VP,L7,Chicago,2016-05-24,6.14,MGR0018,Part-Time,Active,153715,16.8,Exceeds,2024-08-25,CC133,USA
+EMP00587,Fatima White,Non-binary,Black or African American,32,IT,Associate,L2,Dallas,2015-04-18,11.68,MGR0013,Part-Time,Active,196480,10.7,Does Not Meet,2021-12-12,CC512,Australia
+EMP00588,Liam Clark,Female,White,30,Customer Success,Senior Analyst,L6,Remote,2020-10-19,9.43,MGR0049,Part-Time,Leave,86694,23.7,Meets,2021-01-16,CC195,USA
+EMP00589,Aarav Baker,Female,White,61,Design,Lead,L1,Remote,2019-11-27,4.65,MGR0048,Full-Time,Active,211320,15.8,Partially Meets,2022-02-03,CC345,Canada
+EMP00590,Arjun Young,Female,Not disclosed,46,Finance,Analyst,L3,San Francisco,2018-05-01,11.23,MGR0041,Full-Time,Leave,72110,2.8,Exceeds,2021-03-14,CC245,Germany
+EMP00591,Sophia Williams,Male,Asian,45,HR,Associate,L1,Atlanta,2017-12-09,9.57,MGR0027,Full-Time,Active,209018,1.9,Does Not Meet,2024-03-17,CC421,Singapore
+EMP00592,Liam Nguyen,Non-binary,White,33,Data Science,Principal,L6,Remote,2024-01-25,10.27,MGR0008,Part-Time,Active,171854,24.9,Exceeds,2021-10-10,CC634,Germany
+EMP00593,Emma Smith,Male,Two or more races,23,Customer Success,Lead,L7,Austin,2025-05-23,2.67,MGR0024,Full-Time,Active,52732,8.2,Meets,2020-12-07,CC845,UK
+EMP00594,Olivia Walker,Female,White,44,Design,Lead,L6,Seattle,2018-01-01,5.66,MGR0032,Part-Time,Leave,149842,23.1,Partially Meets,2021-12-09,CC302,Germany
+EMP00595,Carlos Scott,Non-binary,Hispanic,35,Design,Specialist,L4,Atlanta,2019-05-29,5.14,MGR0048,Part-Time,Active,208292,2.7,Does Not Meet,2024-10-24,CC304,Australia
+EMP00596,Chris Chen,Prefer not to say,Hispanic,24,Customer Success,Director,L5,Denver,2019-03-12,3.59,MGR0042,Part-Time,Active,52848,2.9,Partially Meets,2024-10-24,CC909,UK
+EMP00597,Isabella Chen,Female,Not disclosed,45,Operations,Manager,L7,Boston,2019-01-05,1.56,MGR0021,Full-Time,Active,101039,11.6,Partially Meets,2022-08-10,CC675,India
+EMP00598,Ethan Green,Female,Two or more races,35,Sales,Lead,L3,Remote,2019-04-29,11.36,MGR0043,Full-Time,Leave,214415,10.5,Does Not Meet,2023-07-25,CC932,Australia
+EMP00599,Arjun Lee,Prefer not to say,Asian,24,Finance,Associate,L1,San Francisco,2017-03-22,5.49,MGR0039,Part-Time,Leave,145363,5.9,Exceeds,2023-03-13,CC118,USA
+EMP00600,Elena Costa,Female,Asian,24,Customer Success,Lead,L1,Boston,2025-03-23,7.77,MGR0005,Part-Time,Active,153810,18.1,Partially Meets,2023-07-23,CC871,Australia
+EMP00601,Aisha King,Non-binary,Asian,61,Engineering,Associate,L3,Atlanta,2019-06-28,5.97,MGR0042,Full-Time,Active,206998,2.6,Meets,2020-07-14,CC945,USA
+EMP00602,Carlos Sharma,Prefer not to say,Hispanic,32,Sales,Senior Manager,L6,Boston,2016-07-22,9.81,MGR0035,Full-Time,Active,113075,22.1,Exceeds,2021-03-29,CC149,Germany
+EMP00603,Rohan Taylor,Prefer not to say,Black or African American,32,Marketing,Principal,L4,San Francisco,2015-11-04,1.6,MGR0010,Part-Time,Active,77079,13.0,Meets,2026-06-25,CC589,Singapore
+EMP00604,Lucas Turner,Prefer not to say,Hispanic,27,Finance,Director,L6,San Francisco,2018-02-23,4.3,MGR0016,Full-Time,Active,64698,24.3,Exceeds,2022-05-20,CC113,Canada
+EMP00605,Jake Smith,Prefer not to say,White,43,HR,Principal,L7,Dallas,2020-04-01,6.22,MGR0021,Part-Time,Active,216780,3.8,Exceeds,2021-06-16,CC324,Australia
+EMP00606,Amir Adams,Female,Asian,34,Sales,Director,L4,Austin,2019-04-29,8.27,MGR0037,Full-Time,Active,165836,21.9,Exceeds,2022-09-12,CC116,Singapore
+EMP00607,Olivia Johnson,Prefer not to say,Not disclosed,55,Product,VP,L3,San Francisco,2017-02-05,11.13,MGR0006,Part-Time,Active,100591,3.8,Does Not Meet,2025-09-11,CC441,USA
+EMP00608,Olivia White,Male,White,46,Design,Associate,L2,Seattle,2019-12-13,2.35,MGR0012,Part-Time,Leave,204238,12.3,Does Not Meet,2021-03-23,CC797,USA
+EMP00609,Isabella Kim,Female,White,25,Engineering,Principal,L3,Chicago,2022-04-01,0.88,MGR0007,Part-Time,Active,207587,17.5,Does Not Meet,2024-05-24,CC502,India
+EMP00610,Tariq Perez,Non-binary,Asian,35,Marketing,Senior Manager,L3,Seattle,2017-06-19,8.5,MGR0019,Full-Time,Active,93517,12.6,Does Not Meet,2023-06-04,CC973,Canada
+EMP00611,Lucas Mitchell,Male,Hispanic,33,Operations,Specialist,L2,New York,2016-11-28,8.03,MGR0028,Part-Time,Active,91534,24.4,Exceeds,2021-11-30,CC795,USA
+EMP00612,Omar Walker,Male,Asian,37,Product,Senior Analyst,L1,New York,2021-08-30,6.85,MGR0019,Full-Time,Leave,176896,4.2,Meets,2021-01-19,CC202,Germany
+EMP00613,Mia Taylor,Prefer not to say,Asian,44,Customer Success,Director,L6,Atlanta,2024-01-06,3.12,MGR0030,Full-Time,Active,123940,17.8,Does Not Meet,2021-04-06,CC376,USA
+EMP00614,Raj Müller,Female,Black or African American,53,Engineering,Senior Manager,L5,Denver,2016-08-28,4.38,MGR0048,Full-Time,Active,144032,16.0,Partially Meets,2026-02-09,CC560,UK
+EMP00615,Sofia Hernandez,Non-binary,Asian,59,Legal,Director,L3,Chicago,2017-12-22,0.59,MGR0034,Part-Time,Leave,77233,10.8,Does Not Meet,2026-05-10,CC911,Australia
+EMP00616,Emma Singh,Prefer not to say,Not disclosed,31,Product,Manager,L5,Seattle,2018-03-27,7.52,MGR0043,Full-Time,Active,172618,7.2,Partially Meets,2020-03-04,CC564,USA
+EMP00617,Ethan Scott,Male,White,53,Finance,Analyst,L4,Boston,2017-06-09,7.96,MGR0001,Full-Time,Active,81102,8.8,Partially Meets,2025-08-18,CC781,UK
+EMP00618,Ingrid Andersen,Female,Not disclosed,34,Legal,Principal,L1,Seattle,2015-12-19,2.7,MGR0031,Part-Time,Active,211997,9.7,Does Not Meet,2021-02-05,CC367,Germany
+EMP00619,Amara Nguyen,Prefer not to say,Not disclosed,42,IT,Manager,L6,Chicago,2021-09-11,3.08,MGR0027,Full-Time,Active,124952,2.1,Does Not Meet,2026-02-13,CC287,Brazil
+EMP00620,Chloe Patel,Female,Two or more races,50,Design,VP,L5,Boston,2023-10-10,5.67,MGR0028,Part-Time,Active,152546,11.5,Exceeds,2024-09-20,CC190,UK
+EMP00621,Amara Ivanov,Non-binary,Hispanic,61,Customer Success,Principal,L3,New York,2021-11-24,9.09,MGR0026,Full-Time,Active,46560,11.6,Does Not Meet,2020-08-10,CC186,USA
+EMP00622,Ananya Patel,Non-binary,Two or more races,28,Finance,Principal,L4,Boston,2018-01-11,10.39,MGR0008,Full-Time,Active,180335,3.6,Does Not Meet,2021-07-12,CC328,UK
+EMP00623,Chris Robinson,Male,Asian,61,Design,Senior Manager,L1,San Francisco,2018-05-17,0.1,MGR0039,Full-Time,Leave,70392,6.2,Exceeds,2025-04-24,CC125,Singapore
+EMP00624,Maria Kim,Non-binary,Asian,52,Marketing,Senior Manager,L7,Dallas,2019-05-20,3.2,MGR0040,Part-Time,Leave,77295,10.8,Exceeds,2022-01-26,CC245,Canada
+EMP00625,Hassan Perez,Female,Asian,52,Finance,Director,L6,San Francisco,2016-11-30,11.51,MGR0032,Part-Time,Active,147547,9.6,Exceeds,2025-03-15,CC526,Brazil
+EMP00626,Priya Costa,Prefer not to say,White,58,Legal,Analyst,L5,Seattle,2016-08-29,0.51,MGR0042,Part-Time,Active,137989,24.1,Does Not Meet,2025-02-20,CC383,USA
+EMP00627,Omar Lewis,Female,Black or African American,55,Legal,Lead,L1,Austin,2016-10-10,7.91,MGR0023,Part-Time,Active,81710,7.0,Partially Meets,2024-06-01,CC169,Singapore
+EMP00628,Tyler Green,Female,Two or more races,54,Data Science,Lead,L3,Austin,2019-03-23,8.4,MGR0038,Part-Time,Leave,206867,20.7,Exceeds,2020-07-03,CC130,UK
+EMP00629,Carlos Carter,Male,Asian,52,Operations,Senior Manager,L7,Chicago,2017-08-07,1.35,MGR0012,Part-Time,Active,61874,1.5,Partially Meets,2021-04-13,CC138,India
+EMP00630,Andre White,Male,Hispanic,42,Sales,Specialist,L4,Austin,2019-12-14,11.87,MGR0037,Full-Time,Active,111190,12.3,Partially Meets,2022-07-12,CC306,UK
+EMP00631,Layla Smith,Male,Two or more races,23,Data Science,Senior Analyst,L2,New York,2019-11-13,9.74,MGR0001,Part-Time,Active,193975,13.7,Exceeds,2023-10-27,CC289,Singapore
+EMP00632,Zara Wright,Prefer not to say,Two or more races,44,Operations,Principal,L5,Austin,2017-02-17,9.64,MGR0029,Part-Time,Active,63577,14.2,Meets,2025-10-19,CC405,India
+EMP00633,Yuki Müller,Male,Two or more races,56,Operations,Analyst,L2,Seattle,2016-04-28,11.08,MGR0017,Part-Time,Active,62813,21.8,Meets,2023-03-25,CC176,Canada
+EMP00634,Layla Adams,Non-binary,Asian,61,Engineering,Lead,L6,San Francisco,2024-07-26,7.03,MGR0017,Full-Time,Active,133616,10.5,Meets,2023-10-02,CC883,USA
+EMP00635,Zara King,Non-binary,Not disclosed,25,HR,Specialist,L1,Remote,2016-07-24,10.86,MGR0045,Full-Time,Active,63550,23.7,Exceeds,2026-03-08,CC590,UK
+EMP00636,Tariq Garcia,Male,White,53,Customer Success,Senior Manager,L6,Boston,2018-01-13,5.24,MGR0020,Full-Time,Active,59511,0.7,Meets,2025-12-28,CC722,Brazil
+EMP00637,Sofia Johnson,Prefer not to say,White,46,Legal,Manager,L4,Denver,2022-08-25,6.64,MGR0008,Part-Time,Active,206389,24.6,Partially Meets,2023-12-11,CC298,Australia
+EMP00638,Maria Ivanov,Female,White,59,Engineering,Senior Manager,L4,Dallas,2019-11-24,6.86,MGR0001,Full-Time,Active,65083,1.4,Does Not Meet,2022-01-09,CC389,USA
+EMP00639,Omar Green,Female,Black or African American,30,IT,Associate,L4,San Francisco,2018-07-10,7.91,MGR0005,Part-Time,Leave,98965,12.4,Partially Meets,2022-06-21,CC554,Germany
+EMP00640,Sara King,Non-binary,Not disclosed,37,Customer Success,Director,L3,Dallas,2025-07-23,6.09,MGR0004,Part-Time,Active,208019,12.2,Exceeds,2022-04-13,CC240,Canada
+EMP00641,Mia King,Female,White,45,Design,Manager,L1,Chicago,2018-06-03,8.41,MGR0042,Part-Time,Active,50580,12.5,Exceeds,2023-01-12,CC384,Brazil
+EMP00642,Aisha Lee,Non-binary,Two or more races,46,Product,Analyst,L7,Denver,2018-05-15,4.68,MGR0003,Full-Time,Active,144438,4.6,Does Not Meet,2025-12-21,CC153,Germany
+EMP00643,Ryan Hernandez,Male,Two or more races,43,Finance,Principal,L2,New York,2015-05-09,4.16,MGR0040,Part-Time,Active,59973,20.2,Does Not Meet,2023-03-23,CC979,Singapore
+EMP00644,Soren Turner,Non-binary,Hispanic,46,Product,Senior Manager,L2,New York,2019-10-03,3.44,MGR0044,Part-Time,Active,110518,19.3,Partially Meets,2023-10-14,CC684,Brazil
+EMP00645,Leila Andersen,Non-binary,Black or African American,38,Data Science,Principal,L1,San Francisco,2015-06-08,3.75,MGR0043,Part-Time,Active,91867,11.1,Exceeds,2024-12-06,CC109,Singapore
+EMP00646,Omar Walker,Female,Asian,25,IT,Senior Analyst,L3,Remote,2015-06-01,6.66,MGR0005,Part-Time,Active,112634,19.1,Partially Meets,2022-11-29,CC989,Singapore
+EMP00647,Noah Baker,Female,Hispanic,61,Data Science,Analyst,L2,San Francisco,2016-06-05,7.89,MGR0012,Part-Time,Leave,128187,1.0,Meets,2020-09-06,CC831,Germany
+EMP00648,Priya Mitchell,Non-binary,Two or more races,24,IT,Senior Manager,L3,San Francisco,2017-11-20,1.02,MGR0029,Full-Time,Leave,65303,5.9,Partially Meets,2026-05-25,CC480,Brazil
+EMP00649,Ananya Clark,Non-binary,Hispanic,23,Operations,Principal,L7,Boston,2015-10-20,4.09,MGR0027,Part-Time,Active,122086,15.5,Meets,2024-02-17,CC145,Germany
+EMP00650,Fatima Scott,Male,White,60,HR,VP,L5,Dallas,2025-06-07,9.42,MGR0046,Part-Time,Active,144310,20.8,Exceeds,2021-09-06,CC490,India
+EMP00651,Noah Wright,Prefer not to say,Two or more races,29,Customer Success,Analyst,L5,Atlanta,2015-11-13,7.94,MGR0034,Part-Time,Active,115564,4.9,Partially Meets,2022-09-26,CC436,Canada
+EMP00652,Jasmine White,Female,Asian,42,Design,Senior Analyst,L6,Chicago,2023-12-17,5.4,MGR0027,Part-Time,Active,137270,14.0,Exceeds,2024-01-23,CC769,Singapore
+EMP00653,Noah Wilson,Prefer not to say,Hispanic,58,Marketing,Lead,L2,Denver,2021-10-14,8.12,MGR0043,Full-Time,Leave,113230,19.9,Partially Meets,2023-07-09,CC220,India
+EMP00654,Raj Lewis,Female,Two or more races,53,Data Science,Senior Manager,L2,Atlanta,2019-08-01,0.28,MGR0008,Part-Time,Active,190379,17.8,Does Not Meet,2021-02-17,CC229,USA
+EMP00655,Chloe Johnson,Female,White,30,Customer Success,Lead,L4,Denver,2024-05-08,4.32,MGR0026,Full-Time,Active,76202,8.4,Partially Meets,2021-03-17,CC839,USA
+EMP00656,Mia Hernandez,Prefer not to say,Asian,62,Product,Associate,L3,Atlanta,2015-10-30,8.43,MGR0047,Full-Time,Leave,178529,2.1,Exceeds,2024-02-24,CC790,Singapore
+EMP00657,Lucas Wilson,Female,Two or more races,59,Finance,Senior Analyst,L2,Seattle,2019-04-03,5.97,MGR0004,Part-Time,Active,129620,9.6,Meets,2021-08-09,CC142,Canada
+EMP00658,Layla Andersen,Non-binary,White,44,Finance,Manager,L1,Seattle,2019-10-30,3.36,MGR0029,Full-Time,Active,120622,23.5,Partially Meets,2021-03-10,CC337,Germany
+EMP00659,Carlos Ali,Female,White,60,Engineering,Lead,L5,Chicago,2016-07-31,0.18,MGR0002,Part-Time,Active,118882,23.5,Does Not Meet,2024-12-27,CC633,UK
+EMP00660,Elena Costa,Male,Not disclosed,29,Product,Associate,L4,Seattle,2024-04-26,1.13,MGR0009,Part-Time,Active,137725,20.1,Meets,2020-10-31,CC434,UK
+EMP00661,Mei Andersen,Prefer not to say,Not disclosed,54,Data Science,Senior Analyst,L6,Boston,2020-09-07,10.72,MGR0003,Part-Time,Active,181654,7.9,Exceeds,2020-02-02,CC351,UK
+EMP00662,Jake Müller,Female,Black or African American,52,Marketing,Specialist,L7,Austin,2021-07-29,8.83,MGR0019,Full-Time,Active,211401,21.9,Meets,2020-01-14,CC544,India
+EMP00663,Hannah Adams,Female,Not disclosed,33,Engineering,Associate,L6,Seattle,2020-07-02,7.4,MGR0041,Full-Time,Active,171938,13.3,Meets,2023-05-14,CC960,Canada
+EMP00664,Ethan Carter,Prefer not to say,Asian,62,Legal,Principal,L3,Dallas,2024-10-24,5.82,MGR0007,Full-Time,Active,120306,10.5,Does Not Meet,2023-08-25,CC353,Brazil
+EMP00665,Sophia Thomas,Non-binary,Not disclosed,29,Operations,Associate,L6,Austin,2016-04-19,9.31,MGR0031,Part-Time,Leave,153004,17.2,Exceeds,2023-04-06,CC374,Canada
+EMP00666,Raj Lee,Non-binary,Black or African American,42,Legal,Associate,L7,Atlanta,2024-12-23,5.16,MGR0017,Full-Time,Active,172272,18.2,Partially Meets,2020-07-05,CC415,Singapore
+EMP00667,Noah Wright,Female,Two or more races,35,Data Science,Senior Analyst,L5,Remote,2019-08-06,4.02,MGR0039,Full-Time,Active,144401,2.3,Partially Meets,2023-12-15,CC885,India
+EMP00668,Maria Hall,Female,Black or African American,56,HR,Manager,L7,Dallas,2022-05-06,4.81,MGR0046,Full-Time,Active,87311,22.8,Partially Meets,2024-08-20,CC320,Canada
+EMP00669,Aarav Garcia,Male,Two or more races,28,Customer Success,Associate,L7,Atlanta,2025-07-17,0.6,MGR0019,Part-Time,Active,105294,15.8,Meets,2020-05-18,CC378,India
+EMP00670,Jake Nelson,Prefer not to say,Hispanic,39,Sales,Senior Analyst,L1,Dallas,2024-02-13,8.69,MGR0049,Part-Time,Active,48864,18.6,Meets,2021-01-26,CC853,Brazil
+EMP00671,Diego Robinson,Non-binary,Asian,54,Design,Analyst,L3,Seattle,2017-03-06,5.56,MGR0007,Part-Time,Leave,168574,9.4,Does Not Meet,2021-01-16,CC327,Brazil
+EMP00672,Olivia Walker,Non-binary,Not disclosed,56,Customer Success,Senior Manager,L4,New York,2021-04-16,11.92,MGR0047,Part-Time,Active,188283,17.9,Does Not Meet,2022-07-06,CC691,USA
+EMP00673,Jasmine Müller,Prefer not to say,Black or African American,52,IT,Senior Analyst,L6,Seattle,2019-06-16,4.06,MGR0041,Full-Time,Active,192032,4.2,Does Not Meet,2022-10-20,CC185,UK
+EMP00674,Leila Walker,Female,White,53,Finance,Associate,L3,Boston,2019-07-10,10.03,MGR0003,Part-Time,Leave,201953,10.2,Exceeds,2023-01-03,CC806,Canada
+EMP00675,Hannah Harris,Prefer not to say,Black or African American,37,Operations,Specialist,L6,Atlanta,2023-06-20,6.22,MGR0048,Full-Time,Active,156595,17.5,Does Not Meet,2021-06-05,CC875,USA
+EMP00676,Layla Kim,Female,Hispanic,50,Sales,Analyst,L4,Atlanta,2016-10-25,2.13,MGR0034,Part-Time,Active,188415,10.5,Exceeds,2023-04-30,CC220,Brazil
+EMP00677,Tariq Mitchell,Non-binary,Two or more races,42,IT,VP,L5,Austin,2018-04-20,1.78,MGR0034,Full-Time,Leave,142321,13.0,Partially Meets,2025-04-17,CC573,Canada
+EMP00678,Mei Turner,Female,Hispanic,55,Design,Specialist,L1,Boston,2025-07-01,5.05,MGR0010,Part-Time,Active,46468,7.8,Meets,2022-03-27,CC810,India
+EMP00679,Elena Taylor,Male,White,61,Product,Principal,L2,San Francisco,2021-01-11,4.27,MGR0036,Full-Time,Active,209841,0.4,Meets,2023-01-29,CC391,Brazil
+EMP00680,Tariq Robinson,Non-binary,Two or more races,47,Finance,Lead,L5,Chicago,2021-07-21,1.02,MGR0010,Full-Time,Active,118396,4.5,Exceeds,2021-06-02,CC916,Brazil
+EMP00681,Soren Scott,Non-binary,Not disclosed,61,Data Science,Specialist,L2,Austin,2018-09-14,0.13,MGR0015,Full-Time,Active,206198,3.7,Meets,2025-05-01,CC995,USA
+EMP00682,David Lee,Female,Two or more races,50,Legal,Specialist,L3,Seattle,2018-08-17,6.05,MGR0008,Full-Time,Leave,148087,9.4,Does Not Meet,2025-04-27,CC463,Germany
+EMP00683,Layla Sharma,Male,Two or more races,35,Marketing,Director,L6,Austin,2024-05-28,10.09,MGR0036,Part-Time,Active,110677,17.1,Does Not Meet,2023-11-27,CC282,USA
+EMP00684,Sara Thomas,Non-binary,Not disclosed,49,HR,Principal,L5,Chicago,2024-09-17,4.65,MGR0012,Full-Time,Active,160888,9.0,Meets,2020-01-23,CC700,Germany
+EMP00685,Carlos White,Non-binary,Two or more races,22,IT,Director,L1,Seattle,2018-09-07,7.74,MGR0026,Full-Time,Active,116873,15.6,Exceeds,2025-04-12,CC722,Singapore
+EMP00686,Sophia Walker,Male,White,45,Engineering,Principal,L6,Austin,2020-07-01,8.5,MGR0012,Full-Time,Active,154988,20.9,Exceeds,2020-08-17,CC554,USA
+EMP00687,Carlos Young,Non-binary,Hispanic,61,Design,Analyst,L3,Boston,2018-07-11,10.78,MGR0011,Part-Time,Leave,48714,23.5,Does Not Meet,2024-09-01,CC957,USA
+EMP00688,Arjun Lewis,Female,Not disclosed,39,Sales,Manager,L4,New York,2015-09-24,3.38,MGR0013,Part-Time,Active,211540,18.7,Exceeds,2023-06-28,CC380,Australia
+EMP00689,Mei Thomas,Male,Two or more races,51,Sales,Senior Analyst,L1,Austin,2016-04-27,8.78,MGR0012,Part-Time,Leave,209265,24.1,Meets,2020-02-12,CC322,Australia
+EMP00690,Aisha Turner,Female,Black or African American,34,Design,Manager,L3,New York,2020-02-29,4.61,MGR0019,Full-Time,Active,81811,14.1,Does Not Meet,2022-07-14,CC955,Canada
+EMP00691,Arjun Nguyen,Non-binary,Black or African American,50,Finance,Senior Analyst,L4,Boston,2018-01-22,6.99,MGR0023,Part-Time,Active,54628,23.7,Does Not Meet,2021-09-29,CC650,Canada
+EMP00692,Chloe Hernandez,Non-binary,Hispanic,43,Design,Lead,L5,Seattle,2022-11-16,1.18,MGR0050,Full-Time,Active,102214,11.7,Exceeds,2021-04-17,CC629,UK
+EMP00693,Wei Thomas,Non-binary,Black or African American,58,Legal,Principal,L1,Boston,2020-04-30,8.45,MGR0041,Part-Time,Active,86615,10.5,Partially Meets,2023-10-11,CC763,India
+EMP00694,Omar Robinson,Female,Asian,56,Marketing,Analyst,L4,Remote,2017-02-05,5.53,MGR0037,Part-Time,Active,169144,20.9,Partially Meets,2024-03-08,CC715,Australia
+EMP00695,Sofia Ferreira,Non-binary,White,36,Customer Success,Senior Analyst,L4,Denver,2020-05-30,9.31,MGR0037,Part-Time,Leave,52485,4.1,Meets,2023-05-16,CC711,Canada
+EMP00696,Andre Brown,Female,Not disclosed,43,Engineering,Senior Analyst,L3,Austin,2021-05-15,9.64,MGR0030,Part-Time,Active,165740,0.0,Meets,2022-03-31,CC276,Germany
+EMP00697,Aisha Nguyen,Female,Hispanic,49,Sales,Senior Manager,L2,Dallas,2018-06-13,10.16,MGR0024,Full-Time,Active,86767,8.6,Does Not Meet,2026-03-02,CC803,Brazil
+EMP00698,Zara Walker,Prefer not to say,Asian,37,Sales,Associate,L2,Boston,2022-11-02,9.18,MGR0009,Part-Time,Active,119237,20.5,Does Not Meet,2024-06-01,CC646,India
+EMP00699,Yuki Carter,Male,Hispanic,60,Marketing,Senior Manager,L3,Boston,2018-11-21,4.14,MGR0001,Part-Time,Active,214234,5.8,Does Not Meet,2022-02-08,CC145,Canada
+EMP00700,Chloe Williams,Non-binary,Asian,33,Legal,Manager,L3,Seattle,2018-05-21,4.7,MGR0031,Full-Time,Active,155555,4.5,Does Not Meet,2025-10-20,CC954,India
+EMP00701,Aisha Hernandez,Male,Not disclosed,47,Engineering,Manager,L3,Austin,2020-03-19,6.94,MGR0025,Part-Time,Active,172438,16.3,Does Not Meet,2024-09-26,CC889,USA
+EMP00702,Chloe Nakamura,Male,Two or more races,50,Customer Success,VP,L7,Atlanta,2018-05-25,8.57,MGR0035,Part-Time,Active,91881,24.5,Does Not Meet,2020-11-23,CC253,USA
+EMP00703,Ingrid Scott,Non-binary,Hispanic,54,IT,Specialist,L4,New York,2018-10-12,5.63,MGR0003,Full-Time,Active,165651,9.2,Partially Meets,2022-10-30,CC535,Australia
+EMP00704,Ethan Johnson,Non-binary,Hispanic,40,Operations,Associate,L1,Atlanta,2022-07-27,3.96,MGR0041,Full-Time,Leave,74277,8.9,Exceeds,2025-12-16,CC856,Brazil
+EMP00705,Sophia Williams,Male,Hispanic,31,Data Science,Specialist,L4,Seattle,2017-10-15,4.21,MGR0030,Full-Time,Leave,194177,11.5,Exceeds,2023-08-30,CC481,USA
+EMP00706,Diego Turner,Male,Asian,54,Design,Senior Analyst,L3,Seattle,2016-08-24,5.13,MGR0002,Full-Time,Active,216152,18.6,Exceeds,2024-11-10,CC219,Canada
+EMP00707,Rohan Robinson,Female,Not disclosed,25,Operations,Principal,L4,Chicago,2021-05-27,9.15,MGR0028,Part-Time,Active,117575,12.5,Exceeds,2024-06-20,CC285,Germany
+EMP00708,Aarav Ahmed,Female,White,48,Data Science,Manager,L3,Seattle,2018-01-21,5.6,MGR0041,Part-Time,Active,103018,5.6,Partially Meets,2022-06-24,CC165,Germany
+EMP00709,Ingrid Green,Prefer not to say,Two or more races,48,Data Science,Principal,L3,Dallas,2023-03-02,4.73,MGR0036,Full-Time,Active,134285,8.0,Does Not Meet,2021-09-13,CC573,Singapore
+EMP00710,Ryan Perez,Female,Not disclosed,46,Finance,Associate,L1,Remote,2017-05-12,11.62,MGR0041,Part-Time,Leave,135518,2.1,Partially Meets,2023-05-30,CC398,Australia
+EMP00711,Sofia Thomas,Male,Hispanic,61,IT,Manager,L5,Boston,2020-01-24,6.82,MGR0027,Full-Time,Active,190867,18.6,Meets,2024-03-17,CC650,UK
+EMP00712,Diego Kim,Male,Asian,35,HR,Senior Analyst,L5,Seattle,2019-03-31,2.23,MGR0011,Part-Time,Leave,152090,8.8,Meets,2024-09-08,CC713,Germany
+EMP00713,Jasmine White,Male,Not disclosed,62,Data Science,VP,L5,Dallas,2018-08-01,6.44,MGR0015,Part-Time,Active,166612,7.2,Does Not Meet,2021-10-04,CC994,UK
+EMP00714,Ethan Singh,Non-binary,Asian,33,Data Science,Senior Analyst,L4,Remote,2019-06-27,7.87,MGR0027,Part-Time,Active,211832,0.7,Meets,2021-07-21,CC724,India
+EMP00715,Soren Turner,Prefer not to say,White,42,IT,Senior Manager,L2,Remote,2021-09-21,7.54,MGR0044,Full-Time,Active,50955,18.6,Does Not Meet,2026-03-11,CC623,Canada
+EMP00716,Liam Thomas,Non-binary,Not disclosed,37,Marketing,Specialist,L6,Chicago,2024-07-14,3.94,MGR0019,Full-Time,Active,99265,14.4,Does Not Meet,2022-09-30,CC800,Singapore
+EMP00717,Sophia Thomas,Male,Two or more races,43,Marketing,Senior Manager,L4,San Francisco,2017-09-17,0.18,MGR0003,Part-Time,Leave,168262,21.6,Exceeds,2024-09-04,CC366,India
+EMP00718,Jasmine Green,Male,Asian,52,Design,Analyst,L3,Denver,2023-01-10,9.96,MGR0047,Full-Time,Active,149708,17.9,Does Not Meet,2024-10-21,CC906,India
+EMP00719,Fatima Nakamura,Male,Not disclosed,32,Operations,Associate,L6,Boston,2016-02-29,1.79,MGR0016,Part-Time,Active,114339,2.4,Exceeds,2025-02-19,CC826,Singapore
+EMP00720,Isabella Nakamura,Non-binary,Black or African American,50,Operations,Specialist,L6,Seattle,2023-06-10,6.86,MGR0039,Full-Time,Active,83803,13.0,Exceeds,2022-06-24,CC479,Australia
+EMP00721,Ethan Robinson,Female,Two or more races,62,Finance,Specialist,L6,Atlanta,2023-01-02,8.11,MGR0010,Full-Time,Active,204239,7.3,Does Not Meet,2022-11-19,CC752,Canada
+EMP00722,Zara Scott,Non-binary,Hispanic,59,Engineering,Director,L3,Dallas,2015-04-25,8.97,MGR0034,Part-Time,Active,207125,22.5,Partially Meets,2021-09-30,CC701,Australia
+EMP00723,Sara Jackson,Prefer not to say,Not disclosed,32,Customer Success,Specialist,L2,Atlanta,2020-11-13,10.78,MGR0001,Full-Time,Active,103936,7.7,Meets,2021-09-06,CC384,India
+EMP00724,Arjun Hernandez,Prefer not to say,Asian,58,Data Science,Analyst,L7,Dallas,2022-04-16,10.79,MGR0048,Full-Time,Active,219127,0.8,Exceeds,2023-09-11,CC619,India
+EMP00725,Hannah Young,Male,White,50,IT,Lead,L2,Chicago,2018-01-16,3.15,MGR0048,Full-Time,Active,104857,17.2,Does Not Meet,2021-12-27,CC141,Germany
+EMP00726,Olivia Williams,Female,Not disclosed,26,Marketing,Lead,L3,New York,2021-03-10,2.57,MGR0016,Part-Time,Active,70760,13.4,Exceeds,2023-07-30,CC908,India
+EMP00727,Tyler Kim,Prefer not to say,White,52,HR,Senior Analyst,L5,Remote,2017-03-15,2.66,MGR0032,Part-Time,Leave,47517,14.5,Exceeds,2024-12-18,CC896,Canada
+EMP00728,Chris Adams,Prefer not to say,White,38,Legal,Principal,L3,Atlanta,2021-08-09,7.61,MGR0022,Part-Time,Leave,119384,23.8,Partially Meets,2022-12-18,CC988,Canada
+EMP00729,Olivia Mitchell,Non-binary,Not disclosed,50,Sales,Manager,L4,New York,2018-10-29,3.9,MGR0033,Part-Time,Active,87763,4.5,Does Not Meet,2023-06-01,CC196,Singapore
+EMP00730,Chris Mitchell,Female,Hispanic,28,HR,Senior Manager,L3,Dallas,2018-11-03,3.73,MGR0050,Part-Time,Active,123659,23.2,Meets,2026-05-27,CC788,UK
+EMP00731,Liam Smith,Prefer not to say,Hispanic,32,IT,Manager,L3,Dallas,2018-08-19,11.78,MGR0042,Part-Time,Active,104958,23.3,Does Not Meet,2023-05-28,CC479,UK
+EMP00732,Mei Turner,Non-binary,Not disclosed,42,Product,Director,L4,Remote,2018-06-08,4.78,MGR0027,Full-Time,Active,59498,24.2,Partially Meets,2021-07-27,CC567,Germany
+EMP00733,Ingrid Smith,Female,Not disclosed,38,Finance,VP,L1,Boston,2015-03-21,5.19,MGR0025,Part-Time,Leave,191793,18.5,Meets,2025-08-22,CC550,Germany
+EMP00734,David Ivanov,Female,Black or African American,52,Design,Principal,L4,New York,2016-03-13,9.4,MGR0025,Part-Time,Active,118437,24.7,Does Not Meet,2020-08-30,CC203,USA
+EMP00735,Mei Andersen,Non-binary,Asian,40,Sales,Specialist,L2,San Francisco,2022-03-04,3.96,MGR0050,Part-Time,Active,84431,14.7,Meets,2026-04-20,CC190,Singapore
+EMP00736,Lucas Wright,Non-binary,Two or more races,55,Finance,Analyst,L2,San Francisco,2017-10-01,10.46,MGR0045,Part-Time,Active,161874,18.7,Meets,2022-01-24,CC428,Singapore
+EMP00737,Elena White,Non-binary,Hispanic,38,Finance,Principal,L6,New York,2017-07-21,1.77,MGR0042,Part-Time,Active,148889,20.2,Exceeds,2025-12-04,CC161,Australia
+EMP00738,Soren Clark,Male,Two or more races,42,Customer Success,Specialist,L3,Remote,2015-03-08,4.07,MGR0005,Full-Time,Leave,69154,24.4,Exceeds,2025-12-18,CC262,India
+EMP00739,Elena Adams,Female,White,49,Finance,Specialist,L4,Austin,2021-06-08,7.84,MGR0005,Full-Time,Leave,134079,11.4,Does Not Meet,2020-03-28,CC511,Germany
+EMP00740,Leila Jackson,Male,White,36,Operations,Associate,L2,Seattle,2015-01-27,10.28,MGR0038,Part-Time,Leave,164997,16.3,Meets,2026-06-10,CC463,UK
+EMP00741,Jasmine Okafor,Female,Black or African American,33,Sales,Analyst,L5,Remote,2017-02-12,11.34,MGR0003,Full-Time,Leave,136362,23.9,Partially Meets,2023-07-15,CC335,Canada
+EMP00742,Amara Martinez,Prefer not to say,Black or African American,36,HR,VP,L1,Austin,2017-04-06,10.54,MGR0029,Full-Time,Active,51664,11.1,Meets,2024-04-07,CC150,Singapore
+EMP00743,Nina Smith,Female,Asian,59,Sales,Senior Analyst,L2,Dallas,2019-12-02,10.97,MGR0047,Full-Time,Active,99955,3.0,Does Not Meet,2024-01-07,CC867,Australia
+EMP00744,Arjun Ali,Male,Two or more races,45,Product,Director,L5,San Francisco,2019-08-28,11.34,MGR0002,Full-Time,Active,155104,10.0,Exceeds,2023-12-23,CC469,Germany
+EMP00745,David Clark,Non-binary,Hispanic,27,Data Science,Associate,L4,New York,2024-05-19,11.42,MGR0018,Part-Time,Active,81893,21.2,Meets,2026-05-01,CC109,UK
+EMP00746,Fatima Brown,Prefer not to say,White,25,IT,Senior Manager,L7,Seattle,2020-10-25,4.52,MGR0027,Full-Time,Active,90198,4.4,Meets,2022-01-13,CC473,India
+EMP00747,Liam Johnson,Prefer not to say,Hispanic,41,Legal,VP,L7,Seattle,2023-10-27,7.5,MGR0002,Full-Time,Active,52470,22.2,Exceeds,2021-08-14,CC517,USA
+EMP00748,Jake Green,Female,Hispanic,28,Engineering,VP,L2,San Francisco,2021-01-18,5.1,MGR0005,Full-Time,Active,166748,24.6,Does Not Meet,2021-07-04,CC977,USA
+EMP00749,Tyler Walker,Non-binary,Hispanic,42,Data Science,Lead,L3,Remote,2018-06-29,8.05,MGR0007,Part-Time,Active,194747,4.9,Meets,2025-10-09,CC232,UK
+EMP00750,Kevin Williams,Male,Not disclosed,47,Finance,Principal,L1,Chicago,2017-07-12,2.79,MGR0012,Part-Time,Active,166149,16.7,Partially Meets,2021-06-23,CC435,Brazil
+EMP00751,Kevin Okafor,Male,Not disclosed,46,Data Science,Analyst,L7,Chicago,2019-03-16,11.76,MGR0001,Full-Time,Active,107345,4.0,Partially Meets,2020-02-17,CC685,Singapore
+EMP00752,Omar Smith,Prefer not to say,Asian,35,Product,Principal,L3,Dallas,2020-06-04,5.33,MGR0048,Part-Time,Leave,133434,8.4,Meets,2022-11-11,CC449,Singapore
+EMP00753,Hannah Thomas,Male,Not disclosed,43,Customer Success,Director,L1,Boston,2023-08-29,5.18,MGR0002,Full-Time,Active,104539,24.4,Exceeds,2021-05-07,CC663,Germany
+EMP00754,Omar Robinson,Prefer not to say,Asian,57,Sales,Lead,L2,Denver,2016-06-01,9.86,MGR0033,Full-Time,Active,103158,19.4,Meets,2023-12-20,CC638,UK
+EMP00755,Layla Hall,Male,Two or more races,45,Customer Success,Senior Manager,L6,Dallas,2021-04-24,2.08,MGR0011,Full-Time,Active,211437,15.9,Meets,2021-09-14,CC653,Brazil
+EMP00756,Arjun Andersen,Male,Asian,40,Legal,Lead,L4,Atlanta,2024-08-16,5.67,MGR0009,Part-Time,Active,64626,6.3,Partially Meets,2022-05-05,CC851,India
+EMP00757,Andre Ahmed,Female,Hispanic,52,Marketing,Senior Manager,L4,Austin,2015-08-31,7.79,MGR0026,Full-Time,Active,136857,1.8,Partially Meets,2021-07-29,CC511,India
+EMP00758,Mia Scott,Female,Hispanic,50,Marketing,Director,L7,Boston,2023-02-21,0.23,MGR0008,Part-Time,Leave,71899,19.3,Does Not Meet,2022-08-09,CC776,Singapore
+EMP00759,Emma Young,Prefer not to say,Hispanic,26,Design,VP,L3,New York,2018-05-08,4.64,MGR0017,Full-Time,Active,156649,14.6,Does Not Meet,2023-04-07,CC330,India
+EMP00760,Tariq Green,Non-binary,Hispanic,53,Design,Associate,L4,New York,2015-12-29,7.69,MGR0050,Part-Time,Active,110973,16.0,Partially Meets,2024-09-14,CC782,Germany
+EMP00761,Aisha Singh,Male,Not disclosed,53,HR,Principal,L4,Chicago,2018-12-31,7.13,MGR0043,Part-Time,Active,172890,14.0,Does Not Meet,2025-10-26,CC991,Brazil
+EMP00762,Diego Patel,Male,Two or more races,28,Sales,Senior Manager,L3,Remote,2015-06-22,8.1,MGR0039,Part-Time,Active,55450,8.7,Does Not Meet,2025-03-02,CC687,USA
+EMP00763,Nina Baker,Prefer not to say,Not disclosed,23,HR,Principal,L2,New York,2025-07-18,7.6,MGR0022,Full-Time,Active,153041,20.0,Does Not Meet,2022-11-04,CC467,Australia
+EMP00764,Isabella Andersen,Prefer not to say,White,42,Product,Director,L7,Austin,2018-12-14,2.59,MGR0050,Part-Time,Active,136367,19.5,Meets,2025-08-09,CC977,India
+EMP00765,Omar Adams,Female,Black or African American,41,Sales,Senior Analyst,L6,Denver,2018-09-29,3.82,MGR0032,Full-Time,Active,97992,6.6,Does Not Meet,2023-12-07,CC445,Singapore
+EMP00766,Sara Martinez,Female,Black or African American,23,Sales,Senior Manager,L5,Seattle,2025-01-17,10.92,MGR0045,Part-Time,Leave,186100,4.4,Exceeds,2022-03-24,CC195,India
+EMP00767,Diego Carter,Prefer not to say,Black or African American,31,Design,VP,L5,Boston,2022-12-24,4.82,MGR0025,Full-Time,Active,205804,14.3,Exceeds,2023-08-19,CC330,Singapore
+EMP00768,James Ivanov,Female,Not disclosed,39,Engineering,Specialist,L2,Chicago,2024-04-06,3.02,MGR0015,Part-Time,Active,83109,0.3,Meets,2020-03-26,CC978,Singapore
+EMP00769,Amir Ahmed,Female,Asian,33,Customer Success,Principal,L4,Remote,2024-05-25,10.67,MGR0025,Part-Time,Active,114089,10.8,Partially Meets,2022-08-19,CC427,Australia
+EMP00770,Marcus Brown,Non-binary,Not disclosed,37,Customer Success,Principal,L2,San Francisco,2015-11-12,11.77,MGR0033,Part-Time,Leave,127178,2.6,Meets,2023-11-27,CC834,Canada
+EMP00771,Olivia Wright,Male,Asian,61,Product,Specialist,L5,Denver,2020-03-20,0.87,MGR0011,Full-Time,Leave,162563,14.0,Exceeds,2023-11-24,CC588,UK
+EMP00772,Sofia Hernandez,Male,Not disclosed,39,IT,Director,L6,New York,2015-09-19,8.59,MGR0032,Part-Time,Active,148873,5.4,Does Not Meet,2023-06-23,CC651,Germany
+EMP00773,Noah Wright,Prefer not to say,Hispanic,56,Data Science,Principal,L3,New York,2018-09-15,11.65,MGR0004,Part-Time,Leave,76374,19.4,Exceeds,2020-09-17,CC642,Brazil
+EMP00774,Liam Turner,Female,Hispanic,60,Marketing,Manager,L1,Atlanta,2023-03-11,8.77,MGR0022,Full-Time,Active,150789,14.4,Does Not Meet,2024-07-27,CC490,Singapore
+EMP00775,Mei Nguyen,Male,Black or African American,44,Marketing,Associate,L3,Atlanta,2016-07-21,1.18,MGR0017,Part-Time,Active,104412,8.8,Exceeds,2023-10-23,CC562,India
+EMP00776,Rohan Johnson,Male,Two or more races,25,Data Science,VP,L1,Austin,2020-11-15,0.12,MGR0034,Full-Time,Active,130684,9.6,Exceeds,2026-05-15,CC676,Australia
+EMP00777,David Nguyen,Female,Not disclosed,61,Product,Manager,L5,Chicago,2024-08-20,11.71,MGR0007,Full-Time,Leave,143085,14.3,Does Not Meet,2021-12-28,CC619,UK
+EMP00778,Amir Johnson,Male,Two or more races,29,Finance,Director,L1,Boston,2024-02-18,8.23,MGR0038,Full-Time,Active,175456,4.8,Meets,2023-10-13,CC565,Brazil
+EMP00779,Amir Kim,Male,Black or African American,37,Operations,Manager,L2,Atlanta,2023-10-17,2.34,MGR0026,Full-Time,Active,60367,22.9,Does Not Meet,2021-02-08,CC968,India
+EMP00780,Ananya Sharma,Prefer not to say,Two or more races,34,Finance,VP,L2,Atlanta,2022-06-10,9.19,MGR0019,Part-Time,Active,159069,9.4,Does Not Meet,2020-04-07,CC603,India
+EMP00781,Hannah Walker,Prefer not to say,Black or African American,53,Finance,Analyst,L5,New York,2018-08-09,2.34,MGR0006,Part-Time,Leave,194756,13.6,Partially Meets,2020-07-15,CC647,USA
+EMP00782,Amara Jackson,Female,Black or African American,56,Engineering,Associate,L6,Dallas,2015-07-13,6.34,MGR0012,Part-Time,Active,101228,2.5,Meets,2022-06-26,CC829,Australia
+EMP00783,Ingrid Ali,Prefer not to say,Hispanic,58,Data Science,Principal,L1,New York,2015-10-26,11.07,MGR0014,Full-Time,Active,46242,22.6,Partially Meets,2021-12-26,CC499,Canada
+EMP00784,Nina Garcia,Female,Hispanic,60,HR,Principal,L6,Seattle,2019-03-03,10.6,MGR0028,Part-Time,Active,216268,18.4,Partially Meets,2024-08-03,CC806,USA
+EMP00785,Raj Jackson,Non-binary,Hispanic,53,Finance,Principal,L1,Denver,2019-08-31,0.6,MGR0050,Part-Time,Active,218791,17.2,Exceeds,2021-04-13,CC218,UK
+EMP00786,Yuki Chen,Female,Two or more races,42,Marketing,Director,L6,Denver,2025-02-12,3.49,MGR0019,Part-Time,Leave,113550,2.7,Exceeds,2024-06-05,CC942,Canada
+EMP00787,Hannah Harris,Female,Hispanic,55,Engineering,Specialist,L4,San Francisco,2015-12-21,1.43,MGR0003,Part-Time,Active,66917,19.1,Exceeds,2022-09-17,CC546,Australia
+EMP00788,Mia Okafor,Prefer not to say,Two or more races,24,Data Science,Lead,L7,Chicago,2019-11-30,9.25,MGR0047,Part-Time,Active,194107,0.4,Meets,2023-10-30,CC980,Germany
+EMP00789,Sophia Hernandez,Prefer not to say,Hispanic,25,Legal,Associate,L2,Seattle,2025-05-03,6.12,MGR0015,Full-Time,Active,133051,16.5,Does Not Meet,2020-04-13,CC992,Singapore
+EMP00790,Isabella Green,Non-binary,Two or more races,32,Marketing,Lead,L3,New York,2015-10-12,1.43,MGR0005,Part-Time,Leave,185056,0.4,Meets,2023-08-10,CC479,USA
+EMP00791,Carlos Mitchell,Female,White,46,Engineering,Principal,L1,Denver,2016-08-10,9.25,MGR0008,Full-Time,Active,192754,13.6,Exceeds,2025-05-05,CC685,Brazil
+EMP00792,Sofia Adams,Prefer not to say,Asian,37,Data Science,Specialist,L5,Seattle,2018-03-02,4.21,MGR0041,Part-Time,Active,85144,11.4,Partially Meets,2022-07-05,CC247,Germany
+EMP00793,Tariq Nguyen,Prefer not to say,Black or African American,32,Operations,Analyst,L4,Seattle,2022-02-22,1.81,MGR0030,Part-Time,Leave,104502,24.7,Meets,2023-12-16,CC313,Brazil
+EMP00794,Raj Thomas,Prefer not to say,Asian,46,Product,VP,L3,Boston,2019-09-21,8.02,MGR0009,Full-Time,Active,101874,17.8,Meets,2024-01-28,CC574,Brazil
+EMP00795,Ananya Robinson,Female,Asian,31,Product,Senior Analyst,L5,Atlanta,2019-03-16,3.67,MGR0050,Part-Time,Active,97274,5.4,Meets,2024-04-23,CC629,Brazil
+EMP00796,Amir Johnson,Female,Asian,58,Data Science,Manager,L3,Remote,2017-01-08,9.25,MGR0042,Part-Time,Leave,96854,3.8,Partially Meets,2025-04-03,CC351,UK
+EMP00797,Yuki Sharma,Male,Not disclosed,28,Sales,Senior Analyst,L1,New York,2023-07-21,11.05,MGR0004,Part-Time,Active,127128,23.3,Partially Meets,2022-04-11,CC861,UK
+EMP00798,Amara Chen,Non-binary,Two or more races,42,IT,Specialist,L4,Boston,2017-05-22,8.47,MGR0019,Part-Time,Active,192295,4.0,Meets,2021-10-30,CC525,India
+EMP00799,Leila Ahmed,Female,Two or more races,57,Data Science,Specialist,L6,Seattle,2020-12-20,8.31,MGR0016,Full-Time,Active,161628,2.4,Exceeds,2021-07-09,CC490,Singapore
+EMP00800,Tyler Martinez,Male,Two or more races,45,Product,Principal,L5,Austin,2019-04-03,5.42,MGR0002,Part-Time,Leave,135132,22.1,Exceeds,2024-02-24,CC170,UK
+EMP00801,Leila Robinson,Prefer not to say,Hispanic,29,Data Science,Senior Manager,L6,Boston,2016-07-06,3.58,MGR0006,Part-Time,Leave,174695,0.4,Does Not Meet,2021-11-23,CC473,Germany
+EMP00802,Hassan Andersen,Male,Asian,42,Marketing,Analyst,L6,Chicago,2017-02-25,8.44,MGR0017,Part-Time,Active,133478,1.0,Does Not Meet,2020-11-24,CC440,USA
+EMP00803,Leila Singh,Male,Black or African American,46,HR,Specialist,L4,Denver,2016-06-19,0.53,MGR0044,Part-Time,Active,132984,9.2,Does Not Meet,2024-07-25,CC824,Australia
+EMP00804,Omar Turner,Non-binary,Two or more races,34,Product,Director,L3,San Francisco,2016-06-26,10.97,MGR0043,Full-Time,Active,178376,22.4,Exceeds,2021-06-10,CC925,India
+EMP00805,David Nguyen,Non-binary,White,31,IT,Senior Manager,L7,San Francisco,2017-09-22,10.38,MGR0001,Full-Time,Active,206863,1.8,Does Not Meet,2023-09-17,CC904,India
+EMP00806,Emma Lee,Female,Hispanic,27,Marketing,Senior Analyst,L6,San Francisco,2021-11-14,0.15,MGR0044,Full-Time,Active,58106,17.9,Does Not Meet,2023-08-05,CC740,Canada
+EMP00807,Arjun Roberts,Prefer not to say,Two or more races,33,Product,Director,L6,Remote,2020-05-03,10.39,MGR0004,Part-Time,Active,178060,0.2,Meets,2022-03-20,CC369,UK
+EMP00808,Ryan Wright,Female,Not disclosed,29,Design,Senior Analyst,L2,Austin,2024-11-06,10.2,MGR0049,Full-Time,Active,148459,15.9,Partially Meets,2024-08-15,CC618,Germany
+EMP00809,Chloe Nakamura,Non-binary,Not disclosed,37,Customer Success,Analyst,L6,Seattle,2017-06-12,3.45,MGR0011,Full-Time,Active,61458,12.3,Exceeds,2024-10-27,CC181,Singapore
+EMP00810,Mia Mitchell,Male,Black or African American,59,Operations,Principal,L6,San Francisco,2015-02-19,6.87,MGR0047,Part-Time,Active,138877,18.6,Does Not Meet,2024-02-26,CC611,Germany
+EMP00811,Yuki Sharma,Female,Hispanic,59,Marketing,Analyst,L6,Boston,2023-07-24,4.98,MGR0030,Part-Time,Active,166536,21.7,Does Not Meet,2025-01-26,CC256,UK
+EMP00812,Andre Jackson,Prefer not to say,White,30,Operations,Associate,L7,Austin,2023-04-11,4.85,MGR0001,Part-Time,Active,84593,14.8,Meets,2022-06-07,CC197,USA
+EMP00813,Tyler Okafor,Non-binary,Black or African American,34,Engineering,Specialist,L4,Austin,2019-05-22,3.71,MGR0036,Part-Time,Active,94793,12.2,Does Not Meet,2024-11-07,CC545,UK
+EMP00814,Kevin Lee,Non-binary,White,26,Operations,Specialist,L5,Seattle,2020-06-19,1.78,MGR0034,Part-Time,Active,154142,12.3,Partially Meets,2021-10-11,CC446,Germany
+EMP00815,Leila Clark,Male,Two or more races,30,Customer Success,Director,L3,Boston,2022-09-02,9.7,MGR0009,Part-Time,Leave,169131,1.6,Does Not Meet,2024-02-24,CC527,Canada
+EMP00816,Lucas Perez,Female,Black or African American,62,Product,Director,L5,Boston,2017-05-07,6.97,MGR0022,Full-Time,Active,129366,19.5,Meets,2022-08-28,CC932,Canada
+EMP00817,Soren Walker,Male,Black or African American,54,Sales,Associate,L7,Austin,2020-06-24,7.52,MGR0006,Part-Time,Active,202967,22.5,Partially Meets,2020-10-01,CC560,Brazil
+EMP00818,Arjun Andersen,Female,Black or African American,25,Product,Senior Manager,L2,New York,2023-09-20,3.99,MGR0040,Part-Time,Leave,83304,19.6,Partially Meets,2025-06-08,CC421,Canada
+EMP00819,Ananya Smith,Male,Black or African American,25,Design,Senior Manager,L5,Dallas,2024-03-29,3.46,MGR0025,Part-Time,Active,123165,6.5,Meets,2023-04-27,CC125,USA
+EMP00820,Ananya Ahmed,Male,Black or African American,51,Marketing,Specialist,L6,Denver,2022-04-23,6.71,MGR0039,Part-Time,Active,73244,23.4,Does Not Meet,2023-02-04,CC302,Singapore
+EMP00821,Liam Scott,Female,Black or African American,23,Sales,Analyst,L7,Boston,2018-03-12,6.68,MGR0024,Full-Time,Active,143311,13.8,Does Not Meet,2023-08-19,CC505,UK
+EMP00822,Leila Garcia,Non-binary,Black or African American,58,IT,Analyst,L5,New York,2018-08-30,8.7,MGR0046,Full-Time,Active,61745,23.2,Meets,2021-09-12,CC204,UK
+EMP00823,Ingrid Ivanov,Male,Black or African American,44,Operations,Senior Analyst,L4,Boston,2025-07-17,9.04,MGR0032,Part-Time,Leave,61292,13.1,Does Not Meet,2021-09-26,CC661,India
+EMP00824,Zara Wilson,Female,White,38,HR,Senior Manager,L1,Dallas,2024-02-18,0.39,MGR0042,Full-Time,Active,56113,1.1,Meets,2021-09-17,CC991,UK
+EMP00825,Lucas Sharma,Prefer not to say,Not disclosed,47,Engineering,Lead,L7,Seattle,2020-08-12,5.96,MGR0043,Part-Time,Leave,62815,1.0,Exceeds,2022-05-05,CC335,Singapore
+EMP00826,Omar Perez,Male,Two or more races,45,Customer Success,Manager,L4,Chicago,2015-01-30,1.91,MGR0001,Part-Time,Active,190820,9.4,Does Not Meet,2021-10-16,CC954,Canada
+EMP00827,Diego Nakamura,Non-binary,Hispanic,42,Finance,Associate,L1,Seattle,2023-06-17,5.47,MGR0029,Part-Time,Active,93452,2.8,Does Not Meet,2021-03-13,CC860,Canada
+EMP00828,Andre Wright,Non-binary,Not disclosed,35,IT,Director,L3,Atlanta,2017-03-30,0.75,MGR0041,Full-Time,Leave,111147,5.4,Exceeds,2023-06-23,CC112,Canada
+EMP00829,Sophia Taylor,Female,Asian,46,Design,VP,L4,Denver,2024-04-20,7.26,MGR0011,Part-Time,Active,192018,14.9,Meets,2020-11-14,CC731,India
+EMP00830,Aarav Johnson,Male,White,39,Engineering,Director,L4,Denver,2024-12-01,8.77,MGR0011,Full-Time,Active,141482,5.4,Meets,2024-09-29,CC859,Australia
+EMP00831,Olivia Ahmed,Male,Black or African American,24,Sales,Director,L2,Seattle,2015-11-08,5.54,MGR0014,Full-Time,Active,169912,4.4,Exceeds,2020-12-18,CC842,Canada
+EMP00832,Nadia Perez,Non-binary,Black or African American,23,Design,Principal,L4,San Francisco,2020-02-08,8.8,MGR0010,Full-Time,Active,149212,17.0,Exceeds,2020-06-01,CC609,Brazil
+EMP00833,Elena Ahmed,Female,White,58,Engineering,Senior Analyst,L7,Seattle,2024-04-24,8.55,MGR0047,Part-Time,Active,115067,0.6,Partially Meets,2022-02-09,CC340,Singapore
+EMP00834,Aarav Nelson,Male,Two or more races,49,Customer Success,Specialist,L7,Chicago,2024-02-02,8.62,MGR0048,Full-Time,Active,140429,2.2,Partially Meets,2025-02-11,CC940,Singapore
+EMP00835,Liam White,Non-binary,Not disclosed,57,Customer Success,Manager,L3,Boston,2021-02-08,4.94,MGR0038,Part-Time,Active,167548,24.6,Partially Meets,2021-08-27,CC933,Singapore
+EMP00836,Ryan Ahmed,Non-binary,Asian,27,IT,Director,L2,Boston,2022-07-30,11.1,MGR0042,Part-Time,Active,186351,21.5,Meets,2020-06-24,CC451,UK
+EMP00837,Mei Young,Female,Two or more races,30,HR,Associate,L1,Denver,2021-09-18,10.58,MGR0033,Full-Time,Leave,72214,14.4,Partially Meets,2026-03-04,CC780,UK
+EMP00838,Noah Mitchell,Non-binary,Asian,29,Operations,VP,L5,Denver,2023-04-18,6.33,MGR0026,Full-Time,Leave,137047,18.7,Exceeds,2022-07-13,CC755,Singapore
+EMP00839,Marcus Smith,Male,Two or more races,28,Product,Manager,L1,Seattle,2016-09-29,2.98,MGR0026,Part-Time,Active,187073,16.0,Meets,2020-04-06,CC116,USA
+EMP00840,Emma Ali,Female,Not disclosed,26,Sales,Director,L4,San Francisco,2018-04-26,5.12,MGR0023,Part-Time,Active,201646,7.5,Does Not Meet,2024-03-15,CC313,Germany
+EMP00841,Leila Scott,Prefer not to say,Not disclosed,61,IT,Analyst,L6,Atlanta,2019-10-22,11.73,MGR0032,Part-Time,Active,53137,6.4,Does Not Meet,2024-04-20,CC870,India
+EMP00842,Marcus Scott,Non-binary,Not disclosed,53,Engineering,Associate,L1,Atlanta,2019-09-28,9.13,MGR0006,Part-Time,Active,187536,2.3,Meets,2021-01-20,CC565,Brazil
+EMP00843,Mei Ivanov,Prefer not to say,White,42,Finance,Lead,L7,Atlanta,2023-05-27,2.68,MGR0027,Full-Time,Active,78655,14.8,Exceeds,2025-09-04,CC555,India
+EMP00844,Sophia Thomas,Non-binary,Not disclosed,58,Legal,Lead,L6,New York,2020-08-18,3.11,MGR0008,Part-Time,Active,163417,7.3,Meets,2020-06-12,CC397,Australia
+EMP00845,Emma Mitchell,Female,White,34,Product,Specialist,L2,New York,2019-10-14,4.71,MGR0048,Full-Time,Active,56501,7.6,Meets,2023-10-24,CC986,Singapore
+EMP00846,Ingrid Wilson,Male,White,32,Marketing,Manager,L6,Remote,2017-07-25,6.8,MGR0029,Part-Time,Active,157714,0.5,Partially Meets,2026-02-04,CC208,Brazil
+EMP00847,James Andersen,Prefer not to say,Two or more races,49,Sales,Senior Analyst,L1,Seattle,2020-04-24,10.55,MGR0043,Part-Time,Active,150205,12.7,Meets,2021-07-17,CC223,USA
+EMP00848,Aisha Wright,Female,Not disclosed,34,Product,Lead,L3,Dallas,2016-10-25,3.23,MGR0005,Full-Time,Leave,153332,2.9,Exceeds,2022-08-09,CC307,UK
+EMP00849,Wei Perez,Prefer not to say,White,45,Engineering,Lead,L7,New York,2018-05-15,1.44,MGR0043,Part-Time,Leave,184072,0.2,Meets,2023-08-01,CC349,Singapore
+EMP00850,Zara Smith,Prefer not to say,Asian,52,HR,Senior Analyst,L2,Denver,2023-12-26,6.68,MGR0041,Full-Time,Active,219871,3.2,Meets,2020-10-05,CC589,India
+EMP00851,Liam Ivanov,Prefer not to say,Not disclosed,45,HR,Director,L4,New York,2021-05-07,9.05,MGR0003,Part-Time,Active,52252,4.8,Partially Meets,2024-05-19,CC560,Canada
+EMP00852,Wei Walker,Prefer not to say,Not disclosed,62,Marketing,Senior Manager,L5,Dallas,2023-05-25,3.52,MGR0050,Full-Time,Active,202239,0.8,Exceeds,2026-04-19,CC186,UK
+EMP00853,Ananya Garcia,Non-binary,Black or African American,47,Finance,Specialist,L6,Boston,2023-09-01,3.71,MGR0035,Part-Time,Active,168184,12.8,Does Not Meet,2026-04-13,CC798,UK
+EMP00854,Mei Williams,Prefer not to say,Black or African American,56,Customer Success,Principal,L6,San Francisco,2020-04-06,3.09,MGR0018,Part-Time,Active,200827,12.8,Partially Meets,2023-08-20,CC345,Canada
+EMP00855,Amara Smith,Non-binary,Two or more races,48,Finance,Director,L5,Denver,2018-11-28,8.07,MGR0013,Full-Time,Active,94798,17.2,Partially Meets,2026-02-01,CC666,Australia
+EMP00856,Elena Scott,Female,White,40,Data Science,Senior Manager,L2,Remote,2017-04-17,9.5,MGR0022,Full-Time,Active,143303,6.1,Does Not Meet,2023-01-13,CC681,Singapore
+EMP00857,Mei Okafor,Non-binary,Two or more races,26,Finance,Senior Analyst,L4,Dallas,2021-01-10,11.81,MGR0001,Full-Time,Active,111797,23.2,Does Not Meet,2026-03-05,CC697,Germany
+EMP00858,Soren Ahmed,Female,Black or African American,25,Legal,Specialist,L5,San Francisco,2020-09-24,5.77,MGR0025,Part-Time,Active,81628,4.5,Partially Meets,2020-08-11,CC142,India
+EMP00859,Carlos King,Non-binary,Hispanic,28,Design,Associate,L2,New York,2018-02-10,10.71,MGR0037,Full-Time,Active,74211,8.4,Partially Meets,2023-03-10,CC540,Canada
+EMP00860,Noah Adams,Non-binary,Two or more races,44,HR,Manager,L1,Dallas,2017-08-02,7.05,MGR0049,Full-Time,Active,145472,5.1,Exceeds,2021-10-18,CC193,Germany
+EMP00861,Yuki Kim,Male,Hispanic,48,HR,Senior Manager,L4,Remote,2024-01-29,2.07,MGR0012,Full-Time,Active,73150,0.1,Partially Meets,2024-11-17,CC693,Brazil
+EMP00862,Zara Müller,Male,White,48,Design,Specialist,L4,Austin,2020-01-02,8.9,MGR0025,Part-Time,Active,186889,19.1,Meets,2025-07-06,CC547,Australia
+EMP00863,Priya Harris,Prefer not to say,Asian,60,HR,VP,L2,San Francisco,2018-08-12,7.25,MGR0045,Part-Time,Active,150907,5.2,Partially Meets,2023-12-17,CC514,Germany
+EMP00864,Ingrid Costa,Female,Asian,60,Product,Analyst,L6,Remote,2017-10-15,3.0,MGR0045,Full-Time,Active,50735,9.7,Partially Meets,2024-01-12,CC490,USA
+EMP00865,Chloe Turner,Prefer not to say,Asian,27,Legal,Director,L3,Chicago,2020-07-03,3.3,MGR0017,Part-Time,Active,89182,5.5,Meets,2020-05-28,CC490,Australia
+EMP00866,Andre Müller,Male,Not disclosed,32,Sales,Principal,L6,Dallas,2015-07-16,0.7,MGR0006,Part-Time,Active,84067,7.3,Does Not Meet,2023-02-14,CC991,UK
+EMP00867,Raj Robinson,Female,Two or more races,26,HR,Senior Analyst,L5,New York,2017-07-27,6.91,MGR0048,Full-Time,Active,188638,11.8,Does Not Meet,2021-11-18,CC341,USA
+EMP00868,Arjun Green,Male,White,28,Finance,Manager,L5,San Francisco,2024-01-22,9.37,MGR0036,Part-Time,Active,85034,13.3,Meets,2022-10-03,CC905,USA
+EMP00869,Liam Andersen,Male,Two or more races,54,Engineering,Associate,L2,Austin,2018-08-26,0.68,MGR0010,Full-Time,Active,204637,20.9,Partially Meets,2025-03-09,CC351,Singapore
+EMP00870,Ingrid Kim,Female,Hispanic,62,IT,Analyst,L1,Denver,2016-12-18,1.72,MGR0019,Part-Time,Leave,173439,16.9,Does Not Meet,2026-03-04,CC654,Brazil
+EMP00871,Layla Thomas,Non-binary,Two or more races,58,Design,Associate,L7,Seattle,2024-12-19,6.33,MGR0027,Full-Time,Leave,176000,3.2,Exceeds,2022-04-27,CC175,Australia
+EMP00872,Amara Kim,Prefer not to say,Asian,46,Finance,VP,L1,Boston,2024-06-10,5.9,MGR0049,Full-Time,Active,159173,19.4,Meets,2025-01-16,CC985,UK
+EMP00873,Amara Ferreira,Female,Hispanic,23,HR,Specialist,L3,Atlanta,2022-04-12,4.85,MGR0046,Part-Time,Active,98658,11.6,Does Not Meet,2020-07-29,CC351,UK
+EMP00874,Chris Patel,Non-binary,Black or African American,25,Operations,Specialist,L4,Denver,2025-01-22,1.03,MGR0019,Part-Time,Leave,189600,11.9,Does Not Meet,2020-10-04,CC460,Australia
+EMP00875,Amara Lewis,Female,White,28,Marketing,Lead,L3,New York,2017-03-03,0.39,MGR0014,Part-Time,Active,162534,10.1,Does Not Meet,2023-11-22,CC736,Australia
+EMP00876,Sara Lee,Male,Asian,53,Legal,Lead,L1,Dallas,2018-03-13,8.77,MGR0037,Full-Time,Active,144070,8.3,Does Not Meet,2022-12-30,CC247,UK
+EMP00877,Arjun Williams,Prefer not to say,Black or African American,47,HR,Analyst,L1,Seattle,2023-07-19,0.24,MGR0009,Full-Time,Active,194237,4.8,Meets,2024-10-14,CC660,Germany
+EMP00878,Zara Singh,Male,Hispanic,24,Finance,Specialist,L7,San Francisco,2025-04-10,2.71,MGR0011,Part-Time,Active,65963,16.7,Partially Meets,2024-03-04,CC971,Singapore
+EMP00879,Soren King,Non-binary,Not disclosed,42,Customer Success,Manager,L6,Remote,2017-11-23,6.29,MGR0018,Full-Time,Active,50826,10.8,Partially Meets,2023-09-06,CC621,Germany
+EMP00880,Tariq Ferreira,Male,Two or more races,41,Finance,Senior Analyst,L7,Austin,2020-08-05,6.7,MGR0015,Full-Time,Active,85175,23.2,Partially Meets,2024-08-17,CC860,Brazil
+EMP00881,Soren Taylor,Non-binary,White,37,Marketing,Principal,L4,San Francisco,2019-09-14,9.32,MGR0004,Part-Time,Active,158290,3.9,Does Not Meet,2020-05-05,CC441,Australia
+EMP00882,Amara Ivanov,Prefer not to say,Asian,47,IT,Senior Manager,L4,Denver,2016-04-29,10.21,MGR0019,Full-Time,Leave,88226,8.4,Partially Meets,2024-03-23,CC973,India
+EMP00883,Aisha Williams,Male,Hispanic,56,Legal,Specialist,L1,Austin,2016-02-17,11.9,MGR0001,Part-Time,Active,53568,3.3,Partially Meets,2024-01-03,CC782,India
+EMP00884,Liam Robinson,Non-binary,White,24,IT,Senior Analyst,L1,Remote,2015-06-15,0.1,MGR0013,Full-Time,Active,173544,2.7,Partially Meets,2025-11-24,CC173,Germany
+EMP00885,David Thomas,Non-binary,Hispanic,54,Sales,Specialist,L5,Chicago,2016-07-21,8.3,MGR0003,Part-Time,Active,219328,4.1,Does Not Meet,2025-01-27,CC467,Germany
+EMP00886,Ananya Roberts,Prefer not to say,Asian,37,Finance,VP,L2,Chicago,2018-04-17,5.59,MGR0046,Full-Time,Active,65828,1.5,Exceeds,2021-08-27,CC210,Singapore
+EMP00887,Fatima Turner,Male,Black or African American,43,Design,VP,L5,Chicago,2016-05-31,8.65,MGR0028,Part-Time,Active,213902,16.7,Partially Meets,2022-05-09,CC584,USA
+EMP00888,Liam Ferreira,Female,Black or African American,26,Engineering,Analyst,L7,Seattle,2019-01-31,4.74,MGR0032,Part-Time,Active,129824,11.2,Partially Meets,2024-09-25,CC774,Australia
+EMP00889,Andre Wright,Female,White,32,Finance,Associate,L1,Atlanta,2025-04-07,10.52,MGR0022,Full-Time,Active,81789,6.0,Does Not Meet,2023-02-12,CC307,UK
+EMP00890,James Singh,Non-binary,Not disclosed,43,IT,VP,L3,New York,2019-09-08,1.34,MGR0050,Full-Time,Active,83746,8.3,Partially Meets,2025-12-14,CC500,Canada
+EMP00891,Jasmine Turner,Male,Asian,59,Customer Success,Director,L5,Atlanta,2019-11-17,0.63,MGR0022,Full-Time,Active,199486,15.7,Exceeds,2025-04-27,CC949,Brazil
+EMP00892,Elena Green,Female,Black or African American,59,HR,Specialist,L3,Seattle,2025-06-02,10.71,MGR0003,Full-Time,Leave,111621,9.9,Exceeds,2025-12-13,CC334,USA
+EMP00893,Amir Ivanov,Prefer not to say,White,49,Engineering,Senior Analyst,L7,Seattle,2017-06-27,6.47,MGR0035,Part-Time,Active,176531,21.7,Partially Meets,2020-07-28,CC608,Canada
+EMP00894,Kevin King,Non-binary,White,37,Legal,Lead,L6,Boston,2020-12-27,2.21,MGR0042,Full-Time,Active,157590,2.0,Meets,2025-05-19,CC121,India
+EMP00895,Mia Turner,Non-binary,Hispanic,40,Data Science,Director,L4,Austin,2016-06-15,10.88,MGR0014,Full-Time,Active,70586,19.1,Partially Meets,2023-06-21,CC655,India
+EMP00896,Fatima Kim,Male,Hispanic,26,Finance,Manager,L1,Atlanta,2015-11-09,4.12,MGR0033,Part-Time,Leave,77007,12.0,Partially Meets,2020-12-07,CC464,India
+EMP00897,Sophia Jackson,Female,Two or more races,38,Design,Analyst,L5,San Francisco,2018-12-17,11.91,MGR0011,Full-Time,Active,87032,13.1,Meets,2025-05-14,CC875,Australia
+EMP00898,Mei Jackson,Prefer not to say,White,54,Legal,Senior Manager,L2,Chicago,2015-05-03,7.49,MGR0031,Full-Time,Active,217235,23.3,Does Not Meet,2026-04-02,CC889,Singapore
+EMP00899,Lucas Nelson,Non-binary,Hispanic,24,Engineering,Specialist,L2,New York,2019-05-06,6.89,MGR0002,Part-Time,Active,153929,18.7,Exceeds,2023-07-14,CC982,Singapore
+EMP00900,Wei Patel,Male,Two or more races,30,Product,Specialist,L5,Dallas,2015-12-16,8.74,MGR0022,Full-Time,Leave,53514,19.7,Partially Meets,2022-10-04,CC419,Brazil
+EMP00901,James Patel,Male,Black or African American,30,Design,Director,L7,Denver,2018-04-16,11.99,MGR0018,Part-Time,Active,64502,24.4,Partially Meets,2020-11-03,CC610,Germany
+EMP00902,Amara Ahmed,Male,White,40,Operations,Manager,L6,San Francisco,2023-04-14,10.45,MGR0034,Full-Time,Active,74720,2.4,Partially Meets,2023-09-29,CC425,India
+EMP00903,Soren Ali,Male,Hispanic,25,Finance,Director,L7,Dallas,2017-01-18,9.08,MGR0006,Part-Time,Leave,217464,7.4,Does Not Meet,2020-06-15,CC419,Brazil
+EMP00904,Kevin Taylor,Non-binary,Not disclosed,25,Marketing,Senior Analyst,L1,Remote,2016-01-16,0.15,MGR0031,Full-Time,Active,139667,10.1,Exceeds,2022-12-18,CC262,Canada
+EMP00905,Mei Martinez,Female,Not disclosed,58,Design,Senior Analyst,L6,New York,2015-12-02,5.7,MGR0047,Full-Time,Active,178610,6.0,Does Not Meet,2020-01-22,CC797,Germany
+EMP00906,Tariq Smith,Prefer not to say,Two or more races,37,Engineering,Associate,L2,Remote,2021-06-20,8.04,MGR0013,Part-Time,Active,80706,10.1,Does Not Meet,2026-06-26,CC394,Germany
+EMP00907,Leila Kim,Prefer not to say,Black or African American,60,Product,Analyst,L1,Denver,2017-10-17,7.13,MGR0048,Part-Time,Active,196156,4.6,Exceeds,2022-10-16,CC235,USA
+EMP00908,Isabella Garcia,Male,Not disclosed,47,Marketing,Senior Manager,L3,San Francisco,2017-08-03,6.94,MGR0042,Full-Time,Active,48607,10.3,Partially Meets,2022-04-25,CC557,UK
+EMP00909,Tariq Nelson,Male,Black or African American,42,Legal,Associate,L6,Dallas,2016-08-25,8.2,MGR0029,Full-Time,Active,99206,9.7,Meets,2022-09-21,CC601,Singapore
+EMP00910,Chloe Lee,Non-binary,White,49,Product,Manager,L1,New York,2018-01-26,9.01,MGR0034,Part-Time,Active,153371,2.8,Partially Meets,2021-07-30,CC390,Germany
+EMP00911,Chloe Singh,Prefer not to say,Two or more races,26,IT,Specialist,L3,Seattle,2016-12-26,7.77,MGR0029,Full-Time,Active,169999,24.1,Partially Meets,2021-10-19,CC591,Canada
+EMP00912,Wei Johnson,Female,Not disclosed,53,Legal,Senior Manager,L5,Dallas,2019-11-30,7.74,MGR0010,Full-Time,Active,142211,13.1,Exceeds,2023-01-18,CC982,Germany
+EMP00913,Nina Johnson,Male,Two or more races,28,HR,Director,L3,Chicago,2023-05-16,9.12,MGR0043,Full-Time,Active,183497,0.1,Exceeds,2023-09-02,CC886,Brazil
+EMP00914,Mei Singh,Prefer not to say,Hispanic,33,Sales,Director,L6,Denver,2021-05-15,3.09,MGR0018,Full-Time,Active,202698,14.1,Partially Meets,2021-01-28,CC489,Singapore
+EMP00915,Arjun Ivanov,Non-binary,White,43,Operations,Specialist,L7,Chicago,2022-01-02,6.44,MGR0032,Full-Time,Active,192439,0.4,Exceeds,2021-02-26,CC678,UK
+EMP00916,Raj Garcia,Female,Asian,48,Customer Success,Senior Analyst,L1,Dallas,2017-08-05,5.35,MGR0009,Full-Time,Active,102270,9.3,Exceeds,2022-11-16,CC111,Brazil
+EMP00917,Olivia Nelson,Prefer not to say,Hispanic,27,Operations,Senior Manager,L5,San Francisco,2016-05-07,1.21,MGR0017,Full-Time,Active,169783,17.2,Meets,2020-01-27,CC962,Singapore
+EMP00918,Zara Ahmed,Non-binary,White,27,Customer Success,Principal,L2,Remote,2024-02-29,3.4,MGR0028,Part-Time,Active,163582,13.9,Meets,2020-04-20,CC856,India
+EMP00919,Soren Johnson,Non-binary,Hispanic,33,Marketing,Senior Manager,L6,New York,2022-01-13,8.82,MGR0013,Full-Time,Active,79767,7.4,Exceeds,2025-01-15,CC331,UK
+EMP00920,Emma Turner,Female,Black or African American,62,Finance,Associate,L2,San Francisco,2015-05-09,10.02,MGR0011,Part-Time,Active,46998,4.3,Exceeds,2025-12-23,CC279,Brazil
+EMP00921,Aisha Martinez,Female,White,31,Legal,Senior Analyst,L4,Chicago,2016-03-20,8.43,MGR0011,Part-Time,Leave,190489,22.1,Partially Meets,2025-01-29,CC261,Canada
+EMP00922,Chloe Nguyen,Prefer not to say,Black or African American,42,Finance,Principal,L2,New York,2020-01-14,2.44,MGR0019,Part-Time,Leave,166862,23.2,Exceeds,2021-06-03,CC155,Canada
+EMP00923,Marcus Young,Male,Two or more races,52,Legal,Principal,L6,Austin,2023-04-07,0.73,MGR0012,Full-Time,Active,108041,22.7,Exceeds,2022-09-16,CC651,India
+EMP00924,Layla Young,Male,Black or African American,38,Operations,Lead,L2,Austin,2018-10-21,0.62,MGR0032,Full-Time,Active,102804,17.5,Exceeds,2025-10-22,CC251,Singapore
+EMP00925,Chloe Turner,Male,Not disclosed,42,Product,Manager,L6,Seattle,2015-10-20,11.91,MGR0022,Full-Time,Active,48022,19.5,Exceeds,2020-05-04,CC185,Australia
+EMP00926,Andre Baker,Male,White,34,Product,Senior Analyst,L4,Dallas,2016-11-06,7.81,MGR0004,Full-Time,Active,137625,7.8,Exceeds,2025-08-26,CC761,Germany
+EMP00927,Ethan Nakamura,Female,White,56,Marketing,Principal,L6,Remote,2023-06-10,6.53,MGR0019,Part-Time,Leave,65081,3.8,Partially Meets,2025-08-15,CC736,USA
+EMP00928,Jake Walker,Male,Two or more races,49,Product,Analyst,L1,Remote,2018-07-10,0.68,MGR0043,Part-Time,Active,144063,8.6,Partially Meets,2020-12-29,CC470,Germany
+EMP00929,Fatima Ferreira,Prefer not to say,Two or more races,29,HR,Associate,L2,Seattle,2020-12-11,6.19,MGR0021,Part-Time,Active,140999,7.8,Meets,2026-06-20,CC484,USA
+EMP00930,Ingrid Garcia,Prefer not to say,White,48,HR,Senior Manager,L4,Remote,2021-03-13,10.29,MGR0036,Part-Time,Leave,138081,19.7,Exceeds,2025-11-23,CC289,UK
+EMP00931,Maria Andersen,Male,White,47,Finance,Lead,L1,Dallas,2015-09-22,10.99,MGR0048,Full-Time,Active,208991,18.3,Meets,2026-02-20,CC585,Singapore
+EMP00932,Isabella Hall,Female,Asian,34,Customer Success,Senior Analyst,L4,Seattle,2024-11-15,2.98,MGR0044,Full-Time,Active,149879,15.5,Partially Meets,2021-11-30,CC634,Germany
+EMP00933,Amara Martinez,Male,Hispanic,48,Design,Manager,L3,Dallas,2019-07-28,5.23,MGR0007,Part-Time,Active,66539,11.5,Exceeds,2024-05-17,CC398,Brazil
+EMP00934,Omar White,Non-binary,White,33,Legal,Senior Manager,L6,Boston,2016-10-03,4.15,MGR0044,Full-Time,Active,95245,24.0,Exceeds,2020-12-12,CC581,Brazil
+EMP00935,Raj Andersen,Non-binary,Two or more races,58,Customer Success,Lead,L1,Chicago,2018-06-14,8.8,MGR0024,Full-Time,Leave,176326,13.0,Partially Meets,2023-09-20,CC842,UK
+EMP00936,Leila Perez,Male,Not disclosed,43,Engineering,Director,L6,New York,2020-03-22,11.92,MGR0019,Full-Time,Active,101658,5.2,Partially Meets,2022-03-06,CC948,Germany
+EMP00937,Lucas Roberts,Male,Asian,36,Marketing,Senior Analyst,L1,San Francisco,2021-08-01,8.56,MGR0030,Part-Time,Active,187705,1.2,Meets,2022-09-14,CC707,India
+EMP00938,Sofia Smith,Prefer not to say,Hispanic,30,Legal,VP,L2,New York,2022-01-28,10.6,MGR0003,Full-Time,Active,205399,19.0,Does Not Meet,2023-09-03,CC498,India
+EMP00939,Hassan Ahmed,Male,White,33,HR,Analyst,L7,New York,2020-03-06,7.07,MGR0022,Part-Time,Active,189111,3.2,Exceeds,2022-09-28,CC804,Brazil
+EMP00940,Tyler Baker,Prefer not to say,Black or African American,40,IT,Senior Analyst,L6,Denver,2018-09-29,11.01,MGR0040,Full-Time,Active,141444,15.2,Partially Meets,2021-07-02,CC159,India
+EMP00941,Diego Chen,Male,Two or more races,62,IT,Director,L1,Dallas,2018-06-28,3.58,MGR0015,Part-Time,Leave,170133,8.6,Exceeds,2026-07-30,CC242,Brazil
+EMP00942,Liam Turner,Female,Hispanic,60,IT,Lead,L2,San Francisco,2017-03-08,2.96,MGR0018,Part-Time,Active,154646,1.9,Partially Meets,2020-05-29,CC812,Germany
+EMP00943,Layla Young,Prefer not to say,Not disclosed,24,Operations,Analyst,L7,Boston,2016-06-16,2.93,MGR0026,Part-Time,Active,57152,13.0,Exceeds,2021-04-22,CC864,UK
+EMP00944,Jasmine Johnson,Male,Hispanic,25,Customer Success,Senior Manager,L3,Denver,2019-10-14,4.83,MGR0039,Full-Time,Active,146262,3.8,Does Not Meet,2020-10-24,CC428,Canada
+EMP00945,Sophia Ali,Non-binary,Black or African American,44,Engineering,Associate,L5,Dallas,2016-02-14,2.28,MGR0037,Full-Time,Active,209201,21.2,Does Not Meet,2026-04-18,CC759,UK
+EMP00946,Zara Hall,Non-binary,Black or African American,24,Sales,Senior Manager,L3,Dallas,2021-12-19,0.16,MGR0034,Part-Time,Active,134812,7.5,Does Not Meet,2026-03-03,CC854,UK
+EMP00947,James Ali,Female,Not disclosed,45,IT,Senior Analyst,L1,San Francisco,2019-07-27,8.04,MGR0029,Full-Time,Leave,57449,12.7,Exceeds,2023-03-31,CC392,UK
+EMP00948,Priya Roberts,Prefer not to say,Black or African American,59,Marketing,Associate,L7,Remote,2025-06-26,8.5,MGR0040,Part-Time,Leave,195133,20.2,Partially Meets,2026-03-13,CC757,Singapore
+EMP00949,Layla Costa,Female,Two or more races,45,IT,Associate,L6,Remote,2016-01-03,3.05,MGR0022,Full-Time,Active,50576,19.3,Partially Meets,2026-05-21,CC733,Canada
+EMP00950,Arjun Patel,Female,Hispanic,40,Marketing,Associate,L4,Remote,2016-12-18,6.76,MGR0004,Part-Time,Leave,51019,24.8,Does Not Meet,2021-09-26,CC507,India
+EMP00951,Andre Ahmed,Male,Not disclosed,50,Marketing,Senior Manager,L3,Dallas,2020-02-16,11.32,MGR0047,Full-Time,Leave,204050,5.5,Partially Meets,2022-09-26,CC632,UK
+EMP00952,Hannah Johnson,Non-binary,White,44,Legal,Senior Analyst,L2,Remote,2022-05-16,7.36,MGR0022,Full-Time,Leave,83598,10.2,Partially Meets,2026-02-08,CC792,UK
+EMP00953,Kevin Andersen,Male,Two or more races,46,IT,Associate,L3,Denver,2019-11-14,7.6,MGR0014,Full-Time,Leave,171334,20.2,Exceeds,2021-08-19,CC884,Canada
+EMP00954,Layla Sharma,Non-binary,White,38,HR,Director,L4,Dallas,2024-01-20,1.87,MGR0038,Part-Time,Leave,116277,15.7,Exceeds,2020-04-30,CC952,UK
+EMP00955,Andre Müller,Male,White,54,Legal,Principal,L4,Denver,2020-05-13,0.84,MGR0004,Full-Time,Active,177094,5.1,Exceeds,2022-03-02,CC933,Australia
+EMP00956,Priya Lee,Male,Asian,55,Engineering,Principal,L6,Seattle,2024-03-27,1.05,MGR0041,Full-Time,Active,59240,11.3,Meets,2025-11-07,CC300,Singapore
+EMP00957,Raj Baker,Female,White,45,HR,Director,L3,New York,2022-03-14,10.76,MGR0029,Part-Time,Leave,118793,9.8,Exceeds,2025-01-13,CC243,Brazil
+EMP00958,Raj Carter,Female,Two or more races,30,Operations,Analyst,L5,San Francisco,2023-07-23,8.98,MGR0032,Part-Time,Active,57502,24.5,Exceeds,2022-12-15,CC123,Brazil
+EMP00959,Layla Mitchell,Non-binary,White,34,HR,Senior Manager,L4,Chicago,2025-07-03,1.16,MGR0009,Part-Time,Active,89891,5.1,Does Not Meet,2021-03-21,CC578,India
+EMP00960,Aarav Ali,Female,Not disclosed,28,Sales,Principal,L2,New York,2020-03-16,4.62,MGR0015,Part-Time,Active,179557,24.5,Partially Meets,2021-06-26,CC578,Singapore
+EMP00961,Soren Hernandez,Prefer not to say,White,34,HR,Specialist,L1,Dallas,2021-02-14,3.63,MGR0017,Full-Time,Active,196730,8.1,Meets,2024-06-08,CC401,USA
+EMP00962,Carlos Clark,Non-binary,Black or African American,25,HR,Specialist,L2,Seattle,2024-03-02,10.0,MGR0026,Part-Time,Leave,73385,23.2,Does Not Meet,2025-08-08,CC783,UK
+EMP00963,Sophia Chen,Male,Hispanic,62,Sales,Specialist,L7,Remote,2025-04-06,6.48,MGR0012,Full-Time,Active,113445,13.0,Does Not Meet,2021-12-03,CC686,Australia
+EMP00964,Yuki Turner,Prefer not to say,Hispanic,49,HR,Lead,L2,San Francisco,2023-03-28,10.19,MGR0012,Part-Time,Active,52643,8.5,Does Not Meet,2020-04-03,CC604,Brazil
+EMP00965,Sofia Kim,Prefer not to say,Asian,25,Legal,Specialist,L2,Denver,2019-07-08,6.27,MGR0010,Full-Time,Active,45590,9.4,Meets,2020-12-11,CC774,UK
+EMP00966,Noah Baker,Non-binary,Black or African American,32,Sales,Associate,L6,Boston,2017-01-09,0.28,MGR0022,Part-Time,Active,114444,10.1,Meets,2020-10-25,CC635,UK
+EMP00967,Soren Brown,Non-binary,Two or more races,47,Product,Principal,L1,Dallas,2015-10-25,7.13,MGR0050,Part-Time,Active,157711,15.6,Partially Meets,2026-02-17,CC988,USA
+EMP00968,Wei Garcia,Non-binary,White,60,Design,Senior Manager,L6,Dallas,2016-10-10,5.25,MGR0047,Part-Time,Leave,121511,16.2,Partially Meets,2023-10-15,CC966,India
+EMP00969,Aisha Costa,Non-binary,Asian,62,Customer Success,Lead,L4,New York,2022-04-05,8.37,MGR0029,Full-Time,Active,91934,5.9,Does Not Meet,2025-01-07,CC499,Singapore
+EMP00970,Ryan Carter,Female,White,61,Product,Director,L4,San Francisco,2017-03-13,11.57,MGR0005,Part-Time,Active,205021,13.3,Does Not Meet,2026-01-28,CC253,Brazil
+EMP00971,Yuki Roberts,Female,Hispanic,42,Customer Success,Principal,L2,Atlanta,2020-09-02,11.93,MGR0003,Part-Time,Leave,45171,10.0,Meets,2022-08-30,CC477,USA
+EMP00972,Olivia Johnson,Non-binary,Asian,46,Design,Principal,L3,Atlanta,2022-10-19,6.87,MGR0002,Full-Time,Active,118294,22.5,Meets,2023-11-04,CC972,Australia
+EMP00973,Rohan Nguyen,Prefer not to say,Asian,59,Legal,Senior Manager,L2,Boston,2018-01-04,9.93,MGR0040,Part-Time,Active,212326,6.2,Meets,2025-12-21,CC857,Germany
+EMP00974,Nina Müller,Female,Two or more races,58,Sales,VP,L4,Austin,2023-11-08,3.2,MGR0044,Part-Time,Active,184733,19.0,Does Not Meet,2021-12-29,CC451,Brazil
+EMP00975,Soren Martinez,Prefer not to say,Two or more races,36,Design,Senior Manager,L3,Dallas,2016-11-17,7.33,MGR0044,Part-Time,Active,103603,21.5,Exceeds,2026-04-12,CC827,Brazil
+EMP00976,Sara Johnson,Prefer not to say,Two or more races,38,Legal,Lead,L3,New York,2019-02-21,7.36,MGR0049,Part-Time,Active,113604,5.6,Meets,2023-06-09,CC743,India
+EMP00977,Sofia Lewis,Male,White,52,IT,Specialist,L2,New York,2024-11-04,2.47,MGR0046,Part-Time,Leave,106870,6.7,Exceeds,2020-12-18,CC958,Australia
+EMP00978,Nina Robinson,Male,Black or African American,40,Product,Senior Analyst,L3,Boston,2017-05-10,2.51,MGR0014,Full-Time,Active,207366,22.2,Does Not Meet,2025-05-03,CC845,India
+EMP00979,Chloe Wilson,Non-binary,White,23,IT,Director,L7,Austin,2017-09-02,8.4,MGR0042,Full-Time,Active,67842,0.9,Partially Meets,2021-12-27,CC567,Brazil
+EMP00980,Layla Kim,Prefer not to say,Two or more races,25,IT,Manager,L7,Atlanta,2021-11-26,0.18,MGR0024,Full-Time,Active,179809,13.2,Partially Meets,2024-07-05,CC266,UK
+EMP00981,Mei King,Prefer not to say,Asian,25,Operations,Principal,L5,Denver,2025-06-27,9.53,MGR0029,Part-Time,Active,123289,21.6,Meets,2025-07-11,CC823,Australia
+EMP00982,Mei Carter,Non-binary,Two or more races,62,Operations,Principal,L4,Boston,2020-09-20,9.58,MGR0021,Part-Time,Active,176604,3.2,Exceeds,2020-12-05,CC931,Brazil
+EMP00983,Priya Brown,Male,White,24,Marketing,Director,L3,Chicago,2018-09-23,7.08,MGR0015,Full-Time,Active,79374,16.1,Exceeds,2023-08-28,CC989,Australia
+EMP00984,Zara Singh,Non-binary,Black or African American,52,Engineering,Lead,L2,Denver,2015-10-11,6.71,MGR0012,Full-Time,Active,124498,7.1,Does Not Meet,2024-04-29,CC700,Singapore
+EMP00985,Yuki Perez,Female,Asian,50,Data Science,Specialist,L6,Seattle,2016-08-13,7.75,MGR0010,Full-Time,Active,141021,21.1,Meets,2024-02-19,CC394,Canada
+EMP00986,Layla Ali,Female,Not disclosed,56,Sales,Manager,L2,San Francisco,2015-10-13,1.6,MGR0039,Full-Time,Active,209341,7.6,Exceeds,2020-08-29,CC486,USA
+EMP00987,Aisha Hall,Female,Asian,38,Product,Manager,L2,Dallas,2024-12-05,5.61,MGR0002,Full-Time,Active,150912,13.0,Exceeds,2025-02-10,CC281,UK
+EMP00988,Omar Walker,Prefer not to say,Black or African American,38,Design,VP,L5,Seattle,2025-02-02,5.86,MGR0025,Full-Time,Leave,53570,8.1,Exceeds,2025-09-23,CC936,Singapore
+EMP00989,Kevin King,Female,Not disclosed,28,Legal,Analyst,L5,Austin,2019-04-16,8.65,MGR0008,Part-Time,Active,61599,11.4,Meets,2022-03-23,CC553,Canada
+EMP00990,Soren Nelson,Female,White,42,Marketing,Manager,L2,Remote,2025-05-20,11.47,MGR0040,Full-Time,Active,89877,23.9,Does Not Meet,2023-09-01,CC773,India
+EMP00991,Amara Ivanov,Female,Hispanic,32,Operations,VP,L6,Chicago,2022-03-07,9.49,MGR0035,Full-Time,Active,190737,23.5,Partially Meets,2024-09-07,CC225,Singapore
+EMP00992,Ananya Thomas,Prefer not to say,Hispanic,32,Legal,Director,L2,New York,2023-02-16,6.9,MGR0017,Part-Time,Leave,175578,15.3,Exceeds,2022-01-09,CC557,Singapore
+EMP00993,Sophia Wright,Female,Asian,26,Marketing,Analyst,L3,Chicago,2015-01-12,8.03,MGR0039,Part-Time,Leave,175469,18.0,Meets,2025-07-01,CC824,Australia
+EMP00994,Nadia King,Female,Hispanic,31,Engineering,Senior Analyst,L2,Boston,2016-07-20,4.83,MGR0047,Full-Time,Leave,94398,4.3,Exceeds,2022-12-22,CC879,Singapore
+EMP00995,Sofia Thomas,Prefer not to say,Black or African American,35,Design,VP,L6,Dallas,2021-10-20,4.35,MGR0016,Part-Time,Active,55600,5.0,Partially Meets,2023-05-22,CC341,Brazil
+EMP00996,Aisha Wright,Non-binary,White,51,Sales,VP,L7,Austin,2022-03-28,11.45,MGR0047,Full-Time,Active,84115,16.1,Meets,2026-07-31,CC867,Australia
+EMP00997,Priya Williams,Non-binary,Hispanic,52,Finance,Lead,L2,New York,2022-06-12,7.38,MGR0013,Full-Time,Leave,153942,24.8,Exceeds,2022-05-11,CC803,Singapore
+EMP00998,Diego Kim,Female,Asian,25,Data Science,Manager,L6,Austin,2016-01-16,1.48,MGR0011,Full-Time,Active,152508,11.7,Meets,2020-08-07,CC217,India
+EMP00999,Emma Jackson,Prefer not to say,White,30,Marketing,Analyst,L1,Remote,2016-04-19,8.69,MGR0029,Full-Time,Active,218465,18.6,Does Not Meet,2022-10-15,CC302,Canada
+EMP01000,Ethan Wright,Female,Asian,46,Operations,Senior Manager,L5,New York,2015-06-01,7.96,MGR0030,Part-Time,Leave,72165,3.7,Partially Meets,2021-12-22,CC202,India
+EMP01001,Priya King,Prefer not to say,Not disclosed,55,Marketing,VP,L7,New York,2018-03-11,6.96,MGR0021,Full-Time,Active,201322,7.2,Meets,2020-03-11,CC960,Canada
+EMP01002,Sara Hernandez,Prefer not to say,White,22,HR,Principal,L5,Boston,2022-11-09,1.63,MGR0045,Part-Time,Active,70472,5.7,Does Not Meet,2021-04-30,CC245,Germany
+EMP01003,Chloe Hernandez,Non-binary,Two or more races,45,Legal,Director,L7,Austin,2017-02-20,2.62,MGR0002,Part-Time,Active,85939,0.6,Does Not Meet,2020-08-08,CC532,India
+EMP01004,Leila Martinez,Prefer not to say,Hispanic,57,Product,Director,L1,Austin,2019-01-22,7.23,MGR0004,Part-Time,Active,158042,10.7,Exceeds,2024-08-15,CC333,UK
+EMP01005,Ethan Hall,Male,Black or African American,42,Finance,Manager,L7,New York,2016-06-02,2.74,MGR0046,Part-Time,Active,110456,1.5,Exceeds,2024-01-27,CC515,Singapore
+EMP01006,Jasmine Baker,Prefer not to say,Black or African American,49,Finance,Principal,L1,Boston,2021-04-30,5.37,MGR0044,Part-Time,Active,119722,10.6,Meets,2022-10-05,CC357,Singapore
+EMP01007,Carlos Brown,Non-binary,Asian,49,Engineering,Senior Analyst,L1,Dallas,2024-06-09,0.81,MGR0008,Full-Time,Active,99321,0.7,Does Not Meet,2026-03-18,CC335,India
+EMP01008,Nina Andersen,Male,Asian,32,Legal,Lead,L1,Dallas,2020-01-15,0.26,MGR0007,Part-Time,Active,73154,3.7,Exceeds,2021-03-19,CC450,USA
+EMP01009,Aisha Smith,Male,Asian,50,Sales,Senior Manager,L1,Atlanta,2020-03-13,8.58,MGR0022,Full-Time,Active,120425,9.0,Partially Meets,2025-07-08,CC407,Canada
+EMP01010,Nina Nguyen,Male,Not disclosed,34,Engineering,Analyst,L5,Denver,2023-12-26,2.26,MGR0035,Part-Time,Active,156649,17.6,Partially Meets,2025-07-25,CC130,Canada
+EMP01011,Hannah Singh,Non-binary,Hispanic,34,IT,Associate,L2,Atlanta,2016-05-08,11.07,MGR0028,Part-Time,Active,84036,2.0,Exceeds,2025-11-18,CC346,UK
+EMP01012,Tyler Johnson,Male,White,39,Legal,Associate,L4,San Francisco,2022-11-05,3.8,MGR0022,Full-Time,Active,75534,1.3,Does Not Meet,2025-03-29,CC227,Germany
+EMP01013,Priya Nelson,Non-binary,Two or more races,37,Customer Success,Lead,L1,Remote,2015-06-02,9.11,MGR0046,Part-Time,Leave,45793,7.9,Exceeds,2023-07-21,CC903,UK
+EMP01014,Rohan Adams,Male,Two or more races,41,Data Science,Principal,L7,Atlanta,2015-06-23,11.16,MGR0026,Part-Time,Active,214876,1.6,Does Not Meet,2024-12-03,CC801,India
+EMP01015,Raj Jackson,Non-binary,White,48,Legal,Senior Analyst,L2,Chicago,2024-02-15,5.87,MGR0004,Part-Time,Active,194688,6.7,Meets,2021-12-14,CC880,Australia
+EMP01016,Sophia Ali,Non-binary,Two or more races,58,Sales,Principal,L4,New York,2019-11-25,0.9,MGR0017,Full-Time,Active,218099,3.5,Meets,2025-03-28,CC152,Singapore
+EMP01017,Ryan Martinez,Male,White,48,Engineering,Manager,L6,New York,2024-03-11,7.61,MGR0043,Part-Time,Active,188064,23.6,Exceeds,2022-08-21,CC478,Singapore
+EMP01018,Fatima Kim,Male,Asian,23,Design,Lead,L5,Remote,2025-02-06,11.58,MGR0043,Full-Time,Active,188292,23.2,Partially Meets,2023-05-30,CC647,UK
+EMP01019,Andre Kim,Prefer not to say,Black or African American,55,Customer Success,Senior Manager,L5,Atlanta,2016-10-20,11.67,MGR0024,Part-Time,Active,186321,4.3,Exceeds,2022-11-28,CC653,USA
+EMP01020,Tyler Sharma,Prefer not to say,Not disclosed,27,Marketing,Senior Manager,L4,Remote,2019-09-12,1.11,MGR0039,Part-Time,Active,214856,16.7,Meets,2025-09-23,CC611,Germany
+EMP01021,Liam Green,Prefer not to say,Two or more races,54,Marketing,Specialist,L6,Denver,2023-11-16,6.99,MGR0043,Part-Time,Active,115027,1.1,Partially Meets,2022-07-28,CC830,India
+EMP01022,Aisha Scott,Prefer not to say,White,44,Legal,Analyst,L4,Dallas,2017-11-25,7.74,MGR0012,Part-Time,Active,190021,14.0,Partially Meets,2024-03-25,CC462,India
+EMP01023,Elena Scott,Prefer not to say,Hispanic,40,Data Science,Analyst,L5,Denver,2023-09-26,8.45,MGR0019,Part-Time,Active,188339,6.2,Partially Meets,2024-10-24,CC126,Germany
+EMP01024,Hassan Robinson,Female,White,50,Engineering,Manager,L5,Boston,2020-01-30,1.32,MGR0010,Full-Time,Active,197042,19.0,Does Not Meet,2023-02-01,CC655,UK
+EMP01025,Hassan Wright,Female,Black or African American,56,Legal,Lead,L6,Dallas,2015-01-02,2.81,MGR0003,Part-Time,Active,112772,9.9,Meets,2025-11-29,CC555,India
+EMP01026,Priya Adams,Male,White,41,Sales,Senior Manager,L7,San Francisco,2019-10-07,7.08,MGR0049,Full-Time,Active,218324,18.9,Meets,2022-04-17,CC831,Brazil
+EMP01027,Noah Ali,Prefer not to say,Not disclosed,48,Engineering,VP,L2,Chicago,2016-03-18,0.62,MGR0017,Part-Time,Leave,178967,2.4,Partially Meets,2020-03-30,CC269,Australia
+EMP01028,Olivia Robinson,Prefer not to say,Hispanic,38,Sales,Principal,L1,Denver,2025-03-01,3.88,MGR0003,Full-Time,Active,116722,0.7,Does Not Meet,2024-07-04,CC965,India
+EMP01029,Andre Walker,Male,Two or more races,30,Design,Director,L5,Dallas,2020-04-09,6.92,MGR0035,Full-Time,Leave,186830,23.9,Exceeds,2024-06-29,CC572,UK
+EMP01030,Olivia Williams,Prefer not to say,Black or African American,48,Customer Success,Senior Analyst,L7,Chicago,2016-02-01,10.09,MGR0040,Full-Time,Active,209256,9.4,Partially Meets,2026-02-14,CC532,Canada
+EMP01031,Nadia Ferreira,Prefer not to say,Black or African American,54,Legal,Principal,L3,San Francisco,2022-11-02,4.0,MGR0038,Part-Time,Active,217990,1.2,Exceeds,2021-07-06,CC839,UK
+EMP01032,Sofia Walker,Non-binary,Hispanic,46,Design,Analyst,L3,San Francisco,2015-08-28,0.94,MGR0006,Part-Time,Active,104524,20.8,Does Not Meet,2022-04-28,CC531,Australia
+EMP01033,Raj Roberts,Female,White,54,IT,Director,L3,Boston,2017-10-15,7.23,MGR0025,Part-Time,Active,57884,0.6,Partially Meets,2021-07-10,CC405,Germany
+EMP01034,Maria Costa,Prefer not to say,Asian,39,Design,Lead,L5,Denver,2017-01-02,5.23,MGR0027,Full-Time,Active,159243,6.6,Exceeds,2023-06-26,CC422,Brazil
+EMP01035,Sara Harris,Prefer not to say,Black or African American,56,Engineering,Principal,L4,Seattle,2024-09-13,9.24,MGR0015,Full-Time,Leave,204543,0.7,Meets,2022-09-20,CC977,Australia
+EMP01036,Nina Jackson,Female,Not disclosed,33,Legal,VP,L6,Seattle,2017-11-23,0.74,MGR0026,Part-Time,Leave,204446,8.7,Exceeds,2020-02-07,CC811,Brazil
+EMP01037,Sophia Kim,Female,Hispanic,40,Marketing,Specialist,L4,Atlanta,2016-10-18,8.36,MGR0031,Part-Time,Active,80215,19.1,Exceeds,2024-05-17,CC128,India
+EMP01038,Sophia Andersen,Male,White,45,Customer Success,Director,L5,Dallas,2015-11-20,7.71,MGR0004,Full-Time,Leave,48935,2.7,Does Not Meet,2025-05-24,CC828,Singapore
+EMP01039,Wei Smith,Male,Hispanic,58,IT,VP,L4,New York,2021-04-07,11.18,MGR0018,Part-Time,Active,152098,19.8,Meets,2024-10-06,CC177,UK
+EMP01040,Emma Martinez,Male,Hispanic,55,Finance,Senior Manager,L6,Atlanta,2023-03-11,4.17,MGR0028,Part-Time,Leave,146153,21.7,Exceeds,2025-03-04,CC667,Australia
+EMP01041,Chris Martinez,Non-binary,Black or African American,54,Marketing,Director,L2,San Francisco,2024-03-08,8.09,MGR0045,Full-Time,Leave,130013,22.0,Partially Meets,2023-01-04,CC148,USA
+EMP01042,Chloe Nakamura,Non-binary,Not disclosed,45,Finance,Specialist,L3,Austin,2022-07-31,10.45,MGR0005,Full-Time,Active,95737,3.9,Does Not Meet,2023-03-15,CC888,Singapore
+EMP01043,Leila Turner,Male,Asian,50,Legal,Senior Manager,L2,Seattle,2022-08-26,7.78,MGR0044,Full-Time,Active,89491,0.8,Does Not Meet,2021-11-26,CC939,India
+EMP01044,Tyler Hernandez,Male,Not disclosed,56,Engineering,Senior Analyst,L5,Denver,2025-01-25,11.55,MGR0003,Part-Time,Active,211551,4.9,Does Not Meet,2022-07-29,CC432,UK
+EMP01045,Leila Müller,Non-binary,Hispanic,41,Engineering,Analyst,L7,San Francisco,2017-12-28,6.22,MGR0046,Part-Time,Active,169300,12.6,Exceeds,2024-10-06,CC453,UK
+EMP01046,Rohan Nakamura,Non-binary,Black or African American,38,Legal,Analyst,L7,Dallas,2018-02-16,2.6,MGR0035,Part-Time,Active,169547,15.1,Meets,2025-01-18,CC821,India
+EMP01047,Ananya Mitchell,Non-binary,Hispanic,60,Sales,Manager,L5,Atlanta,2015-03-05,11.53,MGR0033,Part-Time,Leave,146186,20.1,Does Not Meet,2026-07-29,CC640,UK
+EMP01048,Andre Perez,Male,Black or African American,42,Product,Principal,L6,Austin,2024-12-03,10.07,MGR0007,Part-Time,Active,81052,6.3,Meets,2020-05-29,CC929,India
+EMP01049,Tariq Green,Prefer not to say,Not disclosed,38,Marketing,Director,L2,Chicago,2024-08-31,10.0,MGR0042,Full-Time,Leave,162841,4.1,Meets,2022-09-02,CC681,India
+EMP01050,Emma Nelson,Prefer not to say,White,47,Marketing,Principal,L2,Austin,2016-09-10,6.25,MGR0033,Full-Time,Leave,191026,23.1,Meets,2021-08-19,CC224,USA
+EMP01051,Emma Singh,Female,Hispanic,33,Engineering,Analyst,L1,Dallas,2024-02-26,4.69,MGR0028,Part-Time,Active,56877,22.8,Does Not Meet,2024-05-01,CC224,USA
+EMP01052,Aisha Costa,Female,Black or African American,46,Sales,Director,L1,Chicago,2021-02-21,10.78,MGR0019,Part-Time,Active,213074,23.6,Exceeds,2025-05-30,CC382,Brazil
+EMP01053,Andre King,Female,Hispanic,42,Finance,Associate,L7,Remote,2023-10-13,3.87,MGR0044,Full-Time,Active,45956,5.0,Exceeds,2025-02-15,CC955,Brazil
+EMP01054,Sophia Singh,Non-binary,Black or African American,43,Design,Principal,L4,Atlanta,2025-04-09,10.03,MGR0022,Full-Time,Active,159271,10.8,Does Not Meet,2024-09-24,CC375,India
+EMP01055,Aarav Nelson,Prefer not to say,Black or African American,41,Sales,Senior Analyst,L6,Chicago,2015-10-30,11.84,MGR0001,Part-Time,Leave,129916,2.5,Partially Meets,2025-04-06,CC142,USA
+EMP01056,Jasmine King,Female,Asian,48,Customer Success,Senior Manager,L3,Dallas,2019-02-13,1.78,MGR0035,Part-Time,Active,146820,15.2,Exceeds,2025-12-02,CC339,Brazil
+EMP01057,Hannah Hall,Male,Asian,55,Data Science,Specialist,L7,Remote,2021-04-04,0.96,MGR0002,Part-Time,Leave,157395,4.5,Does Not Meet,2020-11-13,CC683,Singapore
+EMP01058,Jake Johnson,Female,Hispanic,23,Sales,Manager,L4,Boston,2025-01-21,5.51,MGR0041,Full-Time,Active,48851,7.6,Exceeds,2026-03-16,CC975,USA
+EMP01059,Soren White,Female,White,51,Operations,VP,L5,Boston,2023-07-15,11.66,MGR0008,Part-Time,Active,164778,7.3,Exceeds,2021-07-19,CC599,Germany
+EMP01060,Diego Nguyen,Male,White,56,Data Science,Lead,L2,Seattle,2019-04-27,1.19,MGR0046,Part-Time,Active,159227,6.7,Meets,2021-07-31,CC717,Singapore
+EMP01061,Hassan Scott,Male,Asian,25,Design,Director,L6,Boston,2018-10-01,3.27,MGR0009,Full-Time,Leave,135862,17.0,Partially Meets,2025-06-14,CC953,USA
+EMP01062,Chloe Lewis,Female,White,58,Marketing,Manager,L7,Boston,2018-07-30,6.01,MGR0001,Full-Time,Active,61611,15.8,Meets,2023-11-02,CC519,Germany
+EMP01063,Elena Martinez,Female,Hispanic,39,Product,Manager,L5,Austin,2015-08-05,11.04,MGR0040,Part-Time,Active,46325,1.5,Does Not Meet,2025-10-31,CC767,UK
+EMP01064,Marcus Nakamura,Prefer not to say,Hispanic,27,Marketing,Associate,L1,Denver,2016-10-21,11.31,MGR0035,Part-Time,Active,171214,1.6,Partially Meets,2026-04-22,CC756,USA
+EMP01065,Emma Wright,Non-binary,White,61,Marketing,Specialist,L7,San Francisco,2016-01-10,11.77,MGR0043,Full-Time,Active,93740,10.7,Exceeds,2024-01-25,CC332,Singapore
+EMP01066,Soren Brown,Female,White,24,Product,Senior Analyst,L7,Denver,2015-08-07,7.16,MGR0044,Full-Time,Active,171842,6.4,Exceeds,2025-08-27,CC687,Germany
+EMP01067,Ingrid Sharma,Non-binary,Hispanic,31,IT,Lead,L4,Denver,2021-04-20,7.16,MGR0037,Full-Time,Active,135338,3.3,Partially Meets,2023-02-16,CC583,India
+EMP01068,Tariq Williams,Female,Asian,34,Finance,Lead,L1,Chicago,2019-08-21,10.83,MGR0047,Full-Time,Active,112585,8.3,Meets,2023-12-11,CC893,Brazil
+EMP01069,Sofia Nguyen,Male,Asian,40,HR,VP,L4,Seattle,2017-06-27,6.34,MGR0016,Part-Time,Active,155277,13.2,Does Not Meet,2023-01-23,CC658,Brazil
+EMP01070,Mia Clark,Prefer not to say,Hispanic,59,Customer Success,Senior Manager,L6,Seattle,2015-06-09,10.7,MGR0035,Full-Time,Leave,124597,24.2,Partially Meets,2022-07-22,CC491,Germany
+EMP01071,Wei Young,Male,Black or African American,43,Engineering,Specialist,L7,Atlanta,2019-07-21,11.13,MGR0046,Full-Time,Active,139399,11.2,Partially Meets,2023-12-14,CC181,Australia
+EMP01072,Liam Ali,Female,Not disclosed,22,IT,Analyst,L5,Boston,2019-06-15,10.84,MGR0021,Full-Time,Active,174337,15.7,Partially Meets,2020-04-22,CC782,India
+EMP01073,Noah Patel,Male,White,51,Customer Success,Associate,L1,Remote,2024-12-22,11.84,MGR0002,Full-Time,Active,122314,17.6,Does Not Meet,2024-05-12,CC155,UK
+EMP01074,Chris Johnson,Prefer not to say,Not disclosed,61,Operations,Senior Manager,L3,Seattle,2016-11-19,8.41,MGR0006,Full-Time,Active,66677,16.7,Meets,2024-11-27,CC421,Australia
+EMP01075,Maria Singh,Female,Asian,25,Sales,VP,L1,Boston,2024-10-11,2.65,MGR0047,Full-Time,Active,216619,17.2,Partially Meets,2024-12-07,CC748,Australia
+EMP01076,Amir Costa,Male,Asian,28,Product,Senior Manager,L7,Austin,2015-05-12,5.62,MGR0036,Full-Time,Active,199635,16.9,Exceeds,2022-08-02,CC782,India
+EMP01077,Aarav Ferreira,Non-binary,Not disclosed,61,HR,Director,L7,New York,2015-07-17,2.52,MGR0038,Full-Time,Active,117727,8.7,Exceeds,2022-05-28,CC538,USA
+EMP01078,Leila Perez,Non-binary,White,26,Customer Success,Director,L6,Remote,2020-09-05,10.93,MGR0015,Part-Time,Leave,206637,22.3,Partially Meets,2023-11-18,CC878,Canada
+EMP01079,Sara Mitchell,Non-binary,Hispanic,24,Operations,Associate,L1,New York,2025-03-13,0.81,MGR0032,Full-Time,Active,149276,14.3,Exceeds,2020-10-28,CC659,Brazil
+EMP01080,Amir Walker,Non-binary,White,37,Product,Lead,L3,Austin,2023-01-16,8.63,MGR0014,Full-Time,Leave,120753,7.7,Partially Meets,2022-07-10,CC121,USA
+EMP01081,Yuki Thomas,Prefer not to say,Hispanic,43,Operations,Analyst,L2,Austin,2019-05-28,7.63,MGR0001,Full-Time,Active,100709,24.6,Partially Meets,2022-11-10,CC233,Brazil
+EMP01082,Ethan Patel,Prefer not to say,Two or more races,38,Marketing,Principal,L1,Austin,2017-01-22,7.97,MGR0037,Full-Time,Active,103018,7.7,Exceeds,2020-10-12,CC115,USA
+EMP01083,James Nelson,Prefer not to say,Not disclosed,24,Operations,Senior Manager,L1,Dallas,2021-05-29,6.71,MGR0027,Part-Time,Active,48655,3.8,Exceeds,2020-12-28,CC493,Brazil
+EMP01084,Noah Brown,Male,Black or African American,43,Product,VP,L7,Remote,2019-12-24,6.72,MGR0035,Part-Time,Active,193266,21.5,Exceeds,2021-12-01,CC707,Brazil
+EMP01085,Liam Ferreira,Male,Hispanic,37,Legal,Manager,L7,New York,2018-06-30,10.63,MGR0010,Part-Time,Active,137726,13.0,Exceeds,2022-11-13,CC573,Singapore
+EMP01086,Priya Perez,Female,White,50,Sales,Senior Analyst,L7,Boston,2024-12-24,10.12,MGR0015,Full-Time,Active,94557,10.8,Meets,2021-02-09,CC762,UK
+EMP01087,Omar Hall,Male,Two or more races,58,Product,Analyst,L6,Boston,2015-10-04,6.83,MGR0028,Full-Time,Active,176893,10.9,Partially Meets,2023-09-23,CC663,India
+EMP01088,Nadia Sharma,Prefer not to say,Not disclosed,52,Marketing,Senior Analyst,L4,Dallas,2023-03-11,6.25,MGR0046,Full-Time,Active,106953,12.0,Meets,2020-10-02,CC660,Brazil
+EMP01089,Fatima Lewis,Prefer not to say,Hispanic,54,Finance,VP,L3,New York,2021-10-29,7.92,MGR0033,Full-Time,Active,169982,4.1,Exceeds,2021-12-28,CC664,Canada
+EMP01090,Ethan Young,Female,Not disclosed,36,Marketing,Manager,L1,Seattle,2021-11-24,1.16,MGR0018,Part-Time,Active,216660,5.3,Meets,2025-11-19,CC865,India
+EMP01091,Raj White,Female,Not disclosed,22,Data Science,Manager,L6,New York,2015-09-28,1.62,MGR0041,Full-Time,Active,117613,23.4,Meets,2022-06-16,CC972,UK
+EMP01092,Ingrid Wilson,Prefer not to say,Black or African American,30,Design,Senior Analyst,L2,Boston,2016-06-18,8.64,MGR0003,Full-Time,Leave,69520,10.4,Exceeds,2024-07-25,CC359,Brazil
+EMP01093,Aarav Mitchell,Male,Black or African American,60,HR,Specialist,L4,Atlanta,2017-03-18,4.33,MGR0038,Full-Time,Leave,185841,5.6,Exceeds,2020-04-03,CC767,UK
+EMP01094,Aisha Ahmed,Male,Asian,41,Legal,Principal,L1,Austin,2021-09-16,7.03,MGR0034,Full-Time,Active,52647,6.6,Partially Meets,2020-09-30,CC734,Brazil
+EMP01095,Liam Okafor,Male,Hispanic,29,Legal,Specialist,L1,Dallas,2019-05-25,0.76,MGR0026,Part-Time,Active,148089,11.5,Exceeds,2024-04-18,CC339,Brazil
+EMP01096,Fatima Williams,Prefer not to say,Black or African American,45,Engineering,Director,L5,Seattle,2025-06-05,9.37,MGR0017,Part-Time,Active,160599,24.1,Does Not Meet,2022-03-15,CC801,Germany
+EMP01097,Jasmine Smith,Female,Two or more races,48,Operations,Analyst,L3,Remote,2021-10-12,4.59,MGR0030,Full-Time,Active,89287,9.6,Does Not Meet,2021-04-26,CC190,Germany
+EMP01098,Rohan Ali,Prefer not to say,Not disclosed,30,Design,VP,L6,Dallas,2016-08-24,8.38,MGR0018,Full-Time,Active,179922,21.3,Exceeds,2025-12-26,CC852,Singapore
+EMP01099,Sofia Adams,Male,Not disclosed,61,Legal,Manager,L6,Chicago,2021-08-30,8.72,MGR0046,Full-Time,Leave,194656,17.1,Partially Meets,2022-06-22,CC305,Australia
+EMP01100,Isabella Brown,Non-binary,Asian,33,Operations,Analyst,L3,Dallas,2024-01-11,2.91,MGR0016,Part-Time,Active,54105,20.2,Meets,2020-11-13,CC180,Australia
+EMP01101,Kevin Hall,Prefer not to say,Asian,23,Operations,Director,L3,Atlanta,2024-07-06,9.36,MGR0025,Part-Time,Active,131723,19.9,Does Not Meet,2026-07-31,CC829,Germany
+EMP01102,Jasmine Baker,Non-binary,Hispanic,45,HR,Associate,L3,Remote,2023-02-04,5.72,MGR0018,Part-Time,Active,200883,19.4,Does Not Meet,2020-09-17,CC541,Canada
+EMP01103,Olivia Brown,Male,Hispanic,43,Finance,VP,L1,Dallas,2025-02-27,8.4,MGR0001,Part-Time,Leave,125307,12.7,Partially Meets,2022-01-29,CC878,Brazil
+EMP01104,Fatima Sharma,Non-binary,Two or more races,46,Legal,Director,L7,Atlanta,2021-09-06,2.26,MGR0016,Full-Time,Active,117399,3.4,Partially Meets,2021-05-01,CC372,UK
+EMP01105,Emma Costa,Male,Not disclosed,38,Data Science,Lead,L5,Chicago,2019-04-26,3.05,MGR0011,Part-Time,Active,123904,19.4,Partially Meets,2022-05-24,CC835,USA
+EMP01106,Soren Ahmed,Female,Not disclosed,51,HR,Senior Analyst,L6,New York,2020-01-29,0.46,MGR0042,Full-Time,Active,184153,20.5,Meets,2021-08-04,CC223,India
+EMP01107,Tariq King,Prefer not to say,White,57,Finance,VP,L2,Chicago,2019-02-17,4.42,MGR0043,Part-Time,Active,158494,22.2,Does Not Meet,2022-11-29,CC373,Singapore
+EMP01108,Emma Harris,Female,Not disclosed,32,Data Science,Analyst,L6,Dallas,2015-07-19,4.99,MGR0022,Full-Time,Active,161577,11.6,Meets,2026-06-22,CC540,Brazil
+EMP01109,Lucas Ahmed,Female,Hispanic,51,Engineering,Senior Analyst,L3,New York,2022-08-25,7.78,MGR0003,Part-Time,Active,160167,23.3,Exceeds,2020-04-10,CC476,Australia
+EMP01110,Layla Carter,Male,White,23,Marketing,Specialist,L7,Austin,2022-04-12,8.78,MGR0005,Part-Time,Active,128830,11.6,Meets,2021-05-06,CC535,USA
+EMP01111,Amara Müller,Male,Hispanic,47,Customer Success,Senior Analyst,L4,Austin,2021-10-10,10.91,MGR0013,Full-Time,Active,144112,15.6,Partially Meets,2021-09-23,CC630,Brazil
+EMP01112,Tariq Johnson,Female,Two or more races,62,Product,Senior Manager,L3,Austin,2016-12-21,8.66,MGR0040,Part-Time,Active,106507,3.7,Meets,2024-12-18,CC332,Canada
+EMP01113,Layla Green,Female,White,40,Operations,Specialist,L6,Chicago,2025-01-08,9.4,MGR0015,Full-Time,Active,155946,10.7,Partially Meets,2020-05-22,CC580,Brazil
+EMP01114,Maria King,Prefer not to say,White,54,Marketing,Associate,L5,Atlanta,2016-01-11,9.48,MGR0008,Full-Time,Active,144911,1.0,Exceeds,2025-07-05,CC227,UK
+EMP01115,Carlos Hernandez,Female,Two or more races,57,Data Science,Manager,L6,San Francisco,2019-06-12,11.57,MGR0032,Part-Time,Active,185019,21.5,Does Not Meet,2025-05-13,CC305,Australia
+EMP01116,Andre Nakamura,Female,Hispanic,35,HR,Manager,L2,Austin,2019-12-18,11.04,MGR0033,Full-Time,Active,204233,7.3,Meets,2023-11-18,CC673,UK
+EMP01117,Kevin Mitchell,Female,Hispanic,44,Legal,Analyst,L4,Austin,2023-01-17,9.87,MGR0040,Part-Time,Active,142410,16.4,Does Not Meet,2022-09-19,CC953,Singapore
+EMP01118,Isabella Chen,Male,Two or more races,25,Finance,Associate,L6,Atlanta,2024-09-10,3.38,MGR0016,Full-Time,Active,127642,5.7,Partially Meets,2021-05-14,CC768,Australia
+EMP01119,Aarav Carter,Male,Hispanic,46,Marketing,Associate,L6,New York,2016-08-31,6.15,MGR0019,Part-Time,Active,194660,20.7,Does Not Meet,2024-02-05,CC495,India
+EMP01120,Tariq Andersen,Prefer not to say,White,45,Operations,Director,L5,San Francisco,2018-07-09,9.61,MGR0041,Full-Time,Active,67669,10.7,Partially Meets,2020-10-21,CC179,Australia
+EMP01121,Chloe Andersen,Male,Two or more races,27,IT,Associate,L5,Chicago,2018-09-13,7.13,MGR0029,Part-Time,Active,93460,1.5,Exceeds,2021-07-15,CC118,Germany
+EMP01122,Chloe Martinez,Male,White,61,Data Science,Specialist,L1,Austin,2016-11-22,8.77,MGR0006,Full-Time,Active,64212,23.5,Meets,2024-10-27,CC735,Brazil
+EMP01123,Ryan Wright,Prefer not to say,Asian,24,IT,Lead,L4,Chicago,2020-03-10,0.98,MGR0028,Part-Time,Active,105640,2.0,Meets,2021-06-24,CC548,Brazil
+EMP01124,Andre Johnson,Prefer not to say,Black or African American,58,Customer Success,Lead,L5,Atlanta,2022-07-27,7.82,MGR0027,Part-Time,Active,212091,23.4,Partially Meets,2022-04-11,CC218,India
+EMP01125,Jasmine Jackson,Non-binary,Black or African American,34,Engineering,Lead,L6,Remote,2022-01-24,7.68,MGR0012,Full-Time,Active,82940,1.1,Exceeds,2026-07-28,CC170,Australia
+EMP01126,Priya Hernandez,Prefer not to say,Asian,39,Finance,Principal,L6,Atlanta,2024-06-11,9.61,MGR0019,Part-Time,Active,58091,0.0,Does Not Meet,2026-04-17,CC575,Brazil
+EMP01127,Amara Young,Prefer not to say,Asian,47,Finance,Principal,L4,Remote,2018-06-08,5.46,MGR0020,Full-Time,Active,97771,9.6,Partially Meets,2024-10-13,CC807,USA
+EMP01128,Mei Garcia,Male,Asian,37,Operations,VP,L6,Chicago,2017-11-18,5.7,MGR0003,Part-Time,Active,193123,10.7,Meets,2025-03-17,CC551,India
+EMP01129,Chris Wright,Non-binary,Hispanic,58,Design,Associate,L2,Boston,2016-03-26,2.55,MGR0045,Part-Time,Leave,167146,18.0,Meets,2024-02-16,CC458,India
+EMP01130,Layla Martinez,Prefer not to say,Asian,35,Legal,Director,L2,San Francisco,2016-10-23,10.25,MGR0040,Part-Time,Leave,207729,21.2,Partially Meets,2024-05-30,CC457,Germany
+EMP01131,Kevin Clark,Female,Black or African American,43,Finance,Director,L6,Chicago,2019-08-23,3.76,MGR0017,Full-Time,Active,205428,3.0,Meets,2022-09-20,CC953,Germany
+EMP01132,Nadia Wilson,Non-binary,Hispanic,58,Finance,Associate,L3,New York,2018-02-03,6.36,MGR0044,Full-Time,Active,103858,1.2,Partially Meets,2025-08-12,CC530,UK
+EMP01133,Tariq Walker,Female,Two or more races,56,Data Science,Lead,L5,Seattle,2021-10-15,1.29,MGR0011,Full-Time,Active,194686,11.1,Exceeds,2021-12-10,CC217,Singapore
+EMP01134,James Walker,Non-binary,Black or African American,55,Operations,Senior Manager,L3,Denver,2023-07-17,4.51,MGR0031,Full-Time,Active,54775,6.1,Exceeds,2023-05-21,CC384,Brazil
+EMP01135,Amara Jackson,Male,Hispanic,61,HR,Principal,L1,New York,2024-07-06,1.78,MGR0048,Part-Time,Active,80746,19.5,Meets,2025-03-05,CC441,Brazil
+EMP01136,Omar Hall,Prefer not to say,Hispanic,43,IT,VP,L6,Atlanta,2024-09-10,11.57,MGR0036,Part-Time,Active,195382,15.2,Exceeds,2022-12-05,CC822,Australia
+EMP01137,Amara Smith,Non-binary,Not disclosed,42,Legal,Associate,L2,San Francisco,2021-03-13,0.96,MGR0035,Part-Time,Active,98661,7.4,Meets,2022-02-19,CC948,Brazil
+EMP01138,Kevin Brown,Male,Hispanic,34,Finance,Specialist,L3,Austin,2016-10-07,3.25,MGR0014,Full-Time,Active,123972,5.8,Does Not Meet,2026-07-01,CC525,Brazil
+EMP01139,Ryan Johnson,Male,Two or more races,42,Design,Manager,L5,Seattle,2023-10-06,4.64,MGR0038,Full-Time,Active,216394,2.2,Does Not Meet,2024-11-29,CC392,India
+EMP01140,Rohan Smith,Male,Black or African American,35,Operations,Analyst,L2,Chicago,2020-03-22,6.49,MGR0024,Full-Time,Active,87463,20.4,Partially Meets,2024-09-25,CC500,Australia
+EMP01141,Amir Taylor,Female,Hispanic,34,Marketing,Lead,L2,Remote,2017-01-12,9.54,MGR0001,Full-Time,Active,80243,8.3,Exceeds,2022-06-01,CC309,USA
+EMP01142,Priya Müller,Female,Black or African American,48,Product,Specialist,L1,San Francisco,2017-07-29,8.08,MGR0028,Part-Time,Active,47806,10.9,Does Not Meet,2021-08-04,CC894,Singapore
+EMP01143,Leila Hernandez,Non-binary,Hispanic,25,Marketing,Director,L6,Boston,2021-11-02,2.61,MGR0006,Full-Time,Active,197494,13.9,Partially Meets,2025-06-20,CC274,Canada
+EMP01144,Zara Andersen,Female,White,30,Customer Success,Director,L4,San Francisco,2015-04-29,11.36,MGR0038,Full-Time,Active,164070,17.9,Meets,2021-06-26,CC399,USA
+EMP01145,Sara Lee,Prefer not to say,Not disclosed,48,Finance,Lead,L4,San Francisco,2024-11-17,10.0,MGR0031,Part-Time,Active,113275,10.3,Meets,2022-12-16,CC151,Brazil
+EMP01146,Chris Young,Female,Two or more races,50,Marketing,Specialist,L6,Austin,2019-01-13,4.14,MGR0005,Full-Time,Active,128009,15.0,Partially Meets,2024-04-27,CC503,Germany
+EMP01147,Rohan Lewis,Female,Hispanic,53,HR,Senior Manager,L4,Remote,2022-12-28,9.26,MGR0005,Full-Time,Active,79076,2.1,Exceeds,2021-05-03,CC643,Singapore
+EMP01148,James Ivanov,Non-binary,Not disclosed,57,Legal,Principal,L1,San Francisco,2020-10-04,5.51,MGR0004,Part-Time,Active,54451,19.9,Meets,2021-09-10,CC460,India
+EMP01149,Leila Adams,Non-binary,Not disclosed,44,Marketing,Principal,L3,San Francisco,2021-08-04,5.98,MGR0012,Full-Time,Active,174035,23.6,Partially Meets,2022-10-20,CC325,Singapore
+EMP01150,Liam Johnson,Non-binary,Black or African American,31,Marketing,Senior Analyst,L4,Austin,2017-01-14,4.58,MGR0021,Part-Time,Leave,214357,9.6,Meets,2022-03-10,CC857,USA
+EMP01151,Ryan Smith,Female,Black or African American,40,Finance,Specialist,L7,New York,2022-10-06,3.73,MGR0034,Part-Time,Leave,202082,14.5,Partially Meets,2020-02-18,CC377,Singapore
+EMP01152,Liam Singh,Non-binary,Two or more races,46,Customer Success,VP,L1,Remote,2015-03-27,9.22,MGR0021,Full-Time,Active,175242,6.4,Meets,2024-06-15,CC537,Canada
+EMP01153,Diego Sharma,Prefer not to say,Hispanic,39,Marketing,Specialist,L4,Atlanta,2016-10-17,3.89,MGR0011,Full-Time,Active,193698,3.8,Does Not Meet,2020-11-25,CC508,Australia
+EMP01154,Aisha Okafor,Female,White,45,IT,Manager,L2,Remote,2021-02-01,3.5,MGR0005,Part-Time,Active,102243,1.1,Partially Meets,2023-07-17,CC875,Brazil
+EMP01155,Chloe Ivanov,Prefer not to say,Not disclosed,31,Data Science,Associate,L2,Remote,2017-08-10,8.7,MGR0043,Full-Time,Active,158105,9.4,Partially Meets,2022-11-27,CC738,USA
+EMP01156,Kevin King,Non-binary,White,34,HR,Senior Analyst,L2,Dallas,2022-04-01,9.15,MGR0003,Full-Time,Active,195443,13.4,Meets,2021-10-05,CC165,India
+EMP01157,Fatima Patel,Female,White,45,Design,Director,L5,San Francisco,2016-12-25,8.56,MGR0035,Full-Time,Active,187459,10.4,Does Not Meet,2024-07-02,CC405,USA
+EMP01158,Andre Scott,Male,Two or more races,42,Finance,Lead,L5,New York,2016-03-01,4.73,MGR0020,Full-Time,Active,56162,19.9,Meets,2026-05-23,CC614,Singapore
+EMP01159,Chris Hall,Prefer not to say,Hispanic,42,Customer Success,VP,L7,Denver,2019-12-17,7.69,MGR0019,Part-Time,Active,76130,14.9,Meets,2022-06-10,CC403,UK
+EMP01160,Leila Okafor,Prefer not to say,Hispanic,33,Sales,Senior Manager,L2,New York,2016-04-02,3.74,MGR0005,Full-Time,Active,87754,15.3,Meets,2021-04-06,CC388,Singapore
+EMP01161,Hassan Wright,Male,White,52,IT,Specialist,L2,Denver,2025-07-07,7.1,MGR0039,Part-Time,Leave,183109,2.4,Meets,2025-10-05,CC815,Canada
+EMP01162,Mia King,Male,White,36,Legal,Associate,L4,New York,2016-03-30,8.88,MGR0048,Full-Time,Active,61354,0.1,Meets,2021-10-22,CC652,Australia
+EMP01163,Ryan Ferreira,Female,White,22,Operations,Analyst,L3,Austin,2017-03-03,3.31,MGR0034,Full-Time,Leave,45500,23.4,Meets,2024-09-07,CC962,UK
+EMP01164,Jasmine Wright,Male,White,50,Legal,Lead,L6,Denver,2022-05-27,2.05,MGR0030,Part-Time,Active,104542,4.4,Meets,2025-08-16,CC724,Brazil
+EMP01165,Zara Ali,Prefer not to say,Asian,27,Customer Success,VP,L6,San Francisco,2022-07-20,10.61,MGR0035,Part-Time,Active,149241,11.4,Meets,2024-11-12,CC665,Germany
+EMP01166,Carlos Singh,Male,Hispanic,31,Data Science,Lead,L7,Austin,2023-09-18,2.49,MGR0015,Full-Time,Active,186705,21.2,Meets,2023-12-01,CC291,Singapore
+EMP01167,Diego Turner,Male,Two or more races,52,Operations,Analyst,L4,Atlanta,2023-04-08,5.97,MGR0007,Full-Time,Active,209927,18.1,Meets,2020-01-26,CC750,India
+EMP01168,Ananya Andersen,Female,White,61,Marketing,Specialist,L5,Atlanta,2024-08-08,11.48,MGR0008,Part-Time,Leave,74011,8.8,Does Not Meet,2026-07-01,CC973,Canada
+EMP01169,Marcus Robinson,Non-binary,Not disclosed,53,Marketing,Analyst,L6,Austin,2021-01-25,8.45,MGR0025,Part-Time,Active,184949,9.6,Meets,2023-12-20,CC688,India
+EMP01170,Lucas Wilson,Female,Black or African American,61,Customer Success,Principal,L5,Austin,2016-07-20,4.19,MGR0015,Part-Time,Active,209698,15.9,Does Not Meet,2023-05-05,CC239,USA
+EMP01171,Olivia Baker,Prefer not to say,Hispanic,61,Legal,Associate,L5,Seattle,2019-12-28,0.85,MGR0029,Part-Time,Active,50660,14.1,Does Not Meet,2023-06-11,CC802,Singapore
+EMP01172,Hannah Hernandez,Non-binary,Asian,39,Sales,Lead,L2,Remote,2017-11-10,9.64,MGR0020,Full-Time,Active,166121,6.1,Does Not Meet,2025-10-26,CC745,Australia
+EMP01173,Nina Turner,Male,Asian,40,IT,Lead,L1,Seattle,2017-04-24,3.55,MGR0001,Full-Time,Leave,148415,21.9,Partially Meets,2021-12-01,CC221,USA
+EMP01174,Nina Brown,Prefer not to say,White,47,Legal,Director,L5,Remote,2016-11-02,10.83,MGR0002,Full-Time,Active,185153,20.8,Partially Meets,2025-10-31,CC206,Canada
+EMP01175,Hannah Young,Female,Not disclosed,24,Operations,Specialist,L3,Dallas,2015-01-03,6.66,MGR0040,Part-Time,Active,72783,13.8,Does Not Meet,2022-08-26,CC114,UK
+EMP01176,Amir White,Male,White,22,HR,Analyst,L6,Boston,2025-05-18,8.67,MGR0049,Part-Time,Active,200234,22.2,Partially Meets,2022-04-12,CC117,Australia
+EMP01177,Ethan Patel,Non-binary,Two or more races,34,Product,Lead,L6,Seattle,2019-05-06,5.24,MGR0037,Full-Time,Leave,170790,22.8,Exceeds,2021-04-29,CC643,Singapore
+EMP01178,Raj Nelson,Male,White,29,Data Science,Senior Manager,L4,Boston,2016-10-25,10.67,MGR0008,Full-Time,Active,116141,23.0,Partially Meets,2022-10-29,CC234,USA
+EMP01179,Tyler Andersen,Non-binary,Asian,57,Legal,VP,L2,Seattle,2019-05-31,11.29,MGR0025,Full-Time,Active,75626,8.1,Partially Meets,2024-11-21,CC993,Singapore
+EMP01180,Lucas Clark,Female,Hispanic,33,Sales,Principal,L1,Boston,2016-07-14,2.91,MGR0041,Part-Time,Active,52706,6.5,Partially Meets,2025-05-21,CC498,Germany
+EMP01181,Ethan Mitchell,Non-binary,Black or African American,60,HR,Principal,L4,Boston,2021-01-25,2.13,MGR0015,Full-Time,Active,46600,12.2,Exceeds,2021-07-15,CC394,Australia
+EMP01182,Omar Ali,Male,Hispanic,60,Engineering,Analyst,L6,Chicago,2023-03-04,4.79,MGR0043,Full-Time,Active,62823,23.2,Does Not Meet,2022-08-28,CC897,UK
+EMP01183,Elena Harris,Female,Asian,39,Customer Success,Lead,L6,Chicago,2022-02-07,7.45,MGR0036,Part-Time,Active,190265,8.1,Meets,2026-07-21,CC784,Germany
+EMP01184,Sofia Hernandez,Female,Not disclosed,42,Sales,Associate,L1,Dallas,2016-11-28,4.0,MGR0024,Full-Time,Active,62448,1.4,Exceeds,2025-12-07,CC972,USA
+EMP01185,Amara Green,Male,Black or African American,50,Product,Director,L3,Atlanta,2019-01-27,2.84,MGR0024,Full-Time,Active,82000,7.4,Partially Meets,2021-04-04,CC953,Singapore
+EMP01186,Omar Scott,Non-binary,Not disclosed,58,Product,Senior Manager,L3,Seattle,2016-05-02,10.18,MGR0039,Full-Time,Active,132390,5.8,Exceeds,2022-06-29,CC299,India
+EMP01187,Zara Ahmed,Male,White,34,HR,Lead,L5,Austin,2020-12-10,5.18,MGR0003,Part-Time,Leave,185233,22.2,Exceeds,2023-12-15,CC913,UK
+EMP01188,Ryan Walker,Female,White,40,Customer Success,Associate,L2,Boston,2020-05-19,8.24,MGR0021,Full-Time,Active,161698,17.3,Does Not Meet,2023-08-31,CC951,Canada
+EMP01189,Lucas Turner,Female,Asian,54,Engineering,Senior Analyst,L5,Remote,2025-05-23,10.38,MGR0023,Part-Time,Active,94280,7.3,Does Not Meet,2025-07-26,CC189,Singapore
+EMP01190,Mia Jackson,Female,Two or more races,47,IT,Senior Analyst,L3,Chicago,2019-12-19,2.6,MGR0026,Full-Time,Leave,203492,14.4,Does Not Meet,2024-10-27,CC368,Australia
+EMP01191,Leila Scott,Male,Not disclosed,24,Sales,Analyst,L5,Remote,2015-08-04,6.69,MGR0031,Full-Time,Leave,49446,13.3,Meets,2023-10-26,CC267,India
+EMP01192,Aisha Young,Prefer not to say,Not disclosed,55,Finance,Director,L2,Seattle,2022-11-24,4.74,MGR0048,Part-Time,Leave,206237,18.1,Partially Meets,2024-11-29,CC274,Australia
+EMP01193,Jasmine Harris,Non-binary,Not disclosed,58,Operations,Lead,L2,Dallas,2024-03-28,8.93,MGR0038,Full-Time,Active,82606,1.8,Does Not Meet,2026-01-15,CC723,India
+EMP01194,Wei Robinson,Female,Not disclosed,60,Product,Senior Analyst,L4,New York,2024-03-12,11.12,MGR0049,Part-Time,Active,131174,20.3,Partially Meets,2022-04-24,CC535,Singapore
+EMP01195,Liam Hall,Prefer not to say,Two or more races,28,Sales,Manager,L6,Chicago,2023-07-13,7.69,MGR0014,Part-Time,Active,185607,2.9,Exceeds,2026-06-25,CC351,Singapore
+EMP01196,Ryan Williams,Non-binary,Black or African American,58,Engineering,Analyst,L6,Remote,2024-05-10,7.91,MGR0047,Full-Time,Active,161731,11.7,Exceeds,2024-02-26,CC423,UK
+EMP01197,Chloe Clark,Female,Hispanic,45,Sales,VP,L6,Dallas,2021-04-13,6.51,MGR0002,Part-Time,Active,128471,4.9,Does Not Meet,2020-03-22,CC864,India
+EMP01198,Soren Ivanov,Male,White,37,Customer Success,Manager,L7,Remote,2016-05-14,11.82,MGR0020,Full-Time,Active,136635,3.0,Does Not Meet,2020-06-22,CC687,USA
+EMP01199,Layla Sharma,Male,Two or more races,29,Engineering,Director,L3,New York,2022-09-27,10.56,MGR0020,Full-Time,Active,99154,10.0,Partially Meets,2025-12-14,CC608,Canada
+EMP01200,Andre Ferreira,Female,Asian,27,HR,VP,L5,Remote,2019-04-02,4.87,MGR0016,Full-Time,Active,108437,20.0,Exceeds,2020-01-30,CC741,Australia

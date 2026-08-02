@@ -1,0 +1,1001 @@
+record_id,employee_id,review_year,review_cycle,department,job_level,performance_rating,potential_rating,nine_box_position,succession_ready,flight_risk,promotion_recommended,goal_completion_pct,competency_score,development_plan_active,mentor_assigned,manager_id,review_date
+TM00001,EMP00557,2026,Mid-Year,Engineering,L6,Does Not Meet,Medium,Rough Diamond,Ready in 3+ Years,Low,No,62,2.46,No,Yes,MGR0001,2020-05-05
+TM00002,EMP00305,2021,Q3,IT,L3,Exceeds,Medium,Inconsistent Player,Ready in 3+ Years,Low,No,57,3.02,Yes,No,MGR0049,2020-11-07
+TM00003,EMP01126,2026,Mid-Year,Marketing,L1,Partially Meets,High,Underperformer,Ready in 1-2 Years,Medium,No,67,1.03,No,Yes,MGR0042,2020-06-13
+TM00004,EMP00604,2024,Mid-Year,Customer Success,L2,Meets,High,Rough Diamond,Ready in 1-2 Years,Medium,No,70,3.59,Yes,No,MGR0018,2025-08-01
+TM00005,EMP00053,2021,Annual,HR,L2,Meets,High,Solid Contributor,Not Identified,High,No,87,4.83,Yes,Yes,MGR0027,2023-06-16
+TM00006,EMP01026,2026,Annual,Legal,L3,Meets,Low,Trusted Professional,Ready in 3+ Years,Low,Yes,58,3.45,No,No,MGR0045,2023-08-31
+TM00007,EMP00231,2024,Annual,Operations,L5,Meets,High,Solid Contributor,Not Identified,High,No,74,1.8,No,Yes,MGR0032,2022-08-24
+TM00008,EMP00477,2025,Annual,Customer Success,L7,Does Not Meet,Medium,Inconsistent Player,Not Identified,Low,No,65,1.87,No,Yes,MGR0037,2025-04-24
+TM00009,EMP00500,2026,Mid-Year,Marketing,L6,Meets,Low,Inconsistent Player,Ready in 1-2 Years,Low,Yes,75,3.3,No,No,MGR0016,2023-07-14
+TM00010,EMP01060,2024,Annual,Marketing,L3,Meets,Medium,Core Player,Ready in 1-2 Years,Low,Yes,100,2.57,No,No,MGR0036,2022-06-12
+TM00011,EMP00833,2026,Q3,Customer Success,L6,Partially Meets,Low,High Potential,Not Identified,Low,No,57,1.59,Yes,Yes,MGR0007,2024-02-03
+TM00012,EMP00418,2023,Annual,Legal,L2,Partially Meets,High,Underperformer,Ready in 3+ Years,Low,No,76,3.84,Yes,No,MGR0018,2025-11-30
+TM00013,EMP00570,2021,Mid-Year,Design,L5,Partially Meets,High,Question Mark,Ready in 3+ Years,High,No,57,1.9,Yes,Yes,MGR0023,2020-12-31
+TM00014,EMP00132,2022,Annual,Sales,L6,Exceeds,High,Core Player,Ready Now,Low,Yes,92,2.21,No,Yes,MGR0043,2025-10-09
+TM00015,EMP00209,2023,Q1,Operations,L5,Exceeds,Low,Trusted Professional,Ready Now,High,No,94,1.91,No,No,MGR0007,2026-02-01
+TM00016,EMP01006,2026,Mid-Year,Legal,L2,Meets,Low,Question Mark,Ready in 3+ Years,Low,No,73,4.36,Yes,No,MGR0032,2026-06-29
+TM00017,EMP01142,2021,Q1,Customer Success,L7,Meets,Medium,Solid Contributor,Ready in 1-2 Years,Medium,Yes,73,1.17,Yes,No,MGR0002,2024-09-06
+TM00018,EMP00287,2023,Q1,Data Science,L5,Partially Meets,Medium,Solid Contributor,Not Identified,Low,Yes,87,1.71,Yes,No,MGR0026,2020-04-01
+TM00019,EMP00901,2023,Q1,Operations,L7,Meets,Low,Solid Contributor,Ready in 3+ Years,Medium,Yes,93,3.74,Yes,No,MGR0025,2022-10-11
+TM00020,EMP00189,2020,Q3,Marketing,L7,Meets,High,Underperformer,Ready in 1-2 Years,Medium,No,98,3.24,Yes,Yes,MGR0035,2024-12-26
+TM00021,EMP01198,2021,Q3,Operations,L5,Meets,Low,Solid Contributor,Ready in 1-2 Years,Low,No,56,1.87,No,No,MGR0010,2025-05-05
+TM00022,EMP00967,2020,Mid-Year,Customer Success,L5,Meets,Medium,Solid Contributor,Ready in 3+ Years,Low,Yes,78,3.34,No,Yes,MGR0040,2020-04-05
+TM00023,EMP00561,2020,Annual,Marketing,L2,Partially Meets,Medium,Rough Diamond,Ready in 1-2 Years,Low,Yes,74,3.29,No,Yes,MGR0047,2022-05-19
+TM00024,EMP00814,2026,Q1,Product,L3,Exceeds,Low,Underperformer,Ready in 3+ Years,High,No,80,2.26,Yes,No,MGR0001,2020-01-26
+TM00025,EMP00747,2023,Annual,Finance,L7,Partially Meets,Low,Solid Contributor,Ready Now,Medium,No,80,3.92,Yes,No,MGR0046,2023-08-15
+TM00026,EMP00741,2023,Q3,Customer Success,L3,Partially Meets,Medium,High Potential,Not Identified,Low,No,98,4.14,Yes,No,MGR0019,2022-08-29
+TM00027,EMP00168,2023,Q3,Finance,L6,Exceeds,Medium,Trusted Professional,Not Identified,Low,No,94,2.11,No,Yes,MGR0045,2025-04-15
+TM00028,EMP00212,2025,Q3,Engineering,L1,Does Not Meet,High,Question Mark,Ready in 3+ Years,Medium,No,97,3.14,No,Yes,MGR0001,2023-10-09
+TM00029,EMP00854,2025,Q3,Engineering,L7,Partially Meets,Low,Rough Diamond,Ready Now,Medium,No,98,4.82,Yes,Yes,MGR0003,2020-07-12
+TM00030,EMP00388,2022,Annual,Operations,L2,Partially Meets,Medium,High Potential,Ready Now,Medium,Yes,65,1.8,Yes,No,MGR0016,2025-02-19
+TM00031,EMP00113,2020,Annual,Customer Success,L4,Meets,High,Solid Contributor,Ready in 3+ Years,High,No,96,2.67,Yes,Yes,MGR0028,2025-11-23
+TM00032,EMP00546,2022,Q3,Sales,L7,Does Not Meet,Low,Question Mark,Ready in 1-2 Years,High,No,59,4.46,No,No,MGR0033,2024-12-04
+TM00033,EMP00064,2026,Mid-Year,Customer Success,L2,Meets,High,Rough Diamond,Ready in 3+ Years,Low,No,59,1.09,Yes,No,MGR0034,2021-06-15
+TM00034,EMP00479,2020,Mid-Year,Operations,L1,Meets,Medium,Core Player,Not Identified,High,No,95,2.19,No,Yes,MGR0013,2020-09-11
+TM00035,EMP00592,2022,Annual,Customer Success,L3,Exceeds,Medium,Core Player,Ready Now,Medium,No,91,3.68,Yes,No,MGR0028,2020-03-02
+TM00036,EMP00740,2022,Q3,Legal,L3,Does Not Meet,Medium,Trusted Professional,Ready in 3+ Years,Low,No,76,1.71,No,Yes,MGR0046,2022-10-07
+TM00037,EMP01046,2023,Q3,HR,L4,Exceeds,Low,High Potential,Ready Now,Low,No,100,1.48,No,Yes,MGR0009,2023-03-08
+TM00038,EMP00622,2025,Annual,Product,L2,Meets,Medium,Underperformer,Ready Now,Low,No,85,4.24,No,Yes,MGR0008,2024-09-20
+TM00039,EMP00372,2024,Annual,IT,L1,Exceeds,High,Star,Ready in 1-2 Years,Low,No,87,3.72,Yes,Yes,MGR0039,2026-01-31
+TM00040,EMP00062,2023,Mid-Year,IT,L3,Does Not Meet,Low,Inconsistent Player,Ready in 3+ Years,High,No,88,1.15,Yes,No,MGR0043,2026-07-14
+TM00041,EMP00135,2024,Q3,Marketing,L7,Does Not Meet,Medium,Star,Ready in 1-2 Years,Low,No,53,3.7,Yes,Yes,MGR0011,2025-04-29
+TM00042,EMP00517,2023,Q1,Data Science,L7,Meets,Low,Solid Contributor,Ready in 3+ Years,Medium,No,70,2.96,Yes,Yes,MGR0020,2022-10-21
+TM00043,EMP00214,2022,Q1,HR,L5,Meets,High,Inconsistent Player,Ready in 1-2 Years,High,No,95,4.54,Yes,Yes,MGR0036,2021-06-20
+TM00044,EMP01053,2026,Mid-Year,Marketing,L4,Partially Meets,High,Inconsistent Player,Ready in 3+ Years,Low,Yes,54,3.39,No,Yes,MGR0027,2024-04-21
+TM00045,EMP00580,2023,Q1,Legal,L2,Does Not Meet,Medium,Trusted Professional,Ready in 1-2 Years,Medium,No,71,4.78,Yes,Yes,MGR0035,2021-02-06
+TM00046,EMP00600,2026,Q1,Design,L7,Partially Meets,Low,Star,Ready in 3+ Years,Medium,No,75,1.8,No,No,MGR0007,2022-11-19
+TM00047,EMP01133,2025,Annual,Sales,L7,Partially Meets,Medium,Core Player,Ready Now,Low,No,73,2.04,No,No,MGR0002,2024-10-29
+TM00048,EMP00299,2021,Q1,Legal,L6,Meets,High,Question Mark,Ready Now,Low,No,57,4.36,Yes,Yes,MGR0046,2020-07-30
+TM00049,EMP00651,2022,Mid-Year,Operations,L6,Exceeds,High,Solid Contributor,Ready Now,Medium,No,87,3.52,Yes,Yes,MGR0040,2020-04-02
+TM00050,EMP00121,2025,Annual,Product,L4,Does Not Meet,Medium,Trusted Professional,Ready in 3+ Years,High,No,82,3.36,Yes,Yes,MGR0050,2021-02-21
+TM00051,EMP00889,2026,Q3,Engineering,L2,Does Not Meet,High,Question Mark,Not Identified,Low,No,76,2.1,Yes,No,MGR0008,2025-03-07
+TM00052,EMP00107,2020,Q3,Engineering,L3,Exceeds,High,Underperformer,Ready Now,High,No,84,4.1,Yes,Yes,MGR0045,2023-09-21
+TM00053,EMP00045,2025,Q3,Legal,L4,Exceeds,High,Question Mark,Not Identified,High,Yes,82,1.52,Yes,No,MGR0020,2022-11-10
+TM00054,EMP00579,2023,Mid-Year,Marketing,L6,Meets,High,Solid Contributor,Ready in 3+ Years,Low,No,60,1.37,Yes,Yes,MGR0048,2024-08-05
+TM00055,EMP01169,2021,Annual,Sales,L4,Does Not Meet,Medium,Solid Contributor,Ready Now,Low,Yes,87,3.35,No,No,MGR0021,2023-07-31
+TM00056,EMP00212,2023,Annual,Finance,L3,Exceeds,High,Question Mark,Ready in 1-2 Years,Low,No,90,2.62,Yes,Yes,MGR0047,2021-05-04
+TM00057,EMP00097,2020,Q3,Legal,L4,Exceeds,High,Solid Contributor,Ready Now,Medium,No,54,2.38,Yes,No,MGR0026,2021-03-11
+TM00058,EMP00011,2021,Mid-Year,Finance,L5,Exceeds,High,Star,Ready in 1-2 Years,Medium,No,90,2.36,Yes,Yes,MGR0041,2020-12-05
+TM00059,EMP00635,2025,Mid-Year,Marketing,L1,Partially Meets,Medium,Trusted Professional,Ready Now,High,No,97,3.96,No,Yes,MGR0013,2025-05-02
+TM00060,EMP00909,2025,Q1,HR,L7,Partially Meets,Low,High Potential,Ready Now,Low,No,89,4.6,Yes,No,MGR0034,2024-05-04
+TM00061,EMP01009,2026,Mid-Year,IT,L4,Exceeds,High,Core Player,Ready Now,Low,No,70,1.2,No,Yes,MGR0018,2020-10-31
+TM00062,EMP00192,2026,Annual,Marketing,L1,Does Not Meet,Low,High Potential,Ready in 1-2 Years,High,No,72,2.24,No,Yes,MGR0042,2022-01-23
+TM00063,EMP00579,2021,Mid-Year,Marketing,L1,Meets,Medium,Underperformer,Ready in 3+ Years,Medium,No,94,2.1,Yes,Yes,MGR0012,2023-08-04
+TM00064,EMP00956,2024,Annual,Engineering,L3,Exceeds,Low,Trusted Professional,Ready in 3+ Years,High,Yes,75,3.51,No,Yes,MGR0016,2020-09-01
+TM00065,EMP00824,2024,Mid-Year,Operations,L1,Exceeds,Medium,Inconsistent Player,Ready in 3+ Years,High,No,63,2.15,Yes,No,MGR0028,2022-05-26
+TM00066,EMP00585,2020,Q1,Finance,L6,Exceeds,Low,Question Mark,Not Identified,High,No,67,2.47,No,Yes,MGR0032,2025-05-09
+TM00067,EMP00079,2020,Q3,Sales,L6,Meets,High,Inconsistent Player,Ready Now,High,No,62,2.19,No,Yes,MGR0012,2026-03-25
+TM00068,EMP00337,2023,Mid-Year,Data Science,L7,Meets,Medium,Core Player,Ready Now,Low,No,87,2.87,No,No,MGR0009,2026-06-06
+TM00069,EMP00958,2024,Q1,Engineering,L4,Does Not Meet,Low,Star,Ready in 3+ Years,Low,No,72,1.63,Yes,Yes,MGR0014,2022-04-05
+TM00070,EMP00041,2020,Mid-Year,HR,L2,Does Not Meet,High,Star,Ready Now,High,No,67,3.46,No,Yes,MGR0041,2023-07-05
+TM00071,EMP01038,2021,Mid-Year,Sales,L7,Meets,High,Underperformer,Ready Now,High,Yes,85,3.16,Yes,No,MGR0004,2023-12-23
+TM00072,EMP00834,2026,Q1,IT,L7,Meets,Medium,Rough Diamond,Ready Now,Low,Yes,51,3.19,Yes,No,MGR0044,2024-05-07
+TM00073,EMP00265,2025,Q3,Engineering,L4,Does Not Meet,Low,High Potential,Ready Now,Low,No,66,2.97,Yes,No,MGR0017,2023-12-05
+TM00074,EMP00355,2021,Q1,IT,L5,Meets,Low,Trusted Professional,Not Identified,Low,No,86,1.48,Yes,Yes,MGR0029,2023-09-22
+TM00075,EMP01165,2022,Annual,Design,L4,Meets,Low,Trusted Professional,Not Identified,High,Yes,72,1.5,No,Yes,MGR0049,2024-06-06
+TM00076,EMP00502,2026,Q1,Finance,L1,Partially Meets,Medium,Trusted Professional,Ready in 3+ Years,Medium,Yes,67,2.22,No,No,MGR0050,2024-09-06
+TM00077,EMP01186,2024,Annual,Customer Success,L6,Partially Meets,High,High Potential,Ready in 3+ Years,Medium,No,70,1.03,No,Yes,MGR0008,2023-11-13
+TM00078,EMP00952,2022,Annual,Legal,L2,Partially Meets,Low,Trusted Professional,Ready in 3+ Years,Medium,Yes,71,2.71,No,Yes,MGR0022,2021-06-04
+TM00079,EMP01155,2024,Mid-Year,Marketing,L6,Exceeds,Low,Solid Contributor,Ready in 3+ Years,Low,No,75,1.83,Yes,No,MGR0027,2026-06-15
+TM00080,EMP00323,2026,Q3,Data Science,L4,Exceeds,Low,Solid Contributor,Not Identified,High,No,82,3.25,Yes,Yes,MGR0009,2020-07-07
+TM00081,EMP01116,2023,Q1,Engineering,L2,Does Not Meet,Low,Inconsistent Player,Not Identified,Low,Yes,52,3.95,Yes,Yes,MGR0040,2020-06-10
+TM00082,EMP01090,2022,Q3,Customer Success,L7,Does Not Meet,High,Underperformer,Ready in 3+ Years,Medium,No,51,3.05,No,No,MGR0009,2020-03-27
+TM00083,EMP00930,2023,Q1,Customer Success,L4,Exceeds,High,Underperformer,Not Identified,Medium,No,82,4.81,Yes,No,MGR0038,2020-08-05
+TM00084,EMP00897,2021,Q3,HR,L2,Does Not Meet,Medium,Underperformer,Not Identified,Low,No,67,3.22,No,Yes,MGR0034,2020-08-05
+TM00085,EMP00338,2026,Mid-Year,Customer Success,L4,Exceeds,Low,Trusted Professional,Ready in 1-2 Years,Low,No,76,4.13,Yes,No,MGR0022,2024-01-17
+TM00086,EMP00889,2024,Mid-Year,Design,L5,Does Not Meet,Medium,Solid Contributor,Ready in 1-2 Years,Medium,No,56,4.27,No,No,MGR0033,2025-05-12
+TM00087,EMP00539,2021,Q3,Customer Success,L6,Does Not Meet,High,Underperformer,Not Identified,Low,No,94,2.19,No,No,MGR0008,2020-06-26
+TM00088,EMP00969,2020,Q3,Legal,L2,Partially Meets,Low,Rough Diamond,Not Identified,Medium,No,73,2.94,No,No,MGR0022,2024-01-29
+TM00089,EMP00540,2023,Q1,IT,L5,Does Not Meet,High,Core Player,Ready in 3+ Years,Medium,Yes,88,4.7,No,Yes,MGR0011,2020-09-27
+TM00090,EMP01110,2024,Mid-Year,Sales,L7,Meets,Low,Inconsistent Player,Ready Now,Low,No,99,4.18,No,Yes,MGR0015,2021-02-25
+TM00091,EMP01151,2020,Q3,Product,L1,Does Not Meet,High,Solid Contributor,Ready in 3+ Years,Medium,No,55,3.05,No,No,MGR0048,2025-08-23
+TM00092,EMP00843,2023,Q3,Sales,L7,Partially Meets,Low,Underperformer,Ready in 1-2 Years,Low,Yes,89,2.83,No,No,MGR0007,2023-09-06
+TM00093,EMP01155,2021,Q1,Product,L3,Does Not Meet,Medium,Star,Ready Now,Low,No,54,3.16,No,Yes,MGR0001,2022-10-06
+TM00094,EMP00075,2021,Annual,Product,L7,Does Not Meet,Low,Question Mark,Ready in 1-2 Years,Low,No,67,3.1,Yes,No,MGR0047,2024-10-23
+TM00095,EMP00656,2024,Q3,IT,L7,Meets,Medium,Star,Ready in 3+ Years,Low,No,84,3.84,Yes,Yes,MGR0031,2024-10-20
+TM00096,EMP00907,2024,Q3,Engineering,L2,Meets,High,Core Player,Ready in 3+ Years,High,Yes,82,1.6,No,Yes,MGR0028,2020-03-08
+TM00097,EMP00796,2024,Mid-Year,Design,L6,Exceeds,Medium,Solid Contributor,Not Identified,Low,No,81,1.08,No,No,MGR0020,2020-06-26
+TM00098,EMP00001,2022,Annual,Data Science,L1,Does Not Meet,High,Star,Ready Now,High,No,76,4.76,No,Yes,MGR0004,2021-11-22
+TM00099,EMP00250,2024,Annual,Legal,L7,Does Not Meet,Low,Solid Contributor,Ready Now,High,Yes,69,1.65,Yes,No,MGR0048,2021-04-27
+TM00100,EMP00458,2025,Q1,Operations,L4,Meets,Medium,Star,Ready in 3+ Years,High,No,87,3.72,Yes,No,MGR0039,2024-08-21
+TM00101,EMP00258,2020,Mid-Year,Sales,L2,Does Not Meet,Low,Underperformer,Ready in 1-2 Years,High,No,76,4.61,Yes,No,MGR0037,2021-08-02
+TM00102,EMP00312,2022,Q3,Sales,L6,Does Not Meet,High,Solid Contributor,Ready Now,High,No,79,4.37,No,No,MGR0020,2022-06-04
+TM00103,EMP00864,2023,Mid-Year,Sales,L3,Meets,Low,Trusted Professional,Ready in 3+ Years,Low,No,91,1.32,Yes,No,MGR0047,2020-12-15
+TM00104,EMP01012,2025,Q1,Legal,L5,Meets,Low,Rough Diamond,Ready Now,Low,Yes,73,2.31,Yes,Yes,MGR0041,2021-02-04
+TM00105,EMP00687,2026,Q3,Engineering,L1,Meets,Low,Star,Ready Now,Low,No,91,1.91,No,Yes,MGR0007,2023-04-25
+TM00106,EMP01080,2025,Q3,Design,L1,Meets,High,Trusted Professional,Ready in 1-2 Years,Low,No,78,1.14,No,Yes,MGR0007,2021-11-28
+TM00107,EMP00177,2025,Q1,IT,L3,Meets,Medium,Inconsistent Player,Ready in 3+ Years,Medium,No,65,2.8,No,Yes,MGR0002,2024-10-15
+TM00108,EMP00733,2024,Q1,Data Science,L6,Meets,Medium,Star,Ready Now,Low,No,91,3.65,Yes,Yes,MGR0042,2024-05-08
+TM00109,EMP00628,2026,Q3,HR,L1,Does Not Meet,High,Solid Contributor,Not Identified,Medium,No,57,5.0,Yes,Yes,MGR0036,2023-09-30
+TM00110,EMP00500,2022,Annual,Engineering,L2,Partially Meets,High,Trusted Professional,Not Identified,Low,No,73,2.18,No,Yes,MGR0029,2023-10-06
+TM00111,EMP00654,2022,Q1,HR,L5,Does Not Meet,High,High Potential,Ready in 1-2 Years,Low,Yes,86,1.48,Yes,No,MGR0032,2023-10-21
+TM00112,EMP00436,2024,Mid-Year,Legal,L4,Does Not Meet,High,Trusted Professional,Ready in 1-2 Years,Low,No,87,4.97,No,No,MGR0034,2023-06-04
+TM00113,EMP00954,2024,Annual,Engineering,L7,Meets,High,Inconsistent Player,Ready Now,Low,No,87,4.25,Yes,Yes,MGR0041,2020-06-29
+TM00114,EMP00772,2025,Mid-Year,Finance,L3,Does Not Meet,Medium,High Potential,Ready in 1-2 Years,Low,No,91,2.5,No,No,MGR0042,2025-08-12
+TM00115,EMP00152,2020,Q1,Operations,L4,Meets,Low,Solid Contributor,Ready in 1-2 Years,Low,Yes,73,1.19,No,No,MGR0021,2026-02-09
+TM00116,EMP00253,2022,Mid-Year,Finance,L4,Exceeds,Low,Solid Contributor,Ready Now,High,Yes,51,4.03,Yes,Yes,MGR0016,2021-01-29
+TM00117,EMP00274,2026,Q3,Operations,L1,Partially Meets,Low,High Potential,Not Identified,Medium,No,67,3.5,No,Yes,MGR0028,2023-10-28
+TM00118,EMP00086,2021,Q1,Design,L6,Meets,Low,Underperformer,Ready in 1-2 Years,High,No,98,2.61,Yes,No,MGR0048,2020-06-02
+TM00119,EMP00962,2020,Annual,Customer Success,L5,Exceeds,High,Trusted Professional,Not Identified,Medium,Yes,81,3.7,Yes,No,MGR0001,2021-11-17
+TM00120,EMP00779,2023,Q1,Finance,L5,Partially Meets,Low,Question Mark,Ready in 1-2 Years,High,No,62,1.79,Yes,Yes,MGR0002,2024-11-11
+TM00121,EMP00360,2022,Annual,Product,L2,Partially Meets,Medium,Inconsistent Player,Ready in 3+ Years,Low,No,86,1.85,Yes,No,MGR0048,2024-07-28
+TM00122,EMP00504,2026,Q1,Marketing,L7,Exceeds,Medium,Star,Ready in 1-2 Years,Low,Yes,87,4.33,No,Yes,MGR0036,2022-12-23
+TM00123,EMP00584,2022,Annual,HR,L7,Partially Meets,High,Underperformer,Ready Now,Medium,No,99,3.27,No,Yes,MGR0028,2022-05-13
+TM00124,EMP00967,2022,Annual,Operations,L7,Meets,High,Trusted Professional,Ready in 1-2 Years,Medium,No,52,1.22,Yes,Yes,MGR0028,2020-10-05
+TM00125,EMP00443,2024,Mid-Year,HR,L2,Meets,Low,Trusted Professional,Not Identified,Low,No,71,1.38,Yes,Yes,MGR0030,2020-12-26
+TM00126,EMP00006,2026,Q3,Customer Success,L4,Partially Meets,High,Solid Contributor,Not Identified,Low,No,91,3.68,Yes,No,MGR0003,2024-09-18
+TM00127,EMP01002,2020,Mid-Year,Data Science,L3,Does Not Meet,Low,High Potential,Ready in 1-2 Years,Medium,Yes,61,3.19,No,Yes,MGR0006,2025-07-15
+TM00128,EMP00881,2025,Annual,Operations,L3,Meets,High,Core Player,Ready Now,Medium,No,58,2.41,No,No,MGR0033,2025-09-12
+TM00129,EMP00810,2023,Q3,Finance,L4,Meets,Medium,Star,Ready in 3+ Years,Low,No,92,1.25,No,Yes,MGR0017,2023-02-24
+TM00130,EMP00689,2022,Mid-Year,Data Science,L3,Exceeds,Low,Underperformer,Ready Now,High,No,69,4.17,No,No,MGR0045,2021-06-07
+TM00131,EMP00018,2025,Q1,Legal,L7,Meets,High,Question Mark,Ready in 1-2 Years,Low,No,91,1.61,Yes,Yes,MGR0042,2024-03-10
+TM00132,EMP00314,2023,Annual,Marketing,L5,Partially Meets,Low,Question Mark,Ready Now,Low,No,88,2.7,No,Yes,MGR0014,2022-07-23
+TM00133,EMP00334,2020,Annual,Customer Success,L5,Does Not Meet,Medium,Rough Diamond,Ready Now,High,Yes,93,4.53,No,No,MGR0013,2023-11-12
+TM00134,EMP00335,2026,Q3,Legal,L7,Meets,High,Underperformer,Ready Now,Low,No,89,4.58,No,Yes,MGR0006,2020-06-07
+TM00135,EMP01066,2023,Mid-Year,Data Science,L2,Does Not Meet,Low,Underperformer,Ready in 3+ Years,High,No,56,1.12,Yes,No,MGR0026,2022-12-23
+TM00136,EMP00898,2021,Annual,Customer Success,L7,Does Not Meet,High,Question Mark,Ready Now,High,No,96,2.94,Yes,No,MGR0045,2024-09-28
+TM00137,EMP00882,2020,Annual,Sales,L7,Exceeds,High,Underperformer,Not Identified,Low,No,90,1.48,Yes,Yes,MGR0047,2023-02-11
+TM00138,EMP00548,2024,Q1,Operations,L4,Does Not Meet,Low,Inconsistent Player,Ready in 1-2 Years,High,No,66,1.08,No,No,MGR0026,2025-09-18
+TM00139,EMP01194,2023,Q1,Customer Success,L3,Partially Meets,High,Underperformer,Ready Now,High,Yes,69,2.28,No,Yes,MGR0030,2024-04-30
+TM00140,EMP00017,2022,Mid-Year,Data Science,L1,Exceeds,High,Trusted Professional,Not Identified,Low,Yes,86,1.76,Yes,No,MGR0046,2022-04-10
+TM00141,EMP00987,2021,Q1,Design,L3,Does Not Meet,Low,Solid Contributor,Ready Now,Low,No,78,1.63,Yes,No,MGR0025,2021-03-05
+TM00142,EMP00121,2026,Annual,Legal,L2,Meets,Low,Underperformer,Ready in 1-2 Years,Low,No,67,2.82,No,Yes,MGR0035,2023-03-29
+TM00143,EMP01028,2026,Mid-Year,Product,L2,Meets,Low,Underperformer,Not Identified,High,No,96,3.14,Yes,No,MGR0043,2020-05-07
+TM00144,EMP00036,2020,Q1,Customer Success,L1,Exceeds,High,Solid Contributor,Ready Now,Medium,No,67,3.86,No,No,MGR0026,2023-07-17
+TM00145,EMP00089,2022,Mid-Year,Product,L2,Meets,Low,Solid Contributor,Ready in 3+ Years,Low,No,70,2.22,No,Yes,MGR0008,2020-10-03
+TM00146,EMP00353,2023,Annual,Product,L3,Does Not Meet,Medium,Inconsistent Player,Ready in 3+ Years,Medium,No,96,3.21,No,No,MGR0039,2023-07-31
+TM00147,EMP00827,2023,Q1,IT,L6,Exceeds,Medium,Question Mark,Ready in 3+ Years,Low,Yes,100,1.91,Yes,Yes,MGR0010,2021-04-04
+TM00148,EMP01045,2025,Annual,Finance,L7,Meets,Medium,Question Mark,Ready in 1-2 Years,Low,Yes,73,4.14,No,No,MGR0020,2022-12-13
+TM00149,EMP01111,2021,Q3,HR,L4,Meets,High,Question Mark,Ready Now,Low,No,88,3.78,Yes,No,MGR0008,2023-09-16
+TM00150,EMP00656,2020,Q1,Customer Success,L5,Exceeds,High,Rough Diamond,Ready Now,Low,No,50,4.43,No,No,MGR0009,2025-11-15
+TM00151,EMP00064,2024,Mid-Year,Customer Success,L2,Meets,Low,Star,Ready Now,Medium,No,63,1.93,No,Yes,MGR0036,2023-01-02
+TM00152,EMP00650,2023,Annual,Marketing,L6,Partially Meets,Low,Solid Contributor,Ready in 1-2 Years,High,No,72,2.96,Yes,No,MGR0029,2021-12-30
+TM00153,EMP00476,2025,Annual,Product,L3,Meets,Medium,Inconsistent Player,Not Identified,Low,Yes,64,2.57,No,Yes,MGR0040,2025-07-04
+TM00154,EMP01098,2021,Mid-Year,IT,L5,Meets,High,Rough Diamond,Ready Now,Low,No,56,2.9,Yes,Yes,MGR0004,2024-08-01
+TM00155,EMP00058,2025,Q1,Legal,L3,Meets,High,Underperformer,Not Identified,Low,No,83,1.59,No,No,MGR0042,2022-03-06
+TM00156,EMP00428,2025,Mid-Year,Sales,L5,Meets,Low,Star,Ready in 1-2 Years,High,No,95,2.97,Yes,Yes,MGR0035,2026-01-05
+TM00157,EMP00841,2020,Q3,Design,L2,Meets,Low,Solid Contributor,Ready in 3+ Years,Low,No,55,4.89,Yes,Yes,MGR0004,2022-05-06
+TM00158,EMP01067,2026,Annual,Legal,L1,Exceeds,High,Inconsistent Player,Not Identified,Medium,No,80,4.15,Yes,Yes,MGR0024,2023-04-21
+TM00159,EMP00835,2023,Annual,IT,L4,Meets,High,Rough Diamond,Ready in 1-2 Years,High,No,92,4.34,No,Yes,MGR0014,2026-02-04
+TM00160,EMP00908,2025,Mid-Year,IT,L6,Does Not Meet,Medium,Rough Diamond,Not Identified,Medium,Yes,86,1.27,No,No,MGR0005,2021-07-21
+TM00161,EMP01117,2026,Mid-Year,Design,L5,Exceeds,Low,Solid Contributor,Ready in 3+ Years,Low,No,63,4.01,No,Yes,MGR0044,2021-10-12
+TM00162,EMP00359,2021,Annual,Design,L3,Partially Meets,Low,Inconsistent Player,Ready Now,High,No,66,3.3,Yes,No,MGR0018,2025-12-24
+TM00163,EMP01087,2021,Q1,Sales,L7,Does Not Meet,High,Inconsistent Player,Ready in 3+ Years,Low,No,59,1.12,Yes,Yes,MGR0007,2025-09-19
+TM00164,EMP00991,2021,Q1,Design,L2,Partially Meets,High,High Potential,Ready Now,Low,Yes,89,1.1,Yes,No,MGR0005,2023-01-13
+TM00165,EMP00581,2025,Q3,Marketing,L2,Exceeds,Medium,Trusted Professional,Not Identified,Low,No,76,4.99,Yes,No,MGR0005,2025-03-14
+TM00166,EMP00335,2021,Q1,IT,L5,Meets,Low,Star,Ready in 1-2 Years,High,Yes,75,3.86,No,No,MGR0007,2024-03-05
+TM00167,EMP00144,2023,Q1,Product,L4,Meets,High,Question Mark,Ready in 1-2 Years,Low,No,90,2.67,No,No,MGR0041,2024-01-26
+TM00168,EMP00688,2026,Annual,HR,L2,Meets,High,Question Mark,Not Identified,High,Yes,70,3.77,No,No,MGR0023,2024-11-01
+TM00169,EMP00805,2020,Mid-Year,Engineering,L4,Meets,Low,Trusted Professional,Ready in 3+ Years,Low,No,98,3.79,No,Yes,MGR0009,2020-06-03
+TM00170,EMP00252,2024,Q1,Design,L6,Meets,Low,Solid Contributor,Not Identified,Medium,No,63,4.48,No,Yes,MGR0012,2021-12-10
+TM00171,EMP00848,2021,Annual,Legal,L1,Does Not Meet,High,Solid Contributor,Not Identified,High,No,57,3.46,No,Yes,MGR0042,2022-09-29
+TM00172,EMP01125,2023,Annual,Legal,L4,Does Not Meet,Low,Inconsistent Player,Ready in 3+ Years,High,Yes,71,4.41,No,No,MGR0032,2020-11-25
+TM00173,EMP00541,2021,Q3,Finance,L2,Exceeds,Low,Solid Contributor,Ready in 3+ Years,Medium,No,57,4.05,Yes,Yes,MGR0029,2021-11-05
+TM00174,EMP00819,2026,Q1,Customer Success,L4,Partially Meets,Low,Core Player,Ready in 3+ Years,Medium,No,67,4.73,Yes,No,MGR0006,2023-11-05
+TM00175,EMP00645,2024,Annual,Customer Success,L5,Partially Meets,Low,Star,Ready Now,Medium,No,56,4.7,Yes,Yes,MGR0026,2025-03-03
+TM00176,EMP00343,2026,Q1,HR,L2,Meets,Medium,Core Player,Ready Now,High,No,61,1.13,Yes,Yes,MGR0005,2020-07-04
+TM00177,EMP00051,2025,Mid-Year,Marketing,L5,Does Not Meet,High,Solid Contributor,Ready Now,Low,No,76,1.98,Yes,Yes,MGR0015,2024-08-11
+TM00178,EMP00025,2021,Mid-Year,Marketing,L5,Meets,High,Core Player,Ready in 1-2 Years,Low,Yes,52,2.56,Yes,Yes,MGR0018,2020-08-01
+TM00179,EMP00990,2022,Q3,Engineering,L1,Partially Meets,Medium,Trusted Professional,Ready in 1-2 Years,Low,No,94,2.74,Yes,Yes,MGR0038,2021-01-19
+TM00180,EMP00359,2023,Q3,IT,L6,Does Not Meet,Low,Star,Ready in 3+ Years,Low,Yes,93,4.88,Yes,Yes,MGR0041,2020-03-04
+TM00181,EMP00887,2025,Mid-Year,Product,L5,Meets,Low,Solid Contributor,Ready in 1-2 Years,Low,No,86,3.1,No,No,MGR0021,2021-11-26
+TM00182,EMP00910,2022,Annual,Sales,L6,Meets,Medium,Trusted Professional,Ready in 3+ Years,High,No,76,2.17,Yes,Yes,MGR0027,2022-07-13
+TM00183,EMP00465,2020,Mid-Year,Finance,L5,Meets,Low,High Potential,Not Identified,High,No,90,4.76,No,No,MGR0029,2023-09-20
+TM00184,EMP00540,2025,Q1,Finance,L1,Meets,High,Inconsistent Player,Not Identified,Low,Yes,76,1.73,No,Yes,MGR0015,2022-09-01
+TM00185,EMP01131,2020,Q3,HR,L6,Meets,Low,Question Mark,Ready in 3+ Years,Low,No,99,1.06,No,Yes,MGR0018,2020-05-11
+TM00186,EMP00122,2022,Mid-Year,Legal,L6,Partially Meets,High,Trusted Professional,Ready Now,Low,No,96,1.45,Yes,No,MGR0045,2021-08-19
+TM00187,EMP00468,2025,Q1,Finance,L6,Exceeds,High,High Potential,Ready in 1-2 Years,High,No,95,4.48,No,No,MGR0038,2024-04-20
+TM00188,EMP00211,2021,Q3,Design,L7,Exceeds,Medium,Solid Contributor,Ready Now,Medium,No,62,3.53,Yes,Yes,MGR0004,2024-01-13
+TM00189,EMP00018,2025,Annual,HR,L5,Exceeds,High,Core Player,Ready Now,High,Yes,86,4.8,Yes,Yes,MGR0050,2020-08-10
+TM00190,EMP00405,2026,Q3,Customer Success,L1,Meets,High,Question Mark,Ready Now,Low,No,77,2.47,Yes,Yes,MGR0026,2020-01-16
+TM00191,EMP00577,2026,Mid-Year,IT,L3,Meets,Medium,Inconsistent Player,Not Identified,High,No,87,1.36,No,Yes,MGR0012,2021-12-22
+TM00192,EMP00737,2024,Mid-Year,Marketing,L6,Does Not Meet,High,Solid Contributor,Ready Now,Low,No,71,2.25,No,Yes,MGR0012,2020-07-29
+TM00193,EMP00309,2022,Q3,Legal,L1,Meets,Medium,High Potential,Ready in 3+ Years,Low,No,61,4.59,Yes,Yes,MGR0007,2022-12-23
+TM00194,EMP00459,2026,Annual,Engineering,L1,Partially Meets,Low,Star,Not Identified,High,No,79,3.6,No,Yes,MGR0001,2023-04-10
+TM00195,EMP00560,2020,Mid-Year,Operations,L1,Does Not Meet,Low,Star,Ready in 3+ Years,Low,No,63,1.88,No,No,MGR0019,2021-10-19
+TM00196,EMP00730,2020,Annual,HR,L7,Meets,High,Trusted Professional,Ready Now,Low,Yes,92,2.12,Yes,Yes,MGR0021,2020-11-02
+TM00197,EMP00951,2024,Annual,Design,L3,Meets,Medium,High Potential,Not Identified,Low,No,91,4.34,Yes,No,MGR0009,2022-07-04
+TM00198,EMP00384,2023,Annual,Design,L2,Partially Meets,High,Question Mark,Ready in 1-2 Years,Low,Yes,86,1.34,Yes,No,MGR0037,2026-03-24
+TM00199,EMP00312,2024,Q1,Finance,L3,Exceeds,Medium,Underperformer,Ready in 3+ Years,Low,No,93,1.56,Yes,No,MGR0002,2022-07-27
+TM00200,EMP00801,2026,Mid-Year,Legal,L5,Partially Meets,High,Star,Ready in 3+ Years,Low,No,76,4.86,No,No,MGR0039,2020-02-10
+TM00201,EMP01196,2024,Q3,Data Science,L7,Meets,Low,Rough Diamond,Not Identified,Low,No,64,1.79,No,Yes,MGR0021,2025-09-14
+TM00202,EMP01049,2020,Q1,IT,L6,Partially Meets,Low,High Potential,Ready in 3+ Years,Medium,No,96,2.29,Yes,Yes,MGR0046,2026-03-27
+TM00203,EMP00671,2021,Q1,HR,L1,Meets,High,Inconsistent Player,Ready in 3+ Years,Medium,Yes,69,3.89,No,No,MGR0022,2021-04-08
+TM00204,EMP00922,2022,Mid-Year,Sales,L5,Meets,Low,Rough Diamond,Ready in 1-2 Years,High,No,99,3.75,Yes,Yes,MGR0020,2020-11-07
+TM00205,EMP00926,2021,Q3,Data Science,L3,Meets,High,Underperformer,Not Identified,Low,Yes,57,3.28,No,No,MGR0045,2024-01-28
+TM00206,EMP00248,2023,Annual,Customer Success,L1,Exceeds,Medium,Question Mark,Ready in 3+ Years,Medium,No,69,3.56,No,Yes,MGR0042,2021-02-25
+TM00207,EMP00086,2024,Q1,Operations,L1,Exceeds,High,Trusted Professional,Ready Now,Medium,Yes,75,3.75,No,No,MGR0031,2023-09-13
+TM00208,EMP00125,2022,Q3,Customer Success,L4,Exceeds,High,Solid Contributor,Ready Now,Medium,Yes,55,4.64,No,Yes,MGR0045,2021-01-18
+TM00209,EMP00158,2020,Annual,HR,L4,Partially Meets,Medium,Star,Not Identified,Medium,No,85,3.81,No,Yes,MGR0049,2025-02-10
+TM00210,EMP01197,2022,Q1,Legal,L6,Exceeds,Medium,Underperformer,Ready in 3+ Years,High,No,61,4.01,No,Yes,MGR0031,2023-12-10
+TM00211,EMP00121,2024,Annual,Sales,L4,Exceeds,Medium,Inconsistent Player,Not Identified,Low,No,99,1.89,Yes,No,MGR0011,2023-07-08
+TM00212,EMP00031,2020,Mid-Year,Engineering,L1,Meets,Low,Underperformer,Ready in 1-2 Years,High,No,62,2.25,No,Yes,MGR0005,2022-06-24
+TM00213,EMP00593,2024,Q3,HR,L6,Does Not Meet,Medium,Solid Contributor,Not Identified,Low,No,67,1.26,Yes,Yes,MGR0039,2020-12-24
+TM00214,EMP00990,2026,Annual,Legal,L2,Meets,Low,Core Player,Not Identified,Low,No,98,2.65,Yes,Yes,MGR0010,2020-09-30
+TM00215,EMP00015,2026,Mid-Year,Data Science,L5,Exceeds,High,Core Player,Ready in 3+ Years,Low,No,72,3.43,Yes,Yes,MGR0050,2020-02-29
+TM00216,EMP01143,2020,Annual,Marketing,L1,Exceeds,Medium,Solid Contributor,Ready Now,High,No,93,2.04,No,Yes,MGR0045,2026-07-24
+TM00217,EMP00813,2020,Mid-Year,Operations,L4,Partially Meets,High,High Potential,Ready in 1-2 Years,High,No,56,1.66,Yes,Yes,MGR0039,2022-03-19
+TM00218,EMP00677,2022,Annual,IT,L2,Meets,High,Rough Diamond,Not Identified,High,No,85,1.22,Yes,No,MGR0027,2023-08-17
+TM00219,EMP00813,2025,Mid-Year,Engineering,L6,Exceeds,Low,Star,Ready in 1-2 Years,Low,No,91,2.33,No,No,MGR0006,2024-03-04
+TM00220,EMP00545,2021,Mid-Year,HR,L2,Meets,Medium,Inconsistent Player,Ready Now,Low,No,55,2.23,No,Yes,MGR0047,2022-08-17
+TM00221,EMP00711,2020,Mid-Year,IT,L3,Meets,High,Question Mark,Ready Now,Low,Yes,91,3.92,Yes,Yes,MGR0034,2020-02-16
+TM00222,EMP00302,2022,Q3,Data Science,L1,Does Not Meet,Medium,High Potential,Ready in 1-2 Years,Medium,No,97,3.13,Yes,No,MGR0006,2022-11-12
+TM00223,EMP00959,2023,Mid-Year,Product,L4,Does Not Meet,High,Underperformer,Ready in 3+ Years,Low,Yes,82,2.13,Yes,Yes,MGR0001,2022-02-28
+TM00224,EMP00545,2022,Q3,IT,L3,Meets,High,Solid Contributor,Ready in 3+ Years,Medium,Yes,88,4.4,No,No,MGR0033,2022-06-05
+TM00225,EMP00298,2023,Annual,Sales,L6,Meets,High,Rough Diamond,Ready in 3+ Years,High,Yes,76,1.68,No,No,MGR0010,2020-10-31
+TM00226,EMP00759,2021,Annual,HR,L1,Partially Meets,Low,Underperformer,Not Identified,High,No,85,2.99,Yes,Yes,MGR0043,2020-04-16
+TM00227,EMP01037,2020,Annual,Sales,L2,Partially Meets,High,Question Mark,Ready in 3+ Years,Low,No,95,4.14,Yes,Yes,MGR0018,2023-03-28
+TM00228,EMP00690,2022,Mid-Year,Product,L1,Does Not Meet,Low,Trusted Professional,Ready Now,Low,No,79,4.14,Yes,Yes,MGR0037,2021-12-23
+TM00229,EMP00321,2022,Q1,Product,L6,Exceeds,Medium,High Potential,Ready Now,Low,No,88,4.74,No,Yes,MGR0023,2024-10-10
+TM00230,EMP00094,2022,Q1,HR,L7,Exceeds,Low,Solid Contributor,Ready in 3+ Years,High,No,65,4.76,No,Yes,MGR0031,2022-07-14
+TM00231,EMP00086,2024,Q3,Finance,L1,Partially Meets,High,Inconsistent Player,Not Identified,Medium,No,57,4.11,Yes,Yes,MGR0043,2020-01-07
+TM00232,EMP00184,2024,Q3,Design,L5,Meets,Low,Trusted Professional,Ready in 3+ Years,High,No,94,2.53,Yes,No,MGR0025,2022-05-11
+TM00233,EMP00474,2024,Annual,Data Science,L5,Does Not Meet,High,Star,Ready Now,High,No,64,3.51,Yes,No,MGR0008,2024-05-12
+TM00234,EMP00132,2024,Q3,Design,L2,Meets,Low,Rough Diamond,Ready Now,Low,Yes,79,4.02,No,No,MGR0019,2023-01-19
+TM00235,EMP00038,2023,Q1,Design,L4,Does Not Meet,Low,Rough Diamond,Ready Now,Low,No,81,4.74,Yes,Yes,MGR0006,2024-02-08
+TM00236,EMP01147,2026,Q1,IT,L4,Does Not Meet,Medium,Core Player,Ready Now,Medium,No,54,1.47,No,Yes,MGR0048,2022-02-17
+TM00237,EMP01190,2026,Q1,Legal,L4,Does Not Meet,Medium,Core Player,Ready in 3+ Years,Low,No,92,3.26,Yes,No,MGR0039,2023-08-25
+TM00238,EMP01075,2020,Mid-Year,Data Science,L2,Meets,High,Underperformer,Ready in 3+ Years,High,Yes,72,3.98,No,Yes,MGR0002,2022-12-28
+TM00239,EMP00275,2020,Q1,Design,L6,Meets,High,Rough Diamond,Not Identified,Low,Yes,85,4.56,No,Yes,MGR0013,2023-06-20
+TM00240,EMP00535,2020,Mid-Year,IT,L5,Exceeds,Medium,Trusted Professional,Not Identified,Medium,No,61,2.52,Yes,Yes,MGR0002,2024-06-16
+TM00241,EMP01106,2022,Q1,Product,L2,Does Not Meet,High,Underperformer,Ready in 3+ Years,High,No,92,1.69,Yes,No,MGR0045,2022-07-11
+TM00242,EMP00438,2025,Annual,Customer Success,L1,Partially Meets,High,Rough Diamond,Ready Now,Low,No,55,1.5,Yes,Yes,MGR0020,2021-08-03
+TM00243,EMP00156,2022,Q3,Customer Success,L6,Meets,Low,Star,Not Identified,Medium,No,93,4.55,No,No,MGR0041,2022-11-23
+TM00244,EMP00247,2025,Mid-Year,Legal,L4,Meets,Low,Inconsistent Player,Not Identified,Low,No,53,3.03,No,No,MGR0027,2020-08-15
+TM00245,EMP00064,2026,Mid-Year,Design,L2,Does Not Meet,Medium,Solid Contributor,Ready Now,Medium,No,87,4.58,Yes,No,MGR0048,2020-06-07
+TM00246,EMP00435,2022,Annual,Product,L4,Exceeds,Medium,Trusted Professional,Not Identified,Low,No,88,3.44,No,Yes,MGR0039,2024-03-15
+TM00247,EMP00384,2020,Q1,Legal,L6,Meets,Medium,Solid Contributor,Not Identified,Low,No,56,2.39,No,No,MGR0013,2024-01-07
+TM00248,EMP00620,2025,Q1,Design,L1,Does Not Meet,High,Core Player,Ready in 1-2 Years,High,No,87,1.27,Yes,No,MGR0010,2022-06-11
+TM00249,EMP00909,2022,Annual,Sales,L3,Meets,Low,Solid Contributor,Ready in 1-2 Years,High,No,74,2.26,Yes,No,MGR0006,2020-08-09
+TM00250,EMP00859,2025,Annual,Product,L3,Exceeds,Low,Star,Not Identified,Low,Yes,82,1.94,Yes,Yes,MGR0028,2021-07-20
+TM00251,EMP00942,2021,Mid-Year,Customer Success,L2,Does Not Meet,Medium,Trusted Professional,Ready Now,Low,No,62,4.76,No,Yes,MGR0036,2026-04-24
+TM00252,EMP00218,2022,Annual,HR,L4,Does Not Meet,Low,High Potential,Not Identified,High,Yes,51,1.72,No,No,MGR0002,2026-01-12
+TM00253,EMP00453,2020,Mid-Year,Finance,L3,Meets,High,Rough Diamond,Ready in 1-2 Years,Medium,No,82,3.44,No,Yes,MGR0003,2023-01-06
+TM00254,EMP00950,2022,Q1,Design,L5,Does Not Meet,High,Core Player,Ready Now,High,Yes,76,2.75,Yes,Yes,MGR0046,2024-02-25
+TM00255,EMP00319,2024,Annual,Finance,L4,Exceeds,Medium,Inconsistent Player,Ready in 3+ Years,High,Yes,100,4.92,No,No,MGR0002,2021-04-26
+TM00256,EMP00404,2022,Q3,IT,L1,Exceeds,Medium,Star,Ready in 3+ Years,Low,No,51,3.48,Yes,No,MGR0029,2022-04-06
+TM00257,EMP01132,2023,Q3,Customer Success,L2,Exceeds,High,Solid Contributor,Not Identified,Low,No,75,1.21,No,Yes,MGR0046,2020-12-05
+TM00258,EMP00630,2022,Mid-Year,Product,L5,Meets,Low,Rough Diamond,Not Identified,Medium,No,94,1.23,No,Yes,MGR0036,2025-05-19
+TM00259,EMP00629,2020,Q3,IT,L6,Meets,Low,Trusted Professional,Ready in 1-2 Years,High,No,64,2.37,Yes,Yes,MGR0029,2020-03-18
+TM00260,EMP00806,2020,Annual,Marketing,L7,Does Not Meet,Medium,Underperformer,Ready Now,Medium,No,93,2.76,Yes,Yes,MGR0027,2024-04-22
+TM00261,EMP01011,2021,Annual,Product,L2,Partially Meets,Medium,High Potential,Ready in 1-2 Years,High,Yes,93,1.48,Yes,No,MGR0023,2025-10-15
+TM00262,EMP00952,2022,Annual,HR,L1,Exceeds,High,Star,Not Identified,Medium,Yes,84,1.31,Yes,No,MGR0033,2026-06-22
+TM00263,EMP00170,2020,Q1,Engineering,L2,Partially Meets,High,Underperformer,Not Identified,Low,No,77,1.33,No,No,MGR0050,2021-04-13
+TM00264,EMP00793,2020,Mid-Year,Product,L2,Meets,Low,Underperformer,Ready in 1-2 Years,Low,No,69,3.1,Yes,Yes,MGR0034,2022-09-19
+TM00265,EMP01044,2022,Q3,Legal,L2,Meets,Medium,High Potential,Ready in 1-2 Years,High,No,95,1.42,Yes,No,MGR0001,2020-01-30
+TM00266,EMP00636,2024,Q1,Operations,L7,Meets,Medium,Rough Diamond,Not Identified,High,Yes,75,3.78,Yes,No,MGR0031,2021-08-07
+TM00267,EMP01187,2024,Mid-Year,Engineering,L7,Meets,Medium,Core Player,Ready in 1-2 Years,Low,No,84,1.71,Yes,Yes,MGR0029,2021-08-05
+TM00268,EMP00819,2022,Mid-Year,Sales,L6,Partially Meets,Low,Underperformer,Ready Now,High,No,83,2.06,Yes,No,MGR0003,2020-12-08
+TM00269,EMP00112,2026,Annual,Marketing,L2,Exceeds,High,Underperformer,Ready in 3+ Years,Low,No,65,3.09,No,No,MGR0033,2021-11-05
+TM00270,EMP00466,2026,Q3,IT,L5,Exceeds,Low,High Potential,Ready in 1-2 Years,Low,Yes,86,1.42,No,No,MGR0046,2026-05-27
+TM00271,EMP00188,2021,Q3,Design,L3,Meets,High,Question Mark,Ready Now,Low,No,51,3.27,No,Yes,MGR0008,2026-04-20
+TM00272,EMP00545,2023,Annual,Operations,L5,Does Not Meet,Low,High Potential,Not Identified,High,Yes,51,3.69,No,No,MGR0048,2020-09-06
+TM00273,EMP00224,2025,Q1,IT,L7,Meets,High,Question Mark,Ready Now,Low,Yes,55,1.92,No,Yes,MGR0039,2024-08-16
+TM00274,EMP00760,2023,Q1,Finance,L6,Meets,High,Inconsistent Player,Ready in 3+ Years,Low,No,58,3.33,No,No,MGR0001,2023-06-06
+TM00275,EMP00748,2021,Q1,Sales,L1,Exceeds,Low,Solid Contributor,Ready Now,Low,No,50,4.15,Yes,Yes,MGR0040,2023-12-06
+TM00276,EMP00593,2023,Q3,Marketing,L5,Partially Meets,High,Underperformer,Ready in 3+ Years,Medium,No,67,4.18,No,No,MGR0012,2022-03-10
+TM00277,EMP00425,2022,Q1,Operations,L6,Exceeds,High,High Potential,Ready in 1-2 Years,High,No,60,3.38,No,No,MGR0050,2024-11-02
+TM00278,EMP00324,2024,Q3,Legal,L1,Does Not Meet,Low,High Potential,Ready in 3+ Years,High,No,52,2.68,Yes,No,MGR0015,2026-01-15
+TM00279,EMP00236,2020,Mid-Year,HR,L6,Exceeds,High,Inconsistent Player,Ready Now,High,Yes,65,1.55,Yes,Yes,MGR0039,2023-03-03
+TM00280,EMP01132,2023,Q1,IT,L4,Partially Meets,Medium,Trusted Professional,Not Identified,Low,No,67,3.94,Yes,No,MGR0044,2026-01-14
+TM00281,EMP01172,2026,Annual,Marketing,L2,Exceeds,Low,Star,Ready in 3+ Years,Medium,No,52,4.64,No,Yes,MGR0018,2022-09-08
+TM00282,EMP00846,2026,Q1,Design,L6,Meets,Medium,Rough Diamond,Ready in 3+ Years,Low,No,91,1.26,Yes,Yes,MGR0027,2022-08-31
+TM00283,EMP00030,2024,Annual,Operations,L2,Exceeds,High,High Potential,Not Identified,High,No,56,3.53,No,Yes,MGR0003,2024-12-19
+TM00284,EMP00041,2025,Q1,Finance,L4,Meets,Medium,Inconsistent Player,Ready in 1-2 Years,Medium,No,52,4.99,No,No,MGR0048,2022-11-19
+TM00285,EMP01171,2020,Q1,Data Science,L4,Meets,Medium,Trusted Professional,Ready Now,Low,No,57,2.72,Yes,Yes,MGR0029,2025-06-10
+TM00286,EMP00079,2026,Annual,Legal,L6,Does Not Meet,High,Core Player,Ready in 3+ Years,Medium,Yes,93,4.64,No,Yes,MGR0046,2024-01-03
+TM00287,EMP00991,2025,Q1,Customer Success,L6,Exceeds,Medium,Trusted Professional,Ready Now,Medium,No,52,4.52,Yes,No,MGR0023,2024-09-02
+TM00288,EMP00216,2026,Mid-Year,Design,L1,Exceeds,High,Core Player,Not Identified,High,No,68,3.35,No,Yes,MGR0035,2025-09-23
+TM00289,EMP00424,2022,Annual,Engineering,L2,Does Not Meet,High,Rough Diamond,Ready Now,Low,Yes,95,3.17,No,Yes,MGR0027,2020-09-24
+TM00290,EMP00117,2023,Q3,Engineering,L4,Partially Meets,Low,Rough Diamond,Not Identified,High,No,70,3.83,Yes,Yes,MGR0031,2020-11-10
+TM00291,EMP00963,2023,Mid-Year,Marketing,L4,Does Not Meet,Low,Underperformer,Not Identified,High,Yes,100,2.38,Yes,No,MGR0005,2021-03-06
+TM00292,EMP01130,2026,Q3,HR,L1,Does Not Meet,Medium,Underperformer,Ready in 1-2 Years,Low,No,79,2.52,No,No,MGR0040,2024-08-03
+TM00293,EMP00659,2025,Q1,Sales,L1,Partially Meets,Low,Rough Diamond,Ready Now,High,No,63,2.15,No,Yes,MGR0050,2020-01-12
+TM00294,EMP00285,2023,Q3,Data Science,L5,Partially Meets,Low,Solid Contributor,Not Identified,Low,Yes,53,4.95,Yes,Yes,MGR0026,2023-05-30
+TM00295,EMP00536,2020,Mid-Year,Product,L5,Partially Meets,Medium,Star,Ready in 3+ Years,Low,Yes,63,3.21,No,Yes,MGR0001,2020-02-18
+TM00296,EMP00144,2020,Annual,Operations,L3,Partially Meets,Low,Solid Contributor,Ready Now,High,No,50,4.72,No,No,MGR0040,2022-09-03
+TM00297,EMP01033,2021,Q1,Operations,L4,Exceeds,Low,Question Mark,Ready in 1-2 Years,Medium,Yes,57,4.76,Yes,Yes,MGR0009,2020-03-23
+TM00298,EMP01168,2026,Mid-Year,Data Science,L3,Meets,High,Inconsistent Player,Ready in 3+ Years,Low,Yes,64,4.42,No,No,MGR0032,2022-03-16
+TM00299,EMP00957,2024,Annual,Marketing,L7,Exceeds,Low,Rough Diamond,Ready in 3+ Years,Low,No,73,4.66,No,No,MGR0037,2021-10-18
+TM00300,EMP00099,2025,Q3,Legal,L1,Partially Meets,Low,Rough Diamond,Not Identified,Low,No,55,1.59,Yes,No,MGR0047,2024-04-05
+TM00301,EMP01151,2021,Q1,Customer Success,L3,Meets,Low,Solid Contributor,Ready in 3+ Years,High,No,81,3.38,Yes,Yes,MGR0021,2024-07-16
+TM00302,EMP00476,2021,Q3,Data Science,L5,Partially Meets,Low,Inconsistent Player,Not Identified,High,No,64,4.88,Yes,Yes,MGR0029,2025-09-17
+TM00303,EMP00318,2026,Annual,Design,L1,Does Not Meet,Medium,High Potential,Not Identified,Medium,No,61,3.13,No,Yes,MGR0017,2025-10-30
+TM00304,EMP00239,2020,Q3,Design,L1,Exceeds,Medium,Underperformer,Ready Now,Low,Yes,63,3.06,Yes,Yes,MGR0027,2023-07-27
+TM00305,EMP00404,2023,Q1,Customer Success,L5,Meets,Medium,Rough Diamond,Ready Now,Low,No,52,3.89,No,Yes,MGR0021,2021-09-21
+TM00306,EMP00779,2026,Q3,Data Science,L5,Exceeds,Low,Inconsistent Player,Ready in 3+ Years,High,No,82,2.6,No,Yes,MGR0040,2021-08-18
+TM00307,EMP01055,2026,Q3,Sales,L5,Does Not Meet,High,Core Player,Not Identified,High,No,75,2.68,No,No,MGR0023,2023-05-08
+TM00308,EMP00017,2025,Q3,Sales,L5,Partially Meets,High,Star,Ready Now,Medium,No,70,1.27,Yes,Yes,MGR0005,2025-10-26
+TM00309,EMP00415,2022,Q3,Legal,L5,Exceeds,High,Rough Diamond,Ready in 3+ Years,Low,No,93,4.24,No,No,MGR0035,2024-09-21
+TM00310,EMP00363,2026,Annual,Design,L2,Meets,Low,Trusted Professional,Ready in 3+ Years,Medium,No,66,4.27,No,Yes,MGR0003,2023-01-11
+TM00311,EMP01180,2022,Mid-Year,Legal,L7,Partially Meets,High,Rough Diamond,Ready in 1-2 Years,Medium,No,56,2.42,Yes,Yes,MGR0046,2021-01-22
+TM00312,EMP00459,2020,Annual,Finance,L3,Meets,High,Star,Ready Now,Medium,No,89,1.18,No,No,MGR0019,2022-12-12
+TM00313,EMP00894,2024,Annual,Product,L1,Meets,Medium,Underperformer,Ready Now,Low,No,87,3.78,No,Yes,MGR0033,2025-05-22
+TM00314,EMP00969,2026,Annual,Marketing,L4,Exceeds,Low,High Potential,Not Identified,Medium,No,55,3.42,No,Yes,MGR0016,2023-05-18
+TM00315,EMP00433,2020,Q3,Operations,L3,Does Not Meet,Medium,Rough Diamond,Ready Now,Medium,No,71,1.52,Yes,Yes,MGR0045,2022-08-16
+TM00316,EMP00265,2026,Q3,IT,L4,Exceeds,Low,Solid Contributor,Not Identified,High,Yes,55,4.25,Yes,No,MGR0050,2021-09-22
+TM00317,EMP00140,2023,Mid-Year,Data Science,L5,Meets,Low,Trusted Professional,Ready in 1-2 Years,Medium,Yes,55,3.25,No,Yes,MGR0024,2023-11-03
+TM00318,EMP00070,2022,Mid-Year,Data Science,L3,Partially Meets,Medium,Star,Not Identified,High,No,75,2.23,Yes,Yes,MGR0039,2023-05-23
+TM00319,EMP00102,2024,Q1,Engineering,L7,Does Not Meet,High,Underperformer,Not Identified,Medium,No,70,1.01,No,Yes,MGR0043,2020-02-14
+TM00320,EMP00349,2021,Mid-Year,Marketing,L3,Exceeds,Medium,Inconsistent Player,Not Identified,Low,No,55,1.52,No,No,MGR0034,2024-08-18
+TM00321,EMP00316,2020,Q1,Sales,L5,Meets,Medium,Question Mark,Not Identified,Medium,Yes,67,4.43,Yes,No,MGR0022,2022-12-23
+TM00322,EMP01199,2023,Mid-Year,Product,L2,Exceeds,High,High Potential,Ready Now,High,Yes,82,4.98,Yes,Yes,MGR0035,2025-08-08
+TM00323,EMP00938,2022,Mid-Year,Customer Success,L3,Partially Meets,High,Star,Ready in 1-2 Years,Medium,Yes,92,2.72,Yes,No,MGR0024,2020-05-27
+TM00324,EMP00933,2021,Mid-Year,Product,L4,Exceeds,High,Solid Contributor,Ready in 1-2 Years,Low,No,92,3.92,No,No,MGR0041,2024-10-14
+TM00325,EMP01002,2021,Mid-Year,Finance,L4,Exceeds,Medium,Solid Contributor,Ready Now,Low,Yes,58,3.77,Yes,Yes,MGR0022,2023-09-12
+TM00326,EMP00758,2024,Mid-Year,Legal,L6,Does Not Meet,High,Underperformer,Ready Now,Low,Yes,90,1.59,No,No,MGR0042,2020-02-13
+TM00327,EMP00769,2023,Q1,Legal,L5,Meets,Medium,Question Mark,Ready in 1-2 Years,Medium,No,60,3.2,No,Yes,MGR0005,2021-08-27
+TM00328,EMP00017,2021,Q3,HR,L2,Meets,High,Question Mark,Ready in 3+ Years,Low,Yes,91,1.1,No,No,MGR0014,2022-03-15
+TM00329,EMP00592,2022,Q3,Marketing,L7,Meets,Medium,High Potential,Ready Now,Low,No,80,1.7,Yes,Yes,MGR0017,2023-05-13
+TM00330,EMP00918,2021,Annual,Finance,L7,Does Not Meet,Low,Question Mark,Ready in 3+ Years,Medium,No,74,4.64,Yes,Yes,MGR0022,2025-03-30
+TM00331,EMP01170,2024,Q1,Customer Success,L3,Does Not Meet,High,Solid Contributor,Ready in 3+ Years,Low,No,73,3.38,No,No,MGR0050,2024-02-14
+TM00332,EMP00513,2020,Mid-Year,Engineering,L1,Does Not Meet,Low,Solid Contributor,Ready Now,High,No,59,1.88,Yes,No,MGR0037,2026-06-25
+TM00333,EMP00222,2024,Mid-Year,Data Science,L7,Meets,Low,Question Mark,Not Identified,Low,No,75,4.53,No,No,MGR0026,2022-05-22
+TM00334,EMP00024,2021,Annual,Product,L4,Meets,Medium,Underperformer,Ready Now,Medium,Yes,87,2.63,Yes,No,MGR0047,2024-08-25
+TM00335,EMP00600,2025,Q1,Product,L7,Does Not Meet,Low,Question Mark,Ready in 3+ Years,High,No,94,2.19,No,No,MGR0044,2022-07-13
+TM00336,EMP01191,2025,Q1,HR,L4,Exceeds,Medium,Solid Contributor,Ready in 3+ Years,Low,No,55,2.32,No,No,MGR0018,2023-02-09
+TM00337,EMP00699,2025,Annual,Marketing,L2,Meets,Low,Underperformer,Ready Now,Low,No,74,3.06,Yes,No,MGR0045,2021-05-15
+TM00338,EMP00721,2020,Annual,Finance,L5,Exceeds,Low,Solid Contributor,Not Identified,High,No,79,2.11,Yes,Yes,MGR0020,2023-07-16
+TM00339,EMP00873,2026,Annual,Customer Success,L6,Exceeds,Low,High Potential,Not Identified,Low,No,60,2.02,Yes,Yes,MGR0020,2025-08-28
+TM00340,EMP01024,2022,Q3,Customer Success,L3,Partially Meets,Medium,High Potential,Ready in 1-2 Years,High,No,71,1.31,No,Yes,MGR0041,2021-06-21
+TM00341,EMP00480,2025,Q3,Marketing,L5,Does Not Meet,Medium,High Potential,Ready Now,Low,No,52,1.38,Yes,No,MGR0009,2023-05-06
+TM00342,EMP00472,2025,Q3,Operations,L5,Does Not Meet,Low,Solid Contributor,Ready in 1-2 Years,Low,No,90,3.08,No,No,MGR0030,2024-08-23
+TM00343,EMP00062,2022,Annual,Data Science,L7,Meets,Medium,Underperformer,Not Identified,Low,No,97,3.48,Yes,Yes,MGR0035,2024-08-09
+TM00344,EMP00220,2024,Q1,Engineering,L3,Meets,Low,Question Mark,Not Identified,Low,No,87,4.7,Yes,No,MGR0034,2025-12-04
+TM00345,EMP00749,2024,Mid-Year,Engineering,L4,Partially Meets,Low,High Potential,Ready Now,Low,No,58,2.59,Yes,No,MGR0018,2020-07-30
+TM00346,EMP00248,2020,Q3,Design,L2,Does Not Meet,Medium,Rough Diamond,Ready in 1-2 Years,Low,No,65,3.85,No,No,MGR0035,2021-05-30
+TM00347,EMP00070,2023,Annual,Sales,L2,Meets,High,High Potential,Ready in 1-2 Years,Low,No,97,1.09,No,Yes,MGR0024,2024-01-28
+TM00348,EMP00227,2020,Q3,Marketing,L1,Does Not Meet,Low,Star,Ready in 1-2 Years,High,Yes,91,1.41,Yes,No,MGR0006,2025-08-09
+TM00349,EMP00741,2024,Q3,Design,L1,Meets,Low,Rough Diamond,Ready Now,Medium,No,70,1.18,Yes,Yes,MGR0008,2021-08-13
+TM00350,EMP01110,2024,Q1,Operations,L2,Partially Meets,High,Solid Contributor,Ready in 1-2 Years,Medium,No,52,1.51,No,Yes,MGR0009,2021-03-06
+TM00351,EMP01156,2021,Q3,IT,L4,Partially Meets,High,Question Mark,Ready Now,Medium,No,57,3.13,Yes,Yes,MGR0008,2024-03-10
+TM00352,EMP00102,2024,Q1,IT,L7,Meets,High,Underperformer,Ready in 3+ Years,High,Yes,97,3.95,No,Yes,MGR0050,2020-02-15
+TM00353,EMP01044,2025,Mid-Year,Finance,L6,Meets,Medium,Rough Diamond,Ready in 3+ Years,Low,No,82,3.65,No,Yes,MGR0025,2026-03-19
+TM00354,EMP00145,2020,Q3,Data Science,L7,Exceeds,Medium,Question Mark,Not Identified,Low,No,92,3.51,Yes,No,MGR0028,2026-07-03
+TM00355,EMP00165,2024,Mid-Year,IT,L4,Does Not Meet,Low,Solid Contributor,Not Identified,Medium,No,73,3.08,No,No,MGR0006,2022-07-03
+TM00356,EMP00882,2021,Q3,HR,L3,Partially Meets,Medium,Question Mark,Ready in 3+ Years,Low,No,69,1.12,No,No,MGR0008,2024-06-01
+TM00357,EMP01097,2021,Mid-Year,Sales,L3,Meets,High,Question Mark,Not Identified,Medium,No,83,1.13,Yes,Yes,MGR0029,2024-08-18
+TM00358,EMP00668,2022,Q1,Finance,L1,Meets,Medium,Question Mark,Ready Now,Medium,No,64,1.62,Yes,No,MGR0034,2020-07-21
+TM00359,EMP00061,2025,Q3,IT,L7,Exceeds,Low,Question Mark,Ready in 1-2 Years,Low,No,56,3.71,Yes,No,MGR0042,2021-10-14
+TM00360,EMP00852,2021,Q1,Data Science,L5,Meets,High,Trusted Professional,Ready in 3+ Years,Medium,No,82,1.03,Yes,Yes,MGR0002,2025-03-28
+TM00361,EMP00465,2025,Mid-Year,Design,L4,Does Not Meet,Medium,Trusted Professional,Ready in 3+ Years,Low,No,70,3.53,Yes,Yes,MGR0031,2021-03-26
+TM00362,EMP01129,2026,Annual,Engineering,L2,Does Not Meet,High,Star,Ready in 3+ Years,Medium,Yes,65,1.22,No,Yes,MGR0025,2025-06-30
+TM00363,EMP00045,2021,Annual,Finance,L5,Meets,Low,Star,Not Identified,Medium,No,50,1.4,No,No,MGR0043,2025-08-07
+TM00364,EMP00719,2025,Annual,Marketing,L1,Exceeds,Low,Trusted Professional,Ready in 3+ Years,Medium,Yes,90,2.72,Yes,No,MGR0013,2021-06-29
+TM00365,EMP00303,2026,Annual,HR,L3,Meets,Low,Question Mark,Ready Now,High,No,59,2.87,Yes,Yes,MGR0015,2025-09-11
+TM00366,EMP00953,2022,Q3,Sales,L2,Partially Meets,High,Core Player,Ready Now,Low,No,91,3.43,No,No,MGR0020,2020-12-04
+TM00367,EMP00939,2024,Annual,Customer Success,L5,Meets,Medium,Solid Contributor,Not Identified,Medium,No,57,4.0,No,Yes,MGR0024,2020-11-04
+TM00368,EMP00228,2023,Q1,Engineering,L6,Meets,Low,Inconsistent Player,Not Identified,Medium,No,53,3.88,No,No,MGR0018,2022-07-01
+TM00369,EMP00258,2024,Q3,Engineering,L6,Meets,Medium,Solid Contributor,Ready Now,Low,No,59,2.28,Yes,Yes,MGR0031,2021-02-01
+TM00370,EMP00265,2023,Q3,Product,L2,Exceeds,Low,Solid Contributor,Not Identified,Medium,No,82,4.81,No,No,MGR0001,2020-04-06
+TM00371,EMP00419,2020,Mid-Year,HR,L3,Meets,Low,Inconsistent Player,Not Identified,Low,No,70,1.91,No,No,MGR0008,2020-07-13
+TM00372,EMP00431,2021,Mid-Year,IT,L3,Meets,High,High Potential,Ready Now,Low,No,86,2.39,Yes,Yes,MGR0038,2026-03-02
+TM00373,EMP00217,2022,Annual,Engineering,L3,Exceeds,Low,Underperformer,Ready Now,Low,No,100,1.5,Yes,Yes,MGR0047,2022-08-16
+TM00374,EMP01186,2020,Q3,Engineering,L5,Does Not Meet,Low,Underperformer,Ready Now,High,Yes,64,3.11,Yes,Yes,MGR0048,2026-04-03
+TM00375,EMP00264,2020,Mid-Year,Legal,L1,Does Not Meet,Medium,Star,Ready in 1-2 Years,Medium,No,67,3.25,No,Yes,MGR0011,2022-06-25
+TM00376,EMP01192,2026,Annual,Product,L2,Does Not Meet,High,Solid Contributor,Ready in 1-2 Years,Low,No,100,4.26,No,Yes,MGR0041,2024-07-04
+TM00377,EMP00232,2020,Mid-Year,HR,L1,Does Not Meet,High,Solid Contributor,Ready Now,Low,No,75,1.01,No,Yes,MGR0039,2026-06-29
+TM00378,EMP00350,2021,Q1,IT,L6,Meets,High,High Potential,Not Identified,Medium,Yes,100,2.24,No,Yes,MGR0022,2022-10-31
+TM00379,EMP00096,2020,Q1,Finance,L2,Exceeds,High,Core Player,Ready Now,Low,No,51,4.16,Yes,Yes,MGR0044,2023-08-16
+TM00380,EMP00118,2023,Q1,HR,L3,Meets,Medium,Question Mark,Ready in 1-2 Years,Medium,No,73,3.68,No,No,MGR0024,2020-10-27
+TM00381,EMP00543,2024,Annual,Marketing,L6,Does Not Meet,High,Rough Diamond,Ready in 3+ Years,Medium,No,86,1.33,No,No,MGR0008,2025-12-20
+TM00382,EMP00604,2026,Q3,Operations,L6,Does Not Meet,Medium,Question Mark,Not Identified,Medium,No,91,1.06,No,Yes,MGR0012,2025-09-08
+TM00383,EMP00292,2022,Mid-Year,Legal,L2,Does Not Meet,High,Core Player,Ready in 3+ Years,High,No,57,2.68,Yes,Yes,MGR0010,2025-04-07
+TM00384,EMP00997,2020,Annual,Finance,L4,Partially Meets,Medium,Inconsistent Player,Ready Now,High,No,99,2.95,No,No,MGR0029,2021-04-28
+TM00385,EMP00211,2022,Mid-Year,Data Science,L7,Exceeds,High,Solid Contributor,Not Identified,Low,Yes,92,3.05,No,No,MGR0001,2020-05-29
+TM00386,EMP00290,2025,Mid-Year,Marketing,L3,Meets,High,Star,Ready in 3+ Years,Low,Yes,52,4.72,No,Yes,MGR0039,2023-02-22
+TM00387,EMP00833,2023,Q3,Finance,L2,Partially Meets,High,Inconsistent Player,Ready in 1-2 Years,High,No,60,2.43,Yes,Yes,MGR0012,2025-04-01
+TM00388,EMP00563,2020,Q1,Engineering,L6,Meets,Medium,Core Player,Not Identified,Medium,No,79,4.66,Yes,Yes,MGR0026,2025-03-21
+TM00389,EMP00862,2024,Mid-Year,Finance,L5,Partially Meets,High,Solid Contributor,Ready in 3+ Years,Low,No,85,2.81,Yes,Yes,MGR0031,2021-05-21
+TM00390,EMP00678,2025,Mid-Year,Engineering,L4,Meets,Medium,Star,Ready in 3+ Years,Low,No,84,3.71,No,Yes,MGR0021,2026-07-28
+TM00391,EMP00124,2021,Q3,Legal,L2,Exceeds,Medium,Question Mark,Ready Now,Low,No,66,1.9,Yes,Yes,MGR0048,2022-05-11
+TM00392,EMP00370,2023,Mid-Year,Operations,L5,Partially Meets,Medium,Inconsistent Player,Ready in 3+ Years,Low,No,62,3.58,No,No,MGR0045,2026-01-26
+TM00393,EMP00871,2025,Q1,Product,L6,Meets,Low,Rough Diamond,Ready Now,High,No,79,3.92,No,No,MGR0007,2020-11-30
+TM00394,EMP00931,2024,Q3,Sales,L6,Meets,High,Trusted Professional,Ready in 1-2 Years,Medium,No,58,3.8,Yes,Yes,MGR0040,2024-03-09
+TM00395,EMP01079,2024,Q3,Marketing,L2,Meets,Low,Underperformer,Ready in 1-2 Years,Low,No,59,1.48,Yes,No,MGR0035,2024-11-27
+TM00396,EMP01200,2025,Q3,HR,L2,Meets,Low,Trusted Professional,Not Identified,High,No,99,3.39,No,No,MGR0035,2025-07-13
+TM00397,EMP01038,2024,Mid-Year,Finance,L3,Meets,High,Trusted Professional,Ready Now,High,No,93,1.06,No,No,MGR0005,2024-03-08
+TM00398,EMP00930,2024,Annual,Design,L1,Partially Meets,High,Underperformer,Ready in 3+ Years,Low,No,53,2.49,No,Yes,MGR0016,2024-12-03
+TM00399,EMP00029,2023,Q3,Customer Success,L2,Partially Meets,High,Solid Contributor,Ready in 3+ Years,High,No,82,4.36,No,No,MGR0017,2024-11-01
+TM00400,EMP00748,2026,Mid-Year,Sales,L3,Partially Meets,High,Question Mark,Ready in 3+ Years,Low,No,70,4.84,No,No,MGR0014,2024-08-21
+TM00401,EMP01157,2024,Q3,Data Science,L5,Meets,High,Solid Contributor,Ready Now,High,No,75,2.64,Yes,No,MGR0044,2025-09-19
+TM00402,EMP00274,2025,Q3,Design,L1,Meets,Medium,Solid Contributor,Ready Now,Medium,Yes,71,1.64,No,No,MGR0046,2021-11-02
+TM00403,EMP01154,2020,Annual,Design,L7,Partially Meets,Low,Star,Not Identified,Low,No,70,2.19,Yes,Yes,MGR0011,2020-04-16
+TM00404,EMP00251,2022,Annual,IT,L1,Meets,Medium,Trusted Professional,Ready Now,Low,No,62,3.09,Yes,No,MGR0001,2020-12-23
+TM00405,EMP01060,2021,Q1,Legal,L7,Meets,High,Solid Contributor,Not Identified,High,No,75,1.28,Yes,Yes,MGR0033,2023-04-11
+TM00406,EMP01010,2022,Mid-Year,Operations,L4,Partially Meets,Low,Solid Contributor,Ready in 3+ Years,Medium,No,67,2.0,No,No,MGR0047,2025-09-02
+TM00407,EMP00282,2022,Q1,Marketing,L1,Partially Meets,High,Core Player,Not Identified,Low,No,86,3.23,Yes,No,MGR0014,2023-10-12
+TM00408,EMP01198,2022,Q1,IT,L1,Meets,Low,Inconsistent Player,Not Identified,Low,No,86,3.43,No,No,MGR0046,2023-06-24
+TM00409,EMP00136,2025,Q1,Sales,L1,Exceeds,High,Trusted Professional,Not Identified,Medium,No,86,3.73,No,No,MGR0029,2021-05-03
+TM00410,EMP00411,2023,Mid-Year,IT,L2,Partially Meets,Low,Rough Diamond,Not Identified,Low,Yes,91,3.12,No,Yes,MGR0013,2021-02-01
+TM00411,EMP00549,2023,Mid-Year,Design,L1,Meets,Low,Underperformer,Ready in 3+ Years,Low,Yes,81,2.4,No,No,MGR0027,2026-07-01
+TM00412,EMP00635,2020,Annual,Marketing,L5,Partially Meets,Medium,Question Mark,Ready Now,Low,Yes,79,1.96,Yes,No,MGR0003,2025-07-21
+TM00413,EMP00976,2024,Mid-Year,Operations,L3,Partially Meets,Low,Rough Diamond,Ready Now,Medium,No,98,4.9,Yes,Yes,MGR0036,2023-01-09
+TM00414,EMP00272,2023,Q1,Engineering,L4,Meets,Medium,Star,Not Identified,High,No,68,3.29,No,Yes,MGR0031,2025-01-25
+TM00415,EMP00036,2026,Mid-Year,Product,L6,Meets,Low,Trusted Professional,Not Identified,Low,No,59,3.97,No,Yes,MGR0002,2022-02-20
+TM00416,EMP00547,2025,Mid-Year,Legal,L3,Does Not Meet,Medium,Star,Not Identified,Low,No,100,4.28,No,No,MGR0046,2020-06-08
+TM00417,EMP00356,2021,Mid-Year,Legal,L1,Partially Meets,Low,Question Mark,Ready in 1-2 Years,Low,No,58,3.34,No,Yes,MGR0011,2022-02-04
+TM00418,EMP00676,2021,Q1,IT,L7,Partially Meets,High,Solid Contributor,Ready Now,Low,No,84,3.94,Yes,Yes,MGR0028,2021-02-28
+TM00419,EMP00030,2025,Q1,Sales,L6,Meets,Medium,Question Mark,Not Identified,Medium,No,77,1.82,Yes,Yes,MGR0020,2022-12-28
+TM00420,EMP01103,2025,Q1,Engineering,L5,Meets,High,Star,Ready in 3+ Years,Medium,No,76,2.68,No,No,MGR0044,2023-10-22
+TM00421,EMP00682,2022,Q3,Sales,L7,Does Not Meet,Low,Rough Diamond,Ready Now,Medium,Yes,77,3.38,No,Yes,MGR0031,2020-06-08
+TM00422,EMP00457,2020,Annual,Marketing,L6,Does Not Meet,Medium,Trusted Professional,Ready in 3+ Years,Medium,No,94,1.53,No,No,MGR0002,2021-05-21
+TM00423,EMP01156,2022,Mid-Year,Operations,L6,Exceeds,Medium,Core Player,Not Identified,High,Yes,85,3.04,Yes,Yes,MGR0016,2024-09-01
+TM00424,EMP00909,2021,Mid-Year,Legal,L6,Exceeds,High,High Potential,Ready Now,High,Yes,98,1.42,No,No,MGR0001,2021-05-06
+TM00425,EMP00971,2022,Q1,Engineering,L2,Meets,Medium,Rough Diamond,Not Identified,High,No,79,4.55,Yes,No,MGR0043,2025-11-07
+TM00426,EMP00231,2022,Annual,Marketing,L2,Partially Meets,Low,Underperformer,Not Identified,Medium,Yes,89,2.09,No,No,MGR0006,2022-12-28
+TM00427,EMP00115,2021,Mid-Year,HR,L5,Does Not Meet,Low,Question Mark,Ready in 1-2 Years,Low,No,58,4.84,Yes,Yes,MGR0041,2026-04-02
+TM00428,EMP01137,2025,Q1,Sales,L6,Partially Meets,Medium,Inconsistent Player,Ready Now,Low,No,93,1.07,No,Yes,MGR0036,2020-10-13
+TM00429,EMP00110,2026,Q1,Sales,L2,Does Not Meet,Low,High Potential,Ready in 3+ Years,High,No,87,3.22,Yes,Yes,MGR0005,2021-08-31
+TM00430,EMP00565,2022,Q3,Data Science,L5,Partially Meets,High,Core Player,Ready in 3+ Years,Low,No,99,1.02,Yes,Yes,MGR0024,2022-11-12
+TM00431,EMP00859,2025,Q3,IT,L3,Meets,High,High Potential,Ready Now,High,Yes,93,1.54,No,No,MGR0017,2021-05-10
+TM00432,EMP01139,2020,Q3,Customer Success,L7,Does Not Meet,Low,Star,Not Identified,High,No,81,1.94,Yes,Yes,MGR0012,2025-11-11
+TM00433,EMP01079,2021,Annual,Data Science,L1,Meets,High,Underperformer,Ready in 1-2 Years,Medium,No,93,4.3,No,Yes,MGR0030,2022-01-08
+TM00434,EMP01160,2021,Mid-Year,Marketing,L3,Partially Meets,High,Solid Contributor,Not Identified,High,No,52,2.6,Yes,No,MGR0045,2021-03-22
+TM00435,EMP00462,2021,Annual,HR,L4,Exceeds,Medium,Core Player,Ready in 3+ Years,Low,Yes,63,2.81,No,No,MGR0024,2025-07-31
+TM00436,EMP00833,2025,Q3,Legal,L6,Meets,High,Question Mark,Ready Now,Medium,Yes,95,3.44,Yes,Yes,MGR0012,2025-04-25
+TM00437,EMP00466,2024,Q1,Design,L4,Does Not Meet,High,Star,Ready Now,Low,Yes,99,2.71,Yes,No,MGR0025,2021-12-28
+TM00438,EMP00431,2023,Q1,Legal,L5,Does Not Meet,Low,Star,Ready Now,High,No,99,1.82,Yes,Yes,MGR0018,2024-07-14
+TM00439,EMP00022,2022,Q3,HR,L2,Partially Meets,Low,Rough Diamond,Ready in 1-2 Years,High,No,76,1.61,No,No,MGR0010,2024-01-16
+TM00440,EMP00418,2023,Annual,IT,L7,Exceeds,Medium,Question Mark,Ready in 1-2 Years,Low,No,84,4.58,Yes,No,MGR0001,2021-06-15
+TM00441,EMP00795,2026,Annual,IT,L1,Meets,High,Star,Not Identified,Low,No,75,3.94,Yes,No,MGR0023,2023-03-28
+TM00442,EMP00606,2022,Mid-Year,Design,L7,Meets,Low,Trusted Professional,Ready in 1-2 Years,Low,No,93,3.86,Yes,Yes,MGR0046,2020-08-11
+TM00443,EMP00941,2023,Q1,Customer Success,L5,Meets,Low,Solid Contributor,Ready in 1-2 Years,Low,Yes,98,1.12,No,No,MGR0020,2023-08-31
+TM00444,EMP00951,2021,Q1,Data Science,L3,Exceeds,Low,Underperformer,Ready in 3+ Years,Medium,No,72,1.81,No,Yes,MGR0014,2020-12-18
+TM00445,EMP00749,2021,Annual,Finance,L4,Exceeds,High,Core Player,Ready Now,Low,No,88,3.87,No,Yes,MGR0011,2025-11-19
+TM00446,EMP00566,2020,Mid-Year,Marketing,L3,Meets,Medium,High Potential,Ready in 1-2 Years,Low,No,57,3.46,No,No,MGR0046,2022-10-06
+TM00447,EMP00732,2025,Q3,Engineering,L2,Meets,Medium,Rough Diamond,Ready Now,Low,No,86,3.92,No,No,MGR0005,2023-02-09
+TM00448,EMP00810,2025,Q1,Product,L1,Partially Meets,Medium,Question Mark,Ready Now,Medium,Yes,53,1.76,No,No,MGR0025,2025-05-14
+TM00449,EMP00991,2020,Mid-Year,Sales,L4,Does Not Meet,Low,Trusted Professional,Not Identified,High,Yes,59,4.95,No,No,MGR0045,2022-03-07
+TM00450,EMP00225,2023,Mid-Year,Customer Success,L2,Meets,High,Solid Contributor,Not Identified,High,No,51,4.13,Yes,No,MGR0005,2025-03-10
+TM00451,EMP00181,2021,Mid-Year,Marketing,L4,Does Not Meet,High,Core Player,Not Identified,Medium,No,65,2.99,Yes,No,MGR0050,2023-12-19
+TM00452,EMP00330,2020,Q3,Engineering,L1,Meets,High,Core Player,Ready in 1-2 Years,Low,Yes,75,3.57,No,No,MGR0040,2023-05-07
+TM00453,EMP01067,2024,Mid-Year,Finance,L5,Does Not Meet,High,High Potential,Ready in 1-2 Years,High,No,90,2.04,No,No,MGR0047,2024-07-31
+TM00454,EMP00231,2022,Mid-Year,Engineering,L7,Meets,High,Question Mark,Not Identified,Low,No,93,3.07,Yes,No,MGR0006,2022-12-14
+TM00455,EMP00624,2023,Mid-Year,Customer Success,L2,Partially Meets,Medium,Question Mark,Not Identified,High,No,68,2.12,No,No,MGR0019,2025-04-13
+TM00456,EMP00317,2022,Q1,HR,L7,Partially Meets,Medium,Underperformer,Ready in 3+ Years,Low,Yes,71,4.95,Yes,Yes,MGR0013,2025-03-13
+TM00457,EMP01189,2025,Mid-Year,Operations,L1,Partially Meets,Low,Core Player,Ready in 1-2 Years,High,No,84,4.91,Yes,Yes,MGR0046,2025-10-21
+TM00458,EMP00288,2024,Q1,Engineering,L2,Meets,High,Inconsistent Player,Ready in 3+ Years,High,No,97,1.18,No,No,MGR0006,2022-01-17
+TM00459,EMP00179,2022,Mid-Year,Operations,L7,Does Not Meet,Low,Rough Diamond,Ready in 1-2 Years,High,No,52,1.06,No,Yes,MGR0013,2023-12-30
+TM00460,EMP01200,2020,Annual,Sales,L7,Exceeds,Low,High Potential,Not Identified,Low,Yes,73,3.59,Yes,No,MGR0015,2021-12-16
+TM00461,EMP00752,2024,Q3,Operations,L6,Does Not Meet,Low,Trusted Professional,Ready in 1-2 Years,High,No,83,4.18,No,No,MGR0022,2023-02-19
+TM00462,EMP00386,2025,Annual,Legal,L7,Meets,High,Solid Contributor,Ready in 1-2 Years,Medium,No,88,3.98,No,No,MGR0041,2020-02-29
+TM00463,EMP00149,2021,Mid-Year,Design,L3,Meets,Medium,Rough Diamond,Ready in 3+ Years,Medium,No,93,2.04,Yes,Yes,MGR0045,2023-11-18
+TM00464,EMP00269,2020,Q3,Sales,L7,Exceeds,High,Underperformer,Not Identified,Medium,No,87,1.39,Yes,No,MGR0023,2023-01-23
+TM00465,EMP00782,2025,Q1,Finance,L5,Meets,Low,High Potential,Ready in 1-2 Years,Medium,No,52,3.66,No,No,MGR0011,2025-07-31
+TM00466,EMP00306,2024,Mid-Year,Sales,L7,Exceeds,Medium,Trusted Professional,Ready Now,Low,No,67,1.15,Yes,No,MGR0009,2022-02-21
+TM00467,EMP00433,2023,Q3,Design,L6,Exceeds,Low,Underperformer,Ready in 1-2 Years,Medium,No,67,3.36,Yes,Yes,MGR0024,2020-11-12
+TM00468,EMP00904,2020,Q3,IT,L5,Exceeds,Medium,Underperformer,Ready in 3+ Years,Low,Yes,65,1.87,Yes,No,MGR0044,2024-03-25
+TM00469,EMP00142,2025,Mid-Year,Engineering,L1,Exceeds,High,Underperformer,Ready Now,High,No,66,4.16,No,Yes,MGR0017,2020-10-03
+TM00470,EMP00557,2020,Q1,Design,L4,Exceeds,High,Underperformer,Ready in 3+ Years,Low,No,62,3.25,No,Yes,MGR0033,2026-06-15
+TM00471,EMP00689,2023,Q1,Data Science,L4,Exceeds,Low,Core Player,Ready Now,Medium,No,91,3.52,Yes,No,MGR0048,2025-02-27
+TM00472,EMP00148,2021,Q3,Marketing,L7,Meets,Low,Core Player,Not Identified,Low,Yes,59,3.04,No,Yes,MGR0016,2020-06-21
+TM00473,EMP00135,2023,Q1,Operations,L3,Does Not Meet,Low,Underperformer,Not Identified,Medium,No,72,2.76,No,No,MGR0036,2026-03-17
+TM00474,EMP00345,2020,Q3,Product,L2,Meets,Low,Solid Contributor,Ready in 1-2 Years,Low,No,77,3.74,Yes,No,MGR0011,2022-03-16
+TM00475,EMP00125,2022,Q1,Sales,L7,Partially Meets,Medium,Underperformer,Ready Now,Low,Yes,80,4.79,Yes,No,MGR0015,2020-08-10
+TM00476,EMP00695,2020,Mid-Year,Sales,L3,Meets,High,Solid Contributor,Ready in 1-2 Years,High,No,64,3.78,No,Yes,MGR0010,2022-06-15
+TM00477,EMP00271,2024,Mid-Year,HR,L3,Meets,Low,High Potential,Ready Now,Low,Yes,61,4.92,Yes,Yes,MGR0011,2022-11-14
+TM00478,EMP00439,2025,Annual,Engineering,L7,Partially Meets,High,Inconsistent Player,Ready in 1-2 Years,Low,No,67,4.53,No,Yes,MGR0022,2023-10-17
+TM00479,EMP00406,2025,Q3,Finance,L6,Does Not Meet,Low,Solid Contributor,Ready Now,Low,No,66,4.19,Yes,Yes,MGR0023,2021-02-19
+TM00480,EMP00369,2026,Q1,Marketing,L7,Does Not Meet,Low,Question Mark,Ready in 3+ Years,Medium,Yes,86,3.81,Yes,Yes,MGR0013,2025-04-01
+TM00481,EMP00180,2022,Mid-Year,Data Science,L2,Does Not Meet,High,Inconsistent Player,Ready in 1-2 Years,Medium,Yes,55,3.02,Yes,No,MGR0011,2021-07-28
+TM00482,EMP00588,2022,Q3,Engineering,L5,Does Not Meet,High,Solid Contributor,Not Identified,Medium,Yes,54,1.89,No,No,MGR0041,2024-06-08
+TM00483,EMP00629,2020,Mid-Year,Marketing,L4,Meets,Low,Inconsistent Player,Ready Now,High,No,82,3.66,No,No,MGR0015,2020-09-08
+TM00484,EMP00462,2020,Q1,Design,L7,Partially Meets,Low,Inconsistent Player,Not Identified,High,No,85,3.86,No,No,MGR0029,2024-04-12
+TM00485,EMP00853,2020,Mid-Year,HR,L2,Partially Meets,High,Rough Diamond,Ready in 1-2 Years,Low,Yes,100,2.53,Yes,Yes,MGR0015,2021-06-10
+TM00486,EMP00937,2026,Q1,Engineering,L5,Exceeds,High,Underperformer,Ready in 1-2 Years,Low,No,56,2.74,Yes,Yes,MGR0037,2021-02-19
+TM00487,EMP00732,2021,Mid-Year,Sales,L7,Exceeds,Low,Trusted Professional,Not Identified,Low,No,80,1.33,Yes,No,MGR0006,2024-07-28
+TM00488,EMP00224,2021,Annual,Design,L7,Partially Meets,Low,Rough Diamond,Ready Now,Low,No,70,4.39,No,Yes,MGR0014,2025-10-28
+TM00489,EMP00197,2026,Q1,Customer Success,L4,Does Not Meet,Medium,Solid Contributor,Not Identified,Low,Yes,54,1.12,Yes,Yes,MGR0013,2025-10-27
+TM00490,EMP00022,2023,Q3,Marketing,L3,Partially Meets,High,Core Player,Not Identified,Low,No,59,3.22,Yes,No,MGR0040,2021-10-24
+TM00491,EMP00735,2024,Mid-Year,Engineering,L5,Exceeds,High,Star,Ready in 1-2 Years,Low,No,79,4.18,Yes,Yes,MGR0031,2020-10-10
+TM00492,EMP00451,2023,Q3,IT,L5,Partially Meets,Low,Inconsistent Player,Ready Now,Low,No,75,2.3,No,No,MGR0033,2022-07-29
+TM00493,EMP01068,2022,Q3,Design,L2,Meets,Medium,Solid Contributor,Ready in 3+ Years,Low,No,64,3.15,No,Yes,MGR0013,2024-07-14
+TM00494,EMP00211,2026,Q1,Marketing,L5,Meets,Low,Core Player,Ready Now,Low,No,61,4.51,Yes,Yes,MGR0032,2022-10-28
+TM00495,EMP00878,2022,Q3,Design,L2,Exceeds,Medium,Solid Contributor,Not Identified,Medium,No,85,2.13,Yes,Yes,MGR0026,2024-01-31
+TM00496,EMP00592,2024,Annual,Engineering,L1,Exceeds,High,Trusted Professional,Ready Now,High,No,56,4.83,Yes,No,MGR0041,2024-02-01
+TM00497,EMP00827,2025,Mid-Year,HR,L1,Meets,Low,Solid Contributor,Ready in 1-2 Years,Low,No,100,2.96,No,Yes,MGR0013,2023-04-02
+TM00498,EMP00326,2026,Annual,HR,L2,Does Not Meet,High,Star,Not Identified,Low,Yes,53,4.0,Yes,No,MGR0025,2022-07-20
+TM00499,EMP01170,2021,Q1,Sales,L7,Meets,High,Inconsistent Player,Ready in 3+ Years,Medium,Yes,94,4.93,Yes,Yes,MGR0042,2022-04-18
+TM00500,EMP00420,2026,Q1,Marketing,L2,Does Not Meet,Low,Underperformer,Ready Now,Medium,No,64,1.5,No,No,MGR0001,2020-07-24
+TM00501,EMP00585,2025,Q1,Legal,L6,Meets,Medium,Underperformer,Not Identified,High,No,62,2.59,No,No,MGR0021,2026-06-10
+TM00502,EMP00256,2025,Q1,Product,L3,Meets,Medium,Solid Contributor,Not Identified,Low,No,68,3.54,Yes,No,MGR0014,2022-10-01
+TM00503,EMP00316,2026,Q3,Engineering,L3,Meets,High,Star,Not Identified,High,Yes,59,1.48,No,Yes,MGR0018,2022-03-18
+TM00504,EMP00971,2024,Q3,Operations,L1,Does Not Meet,Medium,Inconsistent Player,Ready in 1-2 Years,Low,No,66,4.99,No,No,MGR0038,2022-05-23
+TM00505,EMP00904,2024,Mid-Year,Product,L4,Does Not Meet,Low,Core Player,Not Identified,High,No,68,1.58,No,No,MGR0015,2020-06-28
+TM00506,EMP00647,2025,Annual,Data Science,L4,Partially Meets,Medium,Trusted Professional,Ready in 3+ Years,Medium,No,57,1.18,Yes,No,MGR0022,2025-04-02
+TM00507,EMP01120,2023,Q3,Sales,L1,Does Not Meet,Medium,Solid Contributor,Ready in 3+ Years,Low,No,71,4.34,Yes,No,MGR0010,2025-08-23
+TM00508,EMP00984,2020,Q3,Design,L4,Does Not Meet,Low,Underperformer,Ready in 3+ Years,High,No,100,2.14,Yes,Yes,MGR0036,2025-03-29
+TM00509,EMP00891,2021,Q1,Product,L3,Meets,Medium,Rough Diamond,Not Identified,High,No,85,4.76,No,No,MGR0007,2021-09-02
+TM00510,EMP00751,2022,Q1,Operations,L7,Exceeds,High,Solid Contributor,Ready in 3+ Years,Low,No,82,1.87,Yes,Yes,MGR0023,2023-03-25
+TM00511,EMP00033,2024,Q1,Data Science,L4,Meets,Medium,High Potential,Ready in 3+ Years,Low,No,61,1.86,Yes,No,MGR0021,2024-12-08
+TM00512,EMP00604,2021,Q3,Finance,L3,Does Not Meet,High,Solid Contributor,Ready in 3+ Years,Low,Yes,94,3.23,No,No,MGR0035,2023-02-03
+TM00513,EMP00417,2024,Q1,IT,L1,Partially Meets,Low,Solid Contributor,Ready Now,Low,No,94,4.4,Yes,No,MGR0036,2026-02-22
+TM00514,EMP00816,2026,Mid-Year,Design,L2,Meets,Low,Core Player,Not Identified,Medium,No,100,2.03,No,Yes,MGR0037,2020-04-30
+TM00515,EMP00892,2026,Q3,Legal,L4,Exceeds,Medium,Solid Contributor,Ready in 1-2 Years,High,Yes,60,1.91,Yes,Yes,MGR0039,2022-04-20
+TM00516,EMP00330,2020,Annual,Sales,L7,Meets,Medium,Star,Ready Now,Low,No,68,4.67,No,Yes,MGR0002,2020-07-04
+TM00517,EMP00467,2023,Mid-Year,Marketing,L3,Partially Meets,High,Question Mark,Ready in 1-2 Years,Low,No,53,2.41,No,Yes,MGR0021,2020-05-09
+TM00518,EMP00127,2024,Mid-Year,HR,L1,Exceeds,Medium,Solid Contributor,Ready in 1-2 Years,Low,No,62,3.32,No,No,MGR0022,2026-01-13
+TM00519,EMP00519,2026,Mid-Year,Marketing,L4,Exceeds,Low,Trusted Professional,Ready Now,Low,No,88,2.85,Yes,Yes,MGR0043,2024-04-16
+TM00520,EMP01173,2020,Annual,Finance,L4,Does Not Meet,Low,Question Mark,Ready Now,Low,Yes,73,3.08,Yes,No,MGR0033,2021-01-12
+TM00521,EMP00379,2026,Annual,Data Science,L6,Meets,Medium,High Potential,Ready in 3+ Years,High,Yes,67,1.42,No,Yes,MGR0050,2020-10-09
+TM00522,EMP00717,2023,Mid-Year,Sales,L2,Meets,Low,Underperformer,Ready Now,Low,No,58,3.26,No,Yes,MGR0034,2024-07-09
+TM00523,EMP00843,2023,Q3,Sales,L6,Does Not Meet,High,High Potential,Ready in 1-2 Years,Medium,No,85,1.6,No,Yes,MGR0036,2024-05-21
+TM00524,EMP00942,2020,Q3,Data Science,L5,Meets,Medium,High Potential,Ready Now,Low,No,87,1.36,No,No,MGR0023,2026-05-15
+TM00525,EMP01105,2023,Mid-Year,IT,L2,Partially Meets,Medium,Rough Diamond,Ready in 3+ Years,Medium,Yes,56,1.66,Yes,No,MGR0043,2020-05-18
+TM00526,EMP00515,2021,Q3,Legal,L5,Does Not Meet,Low,Underperformer,Not Identified,High,No,57,1.42,No,Yes,MGR0021,2020-01-24
+TM00527,EMP00513,2021,Mid-Year,Sales,L7,Partially Meets,Medium,High Potential,Ready Now,Low,No,99,2.22,Yes,Yes,MGR0044,2024-10-01
+TM00528,EMP00916,2022,Q3,Engineering,L4,Does Not Meet,Medium,Inconsistent Player,Ready Now,Medium,No,52,2.28,Yes,No,MGR0036,2026-02-10
+TM00529,EMP00552,2024,Mid-Year,Product,L7,Meets,High,Rough Diamond,Ready Now,Low,Yes,91,3.5,Yes,Yes,MGR0021,2021-07-25
+TM00530,EMP00718,2023,Mid-Year,Engineering,L1,Does Not Meet,Medium,Question Mark,Not Identified,Low,No,67,3.08,No,Yes,MGR0043,2020-12-01
+TM00531,EMP00166,2022,Q1,Engineering,L4,Meets,Medium,Inconsistent Player,Ready in 1-2 Years,Low,No,76,3.35,Yes,No,MGR0001,2020-12-15
+TM00532,EMP00462,2024,Q1,IT,L7,Does Not Meet,Medium,Question Mark,Not Identified,Low,Yes,94,3.03,No,Yes,MGR0010,2021-02-25
+TM00533,EMP00340,2022,Q3,Finance,L6,Meets,High,Inconsistent Player,Not Identified,Medium,No,70,3.38,No,No,MGR0006,2026-02-05
+TM00534,EMP00566,2025,Annual,Legal,L5,Meets,High,Star,Ready Now,Low,No,88,2.14,Yes,Yes,MGR0010,2021-01-29
+TM00535,EMP00222,2020,Annual,Legal,L6,Meets,Low,High Potential,Ready Now,Low,No,97,2.56,Yes,Yes,MGR0042,2020-05-23
+TM00536,EMP01192,2025,Q3,Engineering,L6,Does Not Meet,Medium,Star,Ready in 3+ Years,Medium,No,56,1.06,No,No,MGR0005,2022-08-06
+TM00537,EMP00206,2024,Q3,Design,L3,Meets,Medium,Question Mark,Not Identified,High,No,84,3.16,No,No,MGR0018,2021-10-21
+TM00538,EMP00262,2025,Q1,Sales,L2,Exceeds,High,Star,Not Identified,Low,No,50,3.33,Yes,No,MGR0003,2025-02-04
+TM00539,EMP00619,2021,Annual,Operations,L6,Does Not Meet,Medium,Solid Contributor,Ready Now,Low,No,67,2.03,No,Yes,MGR0015,2021-03-03
+TM00540,EMP00199,2026,Mid-Year,Design,L3,Exceeds,High,Rough Diamond,Ready Now,High,No,80,3.59,Yes,No,MGR0001,2024-05-09
+TM00541,EMP01006,2023,Annual,Marketing,L6,Meets,High,High Potential,Not Identified,Medium,No,99,2.69,No,No,MGR0022,2021-02-24
+TM00542,EMP01176,2024,Annual,Engineering,L1,Partially Meets,High,Core Player,Not Identified,Low,No,52,3.13,Yes,Yes,MGR0035,2021-10-11
+TM00543,EMP01134,2021,Q1,Engineering,L5,Meets,Low,Question Mark,Ready Now,High,Yes,80,1.19,No,No,MGR0019,2025-02-17
+TM00544,EMP00025,2021,Annual,Legal,L1,Partially Meets,High,Inconsistent Player,Ready in 1-2 Years,Low,Yes,61,2.01,Yes,Yes,MGR0029,2020-06-21
+TM00545,EMP01167,2022,Q3,Customer Success,L5,Does Not Meet,Medium,Trusted Professional,Ready in 1-2 Years,Low,No,66,2.93,No,Yes,MGR0019,2023-06-16
+TM00546,EMP00374,2022,Q3,IT,L5,Does Not Meet,Medium,Trusted Professional,Not Identified,Medium,Yes,71,4.35,No,Yes,MGR0025,2024-11-08
+TM00547,EMP00287,2024,Mid-Year,HR,L4,Exceeds,Low,Inconsistent Player,Ready in 3+ Years,Medium,No,63,3.37,No,Yes,MGR0042,2025-06-04
+TM00548,EMP00983,2026,Annual,Marketing,L5,Partially Meets,Medium,Trusted Professional,Ready in 1-2 Years,Medium,No,99,1.42,Yes,Yes,MGR0044,2025-05-20
+TM00549,EMP00940,2024,Annual,Marketing,L2,Exceeds,Medium,Underperformer,Ready in 3+ Years,Medium,No,72,1.42,No,No,MGR0045,2026-07-20
+TM00550,EMP00798,2024,Q1,Data Science,L4,Partially Meets,High,Question Mark,Not Identified,High,No,64,3.64,No,Yes,MGR0043,2023-04-23
+TM00551,EMP00238,2025,Q3,Marketing,L3,Exceeds,Medium,Inconsistent Player,Ready in 3+ Years,Low,No,59,3.55,Yes,Yes,MGR0015,2024-09-05
+TM00552,EMP00769,2020,Q1,HR,L3,Meets,Medium,Question Mark,Not Identified,Low,Yes,91,4.84,No,Yes,MGR0038,2022-04-05
+TM00553,EMP00984,2021,Annual,HR,L2,Meets,High,Rough Diamond,Ready Now,Low,No,60,3.33,No,Yes,MGR0039,2024-03-06
+TM00554,EMP00078,2020,Q1,Marketing,L4,Meets,Medium,High Potential,Not Identified,Medium,No,66,1.22,No,No,MGR0002,2023-10-28
+TM00555,EMP00509,2023,Mid-Year,Marketing,L3,Does Not Meet,High,Trusted Professional,Ready in 3+ Years,Low,No,55,2.49,No,No,MGR0045,2020-12-02
+TM00556,EMP00164,2026,Q1,IT,L5,Meets,Medium,Star,Ready in 3+ Years,Low,Yes,75,1.42,Yes,Yes,MGR0012,2026-05-16
+TM00557,EMP00232,2022,Q3,Sales,L1,Does Not Meet,Medium,Rough Diamond,Ready in 1-2 Years,High,No,86,4.79,No,No,MGR0042,2025-07-08
+TM00558,EMP00399,2020,Mid-Year,Sales,L7,Meets,Low,Trusted Professional,Not Identified,Low,No,90,2.52,Yes,No,MGR0007,2020-12-11
+TM00559,EMP00163,2021,Mid-Year,Finance,L7,Partially Meets,Low,Core Player,Ready Now,Medium,No,63,1.82,Yes,Yes,MGR0038,2024-04-04
+TM00560,EMP00887,2025,Q1,Customer Success,L6,Meets,High,Trusted Professional,Ready in 1-2 Years,High,Yes,86,4.2,No,Yes,MGR0020,2020-06-07
+TM00561,EMP00168,2024,Q3,IT,L3,Meets,Low,Rough Diamond,Ready Now,Low,Yes,67,3.91,Yes,Yes,MGR0005,2025-12-14
+TM00562,EMP00056,2021,Annual,Customer Success,L6,Meets,Low,Solid Contributor,Ready in 1-2 Years,Low,No,91,4.97,No,No,MGR0031,2021-12-02
+TM00563,EMP00825,2024,Q3,Operations,L7,Meets,High,Star,Ready in 3+ Years,Medium,No,78,3.61,No,Yes,MGR0042,2024-03-11
+TM00564,EMP00589,2023,Q1,Design,L4,Partially Meets,High,Core Player,Not Identified,Medium,No,84,2.22,Yes,No,MGR0023,2023-05-26
+TM00565,EMP00610,2024,Annual,Finance,L3,Exceeds,Medium,Trusted Professional,Not Identified,High,No,61,2.42,No,Yes,MGR0042,2025-11-13
+TM00566,EMP01158,2025,Q1,Engineering,L2,Exceeds,Low,Inconsistent Player,Ready in 1-2 Years,Low,No,95,3.32,Yes,Yes,MGR0039,2023-01-29
+TM00567,EMP00652,2026,Q1,Marketing,L2,Exceeds,Low,Question Mark,Ready in 1-2 Years,Medium,No,93,4.75,Yes,No,MGR0018,2020-09-25
+TM00568,EMP00949,2022,Q1,HR,L3,Exceeds,High,Star,Not Identified,Low,Yes,59,3.94,No,No,MGR0013,2025-08-17
+TM00569,EMP01191,2023,Mid-Year,Customer Success,L7,Exceeds,Medium,Rough Diamond,Not Identified,Low,No,76,4.27,Yes,Yes,MGR0023,2024-03-15
+TM00570,EMP00772,2022,Q3,Finance,L2,Partially Meets,Low,Star,Ready Now,Low,No,64,4.48,No,No,MGR0037,2021-03-21
+TM00571,EMP00101,2023,Q3,Legal,L3,Meets,High,Question Mark,Ready in 3+ Years,Medium,Yes,65,2.13,No,No,MGR0014,2025-10-12
+TM00572,EMP00519,2026,Annual,Data Science,L1,Exceeds,Low,Underperformer,Ready in 1-2 Years,Low,No,91,2.75,Yes,No,MGR0012,2020-04-10
+TM00573,EMP00847,2024,Q3,Legal,L1,Meets,Low,Trusted Professional,Ready in 3+ Years,Low,Yes,69,1.51,Yes,Yes,MGR0027,2022-01-17
+TM00574,EMP00348,2024,Q3,IT,L1,Does Not Meet,Low,Solid Contributor,Not Identified,Low,No,84,4.94,Yes,No,MGR0038,2020-03-16
+TM00575,EMP00597,2023,Mid-Year,Finance,L2,Does Not Meet,Low,Underperformer,Ready in 1-2 Years,Low,No,69,4.13,No,Yes,MGR0004,2023-01-12
+TM00576,EMP00836,2022,Mid-Year,Product,L2,Meets,Low,Rough Diamond,Ready in 3+ Years,Low,No,83,3.26,Yes,Yes,MGR0006,2024-10-10
+TM00577,EMP00821,2024,Q3,Legal,L7,Partially Meets,Low,Solid Contributor,Ready Now,Low,No,92,3.52,Yes,No,MGR0048,2025-08-05
+TM00578,EMP01175,2021,Q1,Product,L5,Partially Meets,Medium,Rough Diamond,Not Identified,High,Yes,100,4.21,Yes,Yes,MGR0029,2024-02-04
+TM00579,EMP00195,2021,Q3,Marketing,L7,Partially Meets,Medium,Core Player,Ready in 1-2 Years,Low,No,85,2.36,Yes,No,MGR0009,2022-05-01
+TM00580,EMP00541,2025,Annual,Marketing,L7,Exceeds,High,Star,Not Identified,Low,No,77,3.5,No,No,MGR0048,2022-10-05
+TM00581,EMP00584,2022,Q3,Data Science,L4,Meets,Low,High Potential,Ready Now,Low,Yes,63,1.41,Yes,No,MGR0016,2026-06-25
+TM00582,EMP01186,2026,Mid-Year,Sales,L5,Exceeds,Low,Rough Diamond,Not Identified,Low,Yes,100,1.12,No,No,MGR0037,2024-03-25
+TM00583,EMP00918,2024,Mid-Year,Customer Success,L6,Exceeds,High,Trusted Professional,Ready in 1-2 Years,Medium,No,84,1.41,No,No,MGR0044,2023-02-08
+TM00584,EMP00967,2026,Q3,IT,L1,Meets,High,Star,Ready in 3+ Years,Low,Yes,60,3.35,No,Yes,MGR0048,2021-12-19
+TM00585,EMP00940,2020,Q3,Sales,L2,Partially Meets,High,Core Player,Ready Now,High,Yes,95,2.78,No,No,MGR0011,2024-08-23
+TM00586,EMP01053,2022,Q1,Design,L1,Meets,Medium,Core Player,Ready Now,Low,No,92,3.0,Yes,No,MGR0049,2025-07-13
+TM00587,EMP00914,2025,Q3,Customer Success,L6,Does Not Meet,Low,Question Mark,Ready Now,Low,No,80,3.37,Yes,No,MGR0036,2026-02-02
+TM00588,EMP00954,2023,Mid-Year,Operations,L6,Does Not Meet,Low,Rough Diamond,Not Identified,Medium,No,62,2.22,No,Yes,MGR0045,2023-05-03
+TM00589,EMP01048,2024,Annual,Product,L4,Exceeds,High,High Potential,Ready Now,Medium,No,84,2.74,Yes,Yes,MGR0035,2025-03-31
+TM00590,EMP00928,2022,Q3,Sales,L4,Does Not Meet,Low,Inconsistent Player,Not Identified,Low,No,84,2.65,Yes,Yes,MGR0018,2023-04-23
+TM00591,EMP01120,2023,Annual,Data Science,L4,Does Not Meet,Medium,Underperformer,Ready Now,Medium,Yes,60,2.94,No,Yes,MGR0006,2024-05-17
+TM00592,EMP00262,2026,Annual,Operations,L5,Exceeds,Medium,Inconsistent Player,Not Identified,High,No,87,4.32,Yes,No,MGR0045,2023-09-13
+TM00593,EMP00793,2021,Q1,Operations,L1,Meets,Low,Underperformer,Ready Now,Medium,Yes,82,4.78,Yes,No,MGR0040,2021-04-27
+TM00594,EMP00245,2026,Q1,IT,L6,Does Not Meet,Medium,High Potential,Ready in 3+ Years,Medium,No,65,4.82,Yes,No,MGR0031,2021-02-16
+TM00595,EMP00134,2023,Q3,Sales,L2,Meets,Low,Trusted Professional,Ready Now,Medium,No,89,2.56,No,No,MGR0012,2023-04-30
+TM00596,EMP00403,2026,Q3,Marketing,L3,Meets,Medium,Solid Contributor,Ready in 3+ Years,Medium,No,96,3.9,No,Yes,MGR0030,2023-01-29
+TM00597,EMP00033,2025,Q3,HR,L2,Meets,Low,Rough Diamond,Ready Now,Medium,Yes,84,2.34,No,No,MGR0005,2021-02-15
+TM00598,EMP00767,2026,Mid-Year,Operations,L2,Exceeds,Low,Solid Contributor,Not Identified,Medium,Yes,82,2.87,No,Yes,MGR0019,2026-06-16
+TM00599,EMP00997,2026,Q1,Customer Success,L2,Does Not Meet,Low,Solid Contributor,Ready in 3+ Years,High,No,73,1.93,Yes,Yes,MGR0044,2023-07-06
+TM00600,EMP00835,2025,Mid-Year,Design,L5,Partially Meets,Low,Inconsistent Player,Not Identified,High,Yes,58,2.12,No,Yes,MGR0004,2022-12-01
+TM00601,EMP00098,2021,Mid-Year,Data Science,L7,Meets,High,Core Player,Ready Now,Medium,No,88,2.87,No,No,MGR0022,2021-01-12
+TM00602,EMP00995,2026,Q3,Data Science,L5,Partially Meets,Medium,High Potential,Ready in 3+ Years,Medium,No,62,2.95,No,Yes,MGR0029,2021-12-09
+TM00603,EMP01111,2025,Mid-Year,Sales,L2,Exceeds,Medium,Rough Diamond,Not Identified,High,No,90,1.81,No,No,MGR0036,2025-09-25
+TM00604,EMP00514,2026,Mid-Year,HR,L5,Meets,Low,Rough Diamond,Ready in 3+ Years,Low,No,94,4.35,Yes,No,MGR0016,2026-04-30
+TM00605,EMP00530,2024,Annual,Legal,L4,Exceeds,Medium,Trusted Professional,Not Identified,High,Yes,82,3.96,Yes,No,MGR0033,2024-01-21
+TM00606,EMP00261,2022,Q1,IT,L1,Does Not Meet,Medium,Solid Contributor,Ready in 1-2 Years,High,No,95,2.38,Yes,Yes,MGR0045,2021-08-30
+TM00607,EMP00303,2022,Q1,Data Science,L5,Meets,High,High Potential,Ready in 3+ Years,High,No,63,3.0,No,Yes,MGR0043,2023-10-14
+TM00608,EMP00097,2024,Q3,HR,L1,Meets,High,Core Player,Ready in 1-2 Years,Low,No,99,4.92,Yes,No,MGR0016,2022-10-21
+TM00609,EMP01029,2024,Mid-Year,Legal,L3,Does Not Meet,Medium,Underperformer,Ready in 3+ Years,Low,Yes,55,4.81,No,Yes,MGR0031,2022-11-07
+TM00610,EMP00724,2021,Q3,Finance,L6,Meets,Low,Solid Contributor,Ready in 1-2 Years,Low,No,57,2.0,Yes,No,MGR0019,2025-09-18
+TM00611,EMP00237,2024,Annual,Engineering,L1,Meets,Low,Star,Ready Now,Medium,Yes,51,2.78,No,Yes,MGR0025,2020-01-19
+TM00612,EMP00003,2021,Annual,Operations,L1,Exceeds,Low,Inconsistent Player,Ready in 1-2 Years,Medium,Yes,61,3.82,Yes,No,MGR0023,2024-05-26
+TM00613,EMP00054,2026,Mid-Year,IT,L5,Exceeds,High,Underperformer,Ready in 1-2 Years,Medium,No,83,3.12,No,No,MGR0044,2022-01-10
+TM00614,EMP01151,2026,Q3,Product,L5,Partially Meets,Low,Inconsistent Player,Ready Now,Medium,No,72,3.31,No,Yes,MGR0004,2025-06-11
+TM00615,EMP00011,2020,Q1,Data Science,L4,Does Not Meet,High,Underperformer,Ready in 1-2 Years,Low,Yes,91,2.36,No,No,MGR0023,2020-08-12
+TM00616,EMP00436,2025,Mid-Year,Operations,L4,Exceeds,Low,Core Player,Ready Now,Low,No,53,3.25,Yes,No,MGR0045,2021-10-12
+TM00617,EMP00202,2022,Mid-Year,Product,L1,Exceeds,Low,High Potential,Not Identified,Low,Yes,96,1.46,No,No,MGR0027,2023-11-26
+TM00618,EMP00276,2022,Q1,Finance,L4,Partially Meets,Medium,Core Player,Ready in 1-2 Years,Medium,No,79,3.16,Yes,Yes,MGR0008,2022-12-25
+TM00619,EMP00286,2022,Annual,Product,L4,Exceeds,Low,High Potential,Ready in 1-2 Years,Low,Yes,77,3.66,Yes,No,MGR0026,2022-08-21
+TM00620,EMP00301,2026,Annual,Sales,L7,Meets,High,Solid Contributor,Ready in 1-2 Years,High,No,94,4.34,Yes,Yes,MGR0011,2021-03-07
+TM00621,EMP00404,2025,Q1,Design,L5,Partially Meets,Medium,Solid Contributor,Ready in 3+ Years,Low,Yes,91,1.51,No,Yes,MGR0018,2025-10-01
+TM00622,EMP01089,2022,Mid-Year,Design,L5,Does Not Meet,High,Inconsistent Player,Ready in 3+ Years,High,Yes,72,3.17,Yes,No,MGR0048,2022-10-06
+TM00623,EMP00322,2022,Q1,Marketing,L5,Meets,Low,High Potential,Ready in 1-2 Years,Low,No,76,4.21,Yes,Yes,MGR0006,2020-02-05
+TM00624,EMP00154,2024,Q1,Product,L1,Exceeds,High,Solid Contributor,Ready in 1-2 Years,Medium,No,64,4.25,Yes,Yes,MGR0044,2020-11-02
+TM00625,EMP00087,2023,Q3,Marketing,L2,Partially Meets,Low,Underperformer,Ready in 3+ Years,Low,No,57,1.68,Yes,Yes,MGR0028,2021-03-08
+TM00626,EMP00629,2026,Mid-Year,Engineering,L2,Exceeds,High,Star,Not Identified,Low,No,60,3.96,No,Yes,MGR0038,2025-08-01
+TM00627,EMP01067,2024,Q1,Customer Success,L2,Meets,Low,Rough Diamond,Ready in 3+ Years,Low,No,57,1.5,No,Yes,MGR0002,2024-03-03
+TM00628,EMP00844,2024,Mid-Year,Marketing,L5,Meets,High,Inconsistent Player,Ready Now,Low,No,81,4.46,No,No,MGR0049,2023-10-14
+TM00629,EMP00431,2022,Q1,Legal,L5,Exceeds,Medium,Underperformer,Ready in 3+ Years,Low,No,85,2.99,Yes,No,MGR0025,2022-08-30
+TM00630,EMP00774,2023,Annual,IT,L7,Partially Meets,Low,Trusted Professional,Ready in 3+ Years,High,No,73,2.56,No,Yes,MGR0035,2025-09-05
+TM00631,EMP00358,2021,Mid-Year,Customer Success,L5,Meets,High,Star,Ready Now,Low,No,84,4.33,No,No,MGR0027,2024-05-24
+TM00632,EMP00109,2021,Q1,Legal,L6,Meets,High,Trusted Professional,Ready Now,Medium,No,99,2.29,No,Yes,MGR0031,2024-09-09
+TM00633,EMP00828,2021,Mid-Year,Data Science,L5,Meets,High,Question Mark,Not Identified,Low,No,79,4.66,Yes,Yes,MGR0030,2023-03-17
+TM00634,EMP00824,2025,Annual,IT,L1,Meets,High,Question Mark,Ready in 3+ Years,Low,No,97,4.94,No,Yes,MGR0028,2024-01-30
+TM00635,EMP00557,2024,Q3,Finance,L5,Does Not Meet,Low,Underperformer,Ready in 1-2 Years,Low,Yes,100,2.06,Yes,Yes,MGR0033,2025-08-03
+TM00636,EMP00136,2026,Annual,Customer Success,L7,Exceeds,Medium,Trusted Professional,Ready in 3+ Years,High,No,56,4.4,No,No,MGR0016,2021-07-16
+TM00637,EMP00576,2020,Q3,Design,L1,Does Not Meet,Low,High Potential,Ready in 3+ Years,Low,No,91,1.56,No,Yes,MGR0050,2022-11-03
+TM00638,EMP01186,2024,Annual,Product,L5,Meets,Low,High Potential,Ready in 1-2 Years,High,No,100,4.01,Yes,Yes,MGR0031,2020-03-25
+TM00639,EMP00956,2023,Annual,Operations,L3,Exceeds,High,Solid Contributor,Ready Now,High,No,59,2.23,No,No,MGR0027,2025-07-26
+TM00640,EMP00016,2022,Mid-Year,Finance,L7,Does Not Meet,Low,Solid Contributor,Ready in 3+ Years,Low,No,68,2.31,Yes,Yes,MGR0041,2023-07-18
+TM00641,EMP01167,2024,Q1,Operations,L3,Meets,Medium,Underperformer,Not Identified,Medium,No,61,4.32,No,Yes,MGR0018,2023-12-31
+TM00642,EMP00213,2026,Q3,Finance,L2,Meets,Low,Solid Contributor,Ready Now,Low,Yes,81,1.06,Yes,No,MGR0050,2020-02-23
+TM00643,EMP01024,2021,Annual,Marketing,L5,Meets,Medium,Underperformer,Ready in 3+ Years,Low,No,61,2.72,No,Yes,MGR0018,2022-01-02
+TM00644,EMP01066,2021,Q1,Sales,L6,Partially Meets,Medium,Solid Contributor,Ready in 1-2 Years,Medium,Yes,85,3.46,Yes,Yes,MGR0042,2023-06-17
+TM00645,EMP00579,2022,Q3,Operations,L7,Meets,High,Solid Contributor,Ready in 1-2 Years,Low,No,65,2.14,Yes,Yes,MGR0013,2024-08-14
+TM00646,EMP00317,2022,Q3,Operations,L5,Meets,Medium,Rough Diamond,Ready in 1-2 Years,Low,No,94,3.0,Yes,No,MGR0018,2026-02-12
+TM00647,EMP00645,2024,Q1,HR,L4,Meets,Low,Underperformer,Ready Now,High,No,82,4.99,No,No,MGR0032,2021-09-20
+TM00648,EMP00785,2025,Mid-Year,Product,L2,Does Not Meet,Medium,High Potential,Ready in 3+ Years,Low,No,70,3.67,Yes,Yes,MGR0008,2024-10-10
+TM00649,EMP01182,2021,Mid-Year,Product,L3,Meets,Medium,Core Player,Ready in 3+ Years,Medium,No,75,4.83,No,Yes,MGR0031,2024-07-31
+TM00650,EMP01049,2024,Mid-Year,Finance,L1,Does Not Meet,Low,Core Player,Ready in 3+ Years,High,No,60,3.33,No,No,MGR0002,2024-09-25
+TM00651,EMP00526,2025,Mid-Year,Sales,L5,Meets,Medium,Question Mark,Ready in 1-2 Years,Medium,Yes,79,2.0,No,No,MGR0023,2022-09-21
+TM00652,EMP00812,2023,Mid-Year,IT,L2,Exceeds,High,High Potential,Ready Now,Low,Yes,83,2.86,Yes,Yes,MGR0005,2025-09-12
+TM00653,EMP00282,2024,Mid-Year,Product,L1,Does Not Meet,High,High Potential,Ready Now,Low,No,74,3.99,No,Yes,MGR0032,2020-02-25
+TM00654,EMP00059,2026,Q1,Legal,L7,Exceeds,Low,High Potential,Ready in 1-2 Years,Low,No,56,2.12,Yes,No,MGR0032,2024-02-09
+TM00655,EMP00876,2025,Q1,Operations,L1,Partially Meets,Medium,Rough Diamond,Ready Now,Low,No,98,3.77,Yes,No,MGR0050,2022-04-18
+TM00656,EMP00780,2025,Q3,IT,L2,Does Not Meet,High,Core Player,Ready Now,Medium,No,96,1.77,No,Yes,MGR0030,2025-03-07
+TM00657,EMP00840,2023,Q1,Sales,L2,Exceeds,Low,Question Mark,Ready in 3+ Years,High,No,79,2.01,No,Yes,MGR0017,2022-06-10
+TM00658,EMP01075,2021,Q3,HR,L5,Exceeds,Low,Star,Not Identified,High,No,76,3.78,Yes,Yes,MGR0028,2022-02-17
+TM00659,EMP01077,2021,Q1,Operations,L3,Does Not Meet,Medium,Question Mark,Ready in 3+ Years,Low,Yes,50,2.89,Yes,Yes,MGR0049,2021-03-05
+TM00660,EMP00687,2022,Annual,Engineering,L4,Meets,Medium,Question Mark,Ready in 3+ Years,Low,Yes,60,2.97,Yes,Yes,MGR0008,2024-01-09
+TM00661,EMP00934,2023,Mid-Year,Marketing,L5,Does Not Meet,Low,Trusted Professional,Ready in 1-2 Years,Low,No,85,1.06,Yes,Yes,MGR0046,2023-06-15
+TM00662,EMP00591,2026,Q3,Sales,L4,Meets,Low,High Potential,Not Identified,Low,No,82,3.53,No,No,MGR0036,2025-09-29
+TM00663,EMP00282,2024,Annual,Customer Success,L5,Does Not Meet,Medium,Rough Diamond,Not Identified,Medium,No,57,3.06,No,Yes,MGR0043,2026-02-05
+TM00664,EMP00175,2022,Q3,HR,L3,Does Not Meet,High,Trusted Professional,Ready Now,Low,No,87,1.31,Yes,Yes,MGR0042,2025-08-23
+TM00665,EMP01120,2021,Annual,Sales,L5,Partially Meets,High,Question Mark,Ready in 1-2 Years,High,Yes,55,3.86,Yes,Yes,MGR0047,2022-01-07
+TM00666,EMP00806,2022,Annual,HR,L7,Exceeds,Medium,Rough Diamond,Not Identified,Low,No,81,2.36,No,Yes,MGR0013,2025-12-01
+TM00667,EMP00175,2022,Annual,Engineering,L4,Partially Meets,Medium,Inconsistent Player,Ready in 1-2 Years,Medium,No,84,1.44,No,Yes,MGR0049,2025-11-23
+TM00668,EMP00308,2021,Q3,Design,L4,Does Not Meet,Low,Question Mark,Ready in 3+ Years,High,No,66,4.6,No,Yes,MGR0046,2021-06-10
+TM00669,EMP00270,2022,Q3,Product,L5,Meets,High,High Potential,Ready Now,Low,No,86,4.6,No,No,MGR0050,2021-09-16
+TM00670,EMP00246,2021,Annual,Data Science,L5,Meets,Low,Solid Contributor,Ready in 1-2 Years,Medium,No,100,4.78,Yes,No,MGR0004,2023-11-29
+TM00671,EMP00307,2023,Annual,Customer Success,L1,Meets,Medium,Inconsistent Player,Ready in 3+ Years,Low,Yes,75,3.6,No,No,MGR0041,2022-01-15
+TM00672,EMP00581,2020,Q3,IT,L1,Meets,Low,Solid Contributor,Ready Now,Low,No,90,1.44,Yes,Yes,MGR0029,2023-07-21
+TM00673,EMP00480,2022,Q3,Legal,L2,Meets,Medium,Trusted Professional,Ready in 1-2 Years,Medium,Yes,98,4.78,No,No,MGR0019,2021-11-14
+TM00674,EMP00804,2022,Q1,Marketing,L1,Exceeds,High,Inconsistent Player,Ready in 1-2 Years,High,No,81,4.08,Yes,No,MGR0007,2023-11-30
+TM00675,EMP00574,2020,Mid-Year,Design,L1,Partially Meets,High,High Potential,Not Identified,Low,No,57,3.49,Yes,Yes,MGR0028,2026-06-20
+TM00676,EMP00800,2020,Mid-Year,Design,L6,Does Not Meet,High,Core Player,Ready in 1-2 Years,Low,No,75,2.41,No,No,MGR0049,2022-11-04
+TM00677,EMP00355,2024,Mid-Year,Data Science,L6,Meets,Medium,Rough Diamond,Not Identified,Medium,No,90,1.16,Yes,Yes,MGR0001,2024-01-28
+TM00678,EMP00593,2024,Q1,Sales,L6,Exceeds,High,Rough Diamond,Ready Now,Low,No,99,4.45,No,No,MGR0040,2026-03-07
+TM00679,EMP00361,2020,Mid-Year,Product,L7,Does Not Meet,High,Trusted Professional,Ready in 1-2 Years,Medium,No,61,2.25,No,Yes,MGR0007,2023-02-06
+TM00680,EMP00368,2023,Mid-Year,Sales,L3,Meets,Medium,Solid Contributor,Ready Now,Medium,Yes,54,1.73,No,No,MGR0008,2025-08-08
+TM00681,EMP00131,2025,Q1,Finance,L3,Meets,Low,Rough Diamond,Ready Now,High,No,94,3.18,Yes,No,MGR0010,2024-12-17
+TM00682,EMP00520,2024,Mid-Year,Data Science,L6,Partially Meets,Low,High Potential,Not Identified,Low,Yes,86,3.63,Yes,Yes,MGR0012,2022-09-03
+TM00683,EMP00683,2024,Q1,HR,L7,Partially Meets,Medium,Trusted Professional,Ready in 3+ Years,High,No,83,1.72,No,No,MGR0041,2020-02-29
+TM00684,EMP00302,2021,Mid-Year,Legal,L5,Meets,Low,Star,Ready Now,Low,No,61,1.1,Yes,Yes,MGR0009,2023-03-20
+TM00685,EMP00934,2021,Q3,Data Science,L5,Meets,High,Star,Ready in 3+ Years,Low,No,96,4.86,Yes,Yes,MGR0033,2024-02-02
+TM00686,EMP00860,2023,Q1,Marketing,L3,Partially Meets,Low,Solid Contributor,Ready Now,Low,No,62,2.18,No,Yes,MGR0024,2020-05-12
+TM00687,EMP00696,2020,Mid-Year,Legal,L4,Exceeds,Medium,Inconsistent Player,Ready in 3+ Years,Low,No,80,4.14,No,Yes,MGR0019,2024-06-20
+TM00688,EMP01184,2024,Mid-Year,Product,L1,Exceeds,High,Trusted Professional,Ready in 1-2 Years,Low,Yes,83,2.81,Yes,No,MGR0005,2022-11-09
+TM00689,EMP00840,2022,Q3,Product,L2,Does Not Meet,Medium,Rough Diamond,Ready in 3+ Years,High,Yes,57,3.67,No,Yes,MGR0040,2025-10-27
+TM00690,EMP00701,2021,Mid-Year,Sales,L3,Does Not Meet,Medium,Inconsistent Player,Not Identified,High,No,50,3.77,Yes,No,MGR0023,2020-05-23
+TM00691,EMP00988,2020,Q1,IT,L3,Meets,High,Trusted Professional,Ready in 1-2 Years,High,No,64,4.54,No,Yes,MGR0007,2020-12-14
+TM00692,EMP00768,2021,Mid-Year,Marketing,L4,Meets,High,Question Mark,Ready in 3+ Years,Low,No,76,2.87,No,No,MGR0041,2020-05-12
+TM00693,EMP00826,2021,Mid-Year,Marketing,L7,Meets,Low,Star,Ready in 1-2 Years,Medium,No,75,2.81,Yes,No,MGR0041,2022-06-08
+TM00694,EMP00258,2021,Q3,Operations,L4,Exceeds,High,Question Mark,Ready Now,Low,No,68,3.99,No,No,MGR0030,2022-07-09
+TM00695,EMP00629,2021,Q3,Operations,L5,Partially Meets,Low,Trusted Professional,Ready in 3+ Years,Medium,No,99,1.7,Yes,No,MGR0007,2025-10-11
+TM00696,EMP00153,2022,Mid-Year,HR,L1,Does Not Meet,High,Trusted Professional,Ready in 1-2 Years,Low,No,99,4.07,Yes,Yes,MGR0047,2021-04-06
+TM00697,EMP00819,2026,Mid-Year,Sales,L4,Does Not Meet,Low,Star,Ready in 1-2 Years,Medium,No,81,1.97,No,Yes,MGR0028,2023-05-26
+TM00698,EMP01187,2023,Annual,Design,L4,Does Not Meet,Medium,Star,Ready Now,High,No,96,2.07,Yes,Yes,MGR0009,2026-06-30
+TM00699,EMP00191,2024,Q3,Finance,L1,Meets,Low,High Potential,Ready in 1-2 Years,High,No,67,1.99,Yes,No,MGR0045,2021-09-13
+TM00700,EMP00122,2020,Annual,Customer Success,L1,Exceeds,High,Core Player,Ready Now,Low,Yes,61,2.28,Yes,Yes,MGR0011,2026-06-04
+TM00701,EMP00629,2022,Q3,Data Science,L5,Partially Meets,Low,Underperformer,Ready in 3+ Years,Medium,No,94,3.64,No,No,MGR0023,2020-02-06
+TM00702,EMP00343,2026,Annual,Customer Success,L6,Exceeds,Low,Underperformer,Ready in 3+ Years,Low,No,83,2.74,No,No,MGR0005,2023-08-15
+TM00703,EMP00456,2021,Q1,Engineering,L4,Exceeds,Low,Core Player,Ready Now,Low,No,61,4.58,No,No,MGR0006,2025-09-30
+TM00704,EMP01099,2020,Mid-Year,Finance,L7,Meets,Medium,Question Mark,Ready in 1-2 Years,Low,Yes,97,3.1,No,Yes,MGR0018,2026-01-26
+TM00705,EMP00665,2025,Annual,Finance,L5,Exceeds,Medium,Trusted Professional,Ready in 3+ Years,Medium,No,82,1.79,No,Yes,MGR0018,2022-06-12
+TM00706,EMP00572,2023,Mid-Year,Product,L2,Meets,Medium,Solid Contributor,Ready in 1-2 Years,High,No,64,3.2,No,No,MGR0005,2022-09-12
+TM00707,EMP01106,2020,Q3,HR,L6,Meets,High,Underperformer,Not Identified,Low,No,60,2.51,No,No,MGR0027,2020-06-15
+TM00708,EMP00271,2024,Q3,Customer Success,L2,Meets,Low,Core Player,Ready in 1-2 Years,Low,No,73,1.91,No,Yes,MGR0018,2021-09-28
+TM00709,EMP00080,2020,Mid-Year,Data Science,L6,Does Not Meet,Low,Rough Diamond,Ready in 3+ Years,Medium,Yes,81,4.8,No,No,MGR0005,2021-09-22
+TM00710,EMP01073,2020,Q1,Customer Success,L3,Does Not Meet,Low,High Potential,Ready in 1-2 Years,Low,No,73,2.59,No,No,MGR0038,2025-11-02
+TM00711,EMP00863,2022,Q1,HR,L3,Does Not Meet,Low,Rough Diamond,Not Identified,High,No,64,3.03,Yes,Yes,MGR0043,2021-01-17
+TM00712,EMP00309,2026,Annual,Sales,L1,Exceeds,Low,Star,Ready Now,Medium,Yes,73,3.57,Yes,No,MGR0013,2021-01-10
+TM00713,EMP01015,2021,Q1,HR,L3,Meets,High,Question Mark,Ready Now,Medium,Yes,78,4.34,No,Yes,MGR0004,2023-10-24
+TM00714,EMP00579,2026,Q1,Product,L2,Meets,Medium,Rough Diamond,Ready in 3+ Years,Medium,Yes,57,2.89,Yes,Yes,MGR0050,2025-02-15
+TM00715,EMP00668,2020,Mid-Year,Data Science,L7,Does Not Meet,Medium,Star,Ready in 3+ Years,Low,No,88,1.8,No,No,MGR0010,2024-12-31
+TM00716,EMP00216,2024,Q3,IT,L4,Exceeds,Low,Rough Diamond,Not Identified,Low,No,66,4.8,Yes,Yes,MGR0034,2024-03-16
+TM00717,EMP01022,2023,Mid-Year,IT,L4,Meets,Low,Question Mark,Not Identified,High,No,96,1.47,Yes,Yes,MGR0012,2023-04-21
+TM00718,EMP00881,2026,Mid-Year,Engineering,L5,Exceeds,High,Underperformer,Not Identified,Medium,Yes,68,2.43,Yes,Yes,MGR0038,2024-11-30
+TM00719,EMP00412,2022,Mid-Year,Design,L4,Meets,Medium,Question Mark,Not Identified,Low,No,74,2.28,No,Yes,MGR0004,2021-02-13
+TM00720,EMP00818,2023,Q3,Finance,L3,Exceeds,Medium,Star,Not Identified,Medium,Yes,82,4.93,No,No,MGR0047,2025-12-30
+TM00721,EMP00147,2020,Mid-Year,Data Science,L1,Does Not Meet,Low,Star,Ready Now,Low,No,68,4.25,No,Yes,MGR0025,2021-10-29
+TM00722,EMP00462,2022,Mid-Year,Customer Success,L3,Does Not Meet,High,Question Mark,Ready Now,Low,No,85,4.89,Yes,Yes,MGR0044,2021-01-01
+TM00723,EMP00685,2026,Mid-Year,Finance,L4,Meets,Low,Question Mark,Not Identified,High,No,54,3.7,No,Yes,MGR0009,2022-04-08
+TM00724,EMP00415,2024,Mid-Year,Data Science,L4,Does Not Meet,Medium,Solid Contributor,Ready Now,High,No,92,4.86,Yes,Yes,MGR0036,2023-09-19
+TM00725,EMP01173,2022,Mid-Year,Data Science,L3,Exceeds,Medium,Question Mark,Ready Now,Low,No,73,4.94,Yes,No,MGR0013,2024-06-03
+TM00726,EMP00854,2020,Q1,Customer Success,L6,Exceeds,High,Underperformer,Ready in 1-2 Years,Medium,No,56,1.95,No,No,MGR0016,2023-05-06
+TM00727,EMP00375,2022,Q1,IT,L7,Exceeds,High,Underperformer,Ready in 1-2 Years,Low,No,85,4.95,No,No,MGR0013,2023-05-06
+TM00728,EMP00235,2020,Q1,Operations,L7,Does Not Meet,High,High Potential,Ready Now,Low,No,53,3.11,Yes,No,MGR0042,2022-02-27
+TM00729,EMP00013,2023,Mid-Year,Operations,L1,Partially Meets,High,Trusted Professional,Ready in 3+ Years,High,No,73,3.76,Yes,Yes,MGR0048,2023-02-04
+TM00730,EMP01106,2023,Annual,Design,L4,Meets,Low,Underperformer,Ready Now,Medium,Yes,58,1.28,No,Yes,MGR0032,2022-03-18
+TM00731,EMP00831,2023,Mid-Year,Design,L5,Exceeds,Medium,Star,Not Identified,Medium,No,64,1.78,Yes,No,MGR0001,2024-05-09
+TM00732,EMP00409,2020,Mid-Year,Operations,L5,Meets,Medium,Rough Diamond,Ready in 1-2 Years,Low,Yes,74,4.77,Yes,Yes,MGR0019,2024-10-07
+TM00733,EMP00869,2020,Annual,Product,L3,Does Not Meet,Medium,Inconsistent Player,Not Identified,Low,No,86,3.09,No,No,MGR0020,2024-11-13
+TM00734,EMP00425,2021,Annual,Design,L2,Meets,Medium,Solid Contributor,Ready in 3+ Years,Low,Yes,85,1.09,No,Yes,MGR0044,2023-03-06
+TM00735,EMP00811,2021,Mid-Year,Finance,L1,Meets,Low,Core Player,Ready Now,High,No,70,1.07,No,Yes,MGR0029,2025-04-09
+TM00736,EMP00489,2022,Annual,Marketing,L7,Exceeds,Medium,Solid Contributor,Ready in 1-2 Years,Medium,No,79,3.12,No,No,MGR0039,2022-05-29
+TM00737,EMP01001,2023,Q3,Sales,L3,Does Not Meet,Low,Inconsistent Player,Not Identified,Low,No,83,3.76,No,Yes,MGR0033,2024-05-07
+TM00738,EMP00320,2024,Q1,Legal,L3,Partially Meets,Medium,Star,Ready in 1-2 Years,Low,Yes,58,4.58,No,Yes,MGR0011,2020-09-21
+TM00739,EMP00781,2026,Annual,Legal,L4,Meets,High,Core Player,Not Identified,Low,Yes,87,3.8,Yes,Yes,MGR0002,2024-02-10
+TM00740,EMP01146,2023,Mid-Year,HR,L2,Exceeds,Medium,Solid Contributor,Ready Now,Low,No,98,3.76,Yes,Yes,MGR0049,2022-01-25
+TM00741,EMP00272,2024,Q3,IT,L7,Exceeds,Low,Inconsistent Player,Ready in 1-2 Years,High,No,81,3.93,Yes,No,MGR0012,2021-01-17
+TM00742,EMP00620,2026,Mid-Year,Design,L5,Partially Meets,High,High Potential,Ready in 1-2 Years,Medium,Yes,80,4.91,No,Yes,MGR0029,2025-09-29
+TM00743,EMP00944,2025,Annual,Finance,L4,Does Not Meet,Low,Question Mark,Ready Now,Medium,No,67,1.51,No,No,MGR0004,2023-09-27
+TM00744,EMP00484,2021,Q3,Customer Success,L7,Partially Meets,Medium,Solid Contributor,Ready Now,High,No,83,4.71,No,Yes,MGR0035,2024-02-13
+TM00745,EMP00548,2023,Q3,Marketing,L2,Meets,High,Question Mark,Not Identified,High,Yes,97,4.58,No,Yes,MGR0027,2021-02-12
+TM00746,EMP00713,2021,Mid-Year,Engineering,L4,Partially Meets,Medium,Inconsistent Player,Ready in 3+ Years,Low,No,80,3.98,No,No,MGR0034,2024-06-13
+TM00747,EMP00672,2026,Q1,Marketing,L4,Partially Meets,High,Trusted Professional,Ready in 3+ Years,Low,Yes,77,3.13,No,No,MGR0003,2021-07-14
+TM00748,EMP00131,2026,Q1,Customer Success,L3,Meets,Medium,Question Mark,Ready Now,Medium,No,75,2.75,No,Yes,MGR0005,2020-03-06
+TM00749,EMP00854,2022,Annual,Operations,L5,Partially Meets,High,Question Mark,Ready in 1-2 Years,Medium,No,72,4.74,No,Yes,MGR0043,2023-11-17
+TM00750,EMP00254,2023,Mid-Year,Sales,L3,Meets,High,Star,Ready in 1-2 Years,High,No,82,1.31,Yes,No,MGR0039,2025-12-11
+TM00751,EMP00266,2022,Q3,Sales,L6,Meets,Medium,Inconsistent Player,Not Identified,Medium,No,90,1.18,Yes,Yes,MGR0020,2021-05-04
+TM00752,EMP00318,2022,Annual,Operations,L1,Meets,Low,Core Player,Ready Now,Medium,Yes,97,4.56,Yes,Yes,MGR0015,2022-09-17
+TM00753,EMP01172,2023,Mid-Year,Finance,L7,Exceeds,Medium,Question Mark,Ready in 1-2 Years,Medium,No,70,2.01,No,Yes,MGR0004,2025-04-20
+TM00754,EMP00003,2021,Annual,Data Science,L7,Exceeds,High,Inconsistent Player,Ready in 3+ Years,High,No,82,1.25,Yes,No,MGR0044,2021-03-13
+TM00755,EMP00507,2021,Q3,Operations,L5,Meets,Medium,Trusted Professional,Not Identified,Low,No,93,1.96,No,No,MGR0040,2024-06-14
+TM00756,EMP01105,2026,Q3,Data Science,L6,Does Not Meet,Low,Rough Diamond,Ready in 1-2 Years,Medium,No,83,4.36,No,No,MGR0012,2025-07-23
+TM00757,EMP00936,2025,Q1,Data Science,L2,Meets,Medium,Question Mark,Ready Now,Low,No,63,4.67,No,No,MGR0030,2026-05-28
+TM00758,EMP00450,2023,Mid-Year,Sales,L7,Exceeds,High,Solid Contributor,Ready in 1-2 Years,Low,Yes,53,2.76,Yes,Yes,MGR0019,2024-01-22
+TM00759,EMP00757,2023,Q3,Data Science,L7,Exceeds,Low,Solid Contributor,Not Identified,High,No,99,1.27,No,No,MGR0049,2025-06-07
+TM00760,EMP00647,2026,Annual,Sales,L6,Meets,Low,Trusted Professional,Ready in 1-2 Years,Medium,No,92,2.79,Yes,Yes,MGR0035,2024-01-17
+TM00761,EMP00683,2025,Q3,Operations,L3,Meets,High,Solid Contributor,Ready Now,Low,No,100,3.22,No,No,MGR0028,2023-01-08
+TM00762,EMP00803,2024,Q3,Customer Success,L6,Partially Meets,Low,High Potential,Not Identified,Medium,Yes,84,1.68,Yes,Yes,MGR0002,2020-03-10
+TM00763,EMP00545,2021,Annual,Legal,L7,Partially Meets,Low,Star,Ready in 3+ Years,High,No,86,1.57,Yes,No,MGR0004,2023-12-08
+TM00764,EMP00891,2025,Q3,Engineering,L7,Partially Meets,Medium,Star,Not Identified,Low,No,60,2.86,No,No,MGR0013,2024-11-20
+TM00765,EMP00023,2020,Mid-Year,HR,L1,Meets,Medium,Underperformer,Not Identified,High,No,78,2.55,No,No,MGR0035,2025-10-14
+TM00766,EMP00226,2021,Annual,Marketing,L5,Partially Meets,Low,Underperformer,Ready in 3+ Years,Medium,No,66,3.1,Yes,No,MGR0008,2022-09-13
+TM00767,EMP00420,2024,Q1,Operations,L3,Meets,Medium,Star,Ready in 3+ Years,Low,Yes,75,4.3,Yes,No,MGR0024,2021-04-11
+TM00768,EMP00115,2026,Annual,Product,L7,Does Not Meet,Medium,Solid Contributor,Not Identified,Medium,No,99,1.9,Yes,No,MGR0007,2026-03-16
+TM00769,EMP00004,2025,Mid-Year,Operations,L2,Meets,Low,Inconsistent Player,Ready in 3+ Years,Medium,No,82,1.24,Yes,No,MGR0013,2020-11-10
+TM00770,EMP01078,2020,Annual,IT,L5,Partially Meets,High,Inconsistent Player,Ready Now,Low,No,72,3.48,No,Yes,MGR0021,2020-12-15
+TM00771,EMP00188,2020,Mid-Year,Customer Success,L1,Exceeds,Medium,Core Player,Ready in 3+ Years,Low,No,50,1.5,Yes,No,MGR0043,2020-07-25
+TM00772,EMP00252,2026,Mid-Year,HR,L3,Does Not Meet,High,High Potential,Ready in 1-2 Years,Low,No,55,2.39,No,Yes,MGR0021,2023-02-11
+TM00773,EMP00692,2025,Mid-Year,Customer Success,L7,Meets,Medium,Trusted Professional,Ready in 3+ Years,Low,Yes,55,3.49,No,Yes,MGR0009,2021-01-17
+TM00774,EMP00449,2024,Q3,Customer Success,L4,Exceeds,Low,Core Player,Ready in 1-2 Years,Low,No,99,2.28,No,Yes,MGR0010,2021-04-25
+TM00775,EMP00017,2022,Mid-Year,Finance,L1,Does Not Meet,High,Solid Contributor,Ready in 3+ Years,Low,Yes,89,3.12,No,No,MGR0020,2026-07-07
+TM00776,EMP00423,2025,Q3,HR,L1,Does Not Meet,High,Star,Ready Now,Low,No,89,3.4,Yes,Yes,MGR0039,2022-08-16
+TM00777,EMP00532,2020,Annual,Data Science,L3,Exceeds,Medium,Inconsistent Player,Ready in 1-2 Years,High,No,79,4.25,No,Yes,MGR0002,2020-07-11
+TM00778,EMP00213,2023,Q1,Legal,L1,Does Not Meet,Low,Core Player,Ready in 3+ Years,Low,No,52,3.08,No,No,MGR0017,2020-07-21
+TM00779,EMP00499,2020,Q1,Operations,L7,Meets,Low,Inconsistent Player,Not Identified,Medium,Yes,88,1.04,No,Yes,MGR0046,2024-05-21
+TM00780,EMP00686,2022,Mid-Year,Customer Success,L3,Meets,High,High Potential,Not Identified,Medium,No,91,4.1,No,Yes,MGR0015,2024-05-10
+TM00781,EMP00854,2021,Q1,Operations,L5,Partially Meets,High,Rough Diamond,Ready in 1-2 Years,Low,No,71,4.17,Yes,No,MGR0045,2025-05-13
+TM00782,EMP00537,2026,Annual,Product,L4,Partially Meets,Medium,Star,Not Identified,Low,No,72,3.84,Yes,No,MGR0018,2025-02-19
+TM00783,EMP01180,2022,Annual,Product,L4,Meets,High,Question Mark,Ready in 1-2 Years,Medium,No,65,3.21,No,No,MGR0005,2023-03-09
+TM00784,EMP00116,2025,Q1,IT,L3,Does Not Meet,High,Solid Contributor,Ready Now,Low,Yes,85,2.84,Yes,Yes,MGR0006,2020-01-27
+TM00785,EMP00320,2024,Q1,Customer Success,L1,Meets,High,Trusted Professional,Ready in 1-2 Years,High,No,68,2.55,Yes,Yes,MGR0034,2025-03-05
+TM00786,EMP00402,2023,Q1,Product,L5,Partially Meets,High,Core Player,Ready in 3+ Years,High,No,65,3.48,Yes,No,MGR0038,2025-10-25
+TM00787,EMP00963,2022,Annual,Finance,L3,Partially Meets,Medium,Inconsistent Player,Ready Now,Low,No,61,4.78,No,Yes,MGR0049,2024-09-06
+TM00788,EMP01117,2021,Q3,Design,L2,Does Not Meet,Low,Star,Ready in 3+ Years,Medium,No,79,2.24,No,Yes,MGR0002,2022-02-06
+TM00789,EMP00696,2026,Annual,Engineering,L6,Meets,Low,Inconsistent Player,Not Identified,Low,No,52,1.24,No,No,MGR0009,2023-03-27
+TM00790,EMP00146,2024,Q3,Data Science,L5,Does Not Meet,High,Underperformer,Ready in 3+ Years,High,No,80,3.04,No,Yes,MGR0038,2024-01-13
+TM00791,EMP00758,2025,Annual,Design,L7,Does Not Meet,High,Trusted Professional,Ready Now,Low,No,71,4.88,Yes,No,MGR0050,2026-06-01
+TM00792,EMP00317,2024,Q3,IT,L1,Meets,Low,Solid Contributor,Ready in 1-2 Years,High,No,97,2.77,Yes,Yes,MGR0035,2023-12-18
+TM00793,EMP00219,2021,Annual,Operations,L4,Meets,Medium,Core Player,Ready Now,High,No,56,2.65,No,Yes,MGR0005,2026-03-04
+TM00794,EMP01175,2021,Mid-Year,Customer Success,L1,Partially Meets,Medium,Core Player,Ready in 3+ Years,Medium,No,63,1.59,No,Yes,MGR0041,2022-04-17
+TM00795,EMP01072,2025,Q1,Engineering,L4,Meets,Medium,Inconsistent Player,Ready in 1-2 Years,Low,No,60,4.85,No,No,MGR0007,2021-09-17
+TM00796,EMP00415,2022,Q3,Sales,L5,Does Not Meet,High,Trusted Professional,Ready in 3+ Years,Medium,No,58,1.81,Yes,No,MGR0008,2025-03-16
+TM00797,EMP00202,2025,Q1,Finance,L7,Does Not Meet,Medium,Trusted Professional,Not Identified,High,No,69,4.11,No,No,MGR0017,2021-10-08
+TM00798,EMP00020,2025,Q3,Sales,L3,Meets,Medium,Rough Diamond,Ready in 1-2 Years,High,Yes,84,1.61,Yes,Yes,MGR0008,2020-08-30
+TM00799,EMP00684,2020,Mid-Year,Finance,L6,Does Not Meet,Medium,Core Player,Ready Now,Low,Yes,76,1.87,No,No,MGR0031,2021-05-13
+TM00800,EMP01075,2022,Annual,Finance,L3,Partially Meets,Medium,Solid Contributor,Ready in 1-2 Years,Low,No,85,4.65,No,No,MGR0025,2025-08-25
+TM00801,EMP00160,2023,Mid-Year,Finance,L7,Meets,Medium,Solid Contributor,Not Identified,Medium,No,55,4.08,Yes,No,MGR0023,2025-05-17
+TM00802,EMP00756,2021,Annual,Data Science,L6,Meets,Medium,Inconsistent Player,Not Identified,High,No,67,4.63,No,Yes,MGR0014,2025-01-11
+TM00803,EMP00520,2026,Mid-Year,IT,L4,Does Not Meet,High,Rough Diamond,Ready Now,Medium,No,93,3.64,No,Yes,MGR0003,2020-11-06
+TM00804,EMP00760,2020,Q1,Product,L3,Partially Meets,Low,Star,Not Identified,Low,Yes,66,4.41,No,No,MGR0021,2024-12-15
+TM00805,EMP00200,2025,Annual,Data Science,L3,Does Not Meet,Medium,Inconsistent Player,Ready Now,Low,No,98,3.77,No,No,MGR0006,2020-05-06
+TM00806,EMP00547,2022,Q3,Customer Success,L3,Does Not Meet,Low,Question Mark,Ready in 3+ Years,Medium,No,98,4.36,Yes,Yes,MGR0048,2024-07-02
+TM00807,EMP01054,2024,Q3,Finance,L5,Meets,Low,Question Mark,Ready in 1-2 Years,High,No,96,4.26,Yes,Yes,MGR0037,2020-03-29
+TM00808,EMP00223,2024,Annual,Finance,L4,Partially Meets,High,Trusted Professional,Not Identified,Low,No,50,3.09,No,Yes,MGR0025,2023-09-29
+TM00809,EMP00462,2024,Mid-Year,Finance,L1,Meets,High,Inconsistent Player,Ready in 3+ Years,High,Yes,79,2.1,No,Yes,MGR0014,2022-01-03
+TM00810,EMP00531,2020,Mid-Year,Operations,L6,Meets,High,Trusted Professional,Ready in 3+ Years,High,Yes,93,3.86,No,No,MGR0045,2024-11-08
+TM00811,EMP00414,2024,Q3,Data Science,L5,Partially Meets,Medium,Core Player,Not Identified,Medium,No,99,3.79,Yes,No,MGR0010,2025-04-23
+TM00812,EMP00602,2025,Q3,Engineering,L3,Partially Meets,Medium,Solid Contributor,Ready Now,Low,No,90,2.76,No,Yes,MGR0024,2025-02-27
+TM00813,EMP01096,2025,Q3,Marketing,L5,Meets,High,Rough Diamond,Ready Now,High,No,51,3.39,Yes,Yes,MGR0038,2025-01-31
+TM00814,EMP00426,2026,Q1,Operations,L7,Meets,High,Underperformer,Not Identified,Low,Yes,97,1.55,Yes,Yes,MGR0041,2024-09-24
+TM00815,EMP00524,2026,Q3,Finance,L1,Partially Meets,High,Rough Diamond,Not Identified,Low,No,86,2.25,Yes,Yes,MGR0031,2022-12-21
+TM00816,EMP00182,2021,Annual,Design,L3,Meets,Medium,High Potential,Ready in 1-2 Years,Low,No,63,3.96,No,No,MGR0010,2023-01-29
+TM00817,EMP00200,2020,Q3,Sales,L7,Meets,Low,Rough Diamond,Ready Now,Medium,No,54,2.74,Yes,Yes,MGR0046,2024-10-06
+TM00818,EMP00149,2023,Q1,Legal,L4,Meets,Low,Rough Diamond,Ready Now,Low,No,54,1.03,No,Yes,MGR0008,2023-02-12
+TM00819,EMP00676,2023,Mid-Year,Legal,L5,Meets,High,Inconsistent Player,Ready in 1-2 Years,Medium,Yes,59,2.22,No,No,MGR0025,2025-03-01
+TM00820,EMP01019,2025,Mid-Year,Product,L5,Does Not Meet,Low,Star,Ready Now,Low,No,82,4.64,No,Yes,MGR0024,2025-08-04
+TM00821,EMP01130,2020,Mid-Year,Marketing,L2,Exceeds,High,Question Mark,Ready in 3+ Years,Low,No,93,1.66,Yes,Yes,MGR0010,2024-03-26
+TM00822,EMP00438,2023,Annual,Finance,L3,Meets,Low,Star,Ready in 3+ Years,High,No,82,3.37,Yes,No,MGR0031,2023-09-30
+TM00823,EMP00452,2026,Q1,Engineering,L7,Meets,Low,Rough Diamond,Not Identified,Low,Yes,68,4.44,Yes,Yes,MGR0045,2025-10-16
+TM00824,EMP00365,2021,Mid-Year,Legal,L4,Does Not Meet,High,Trusted Professional,Not Identified,Low,No,94,1.33,Yes,No,MGR0007,2025-12-11
+TM00825,EMP00906,2023,Q3,Finance,L4,Partially Meets,High,Star,Ready in 1-2 Years,Low,No,94,2.52,No,No,MGR0025,2024-12-21
+TM00826,EMP01114,2024,Q1,Operations,L1,Exceeds,Medium,Solid Contributor,Not Identified,Medium,No,58,2.46,No,No,MGR0008,2025-07-07
+TM00827,EMP01140,2021,Q3,Customer Success,L5,Does Not Meet,High,High Potential,Ready Now,High,No,56,2.95,No,Yes,MGR0008,2024-03-19
+TM00828,EMP00811,2026,Q1,Customer Success,L5,Partially Meets,Low,Star,Ready in 1-2 Years,Medium,No,64,2.12,Yes,No,MGR0043,2023-12-01
+TM00829,EMP00167,2025,Mid-Year,Legal,L2,Exceeds,Low,Solid Contributor,Not Identified,Low,No,74,1.02,Yes,No,MGR0031,2021-04-12
+TM00830,EMP00566,2020,Q3,Engineering,L6,Does Not Meet,Medium,Star,Ready Now,Low,No,50,4.45,No,Yes,MGR0019,2026-04-16
+TM00831,EMP01158,2022,Q3,Operations,L3,Meets,High,Rough Diamond,Not Identified,Low,No,66,3.79,No,No,MGR0030,2024-06-05
+TM00832,EMP00143,2024,Annual,Product,L7,Does Not Meet,Low,Question Mark,Ready in 3+ Years,High,No,67,4.72,Yes,Yes,MGR0049,2020-03-01
+TM00833,EMP00063,2022,Annual,Engineering,L5,Meets,Medium,Inconsistent Player,Ready in 3+ Years,Low,No,64,1.6,Yes,Yes,MGR0032,2025-11-22
+TM00834,EMP00530,2026,Annual,Operations,L1,Partially Meets,Medium,Core Player,Not Identified,Low,No,62,4.78,Yes,Yes,MGR0027,2025-11-13
+TM00835,EMP00412,2025,Q3,Design,L2,Exceeds,Low,Solid Contributor,Not Identified,Low,Yes,62,3.42,Yes,Yes,MGR0030,2023-01-30
+TM00836,EMP00904,2025,Q1,Sales,L3,Meets,High,Question Mark,Ready in 3+ Years,Low,No,83,1.26,No,No,MGR0023,2021-05-29
+TM00837,EMP00081,2024,Q3,Marketing,L1,Partially Meets,Medium,Rough Diamond,Ready in 3+ Years,Medium,Yes,78,1.12,Yes,Yes,MGR0035,2021-08-26
+TM00838,EMP01159,2022,Q3,Design,L7,Meets,Medium,Trusted Professional,Not Identified,Medium,Yes,82,4.46,Yes,Yes,MGR0041,2025-12-11
+TM00839,EMP00489,2026,Q3,Engineering,L2,Exceeds,Low,Rough Diamond,Ready in 1-2 Years,Low,No,53,4.73,No,Yes,MGR0047,2024-08-01
+TM00840,EMP00717,2026,Q3,Engineering,L4,Exceeds,Low,Underperformer,Ready Now,Low,No,61,1.19,Yes,No,MGR0033,2025-07-27
+TM00841,EMP00185,2026,Q1,Customer Success,L1,Meets,High,Star,Ready in 1-2 Years,Low,No,59,3.94,No,No,MGR0023,2025-10-12
+TM00842,EMP00074,2023,Mid-Year,HR,L5,Meets,Medium,Trusted Professional,Ready Now,Low,No,63,2.09,No,No,MGR0005,2024-09-29
+TM00843,EMP01073,2026,Q1,Product,L3,Meets,Low,Question Mark,Not Identified,Medium,No,62,1.25,Yes,Yes,MGR0036,2025-03-20
+TM00844,EMP00746,2026,Annual,Data Science,L2,Does Not Meet,Low,High Potential,Ready in 3+ Years,High,No,97,4.48,Yes,Yes,MGR0026,2022-02-02
+TM00845,EMP00381,2025,Q3,IT,L4,Partially Meets,Medium,Core Player,Ready Now,High,Yes,58,3.03,No,No,MGR0040,2025-02-07
+TM00846,EMP00127,2025,Q3,Data Science,L2,Exceeds,High,Trusted Professional,Ready in 1-2 Years,Low,Yes,97,3.13,Yes,No,MGR0014,2021-11-08
+TM00847,EMP01011,2024,Q1,Sales,L5,Partially Meets,Medium,High Potential,Ready in 3+ Years,Low,No,68,4.68,No,No,MGR0045,2025-07-22
+TM00848,EMP00960,2023,Q3,IT,L7,Does Not Meet,High,Inconsistent Player,Ready in 1-2 Years,Medium,No,85,1.46,No,Yes,MGR0002,2025-06-24
+TM00849,EMP00203,2026,Q1,Design,L6,Does Not Meet,Low,Rough Diamond,Ready in 1-2 Years,Low,No,55,3.35,Yes,Yes,MGR0003,2020-02-09
+TM00850,EMP01183,2024,Mid-Year,Legal,L7,Meets,Low,Underperformer,Ready in 3+ Years,Medium,No,74,2.68,No,No,MGR0013,2026-04-02
+TM00851,EMP00928,2026,Annual,Operations,L4,Does Not Meet,Low,Inconsistent Player,Not Identified,High,No,83,2.91,No,Yes,MGR0048,2025-01-10
+TM00852,EMP00955,2024,Mid-Year,IT,L2,Exceeds,Medium,Question Mark,Not Identified,Low,No,74,3.4,Yes,Yes,MGR0022,2021-05-22
+TM00853,EMP00374,2023,Annual,Finance,L3,Does Not Meet,High,High Potential,Ready in 3+ Years,Medium,No,83,1.16,Yes,Yes,MGR0010,2025-04-08
+TM00854,EMP00482,2022,Mid-Year,HR,L3,Does Not Meet,Medium,Solid Contributor,Ready Now,Medium,No,69,3.32,No,No,MGR0035,2023-11-02
+TM00855,EMP00362,2023,Q1,Legal,L3,Meets,Low,Star,Ready in 3+ Years,Medium,No,65,4.58,No,No,MGR0016,2025-07-29
+TM00856,EMP00308,2022,Q3,Finance,L7,Meets,High,High Potential,Ready Now,Medium,No,85,1.17,No,Yes,MGR0047,2023-05-21
+TM00857,EMP00210,2025,Q1,Finance,L2,Partially Meets,Low,High Potential,Not Identified,Medium,No,100,3.6,No,No,MGR0035,2022-10-07
+TM00858,EMP01103,2026,Q1,Marketing,L1,Meets,Low,Underperformer,Not Identified,Low,No,75,2.97,Yes,Yes,MGR0050,2022-02-15
+TM00859,EMP00577,2020,Annual,Sales,L7,Meets,High,High Potential,Ready Now,Low,No,83,3.06,Yes,No,MGR0011,2023-03-06
+TM00860,EMP01008,2026,Q3,Customer Success,L3,Meets,High,Underperformer,Ready Now,Low,No,85,3.95,Yes,No,MGR0047,2021-03-06
+TM00861,EMP00974,2022,Q1,Marketing,L5,Does Not Meet,Medium,Solid Contributor,Ready in 3+ Years,Low,No,59,1.64,Yes,Yes,MGR0020,2020-07-31
+TM00862,EMP00379,2026,Annual,Design,L5,Exceeds,Medium,High Potential,Not Identified,Low,No,98,1.54,Yes,No,MGR0012,2025-06-22
+TM00863,EMP01169,2023,Mid-Year,HR,L4,Meets,High,Core Player,Ready Now,Medium,Yes,65,3.27,Yes,Yes,MGR0026,2023-11-08
+TM00864,EMP00413,2023,Q1,Data Science,L7,Does Not Meet,Medium,Rough Diamond,Ready in 1-2 Years,Medium,Yes,61,1.38,No,No,MGR0009,2025-04-25
+TM00865,EMP01089,2024,Mid-Year,Data Science,L3,Partially Meets,Medium,Trusted Professional,Ready in 3+ Years,Medium,No,67,1.01,No,Yes,MGR0025,2022-09-19
+TM00866,EMP00044,2024,Mid-Year,Marketing,L4,Meets,High,Underperformer,Ready in 3+ Years,Low,No,63,1.21,No,Yes,MGR0045,2021-06-02
+TM00867,EMP00331,2022,Q3,IT,L4,Meets,Medium,Core Player,Ready Now,Low,No,55,1.67,No,No,MGR0035,2022-10-27
+TM00868,EMP00152,2024,Annual,Sales,L1,Meets,Low,Core Player,Not Identified,Low,No,77,3.47,Yes,Yes,MGR0050,2026-01-07
+TM00869,EMP00926,2025,Mid-Year,HR,L7,Meets,Low,Rough Diamond,Not Identified,High,No,83,1.02,Yes,Yes,MGR0016,2020-12-29
+TM00870,EMP01014,2020,Q3,Sales,L5,Exceeds,High,Rough Diamond,Ready in 1-2 Years,High,No,95,2.06,Yes,Yes,MGR0050,2021-02-14
+TM00871,EMP00089,2021,Mid-Year,Design,L5,Partially Meets,Low,Core Player,Not Identified,High,No,74,1.13,No,Yes,MGR0018,2026-06-01
+TM00872,EMP01074,2020,Q1,Design,L2,Meets,High,Core Player,Ready Now,Low,No,99,4.31,No,No,MGR0033,2025-12-20
+TM00873,EMP00158,2026,Annual,Legal,L2,Exceeds,High,Trusted Professional,Ready Now,Low,No,52,2.01,No,Yes,MGR0048,2022-03-11
+TM00874,EMP00682,2026,Annual,Customer Success,L6,Does Not Meet,High,Star,Ready in 1-2 Years,High,Yes,85,2.69,Yes,Yes,MGR0026,2024-08-20
+TM00875,EMP00791,2023,Q1,Design,L6,Exceeds,Low,Underperformer,Not Identified,Medium,No,70,4.83,No,Yes,MGR0034,2024-05-16
+TM00876,EMP00106,2024,Annual,Finance,L2,Does Not Meet,Low,Underperformer,Not Identified,Low,No,56,4.57,No,No,MGR0011,2020-12-24
+TM00877,EMP00664,2026,Q1,Operations,L5,Exceeds,Medium,Inconsistent Player,Ready Now,Medium,No,99,4.94,No,No,MGR0039,2025-06-28
+TM00878,EMP00319,2023,Q1,Legal,L6,Partially Meets,High,Core Player,Not Identified,Low,No,72,2.32,No,No,MGR0001,2026-05-18
+TM00879,EMP01034,2023,Annual,Product,L4,Meets,Low,Star,Ready in 1-2 Years,Low,No,52,4.67,Yes,Yes,MGR0033,2023-09-13
+TM00880,EMP01174,2022,Annual,Legal,L3,Meets,Low,Rough Diamond,Ready in 1-2 Years,High,No,90,1.46,No,Yes,MGR0013,2023-02-19
+TM00881,EMP00232,2024,Q3,Design,L1,Does Not Meet,Medium,Trusted Professional,Not Identified,High,No,93,1.07,No,Yes,MGR0020,2023-11-24
+TM00882,EMP01185,2025,Annual,Marketing,L2,Meets,High,Underperformer,Not Identified,Low,No,82,1.17,Yes,No,MGR0035,2025-02-13
+TM00883,EMP00553,2024,Annual,Marketing,L5,Does Not Meet,High,Star,Ready in 3+ Years,High,Yes,99,4.41,No,Yes,MGR0038,2025-10-08
+TM00884,EMP00806,2021,Q1,Customer Success,L3,Exceeds,Low,Question Mark,Ready Now,Medium,No,78,1.82,Yes,No,MGR0003,2022-03-20
+TM00885,EMP00022,2024,Mid-Year,Customer Success,L4,Meets,High,Trusted Professional,Ready in 3+ Years,Low,No,75,2.68,No,No,MGR0048,2026-03-26
+TM00886,EMP00122,2021,Q3,HR,L7,Partially Meets,Low,Underperformer,Ready Now,High,Yes,91,4.47,Yes,No,MGR0036,2021-07-19
+TM00887,EMP01130,2025,Q1,Sales,L4,Meets,Low,Core Player,Ready Now,Low,No,89,4.0,Yes,Yes,MGR0037,2023-12-29
+TM00888,EMP00503,2025,Mid-Year,Engineering,L7,Does Not Meet,Medium,Trusted Professional,Ready in 1-2 Years,Low,No,78,3.77,No,Yes,MGR0023,2025-03-15
+TM00889,EMP01164,2024,Q1,Marketing,L5,Exceeds,High,Star,Not Identified,Low,No,89,2.19,No,No,MGR0020,2021-05-13
+TM00890,EMP00640,2022,Annual,Customer Success,L4,Meets,Medium,Underperformer,Ready Now,Low,No,68,4.64,No,No,MGR0038,2021-04-09
+TM00891,EMP00028,2021,Annual,HR,L3,Does Not Meet,High,Star,Ready in 1-2 Years,Low,No,63,1.79,Yes,Yes,MGR0033,2021-12-28
+TM00892,EMP00376,2024,Q3,Data Science,L2,Meets,High,Question Mark,Ready Now,High,No,65,4.05,Yes,No,MGR0035,2020-08-26
+TM00893,EMP00740,2024,Q3,Operations,L5,Partially Meets,Low,High Potential,Ready in 3+ Years,Low,No,62,1.84,Yes,No,MGR0018,2023-06-04
+TM00894,EMP01097,2024,Q3,Sales,L1,Meets,High,Rough Diamond,Ready Now,Low,No,95,1.76,Yes,Yes,MGR0040,2025-01-10
+TM00895,EMP00957,2022,Annual,Finance,L7,Meets,Low,Inconsistent Player,Ready Now,Low,No,50,2.06,Yes,Yes,MGR0022,2020-01-23
+TM00896,EMP00437,2026,Q3,Customer Success,L5,Meets,High,Core Player,Ready Now,Low,Yes,76,2.12,No,No,MGR0033,2022-10-20
+TM00897,EMP00505,2022,Q3,Data Science,L4,Meets,High,Core Player,Not Identified,Medium,Yes,82,1.99,Yes,No,MGR0003,2020-11-29
+TM00898,EMP01100,2023,Q1,Operations,L7,Meets,Medium,Core Player,Not Identified,Low,No,83,2.35,No,No,MGR0030,2025-09-11
+TM00899,EMP00824,2023,Q1,Engineering,L2,Meets,Medium,Trusted Professional,Ready Now,Low,No,62,1.65,No,No,MGR0023,2021-07-22
+TM00900,EMP00639,2026,Q3,Legal,L5,Partially Meets,High,Question Mark,Ready in 1-2 Years,Medium,Yes,60,2.21,No,Yes,MGR0011,2025-05-19
+TM00901,EMP01006,2026,Annual,Design,L2,Meets,High,High Potential,Ready in 3+ Years,High,No,86,3.15,No,Yes,MGR0034,2022-06-22
+TM00902,EMP01143,2023,Q3,Data Science,L1,Meets,Low,Core Player,Not Identified,Low,Yes,55,2.46,No,Yes,MGR0001,2024-05-17
+TM00903,EMP00209,2024,Q1,Data Science,L2,Meets,Low,High Potential,Not Identified,Low,Yes,70,4.37,No,No,MGR0034,2020-10-15
+TM00904,EMP00278,2020,Annual,Data Science,L4,Meets,Low,Underperformer,Ready in 1-2 Years,High,No,75,1.6,Yes,No,MGR0022,2026-04-26
+TM00905,EMP00911,2026,Q3,Legal,L7,Partially Meets,Medium,Star,Ready Now,Low,No,51,1.84,Yes,Yes,MGR0022,2021-02-22
+TM00906,EMP00759,2026,Q3,Marketing,L6,Does Not Meet,High,Trusted Professional,Ready in 3+ Years,Low,Yes,59,1.46,No,No,MGR0024,2026-01-16
+TM00907,EMP00625,2024,Q3,Customer Success,L1,Meets,Low,Trusted Professional,Not Identified,Low,Yes,88,4.16,Yes,Yes,MGR0025,2020-07-27
+TM00908,EMP00355,2020,Q3,Product,L4,Partially Meets,Low,Solid Contributor,Not Identified,High,No,71,3.41,Yes,Yes,MGR0044,2026-06-29
+TM00909,EMP00783,2020,Q3,Product,L5,Does Not Meet,Medium,Question Mark,Ready in 3+ Years,Low,Yes,92,4.46,No,Yes,MGR0015,2020-04-23
+TM00910,EMP00415,2023,Q3,HR,L7,Meets,Low,Core Player,Ready Now,Low,No,63,4.45,Yes,Yes,MGR0015,2020-09-07
+TM00911,EMP00500,2022,Q3,Finance,L2,Meets,Medium,Question Mark,Ready in 1-2 Years,Low,No,69,3.81,No,Yes,MGR0038,2020-09-14
+TM00912,EMP00555,2020,Annual,Engineering,L3,Does Not Meet,Low,Star,Not Identified,Low,No,83,3.0,Yes,Yes,MGR0030,2025-11-14
+TM00913,EMP00476,2023,Q3,Marketing,L5,Meets,Medium,Star,Ready in 3+ Years,Medium,No,96,3.72,Yes,No,MGR0023,2024-09-27
+TM00914,EMP01195,2026,Annual,Finance,L2,Exceeds,High,Question Mark,Ready Now,Low,No,83,3.87,No,No,MGR0029,2022-01-14
+TM00915,EMP01179,2022,Annual,Customer Success,L4,Meets,Medium,Core Player,Ready in 3+ Years,High,No,99,2.31,No,Yes,MGR0026,2023-08-06
+TM00916,EMP00043,2022,Mid-Year,Marketing,L3,Does Not Meet,Low,Solid Contributor,Ready in 3+ Years,Low,No,54,1.65,Yes,No,MGR0040,2020-04-22
+TM00917,EMP00432,2022,Q3,Product,L2,Does Not Meet,Medium,Trusted Professional,Ready in 1-2 Years,Low,Yes,61,4.41,No,Yes,MGR0034,2025-12-06
+TM00918,EMP00600,2022,Q3,HR,L1,Partially Meets,High,Core Player,Ready Now,Medium,No,96,3.8,Yes,No,MGR0022,2022-09-20
+TM00919,EMP00449,2024,Q3,HR,L6,Meets,Medium,Core Player,Not Identified,Medium,Yes,72,1.16,No,No,MGR0029,2025-01-16
+TM00920,EMP00560,2023,Q3,Design,L4,Meets,Medium,Core Player,Ready in 1-2 Years,High,No,94,2.13,Yes,Yes,MGR0047,2026-02-15
+TM00921,EMP00813,2022,Mid-Year,Product,L2,Meets,Low,Solid Contributor,Ready in 3+ Years,High,No,78,4.56,Yes,Yes,MGR0016,2022-01-18
+TM00922,EMP00761,2026,Q1,IT,L5,Meets,High,Trusted Professional,Not Identified,Low,No,52,1.47,Yes,Yes,MGR0041,2023-12-02
+TM00923,EMP00623,2021,Q3,Operations,L6,Does Not Meet,High,Underperformer,Ready in 1-2 Years,Medium,No,76,4.59,Yes,No,MGR0028,2023-05-28
+TM00924,EMP00719,2020,Q1,Data Science,L2,Meets,Medium,Star,Ready in 3+ Years,Low,No,56,1.76,Yes,No,MGR0015,2025-10-14
+TM00925,EMP00780,2020,Annual,HR,L3,Does Not Meet,Low,Trusted Professional,Ready in 3+ Years,Low,No,79,3.64,No,Yes,MGR0011,2024-08-01
+TM00926,EMP00720,2025,Annual,Engineering,L1,Exceeds,High,Trusted Professional,Ready Now,Low,Yes,73,1.68,No,Yes,MGR0047,2025-02-01
+TM00927,EMP01096,2021,Annual,Engineering,L4,Does Not Meet,High,Star,Not Identified,Low,Yes,85,4.98,No,No,MGR0027,2020-06-27
+TM00928,EMP00563,2023,Mid-Year,Product,L2,Does Not Meet,High,Star,Ready Now,Medium,Yes,76,1.86,No,Yes,MGR0028,2022-09-23
+TM00929,EMP00317,2021,Mid-Year,Product,L7,Meets,Low,High Potential,Ready Now,Low,No,94,2.87,Yes,Yes,MGR0049,2020-07-29
+TM00930,EMP00054,2026,Annual,Design,L6,Does Not Meet,High,High Potential,Ready in 3+ Years,Low,Yes,59,1.33,Yes,Yes,MGR0033,2023-12-28
+TM00931,EMP00461,2024,Mid-Year,HR,L3,Partially Meets,High,High Potential,Not Identified,Low,No,66,1.04,Yes,Yes,MGR0031,2022-10-15
+TM00932,EMP00347,2022,Annual,Finance,L6,Meets,Medium,Inconsistent Player,Ready in 1-2 Years,Medium,No,75,2.9,Yes,No,MGR0028,2023-02-17
+TM00933,EMP01060,2020,Q1,Legal,L1,Meets,High,Question Mark,Ready in 3+ Years,High,No,81,4.31,No,Yes,MGR0002,2021-10-26
+TM00934,EMP00294,2023,Q1,Design,L4,Does Not Meet,Low,Trusted Professional,Not Identified,Low,No,84,1.48,Yes,No,MGR0018,2020-05-31
+TM00935,EMP00258,2022,Mid-Year,Design,L5,Does Not Meet,Medium,Rough Diamond,Ready in 3+ Years,Medium,No,91,2.89,No,Yes,MGR0004,2020-07-22
+TM00936,EMP00337,2025,Q3,Marketing,L4,Meets,Medium,Inconsistent Player,Ready Now,Medium,Yes,98,1.79,Yes,Yes,MGR0036,2025-01-02
+TM00937,EMP00123,2023,Mid-Year,Product,L3,Partially Meets,Low,High Potential,Ready in 1-2 Years,Medium,No,70,2.08,No,Yes,MGR0040,2024-04-02
+TM00938,EMP00401,2026,Mid-Year,Legal,L4,Does Not Meet,High,Solid Contributor,Not Identified,Low,No,62,1.01,No,Yes,MGR0021,2024-07-07
+TM00939,EMP00530,2026,Q1,IT,L4,Partially Meets,Low,Question Mark,Ready in 3+ Years,Low,Yes,96,4.39,No,No,MGR0048,2026-04-15
+TM00940,EMP01173,2025,Q1,Customer Success,L3,Partially Meets,Medium,Trusted Professional,Ready in 1-2 Years,High,Yes,85,1.33,No,Yes,MGR0043,2024-05-05
+TM00941,EMP00602,2020,Mid-Year,HR,L6,Meets,Low,Rough Diamond,Ready in 1-2 Years,Low,No,93,3.57,No,No,MGR0021,2024-04-03
+TM00942,EMP00613,2026,Q1,Product,L2,Meets,Low,Core Player,Not Identified,High,No,89,4.36,Yes,No,MGR0009,2021-01-05
+TM00943,EMP00917,2020,Q3,IT,L4,Partially Meets,Low,Core Player,Not Identified,Low,No,96,4.5,Yes,Yes,MGR0020,2024-04-22
+TM00944,EMP00190,2021,Q1,Product,L7,Does Not Meet,Medium,Rough Diamond,Ready Now,Low,Yes,94,1.62,Yes,No,MGR0022,2026-02-25
+TM00945,EMP00646,2023,Mid-Year,Engineering,L2,Meets,Low,Core Player,Ready Now,Low,No,74,1.6,Yes,No,MGR0016,2020-09-15
+TM00946,EMP00667,2025,Q3,IT,L1,Meets,Low,Inconsistent Player,Not Identified,Medium,No,76,3.73,No,No,MGR0034,2026-04-03
+TM00947,EMP00112,2020,Annual,Product,L1,Partially Meets,Low,High Potential,Ready Now,High,No,76,2.09,No,Yes,MGR0026,2021-03-07
+TM00948,EMP00732,2021,Q1,Product,L6,Meets,High,Solid Contributor,Ready Now,Medium,No,92,4.33,No,No,MGR0007,2025-04-02
+TM00949,EMP00280,2025,Mid-Year,Customer Success,L4,Meets,Medium,High Potential,Ready Now,High,No,75,2.87,Yes,Yes,MGR0042,2022-09-20
+TM00950,EMP00613,2025,Mid-Year,Engineering,L3,Exceeds,Medium,Question Mark,Ready in 1-2 Years,High,No,62,4.48,Yes,Yes,MGR0036,2026-04-23
+TM00951,EMP00664,2025,Q3,Customer Success,L4,Does Not Meet,Medium,Star,Ready in 3+ Years,High,No,80,2.01,Yes,No,MGR0014,2024-05-30
+TM00952,EMP00156,2022,Q3,Legal,L6,Does Not Meet,High,High Potential,Not Identified,Medium,Yes,90,4.5,No,Yes,MGR0048,2021-08-28
+TM00953,EMP00919,2020,Q3,HR,L3,Does Not Meet,Medium,Rough Diamond,Not Identified,Low,No,91,3.27,Yes,Yes,MGR0046,2022-09-08
+TM00954,EMP00526,2024,Mid-Year,Product,L3,Partially Meets,Low,High Potential,Not Identified,High,No,73,1.76,Yes,No,MGR0026,2025-05-10
+TM00955,EMP00116,2022,Mid-Year,Finance,L7,Meets,Low,Question Mark,Not Identified,Low,Yes,90,1.43,No,No,MGR0006,2023-11-26
+TM00956,EMP00311,2021,Annual,Marketing,L7,Meets,Low,High Potential,Ready Now,Medium,No,52,1.51,No,Yes,MGR0047,2024-07-26
+TM00957,EMP00984,2022,Mid-Year,Marketing,L4,Meets,Medium,Underperformer,Ready in 3+ Years,Medium,Yes,70,4.54,Yes,Yes,MGR0037,2024-01-03
+TM00958,EMP00077,2026,Annual,Sales,L4,Does Not Meet,Medium,Trusted Professional,Ready in 3+ Years,High,No,72,4.31,No,No,MGR0040,2022-05-30
+TM00959,EMP00287,2026,Q1,Design,L5,Partially Meets,Medium,Trusted Professional,Ready Now,High,Yes,71,4.63,Yes,Yes,MGR0018,2020-11-14
+TM00960,EMP00946,2023,Annual,Data Science,L1,Meets,High,Trusted Professional,Ready in 1-2 Years,High,No,68,2.61,No,No,MGR0009,2022-05-17
+TM00961,EMP00184,2020,Annual,Product,L7,Does Not Meet,Low,High Potential,Ready Now,Low,No,52,2.4,No,No,MGR0047,2021-01-07
+TM00962,EMP00962,2022,Mid-Year,HR,L2,Meets,Medium,Underperformer,Not Identified,Medium,No,87,2.22,Yes,Yes,MGR0010,2021-08-27
+TM00963,EMP01096,2025,Q1,Operations,L2,Does Not Meet,Medium,Inconsistent Player,Ready in 1-2 Years,Low,No,96,1.72,No,No,MGR0004,2025-10-01
+TM00964,EMP00373,2026,Q3,IT,L1,Does Not Meet,Medium,Inconsistent Player,Ready in 1-2 Years,Medium,Yes,95,2.5,No,No,MGR0004,2025-04-24
+TM00965,EMP01149,2021,Q3,Design,L3,Meets,Low,Core Player,Ready in 1-2 Years,Low,No,75,3.83,No,Yes,MGR0009,2025-01-08
+TM00966,EMP01163,2023,Q1,HR,L6,Meets,Low,Rough Diamond,Not Identified,High,Yes,53,4.89,No,No,MGR0044,2025-10-29
+TM00967,EMP00342,2024,Q3,Design,L4,Does Not Meet,Low,Solid Contributor,Ready Now,Low,No,83,4.56,No,Yes,MGR0009,2025-11-25
+TM00968,EMP00948,2022,Q1,Engineering,L7,Meets,Medium,Underperformer,Ready Now,Medium,No,85,2.1,Yes,No,MGR0009,2025-03-26
+TM00969,EMP00666,2022,Q1,Finance,L3,Partially Meets,Low,High Potential,Not Identified,High,No,97,2.61,Yes,Yes,MGR0043,2026-03-17
+TM00970,EMP00206,2025,Q1,Customer Success,L7,Does Not Meet,Medium,Inconsistent Player,Ready in 1-2 Years,Medium,No,78,3.75,No,No,MGR0002,2021-01-04
+TM00971,EMP00269,2022,Q3,HR,L1,Does Not Meet,High,Star,Ready Now,High,No,94,3.19,Yes,Yes,MGR0050,2023-11-14
+TM00972,EMP00559,2020,Mid-Year,Legal,L6,Exceeds,High,Core Player,Ready Now,Medium,Yes,58,3.11,No,Yes,MGR0039,2025-01-27
+TM00973,EMP00577,2026,Q3,Finance,L4,Meets,High,Rough Diamond,Not Identified,Low,Yes,81,2.54,No,Yes,MGR0041,2023-05-28
+TM00974,EMP01047,2023,Mid-Year,Finance,L3,Meets,Medium,Question Mark,Not Identified,High,No,52,3.53,Yes,No,MGR0020,2020-12-24
+TM00975,EMP00906,2020,Mid-Year,IT,L5,Does Not Meet,Low,Solid Contributor,Ready Now,High,Yes,81,3.85,Yes,Yes,MGR0022,2020-01-19
+TM00976,EMP01053,2023,Mid-Year,Sales,L3,Meets,Low,Star,Ready in 1-2 Years,Medium,Yes,73,1.54,No,Yes,MGR0044,2025-08-17
+TM00977,EMP00403,2026,Mid-Year,Marketing,L1,Does Not Meet,Low,Core Player,Ready in 1-2 Years,Low,No,88,3.38,Yes,Yes,MGR0001,2023-08-19
+TM00978,EMP00191,2021,Q1,Engineering,L7,Exceeds,Low,Solid Contributor,Ready in 1-2 Years,Medium,No,95,2.04,No,No,MGR0041,2021-01-31
+TM00979,EMP00749,2021,Q3,Customer Success,L7,Does Not Meet,High,Trusted Professional,Ready in 1-2 Years,Low,Yes,70,2.05,Yes,Yes,MGR0038,2026-06-09
+TM00980,EMP00854,2024,Annual,Design,L3,Does Not Meet,Low,Core Player,Ready Now,Low,Yes,91,1.07,No,Yes,MGR0037,2020-11-22
+TM00981,EMP00918,2020,Q3,Finance,L6,Meets,High,Question Mark,Not Identified,Medium,Yes,79,3.7,Yes,Yes,MGR0019,2025-03-21
+TM00982,EMP00750,2020,Q1,Legal,L6,Meets,Low,High Potential,Ready Now,Medium,No,67,2.69,Yes,No,MGR0038,2024-01-27
+TM00983,EMP00296,2025,Q1,Marketing,L6,Does Not Meet,High,Question Mark,Ready in 1-2 Years,High,Yes,68,1.61,No,No,MGR0015,2024-02-23
+TM00984,EMP01169,2020,Mid-Year,Design,L4,Does Not Meet,High,Solid Contributor,Not Identified,Medium,No,67,2.0,No,No,MGR0015,2021-12-22
+TM00985,EMP00376,2023,Q1,Operations,L7,Does Not Meet,High,Star,Ready in 3+ Years,High,No,89,3.65,No,No,MGR0034,2022-02-09
+TM00986,EMP00309,2022,Q3,Marketing,L3,Does Not Meet,High,Underperformer,Not Identified,Low,No,51,4.04,Yes,No,MGR0037,2023-07-19
+TM00987,EMP00525,2023,Annual,Sales,L7,Partially Meets,Medium,Question Mark,Ready in 1-2 Years,Medium,No,50,1.32,No,Yes,MGR0022,2024-10-08
+TM00988,EMP00135,2025,Annual,Operations,L7,Exceeds,Medium,Solid Contributor,Ready in 3+ Years,Low,No,55,3.6,Yes,No,MGR0042,2024-02-06
+TM00989,EMP00927,2023,Q3,Marketing,L4,Does Not Meet,High,Core Player,Ready Now,Low,No,99,1.66,No,Yes,MGR0024,2025-08-12
+TM00990,EMP00899,2024,Q3,HR,L1,Partially Meets,High,Core Player,Ready in 1-2 Years,High,No,97,3.23,No,Yes,MGR0016,2022-02-10
+TM00991,EMP00275,2021,Annual,Legal,L3,Does Not Meet,Medium,Trusted Professional,Not Identified,Low,Yes,81,1.15,Yes,Yes,MGR0004,2022-10-15
+TM00992,EMP00193,2025,Q1,Legal,L1,Exceeds,High,Underperformer,Not Identified,Medium,No,68,1.25,Yes,Yes,MGR0049,2025-06-01
+TM00993,EMP01173,2023,Mid-Year,Engineering,L7,Meets,High,Star,Ready in 3+ Years,High,No,98,3.14,No,No,MGR0049,2022-09-19
+TM00994,EMP00234,2020,Q3,Design,L4,Meets,High,High Potential,Not Identified,Medium,Yes,68,1.74,Yes,Yes,MGR0041,2026-07-19
+TM00995,EMP00528,2025,Q1,Marketing,L5,Meets,High,Underperformer,Ready in 1-2 Years,Low,Yes,52,4.12,Yes,No,MGR0002,2021-08-31
+TM00996,EMP00642,2021,Q3,Engineering,L6,Partially Meets,Medium,Underperformer,Ready in 3+ Years,Medium,Yes,56,1.89,Yes,No,MGR0016,2025-05-24
+TM00997,EMP00983,2022,Annual,Data Science,L6,Exceeds,Low,Question Mark,Ready in 1-2 Years,Medium,No,58,1.7,No,Yes,MGR0015,2024-12-12
+TM00998,EMP00012,2023,Mid-Year,HR,L1,Meets,High,Question Mark,Not Identified,Medium,No,81,1.78,No,No,MGR0045,2020-02-04
+TM00999,EMP00581,2023,Q1,Marketing,L6,Partially Meets,Medium,Question Mark,Ready in 1-2 Years,Low,Yes,89,3.4,No,No,MGR0016,2022-04-02
+TM01000,EMP00883,2023,Annual,Legal,L2,Meets,Low,Inconsistent Player,Not Identified,Low,No,68,2.27,No,No,MGR0008,2025-03-26
